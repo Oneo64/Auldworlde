@@ -152,9 +152,9 @@ Calming Salve (basic)
 
 Concealment Potion (powerful)
 	Appearance:  The potion is a clear liquid that warps and distorts what's seen behind it as if it's glass.
-	Usage:       Drink.
-	Effect:      Makes you almost invisible, as if your body has been turned into hot gas.
-	Downside:    Your clothes and equipment aren't turned invisible.
+	Usage:       Drink, or pour on object.
+	Effect:      Makes you (or the thing it's being poured on) almost invisible, as if your body has been turned into hot gas.
+	Downside:    If you drink it, only your body turns invisible. That means your clothes and equipment aren't turned invisible.
 	
 	Ingredients: A whole oyster shell that's been grounded into powder, a few pinches of glass powder, a few pinches of quartz powder, a pinch of moonstone powder, and a few drops of anyone's tears.
 	Brewing:     It must be boiled while exposed to sunlight or moonlight. If it's left in the shadows, it's boiling progress starts to reverse.
