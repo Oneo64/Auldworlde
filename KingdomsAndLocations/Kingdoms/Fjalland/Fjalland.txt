@@ -12,7 +12,7 @@ Ruler: King Alfþorin II
 
 Important villages, (200 settlements, average 250 people each village):
 	Argánlaf (300 people, under Kjartkjofn)
-	Básrynga (200 people)
+	Básrínga (200 people)
 	Elkvein (50 people, under Ynfrünar)
 	Lismerlaf (300 people, under Dúagrynga)
 
@@ -20,27 +20,27 @@ Cities:
 	Þuryngard (2000 people, including 20 guards patrolling the walls, 20 patrolling the town, 10 lookouts, and 10 king's guards)
 
 Towns in Þuryngard:
-	Þalmundrynga (800 people)
+	Þalmundrínga (800 people)
 	Kasgjenðil (700 people)
-	Vilsnagur (500 people)
+	Vilsnagr (500 people)
 
 Important castles/Fortresses (about 10 in total, 10 guards and 15 servants in each fortress other than Þuryngard):
 	Þuryngard (Capital), also known as Þuryngard Ring Fortress
-	Ynfrünar
+	Ynfrúnar
 	Kjartkjofn
-	Dúagrynga
+	Dúagrínga
 
 
 
 [[ÞURYNGARD RING FORTRESS]]
-This castle is a large ring fortress made of stone, built on the top of a hill and surrounded by a boreal forest. The castle contains a city made of three towns: Þalmundrynga, Kasgjenðil, and Vilsnagur. The outer wall has a diameter of about 500 meters (~20 hectares). The inner wall is built on higher terrain, which is elevated up about 6 meters.
+This castle is a large ring fortress made of stone, built on the top of a hill and surrounded by a boreal forest. The castle contains a city made of three towns: Þalmundrínga, Kasgjenðil, and Vilsnagr. The outer wall has a diameter of about 500 meters (~20 hectares). The inner wall is built on higher terrain, which is elevated up about 6 meters.
 The inner wall is approximately 100 meters. There are three buildings inside, where the king's house is built to the back, it's side facing the main gate while two smaller ones are built on the side. They are made of stone instead of wood.
 
 The outer wall wall is much farther from the ring fortress, which fits three towns (or districts). The houses in these districts are made taller and larger, unlike the village houses. These houses did not require additional support beams that were on an angle. The outer walls are about 6 meters high.
 
 In the inner ring, there is a large longhouse built with mostly stone, except for the roof and the top triangle wall part of the roof. The ring of the castle is generally reserved for only the king, his family, guards, and nobles).
 
-Þalmundrynga is the town of trade. Everyday, there are markets and stalls set up on the streets where merchants sell things like common food and items. Kasgjenðil and Vilsnagur are mostly for living, but Vilsnagur is a little poorer than Kasgjenðil. The houses in Vilsnagur are somewhat smaller than the ones in Kasgjenðil, and their tarf roofs are thinner.
+Þalmundrínga is the town of trade. Everyday, there are markets and stalls set up on the streets where merchants sell things like common food and items. Kasgjenðil and Vilsnagr are mostly for living, but Vilsnagr is a little poorer than Kasgjenðil. The houses in Vilsnagr are somewhat smaller than the ones in Kasgjenðil, and their tarf roofs are thinner.
 
 There are 10 guards patrolling the outer ring, 10 guards patrolling the towns, and 10 king's guards. The king's guards mainly patrol the inner ring. Two guards are also stationed just outside the inner ring's gate, and another two are stationed just inside at the outer ring's gate.
 
