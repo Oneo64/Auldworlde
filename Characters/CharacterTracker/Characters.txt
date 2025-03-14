@@ -5,6 +5,7 @@ Humans:
 	Algord
 	Baulnir
 	Brandingi the Earless
+	Dagnir
 	Eifnod Halkjof
 	Ennu
 	Flokr
@@ -62,4 +63,5 @@ Trolls:
 	Vriitiwaz
 
 Demi-Humans:
+	Parusyatis
 	Yelestina
