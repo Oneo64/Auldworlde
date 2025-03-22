@@ -104,11 +104,9 @@ Powerful:
 
 
 ====================================================================================================
-
-
-
 [[POTIONS AND CONCOCTIONS]]
 ====================================================================================================
+
 Bastard's Poison (basic)
 	Appearance:  The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
 	Usage:       Drink.
