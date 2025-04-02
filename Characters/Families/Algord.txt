@@ -27,7 +27,7 @@ Legend:
                                                                                                                                                              +-Lalfrel [F, 28 July 941]   +>>+-Svan [M, 18 June 968]
 Haldigr I [810 ~ 860]-+>>>>+-Haldigr II [830 ~ 880]>>+-Júlfr [M, 863 - 883]-----------+                                    +-Anru [F, 14 November 919]>>     |                            |
                                                                                       |                                    |                                 +-Gorðr [M, 26 May 942]------+
-                                                       Ljora [F, 866 - 936]-----------+  +-Iðun [F, 893 - 883]             +-Fraldr [M, 4 March 917]------+>>|
+                                                       Ljora [F, 866 - 936]-----------+  +-Iðunn [F, 893 - 883]            +-Fraldr [M, 4 March 917]------+>>|
                                                                                       |  |                                 |                              |  +-Ærynd [F, 13 August 943]
                                                                                       +>>+-Haldigr III [M, 894 - 970]---+  | Ynúdis [917 - 963]-----------+
                                                                                                                         |  |
@@ -43,8 +43,8 @@ Haldigr I [810 ~ 860]-+>>>>+-Haldigr II [830 ~ 880]>>+-Júlfr [M, 863 - 883]----
 
 
 Notes:
-    Haldigr I:    Unknown cause of death traveling from Centruma to Tarib. Said to be killed by daevas.
-    Júlfr & Iðun: Slain during the Invasion of Bravosh.
+    Haldigr I:     Unknown cause of death traveling from Centruma to Tarib. Said to be killed by daevas.
+    Júlfr & Iðunn: Slain during the Invasion of Bravosh.
 
     Anru is married to Lungeif.
-    Ljora is related to Flokr's family.
+    Ljora is related to Gódir's family.

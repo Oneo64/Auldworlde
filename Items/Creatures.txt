@@ -7,6 +7,7 @@ Creature Habitats (if an animal isn't present here, then they will follow their 
 	Snowy Mountains:					Frost Dragon, Ice Elemental
 
 	All Forests:						Centaur (they are more prominent in some forests), Gvarth (rare), Satyr
+	Elûniel:							Frost Dragon, Ice Elemental
 	Jungles:							Daeva, Manticore
 	Centrumic Forests:					Great Leafbug
 	Dwarven Forests:					Great Leafbug
