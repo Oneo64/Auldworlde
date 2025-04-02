@@ -12,13 +12,13 @@ Settlements/empires/kingdoms:
 
 		Zarapib (Borian - Old Taribian)							(650 BCE - 450 BCE)									(Borian: 650 BCE to 500 BCE, Old Taribian: 500 BCE to 450 BCE)
 
-		Grutorus (Old Taribian - Grutorian)						(490 BCE - 0 AD, became Grutorus and Cantrium)		(Old Taribian: 490 BCE to 220 BCE, Grutorian: 220 BCE to 0 AD)
-		Galabrus (Grutorian - Galabric)							(0 AD - 350 AD)										(Grutorian: 0 AD to 170 AD, Galabric: 170 AD to 350 AD)
-		Cantrium (Old Cantrium)									(0 AD - 410 AD, became Centruma)					(Old Cantrium)
+		Grutorus (Old Taribian - Grutorian)						(490 BCE - AD 0, became Grutorus and Cantrium)		(Old Taribian: 490 BCE to 220 BCE, Grutorian: 220 BCE to AD 0)
+		Galabrus (Grutorian - Galabric)							(AD 0 - AD 350)										(Grutorian: AD 0 to AD 170, Galabric: AD 170 to AD 350)
+		Cantrium (Old Cantrium)									(AD 0 - AD 410, became Centruma)					(Old Cantrium)
 
-		Tarib (Old Taribian - Taribian)							(450 BCE - Present day)								(Old Taribian: 450 BCE to 670 AD, Taribian: 670 AD to Present)
-		Centruma (Old Cantrium - Centrumic)						(410 AD - Present day)								(Old Cantrium: 410 AD to 720 AD, Centrumic: 720 AD to Present)
-		Fjalland (Galabric - Primal Fjallandic - Fjallandic)	(780 AD - Present day)	(Galabric: 640 AD to 710 AD, Primal Fjallandic: 710 AD to 810 AD, Fjallandic: 810 AD to Present)
+		Tarib (Old Taribian - Taribian)							(450 BCE - Present day)								(Old Taribian: 450 BCE to AD 670, Taribian: AD 670 to Present)
+		Centruma (Old Cantrium - Centrumic)						(AD 410 - Present day)								(Old Cantrium: AD 410 to AD 720, Centrumic: AD 720 to Present)
+		Fjalland (Galabric - Primal Fjallandic - Fjallandic)	(AD 780 - Present day)	(Galabric: AD 640 to AD 710, Primal Fjallandic: AD 710 to AD 810, Fjallandic: AD 810 to Present)
 
 	Elf:
 		Floraindelen (Ancient Elvish)							(Some time around Baln's rise, only a few decades)	(Ancient Elvish)
@@ -26,35 +26,35 @@ Settlements/empires/kingdoms:
 		Thissalfiran (Ancient Elvish)							(1880 BCE - 520 BCE, became Thissalfiran II)		(Ancient Elvish)
 		Thissalfiran II (Ancient Elvish)						(520 BCE - disappeared off the face of the earth)	(Ancient Elvish)
 
-		Rànûladàen (Old Rànûdan)								(360 BCE - 170 AD, renamed to Rànûdel)				(Ancient Elvish: 360 BCE to 10 AD, Old Rànûdan: 10 AD to 400 AD)
-		Rànûdel (Old Rànûdan - Rànûdan)							(170 AD - Present day, or 360 BCE - Present day)	(Old Rànûdan: 10 AD to 400 AD, Rànûdan: 400 AD to Present)
+		Rànûladàen (Old Rànûdan)								(360 BCE - AD 170, renamed to Rànûdel)				(Ancient Elvish: 360 BCE to AD 10, Old Rànûdan: AD 10 to AD 400)
+		Rànûdel (Old Rànûdan - Rànûdan)							(AD 170 - Present day, or 360 BCE - Present day)	(Old Rànûdan: AD 10 to AD 400, Rànûdan: AD 400 to Present)
 
 		Yûmlathnar (Rànûdan)									(??? - Present day)
 
-		Esrelu (Old Rànûdan - Old Esrel - Esrel)				(20 AD - Present day)								(Old Rànûdan: 20 AD to 50 AD, Old Esrel: 50 AD to 600 AD, Esrel: 600 AD to Present)
-		Aodesvu (Old Rànûdan - Aodesvic)						(170 AD - Present day)								(Old Rànûdan: 170 AD to 780 AD, Aodesvic: 780 AD to Present)
+		Esrelu (Old Rànûdan - Old Esrel - Esrel)				(AD 20 - Present day)								(Old Rànûdan: AD 20 to AD 50, Old Esrel: AD 50 to AD 600, Esrel: AD 600 to Present)
+		Aodesvu (Old Rànûdan - Aodesvic)						(AD 170 - Present day)								(Old Rànûdan: AD 170 to AD 780, Aodesvic: AD 780 to Present)
 
 	Dwarf:
 		Baln (Primordial)										(Before 2000 BCE - 1770 BCE, became Banir)		(Primordial)
 		Kiliidhuuk (Primordial)									(1540 BCE - 1120 BCE)							(Primordial)
 		Banir (Primordial - Primordial Dwarven)					(1770 BCE - 1140 BCE)							(Primordial: 1770 BCE to 1440 BCE, Primordial Dwarven: 1440 to 1140 BCE)
 		Banod (Primordial Dwarven - Old Banodic - Banodic)		(1140 BCE - Present day)	(Primordial Dwarven: 1140 to 830 BCE, Old Banodic: 830 BCE to 0 AD, Banodic: 0 AD - Present)
-		Glomdur (Old Banodic - Banodic)							(335 AD - Present day)		(Old Banodic: 335 BCE to 0 AD, Banodic: 0 AD - Present)
-		Mornesvid (Old Banodic - Mornesvian)					(350 AD - Present day)		(Old Banodic: 350 BCE to 30 AD, Mornesvian: 30 AD - Present)
+		Glomdur (Old Banodic - Banodic)							(AD 335 - Present day)		(Old Banodic: 335 BCE to AD 0, Banodic: AD 0 - Present)
+		Mornesvid (Old Banodic - Mornesvian)					(AD 350 - Present day)		(Old Banodic: 350 BCE to AD 30, Mornesvian: AD 30 - Present)
 
 	Centaur (Sylvendric: 2000 BCE - Present):
 		Linklontinda (Sylvan)									(~3500 BCE)
 		Hathklosh (Sylvendric)									(2000 BCE - 1800 BCE)
 		Inglinimpara (Sylvendric)								(1930 BCE - 900 BCE)
 		Shaefklimper (Sylvendric)								(830 BCE - 200 BCE)
-		Heirfgria (Sylvendric)									(50 AD - Present day)
-		Vatakond (Sylvendric)									(220 AD - Present day)
+		Heirfgria (Sylvendric)									(AD 50 - Present day)
+		Vatakond (Sylvendric)									(AD 220 - Present day)
 
 
 
 Legend:
 	[TIME]   = The time which this event started.
-	BCE      = Years before 0 AD.
+	BCE      = Years before AD 1.
 	AD       = Year 1 and later.
 	Beliefs  = What is belived. This can be either true or false.
 
@@ -151,120 +151,120 @@ AD
  |
  v
 
-[Exactly 0 AD]
+[Exactly AD 0]
 Grutorus collapsed. From the remains of Grutorus, a two new kingdoms rose. Galabrus, and Cantrium. Cantrium was now where current day Cantruma is, and Galabrus was many kilometers northwest of Cantrium.
 
 Beliefs: The King of Grutorus killed himself because of stress.
 
-[30 AD]
+[AD 30]
 An priceless, but recently made artifact, a stone tablet containing a poem in Old Rànûdan, was stolen from a forgotten settlement in Rànûladàen. The forgotten settlement was abandoned after an attack from civil war, but only after few years did they remember this tablet, labeling it as an "ancient" magic item. When an adventurous group decided to search the ruins of this settlement, they found nothing. A group of fey, one dryad and several satyrs, had already taken the tablet. Lànassil, who was the dryad, found this tablet.
 
-[40 AD]
+[AD 40]
 An ideology of retribution sprouted in the Kingdom of Wassatila, quickly taking over. Wassatila is an ancient kingom in Furnalfa, inhabited by dryads and centaurs. The idea of this ideology was the intelligent races in the material realm were destroying nature, and even Talmundur (God of Nature, Storms, and Luck) by burning wood, killing animals, and even go as far to call wizards cultists. There were just a little more fey that followed this ideology than the ones that didn't. The ones that opposed this ideology stayed far away from Wassatila, some even fled to the material realm.
 
 Lànassil was one of the few that actively opposed it, joining in the local fey military that fought against this. A few years later when they attacked the region she lived in, they killed her tree and stole her tablet. Lànassil then fled to the material plane, and now resides in the forest in the peninsula southwest of Esrelu.
 
-[50 AD]
+[AD 50]
 Heirfgria is created. A group of centaurs traveled north.
 
-[55 AD]
+[AD 55]
 The group of travelers settled in what is now Vatakond.
 
-[170 AD]
+[AD 170]
 Rànûladàen was renamed to Rànûdel. Some moon elves did not like the change, so they went and created a kingdom called Aodesvu.
 
-[220 AD]
+[AD 220]
 The centaur settlement transforms into Vatakond.
 
-[350 AD]
+[AD 350]
 Galabrus was destroyed. Banodic explorers traveled, and created Mornesvid.
 
 Beliefs: The gods destroyed Galabrus who "greatly and mightily" defied them. (really there's no explaination)
 
-[355 AD]
+[AD 355]
 Banodic explorers traveled from Banod again, and created Glomdur.
 
-[410 AD]
+[AD 410]
 Cantrium went under revolution, becoming current day Centruma.
 
-[500 AD]
+[AD 500]
 Yûmlathnar is created.
 
-[Exactly 548 AD]
+[Exactly AD 548]
 A large group of explorers from a Galabric village traveled up north. It was led by Bentolus, Garaldor, Þungwaz and Muntin.
 
-[Exactly 550 AD]
+[Exactly AD 550]
 The large group of explorers unknowingly enterd the territory of a large bandit group, who named themselves the Kynnigwaz. During the fighting, Bentolus and Þungwaz was slain. Their bodies were buried in a tomb.
 
 A week later, the remaining group established a new settlement: Thaldranga.
 
-[560 AD]
+[AD 560]
 The King of Yûmlathnar gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
 
-[600 AD]
+[AD 600]
 Thaldranga became Þalmundrynga.
 
-[640 AD]
+[AD 640]
 From the settlement Þalmundrynga, Fjalland rises.
 
 Beliefs: Joki was a warrior from the village Hrafandis. He traveled north to explore a tomb, but was met by the draugr Tiwaz. Joki described Tiwaz as "He looked like a rotting corpse. Big as a bull, boated and black like boiling tar. He had the strength of many men, and appeared and vanished as he pleased." Luckily, Joki was able to defend himself by throwing rocks at the draugr before making his escape.
 
 <Second Age of Peace START>
 
-[650 AD]
+[AD 650]
 A group of explorers from Rànûladàen traveled north, and established Esrelu and Vuntarla. Vuntarla is built on a fjord, perched overlooking the eastern ocean, while Esrelu was in the northwest where it was icy cold.
 
-[870 AD]
+[AD 870]
 Centaurs were spotted scouting in the forests of Fjalland.
 
 <Second Age of Peace END>
 <RECENT (All below are in exact years)>
 
-[905 AD]
+[AD 905]
 Fjalland invades Antaragen, Vatakond. Antaragen was successfully captured. They turned it into an outpost.
 Yûmlathnar launches assault upon Glomdur, bringing chaos. Glomdur barely survives due to not having much defense experience, and only because Yûmlathnar only took resources.
 
-[911 AD]
+[AD 911]
 Fjalland launches a raid on Bravosh, Vatakond. This was also successful. Yûmlathnar offered help to Vatakond, who did accept.
 
-[918 AD]
+[AD 918]
 Vatakond attacks Bantusea. Borthan Tamiar, who was Nix's ancestor, died from being shot in the head with an arrow by invading centaurs. The centaurs' attack was unsuccessful, and retreated.
 
-[919 AD]
+[AD 919]
 Gardorus, the king of Centruma at the time, knew of this and he launched an attack on Ainattor, Vatakond. Ainattor was destroyed.
 
-[932 AD]
+[AD 932]
 King Alfþorin of Fjalland dies of old age. His son, Alfþorin the Second, takes his father's place as king. The first thing he did was to launch a military campaign to wipe as many bandit camps as they could in a year. They destroyed around 20 camps, which were about half of all the camps.
 
-[934 AD]
+[AD 934]
 Jeiruld sets up an arcane school in Tarib called the Academy of Aldorim. The academy's main focus is evocation, and now serves as the common training school for Fjallandic war wizards.
 
-[955 AD]
+[AD 955]
 Fjalland launches an invasion on Yûmlathnar, which was unsuccessful. This was the start of the war between Fjalland and Yûmlathnar.
 
-[956 AD]
+[AD 956]
 Säelri learns about the Rànûladàenic tablet, from a group of travelers from Rànûdel. Säelri spent a week to prepare, then traveled to Furnalfa to retrieve this tablet.
 
-[957 AD]
+[AD 957]
 Evil fey tries to get King Vasolas of Rànûdel to help them in their conquest of the material plane. King Vasolas denied to help them, so the evil fey launched an attack of 10 gvarths onto Rànûdel, targeting Emeröreslu and any nearby settlements. Rànûdel defended itself against this attack.
 
 Säelri returns with the Rànûladàenic tablet. She presents it to Ildiyre. Because of this, Ildiyre gave a small piece of forest just north of Vesesvala to Säelri.
 
-[960 AD]
+[AD 960]
 Yûmlathnar travels up and attacks Sölenzâeth, Esrelu. Sölenzâeth was almost ruined, but recovered after many months.
 
-[961 AD]
+[AD 961]
 Fjalland launches another military campaign to wipe bandit camps. This time, only 5 camps were destroyed.
 
-[962 AD]
+[AD 962]
 Yûmlathnar surprise attacks Bantusea. The attack was partially successful, half the town destroyed. Centruma sent an army to Vatakond, but was intercepted by Vatakond's forces, and were flanked by Yûmlathnar's army mid-battle. Centruma's army retreated.
 
-[966 AD]
+[AD 966]
 Okrif of Kjartkjofn dies. Eifnod is made the new jarl of Kjartkjofn.
 
-[968 AD]
+[AD 968]
 Fjalland and Esrelu sends an army to attack Ilimathil, Yûmlathnar, and pillaged it.
 
-[972 AD]
+[AD 972]
 Yûmlathnar launches an attack on Þuryngard, but was intercepted by Fjalland's army. They retreated after losing a fraction of the army.
 Vatakond raids Argánlaf, which was kind of successful, even though they retreated without destroying half the village.
