@@ -327,6 +327,15 @@ Iron Grease of Magic (advanced)
 
 ----------------------------------------------------------------------------------------------------
 
+Lightning Liquid (advanced)
+	Appearance:  The potion is a grey semi-transparent liquid. Shaking the potion causes it to emit small sparks of lightning.
+	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:      Explodes in a flash of light, this lightning liquid splashing in a 3 meter radius, causing arcs of lightning to connect with anything the water touches.
+	
+	Ingredients: A small handful of ground earthfungi, four chopped tarantula legs, and a pinch of gold powder.
+
+----------------------------------------------------------------------------------------------------
+
 Moonic Death (advanced)
 	Appearance:  The potion is a clear liquid, with small black specks floating inside.
 	Usage:       Drink.

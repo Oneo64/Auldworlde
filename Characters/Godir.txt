@@ -38,9 +38,11 @@ Gódir's native language is Fjallandic, and can speak Centrumic (English). He le
 		Fire-throwing Grenade
 		Forgetation Concoction
 		Honeymead Creation Liquid
+		Lightning Liquid
 		Nontoxic Seizure Concoction
 		Regeneration Potion
 		Regenerative Salve
+		Sparkfire Potion
 		Tarfire Grenade
 
 	Magical Staves:
