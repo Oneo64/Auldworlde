@@ -82,24 +82,24 @@ Small:   Around the size of a few marbles
 Minor:
 	- Potions that are easy to brew, almost the first level of potions alchemists start at.
 	- One week to master.
-	- One in ten people have one of these
+	- One in ten people have at least one of these.
 
 Basic:
 	- Potions that average alchemists know how to brew. Usually either schools stop teaching after this level, or students don't learn anything higher than this.
 	- Two weeks to master.
-	- One in ten people have one of these
+	- One in ten people have at least one of these.
 
 Advanced:
 	- Potions that advanced/professional alchemists can make. Usually a village would have one to three at this level.
-	- Brewing and using potions with this level that are deemed harmful are illegal without permission.
+	- Brewing and using potions with this level that are deemed harmful are illegal without permission from an authority figure.
 	- One month to master.
-	- One in twenty people have one of these
+	- One in one hundred people have at least one of these.
 
 Powerful:
 	- Potions that not many alchemists can make. Usually only one in a few villages are at this level.
-	- Brewing and using potions with this level that are deemed harmful are illegal without permission from the king or whoever is the ruler.
+	- Brewing and using potions with this level is illegal without permission from the king or whoever is the ruler.
 	- One month to master.
-	- One in a two hundred people have one of these
+	- One in two thousand people have at least one of these.
 
 
 

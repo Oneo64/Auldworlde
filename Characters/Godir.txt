@@ -33,6 +33,7 @@ Gódir's native language is Fjallandic, and can speak Centrumic (English). He le
 	Potions:
 		Bastard's Poison
 		Calming Salve
+		Concealment Potion
 		Curing Tonic
 		Energy Potion
 		Fire-throwing Grenade
@@ -43,6 +44,7 @@ Gódir's native language is Fjallandic, and can speak Centrumic (English). He le
 		Regeneration Potion
 		Regenerative Salve
 		Sparkfire Potion
+		Silencing Potion
 		Tarfire Grenade
 
 	Magical Staves:
