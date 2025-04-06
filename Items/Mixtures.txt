@@ -27,7 +27,7 @@ Game conversion: 1 ml = 12 seconds, 5 ml = 1 minute
 
 
 [[SOAKING]]
-You can soak various materials in potion to give them potion effects. This is how most 'magic' items are made, also the most common method. The other, less common but more powerful method is by directly giving the item magic by using the spell Imbuement, described in "MagicSystemAndSpells.txt".
+You can soak various materials in potion to give them potion effects. Every magic item made by people are made this way.
 
 Soaking times:
 	Sand, dirt, powder:  Dump it in the potion to make a slop
@@ -113,7 +113,7 @@ Bastard's Poison (basic)
 	Effect:      Forms irritating calluses on the hands.
 
 	Ingredients: A small handful of ground bones or bone meal, a small handful of white talc or chalk powder, and a some wood chips.
-	Brewing:     It must be boiled for five hours.
+	Brewing:     Boil the potion for five hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Bone-growing Salve (advanced)
 	Effect:      When the salve dries, it will heal 10% of any kind of broken bones, such as fractures and dislocations. Usually takes 10-14 applies to fully fix a bone.
 	Downside:    As the salve dries, the area might feel tingly and numb.
 	
-	Ingredients: A handful of ground comfrey (must have stems included), a small handful of ground bone or bone meal, a spoon of any milk, and a few drops of any vegetable oil.
+	Ingredients: A handful of ground comfrey (must have stems included), a small handful of ground bone or bone meal, a spoon of any milk a few drops of any vegetable oil, and a pinch of pink salt.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
 
 ----------------------------------------------------------------------------------------------------
@@ -134,6 +134,7 @@ Blindness Granting Mixture (advanced)
 	Effect:      Your eyes start glowing with intense light for about 15 seconds as you go completely blind. You stay blind until the potion nears the duration. Everything then seems to fade back from the darkness. More than 5 ml must be drank for this to work.
 	
 	Ingredients: One fermented practal gorbry which is then crushed, a small handful of ground snail shells, and a small handful of a mix of ground dark lichen and coal powder.
+	Brewing:     Boil the potion for two hours. To get the full potion's potential, the gound dark lichen and coal powder must be put in after one hour has passed.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -155,17 +156,17 @@ Concealment Potion (powerful)
 	Downside:    If you drink it, only your body turns invisible. That means your clothes and equipment aren't turned invisible.
 	
 	Ingredients: A whole oyster shell that's been grounded into powder, a few pinches of glass powder, a few pinches of quartz powder, a pinch of moonstone powder, and a few drops of anyone's tears.
-	Brewing:     It must be boiled while exposed to sunlight or moonlight. If it's left in the shadows, it's boiling progress starts to reverse.
+	Brewing:     It must be boiled for two hours while exposed to sunlight or moonlight. If it's left in the shadows, it's boiling progress starts to reverse.
 
 ----------------------------------------------------------------------------------------------------
 
-Concoction Bomb of Earth (advanced)
+Concoction Bomb (advanced)
 	Appearance:  It is a brown clear liquid, which seems to be dirty of random specks of earth and sand. It is constantly swirling at a slow speed, if left to rest.
 	Usage:       Ignite.
 	Effect:      Explodes in a ball of sand, dirt, and small pebbles. The earth explosion is harmful up to two meters, and is lethal if it sets off close to the chest or head.
 	
 	Ingredients: A small handful of sulfur powder, a small handful of fermented dark lichen, a small handful of fermented ground earthfungi, and two pinches of sand.
-	Brewing:     It must be boiled for five hours.
+	Brewing:     Boil the potion for five hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -176,6 +177,7 @@ Curing Tonic (basic)
 	Downside:    Weakens you, makes you feel tired and sleepy if used a lot, also destroys undigested food. (makes you more hungry)
 	
 	Ingredients: A handful of ground mint and basil, and a ground bezoar.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -186,6 +188,7 @@ Darkvision Potion (basic)
 	Downside:    It is possible to gain temporary blindless if you look directly into anything bright, such as a reflection of the sun, or a fiery explosion.
 	
 	Ingredients: Chopped bits of fermented moonshroom, and a small handful of moss.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -195,6 +198,7 @@ Dragonfire Potion (powerful)
 	Downside:    Anything cold feels colder.
 	
 	Ingredients: Ten ground fire dragon scales, a small handful of sulfur powder, and a pinch of sand.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -203,7 +207,8 @@ Dragonfrost Potion (powerful)
 	Effect:      Lets you see in the dark. If you blow, frost spews out of your mouth. If you sneeze or snort, a puff of frost shoots out of your nose. Your skin starts to take on a slightly blue and shiny appearance like ice, and you start to resist cold.
 	Downside:    Fire feels hotter.
 	
-	Ingredients: Ten ground frost dragon scales, a pinch of silver powder, and a small handful of raw wool.
+	Ingredients: Ten ground frost dragon scales, a small handful of frost dragon fur, a pinch of silver powder, and a small handful of raw wool.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -214,6 +219,7 @@ Energy Potion (minor)
 	Downside:    You don't get to experience the delightful taste of real food and the wonderful feeling of being full.
 	
 	Ingredients: A crushed practal gorbry, and a fermented cabbage leaf.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -223,6 +229,7 @@ Ekraldys Concoction (advanced)
 	Effect:      Nausea, fatigue, dizziness, loss of concentration, and sometimes paralysis.
 
 	Ingredients: A small handful of pickled dark lichen, and an ekraldys toadstool chopped into pieces.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -233,7 +240,7 @@ Fire Immunity Potion (advanced)
 	Downside:    Room temperature for you drops by about 10 degrees Celsius. If you are on fire, the potion duration is sped up to 10 times shorter. Also, you are NOT immune to fires and heat caused by sulfur, lava, any form of molten rock or metal, lightning, or the spell fireball.
 	
 	Ingredients: One crushed amethyst gorbry, a pinch of sulfur powder, and a small piece of fire opal.
-	Brewing:     It must be boiled for five hours.
+	Brewing:     Boil the potion for five hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -243,7 +250,7 @@ Fire-throwing Grenade (advanced)
 	Effect:      Explodes in a burst of fire. The fire would expand to a 1 meter diameter (or 0.5 meter radius) soft blast of fire.
 	
 	Ingredients: Sparkfire Potion, any oil made from plants.
-	Brewing:     Add oil after the sparkfire potion is made. Put several drops of oil in at a time to make sure the potion doesn't combust instantly (due to potion usage).
+	Brewing:     Add oil after the sparkfire potion is made. Put several drops of oil in at a time to make sure the potion doesn't combust instantly (due to potion usage). While the two hours is boiling, check the liquid occasionally. If it begins to pale, add several drops of oil until it is at an orange color.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -254,7 +261,7 @@ Forgetation Concoction (advanced)
 	Downside:    If you drank less than 50 ml, you slowly regain those memories after a number of minutes equal to the amount of ml you drank.
 	
 	Ingredients: Two crushed practal gorbries, chopped bits of a pickled ekraldys toadstool, a pinch of ground snail shells, and a fermented fly.
-	Brewing:     It must be boiled for five hours.
+	Brewing:     Boil the potion for five hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -264,6 +271,7 @@ Freebreathing Potion (basic)
 	Effect:      Creates oxygen in lungs, allowing immunity to drowning, choking, and suffocation.
 	
 	Ingredients: A small handful of rust, and a fermented chopped and crushed ekraldys toadstool.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -273,6 +281,7 @@ Gardening Growth Concoction (basic)
 	Effect:      If poured on a plant, the plant ages 50% faster. If poured on soil, dirt, or sand, then plants such as bushes and grass appropriate for the climite will start growing there using the normal time it takes for the to grow (unless the potion is used again), even if the dirt wasn't part of a ground with grass. This potion's duration is 10 times longer than the potion durations specified above.
 	
 	Ingredients: A small handful of dried ground moss, and a small handful of ground jadeblossom.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -282,6 +291,7 @@ Greater Moonic Death (powerful)
 	Effect:      You enter a coma. You have 10 minutes to be cured before death, if you drank more than 3 ml. If you drank less than 3 ml, you only enter a coma for the normal potion durations specified above.
 	
 	Ingredients: A pinch of moon dust, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder, and a small handful of onyx shards.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -291,7 +301,8 @@ Hailskin Potion (advanced)
 	Effect:      Your skin starts to take on a icy appearance, causing it to look like it's been frosted over. Your skin is hardened, and you are immune to cold.
 	Downside:    Room temperature for you increases by 10 degrees Celsius.
 	
-	Ingredients: A ground ice elemental's core, a handful of ground mint leaves, and a pinch of silver powder.
+	Ingredients: A ground ice elemental core, a handful of ground mint leaves, and a pinch of silver powder.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -301,6 +312,7 @@ Heavyliquid (advanced)
 	Effect:      You become a little heavier in weight but retain your strength, which causes you to use more energy moving at all. You become tired more easily, and cannot move as fast.
 	
 	Ingredients: A small handful of ground earthfungi, four chopped tarantula legs, and a pinch of gold powder.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -311,6 +323,17 @@ Honeymead Creation Liquid (basic)
 	Downside:    If the liquid is poured into more than 50% the original amount of the drinkable liquid, the potency of the drinkable liquid starts to go down. Also, if the drinkable liquid was originally bitter or spicy, the sweetness might make the liquid taste sickening.
 	
 	Ingredients: One crushed practal gorbry, a several drops of honey, and one fermented bee.
+	Brewing:     Boil the potion for two hours.
+
+----------------------------------------------------------------------------------------------------
+
+Impersonation Potion (powerful)
+	Appearance:  The grease is a dark, but transparent liquid, slowly swirling when left alone.
+	Usage:       Drink.
+	Effect:      Changes your body and voice to look like another person. You don't get the memories or mental state of that person.
+	
+	Ingredients: A small handful of volcanic powder, a small handful of ground crystals (the crystal must come from a geode), a pinch of algae, and an ice elemental core.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -333,6 +356,7 @@ Lightning Liquid (advanced)
 	Effect:      Explodes in a flash of light, this lightning liquid splashing in a 3 meter radius, causing arcs of lightning to connect with anything the water touches.
 	
 	Ingredients: A small handful of ground earthfungi, four chopped tarantula legs, and a pinch of gold powder.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -342,6 +366,7 @@ Moonic Death (advanced)
 	Effect:      You enter a coma for a duration 100 times longer than the potion durations specified above.
 	
 	Ingredients: A pinch of moon dust, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -351,18 +376,20 @@ Nontoxic Seizure Concoction (advanced)
 	Effect:      You start spazzing and twitching violently, unable to stand, sit, or think. Your eyes stare into nothing, unable to move away from it's neutral position. You are also unable to feel pain. If the potion duration is sustained for 30 minutes or longer (either with a large dosage or someone feeding more into your mouth while you are incapacitated), you will die after that 30 minutes.
 	
 	Ingredients: One crushed practal gorbry, and five fermented and pickled bees (with stinger still intact).
+	Brewing:     Boil the potion for two hours.
 
 	Caution:     Make sure the bees are bees, and not wasps or hornets. Using wasps or hornets turns the liquid into a mucus color, and can cause excessive boiling, or even an explosion. Anyone caught in the explosion may start experiencing the effects of the potion. Breathing in the fumes may cause a minor adrenaline rush.
 
 ----------------------------------------------------------------------------------------------------
 
-Potion Acid (basic)
+Potion Acid (advanced)
 	Appearance:  The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. It feels to be around 5 degrees warmer than room temperature.
 	Usage:       Pour into liquid.
 	Effect:      Distills the liquid, reducing it's potency and giving it a bland taste and a discolored look. The same amount of potion acid must be poured in the liquid to completely distill it. The potion acid will boil and evaporate once it's in the potion.
 	Downside:    You need to wait for the potion acid to evaporate before pouring more into the liquid. The liquid stays in the container, and doesn't boil, evaporate, or otherwise leave the container the same way the potion acid does. If poured into any poison, it is twice less effective, which means some poison would need twice the amount of potion acid to distill that amount of poison.
 	
 	Ingredients: A butterfly cocoon, three pinches of a mixture of salt and rust.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -372,7 +399,7 @@ Potion of Severe Dementia (powerful)
 	Effect:      Gives the drinker Stage 6 Dementia. The potion is permanent until the drinker sleeps, or in any way go unconscious for at least an hour. When the drinker wakes up, they will wake up with all the memories they had BEFORE they drank the potion, and only faint/broken memories of what they did under it's effect.
 	
 	Ingredients: Four crushed practal gorbries, chopped bits of a pickled ekraldys toadstool, a small handful of crushed snail shells, a fermented fly, and a pinch of moon dust from Vel.
-	Brewing:     It must be boiled for eight hours.
+	Brewing:     Boil the potion for eight hours. About once every thirty minutes, the potion will start to violently bubble. To stop this, drop a small piece of iron into the unfinished potion.
 
 	Caution:     Do NOT breathe in the fumes of the potion, or you may start experiencing short term memory loss.
 
@@ -385,6 +412,7 @@ Poison Solvent (advanced)
 	Downside:    You need to wait for the poison solvent to evaporate with the poison before pouring more into the liquid. If it comes into contact with any other liquid other than poison or poison solvent, it has the same effect except it doesn't actually evaporate the liquid.
 	
 	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, the fur of an ekraldys toadstool, and a chopped great leafbug leg.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -394,6 +422,7 @@ Quickliquid (basic)
 	Effect:      You become a little lighter in weight but retain your strength, which causes you to be able to do things a little faster. You don't get tired as quick, and you can also run and jump one-and-a-half times higher than normal.
 	
 	Ingredients: A five grown dragonfly wings, a fermented fly, and a pinch of glass powder.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -403,6 +432,7 @@ Realsight Potion (advanced)
 	Effect:      Lets you see through all illusions, and the true form of any shapeshifter or polymorphed object within a 10 meter radius. If it's a shapeshifter and it doesn't have a true form, all you see is a cloud of grey dust-like particles.
 	
 	Ingredients: A pinch of glass powder, a pinch of silver, and a pinch of crushed amber.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -413,6 +443,7 @@ Regeneration Potion (basic)
 	Downside:    If used too fast, you may loose potion. Also cannot heal broken bones or scars. If the wound was healed using this potion, you may still feel the pain from the wound. The healed would may also feel numb after usage.
 	
 	Ingredients: A small handful of ground basil and comfrey leaves (stems removed first), a small handful of ground wild celery, and three jadeblossom petals.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -444,7 +475,8 @@ Rotting Curse Potion (powerful)
 	Effect:      Your skin, starting from the neck, starts to appear small blotches of a mix of black, dark green, and dark yellow colors similar to the potion's appearance, giving it a withered or slightly dyed look. These blotches will spread over your body slowly. The second day, the blotches start showing over your stomach, and you start to feel weak. The third day, the magical skin condition will have spread over your body completely, and you will feel extremely weak, and cannot do more than walk. The fourth day, you will slowly die.
 	Downside:    The curse can only spread via consumption of more than a small handful of any organic matter (including saliva, seat, and other bodily fluids) from the affected person.
 	
-	Ingredients: Three fermented gecko tails, three fermented wasps or hornets, a small handful of ground obsidian powder, a small handful of onyx shards, a pinch of coal powder, and a pinch of wraith dust.
+	Ingredients: Three fermented gecko tails, three fermented wasps or hornets, a small handful of ground obsidian powder, a small handful of onyx shards, a pinch of coal powder, and several pinches of wraith dust.
+	Brewing:     Boil the potion for two hours. When preparing the potion, start boiling before adding the waith dust. Once it starts to boil, slowly add the wraith dust pinches one after another. If all the wraith dust was added into the potion, the potion will start to erratically pop and steam, and container holding the liquid will start to corrode extremely fast until the potion pours out a hole.
 
 	Caution:     Do NOT breathe in the fumes of the potion, or you may start experiencing: sickness, nausea, bruising around the neck and nose. Breathing the fumes too much may actually give you the effects of this potion.
 
@@ -457,6 +489,7 @@ Silencing Potion (basic)
 	Downside:    You are unable to cast spells that require an incantation, and all speech is unclear.
 	
 	Ingredients: Four fermented crickets, a small handful of goat hairs, and a pinch of wood dust.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -466,6 +499,7 @@ Sparkfire Ale (advanced)
 	Effect:      Tastes like a mix of ale and a really strong soda (shouldn't hurt you when it is drunk).
 	
 	Ingredients: Instead of making the potion the traditional way, you add the sparkfire potion ingredients with the ale ingredients together with a catalyst.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -475,7 +509,7 @@ Sparkfire Potion (basic)
 	Effect:      Explodes in shower of sparks. Pretty much harmless with small amounts.
 	
 	Ingredients: A handful of sulfur powder, a pinch of sand, and two pinches of rust.
-	Brewing:     It must be boiled for five hours.
+	Brewing:     Boil the potion for five hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -485,6 +519,7 @@ Slow-falling Potion (advanced)
 	Effect:      Makes you fall slower, and because of this, you can also jump a little higher.
 	
 	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, and several feathers of any bird.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -495,6 +530,7 @@ Transmutation Liquid of Animal (advanced)
 	Downside:    Even though other animals are slightly reluctant to see you as a mating partner or prey, it is still possible. You may also subconsciously make sounds such as purring (if cat), barking (if dog), or anything like an owl's call.
 
 	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, a raw fermented egg of any bird (shells included), and a carved wooden figurine of the animal to become.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -504,7 +540,7 @@ Traumatic Relife Potion (powerful)
 	Effect:      Forces the target to relive the most traumatic (or violent) moments of their life for only several seconds. They however cannot feel any pain from these memories, since they are only memories. The effect is not powerful enough to give anything long-lasting, but may give temporary PTSD or paranoia if strong enough.
 	
 	Ingredients: A small fermented chunk of brain (any animal), one crushed amethyst gorbry, a small piece of severely oxidized copper or bronze, and a small handful of ground snail shells.
-	Brewing:     It must be boiled for eight hours.
+	Brewing:     Boil the potion for eight hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -524,7 +560,7 @@ Tarfire Grenade (advanced)
 
 [[REACTIONS]]
 
-Drinking concoction bomb of earth:
+Drinking concoction bomb:
 	You start to feel full as if you've ate a meal, however you won't gain any nutritions. Also it tastes exactly like wet dirt.
 
 Drinking poison solvent or potion acid:
