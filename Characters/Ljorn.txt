@@ -54,4 +54,5 @@ Ljorn's native language is Fjallandic, but he can also speak Centrumic (English)
 
 	Intricate Magical Staves:
 		Helm of Awe
-		Lukkustafir
+		Repel Demons
+		Lesser Hagall

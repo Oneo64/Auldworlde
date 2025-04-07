@@ -57,9 +57,10 @@ He could brew potions, knowing how to brew almost all potions known in Fjalland.
 
 	Intricate Magical Staves:
 		Helm of Awe
-		Lukkustafir
-		Shielding
 		Brynslustafir
+		Repel Demons
+		Repel Evil
+		Shielding
 
 	Necromancy:
 		Raise Zombie

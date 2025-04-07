@@ -154,15 +154,17 @@ You can create a stave by drawing a symbol on a surface with coal, and describe 
 These are the staves you can make:
 	- Gapaldur:  Targets are physically stronger when bare-handed.
 	- Vegvisir:  Targets are more resilient to cold weather, wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
-	- Toustefna: This must be drawn on oak. Foxes are unwilling to go near stave, and will feel paranoid/unease if they cannot leave the presence of this stave.
+	- Toustefna: Drawn on oak, all foxes shall be frightened and flee.
 ----------------------------------------------------------------------------------------------------
 Intricate Magical Staves (requires effort or practice to draw):
 You can create a stave by drawing a symbol on a surface with coal, and describe whoever is affected by writing it around the stave. The runic staves are about half a meter in radius and will glow slightly red. The drawing can't be washed off by clear mundane water, but examples that can wash it off are: vinegar/brine, saltwater, magical water, oil, tar, and blood.
 These are the staves you can make:
 	- Helm of Awe:   Targets are physically stronger and more durable. They also feel more confident.
-	- Lukkustafir:   Scares away lesser demons and undead. Lesser demons and undead example: wraiths and zombies.
-	- Shielding:     There are five charges. All incoming projectiles as heavy as a sword or lighter are blocked by a flash of light, which uses a charge. The stave slowly regains it's charges back. If all charges were used at dawn, the stave usually regains them at dusk.
 	- Brynslustafir: The blades of targets will create a flash of blue light on contact, giving the struck thing a light burn.
+	- Repel Demons:  All lesser demons and undead shall recoil and flee. (lesser demons and undead example: wraiths and zombies)
+	- Repel Evil:    Carved on a door, no creature of evil can willingly enter.
+	- Shielding:     There are five charges. All incoming projectiles as heavy as a sword or lighter are blocked by a flash of light, which uses a charge. The stave slowly regains it's charges back. If all charges were used at dawn, the stave usually regains them at dusk.
+	- Lesser Hagall: No magic can be cast within the range of this stave, and this stave isn't affected. If this stave goes into the range of another Lesser Hagall stave, both staves start to flicker and flash violently until one of them explodes.
 
 
 
