@@ -42,6 +42,7 @@ Ljorn's native language is Fjallandic, but he can also speak Centrumic (English)
 		Bastard's Poison
 		Calming Salve
 		Curing Tonic
+		Fire-throwing Grenade
 		Nontoxic Seizure Concoction
 		Regeneration Potion
 		Regenerative Salve
