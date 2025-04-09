@@ -47,6 +47,7 @@ Ljorn's native language is Fjallandic, but he can also speak Centrumic (English)
 		Regeneration Potion
 		Regenerative Salve
 		Silencing Potion
+		Sparkfire Potion
 
 	Magical Staves:
 		Gapaldur

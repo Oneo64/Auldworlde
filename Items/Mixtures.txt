@@ -249,8 +249,8 @@ Fire-throwing Grenade (advanced)
 	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:      Explodes in a burst of fire. The fire would expand to a 1 meter diameter (or 0.5 meter radius) soft blast of fire.
 	
-	Ingredients: Sparkfire Potion, any oil made from plants.
-	Brewing:     Add oil after the sparkfire potion is made. Put several drops of oil in at a time to make sure the potion doesn't combust instantly (due to potion usage). While the two hours is boiling, check the liquid occasionally. If it begins to pale, add several drops of oil until it is at an orange color.
+	Ingredients: Sparkfire Potion, several drops of any oil, and two pinchs of a sulfur-charcoal powder mixture.
+	Brewing:     Boil the potion for two hours. Add the ingredients after the sparkfire potion starts boiling. Add a few drops of the oil, or a pinch of the mixture in at a time to make sure the potion doesn't combust instantly (due to potion usage).
 
 ----------------------------------------------------------------------------------------------------
 
