@@ -1,4 +1,6 @@
-[[DEMI-HUMAN]]
+====================================================================================================
+DEMI-HUMANS
+====================================================================================================
 
 General body features:
 	Are almost always chaotic neutral or chaotic evil, but can be redeemed to chaotic neutral or true neutral.
@@ -43,10 +45,8 @@ Snake Variants:
 
 
 ====================================================================================================
-
-
-
-[[DWARF]]
+DWARVES
+====================================================================================================
 
 General body features and personality traits:
 	Most are humourous and like to play pranks.
@@ -74,19 +74,18 @@ Jewelry variants:
 
 
 ====================================================================================================
-
-
-
-[[ELF]]
+ELVES
+----------------------------------------------------------------------------------------------------
+The first humanoids to walk upon the world. All humanoid races evolved from elves.
+====================================================================================================
 
 General body features and personality traits:
 	Eyes are pupil-less.
-	Most are calm and reserved.
-
-	Slightly worse at diplomacy.
-
 	Hair grows at normal rate, facial hair grows slower, no armpit hair or body hair.
 
+	Most are calm and reserved.
+	Slightly worse at diplomacy.
+	
 Cold Elf:
 	Abilities:
 		Has natural darkvision up to 10 meters.
@@ -100,12 +99,11 @@ Cold Elf:
 
 		Earlobes are long.
 
-	Variant 1 (Snow):
-		Skin: Very light skin, or very pale blue skin.
-		Hair: Black, blond, brown, white, or golden.
-		Eyes: Brown, green, blue, grey, light yellow, or golden.
+	Skin: Very light skin, or very pale blue skin.
+	Hair: Black, blond, brown, white, or golden.
+	Eyes: Brown, green, blue, grey, light yellow, or golden.
 
-	Variant 2 (Wood):
+	Wood Elf Variant:
 		Skin: Brown (like wood).
 		Hair: Black, brown, or white.
 		Eyes: Black, brown, green, golden, red, or orange.
@@ -129,10 +127,8 @@ Moon Elf:
 
 
 ====================================================================================================
-
-
-
-[[MAN]]
+MEN
+====================================================================================================
 
 General body features:
 	Height: Average for northern men/women is 173/162 centimeters.
@@ -147,10 +143,8 @@ Eyes: Black, brown, green, blue, or grey.
 
 
 ====================================================================================================
-
-
-
-[[TROLL]]
+TROLLS
+====================================================================================================
 
 General body features and personality traits:
 	Doesn't like company of other humanoid races.
