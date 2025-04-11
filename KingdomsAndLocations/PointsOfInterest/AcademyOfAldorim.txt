@@ -1,4 +1,4 @@
-Academy of Aldorim (Aldorimispraðjattúm)
+Academy of Aldorim
 
 Headmaster:        Jeiruld Aldorim
 Founder:           Jeiruld Aldorim
@@ -12,25 +12,23 @@ Enrolled students: ~200 students and ~20 teachers (including Jeiruld himself)
 
 
 [[STRUCTURE]]
-The Academy of Aldorim is an arcane school in Fjalland, located about 2 kilometers southeast of Thuryngard. It is in the deeper areas of the forest, where it gets thicker.
+The Academy of Aldorim is an arcane school in Tarib.
 
-The Academy of Aldorim is a small school, about 50 x 50 meters in area, set in a clearing in the forest. It is made of twenty houses and a larger house, surrounded by low a wooden wall about 4 meters in height. It is then surrounded by a moat, with a sturdy wooden bridge built across the gap to the academy. The houses inside have thatched roofs, and the walls are coated in wattle and daub. The smaller houses are the sleeping areas for students, and the larger house is the main academy.
+The Academy of Aldorim is a small three-story school, about 50 x 50 meters in area. It is made of limestone. It is then surrounded by a waterless moat, with a sturdy wooden bridge built across the gap to the academy.
 
-The walls of the academy are protected by wooden slabs carved with the symbol Lukkustafir (Intricate Magical Staves), each with a spacing of 10 meters and placed inside the moat.
-
-Placed along the road are banners in blue written in the Elvish script: "Mrûsse gwiy inde, häeth gandir-yûlamir fa!", which in Esrel it means "Be aware, ahead is magical activity!"
+Placed along the road are banners in blue written in the Elvish script: "Sorûsse gwin inde, fàerel gwandar-yûlàera fa!", which in Rànûdan it means "Be aware, ahead is magical activity!"
 
 
 
 [[SUBJECT DISTRIBUTION]]
-Students can take a combination of any of the three subjects, but must pick at least two: Arcane Magic (Spells), Arcane Magic (Magical Staves), potion-making, and history.
+Students can take a combination of any of the three subjects, but must pick at least two: Arcane Magic (Spells), potion-making, astrology and astronomy, and history.
 
 Combat training is required, and all students recieve combat training. The combat training is done every week, where non-injured and non-sick students are required to participate.
 
 Subjects:
-	30% Arcane Magic (Spells)
-	30% Arcane Magic (Magical Staves)
+	40% Arcane Magic
 	20% Potion-making
+	20% Astrology and Astronomy
 	10% Combat training
 	10% History
 
