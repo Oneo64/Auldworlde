@@ -149,13 +149,13 @@ Calming Salve (basic)
 
 ----------------------------------------------------------------------------------------------------
 
-Concealment Potion (powerful)
+Concealment Potion (advanced)
 	Appearance:  The potion is a clear liquid that warps and distorts what's seen behind it as if it's glass.
 	Usage:       Drink, or pour on object.
-	Effect:      Makes you (or the thing it's being poured on) almost invisible, as if your body has been turned into hot gas.
-	Downside:    If you drink it, only your body turns invisible. That means your clothes and equipment aren't turned invisible.
+	Effect:      Disguises you by your surroundings like a chameleon, your skin and everything you are wearing turns to the color of what's behind. This also works on an object if it is poured upon its surface.
+	Downside:    If you drink it, only your body turns invisible. That means your clothes and equipment aren't turned invisible. Also, your shadows are still there.
 	
-	Ingredients: A whole oyster shell that's been grounded into powder, a few pinches of glass powder, a few pinches of quartz powder, a pinch of moonstone powder, and a few drops of anyone's tears.
+	Ingredients: Two whole oyster shells that's been grounded into powder, a few pinches of glass powder, and a pinch of quartz powder.
 	Brewing:     It must be boiled for two hours while exposed to sunlight or moonlight. If it's left in the shadows, it's boiling progress starts to reverse.
 
 ----------------------------------------------------------------------------------------------------
@@ -282,6 +282,17 @@ Gardening Growth Concoction (basic)
 	
 	Ingredients: A small handful of dried ground moss, and a small handful of ground jadeblossom.
 	Brewing:     Boil the potion for two hours.
+
+----------------------------------------------------------------------------------------------------
+
+Greater Concealment Potion (powerful)
+	Appearance:  The potion is a clear liquid that warps and distorts what's seen behind it as if it's glass.
+	Usage:       Drink, or pour on object.
+	Effect:      Makes you (or the thing it's being poured on) almost invisible, as if your body has been turned into hot gas. Because of this, your body casts no shadows. You are basically extremely hard to see from a distance, even harder compared to the normal concealment potion.
+	Downside:    If you drink it, only your body turns invisible. That means your clothes and equipment aren't turned invisible.
+	
+	Ingredients: A whole oyster shell that's been grounded into powder, a few pinches of glass powder, a few pinches of quartz powder, a pinch of moonstone powder, and a few drops of anyone's tears.
+	Brewing:     It must be boiled for two hours while exposed to sunlight or moonlight. If it's left in the shadows, it's boiling progress starts to reverse.
 
 ----------------------------------------------------------------------------------------------------
 
