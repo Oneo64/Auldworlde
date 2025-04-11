@@ -56,7 +56,7 @@ He could brew potions, knowing how to brew almost all potions known in Fjalland.
 		Toustefna
 
 	Intricate Magical Staves:
-		Helm of Awe
+		Ægishjalmur
 		Brynslustafir
 		Repel Demons
 		Repel Evil
