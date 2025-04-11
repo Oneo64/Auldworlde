@@ -50,12 +50,13 @@ Loroðil's silver circlet is enchanted. When Loroðil is attacked with a weapon 
 		Toustefna
 
 	Intricate Magical Staves:
-		Helm of Awe
+		Ægishjalmur
 		Brynslustafir
 		Repel Demons
 		Repel Evil
 		Shielding
 		Lesser Hagall
+		Hulinhjalmur
 
 
 
