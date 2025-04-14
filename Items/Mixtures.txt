@@ -144,7 +144,7 @@ Calming Salve (basic)
 	Effect:      While the salve is on, it will make that part of body feel better. It will also help numbness recovery. Or, if used on the forehead or stomach, it can partially subdue any aches. The effect will fully dimish one hour after it has been fully absorbed.
 	Downside:    This salve does not work on wounds.
 	
-	Ingredients: A small handful of ground mint leaves (stems removed first), a small handful of mashed blueberry, and a several drops of any vegetable oil.
+	Ingredients: A small handful of ground mint leaves (stems removed first), a small handful of mashed blueberry, and a several drops of mistletoe oil.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
 
 ----------------------------------------------------------------------------------------------------
@@ -172,8 +172,8 @@ Concoction Bomb (advanced)
 
 Curing Tonic (basic)
 	Appearance:  The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
-	Usage:       Drink. Only take small doses (< 30 ml) after each meal, or you could instantly go out cold.
-	Effect:      It will kill diseases, viruses, fungi, sicknesses, amoebas, parasites, poisons, etc.
+	Usage:       Drink. Only take small doses (< 30 ml) after each meal, or you could instantly go out cold. The liquid should be taken twice a day.
+	Effect:      It will kill diseases, viruses, fungi, sicknesses, amoebas, parasites, poisons, etc. Curing a common cold usually requires about twelve seperate doses to completely heal.
 	Downside:    Weakens you, makes you feel tired and sleepy if used a lot, also destroys undigested food. (makes you more hungry)
 	
 	Ingredients: A handful of ground mint and basil, and a ground bezoar.
@@ -401,6 +401,28 @@ Potion Acid (advanced)
 	
 	Ingredients: A butterfly cocoon, three pinches of a mixture of salt and rust.
 	Brewing:     Boil the potion for two hours.
+
+----------------------------------------------------------------------------------------------------
+
+Potion of Relaxation (advanced)
+	Appearance:  The potion is a clear liquid with a slight yellowish hue.
+	Usage:       Drink.
+	Effect:      It will calm your body, subsiding any paralysis, siezures, cramps, or aches. Once the potion is taken, these harmful effects will slowly diminish. It requires about 100 ml to completely diminish one effect, meaning if you are somehow paralyzed, siezuring, cramping, and aching at the same time, you would need 400 ml to remove them all.
+	Downside:    Weakens you, makes you feel tired and sleepy if used a lot. This tiredness and sleepiness is actually just part of the potions main effect, not a side effect.
+	
+	Ingredients: Five mistletoe berries grounded into a mush, a handful of ground mint and basil, a ground bezoar, a pinch of wood dust (specifically birch), and a few drops of mistletoe oil.
+	Brewing:     Slow boil the potion for five hours. Make sure it boils subtly, and not like you're cooking a soup.
+
+----------------------------------------------------------------------------------------------------
+
+Potion of Restoration (advanced)
+	Appearance:  The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
+	Usage:       Drink. Only take small doses (< 30 ml) after each meal, or you could instantly go out cold. The liquid should be taken twice a day.
+	Effect:      It will kill diseases, viruses, fungi, sicknesses, amoebas, parasites, poisons, etc. Curing a common cold usually requires about six seperate doses to completely heal.
+	Downside:    Weakens you, makes you feel tired and sleepy if used a lot, also destroys undigested food. (makes you more hungry)
+	
+	Ingredients: Five mistletoe berries grounded into a mush, a handful of ground mint and basil, a ground bezoar, and a pinch of wood dust (specifically birch).
+	Brewing:     Slow boil the potion for five hours. Make sure it boils subtly, and not like you're cooking a soup.
 
 ----------------------------------------------------------------------------------------------------
 
