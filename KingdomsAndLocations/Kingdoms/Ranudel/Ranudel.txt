@@ -52,7 +52,7 @@ Emeröreslu has 200 soldiers, and 25 guards. Each village has around 5 guards. S
 
 [[UNIFORMS]]
 Soldier/Guard: A soldier would have an aqua gambeson, brown tunic, brown pants, and leather shoes. Their weapon is a spear and a Norman kite shield.
-Palace Guard: A palace guard would have a leather nasal helmet, aqua gambeson, light grey surcoat with Rànûdan's flag on it, brown tunic, and brown pants. Their weapon is a ji halberd (the double crescent variant instead of one).
+Palace Guard: A palace guard would have a leather nasal helmet, aqua gambeson, light grey surcoat with Rànûdan's flag on it, lamellar armor under the surcoat, brown tunic, and brown pants. Their weapon is a fangtian ji halberd (the double crescent variant).
 Archer/Lookout: An archer would have an aqua gambeson, light grey surcoat with Rànûdan's flag on it, brown tunic, and brown pants. Their weapon is a spear, and a longbow (self bow) with obsidian-headed arrows.
 
 
