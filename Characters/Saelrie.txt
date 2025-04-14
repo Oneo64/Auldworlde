@@ -32,7 +32,20 @@ She has traveling experience, as many years ago she traveled to Furnalfa to retr
 Säelrie is immune to all poison and disease, due to druidic practices. She also knows about Furnalfa.
 
 
-		
+
+[[GRIMOIRE]]
+	Potions:
+		Calming Salve
+		Curing Tonic
+		Forgetation Concoction
+		Gardening Growth Potion
+		Potion of Relaxation
+		Potion of Restoration
+		Regeneration Potion
+		Regenerative Salve
+
+
+
 [[DRUIDRY]]
 	Shapeshift animals:
 		Brown bear (combat)

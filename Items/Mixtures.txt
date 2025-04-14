@@ -275,7 +275,7 @@ Freebreathing Potion (basic)
 
 ----------------------------------------------------------------------------------------------------
 
-Gardening Growth Concoction (basic)
+Gardening Growth Potion (basic)
 	Appearance:  The potion is a clear liquid, with faint green swirls inside. The swirls glow in the dark.
 	Usage:       Pour on anything.
 	Effect:      If poured on a plant, the plant ages 50% faster. If poured on soil, dirt, or sand, then plants such as bushes and grass appropriate for the climite will start growing there using the normal time it takes for the to grow (unless the potion is used again), even if the dirt wasn't part of a ground with grass. This potion's duration is 10 times longer than the potion durations specified above.
@@ -621,7 +621,7 @@ Mixing/Drinking conflicting concoctions #2:
 	Combinations:
 		hailskin potion and fire immunity potion
 
-		gardening growth concoction and rotting curse potion
+		gardening growth potion and rotting curse potion
 		regeneration potion and rotting curse potion
 		regenerative/reverting salve and rotting curse potion
 
