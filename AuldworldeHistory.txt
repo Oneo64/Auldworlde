@@ -12,7 +12,7 @@ Settlements/empires/kingdoms:
 
 		Zarapib (Borian - Old Taribian)							(650 BCE - 450 BCE)									(Borian: 650 BCE to 500 BCE, Old Taribian: 500 BCE to 450 BCE)
 
-		Grutorus (Old Taribian - Grutorian)						(490 BCE - AD 0, became Grutorus and Cantrium)		(Old Taribian: 490 BCE to 220 BCE, Grutorian: 220 BCE to AD 0)
+		Grutorus (Old Taribian - Grutorian)						(490 BCE - AD 0, became Galabrus and Cantrium)		(Old Taribian: 490 BCE to 220 BCE, Grutorian: 220 BCE to AD 0)
 		Galabrus (Grutorian - Galabric)							(AD 0 - AD 350)										(Grutorian: AD 0 to AD 170, Galabric: AD 170 to AD 350)
 		Cantrium (Old Cantrium)									(AD 0 - AD 410, became Centruma)					(Old Cantrium)
 
