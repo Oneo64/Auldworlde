@@ -1,0 +1,34 @@
+Sindri One-Arm
+
+Male
+Age: 29
+Alignment: Lawful Neutral
+Ethnicity: Fjallander
+Race:      Human
+
+
+
+[[DESCRIPTION]]
+Sindri is one of Randúlfr's knights, and is also a sorcerer. His hair is shoulder-length blond and wavy, his eyes are dark brown, and has fair skin. His left arm is missing, severed by an atgeir during a centaur raid.
+
+He wears a brown woolen cap, brown cloak, a chainmail hauberk, a muted yellow tunic, brown pants, a ring belt, and a pair of shoes. He wears a iron Talmundúr amulet, and an iron arm ring. He also sports a baldric scabbard with a viking sword sheathed inside.
+
+
+
+[[PERSONALITY]]
+Sindri is loyal to his position as a knight. He is also described as being obedient, as he does not want to be dismissed of his social position due to his disability. He doesn't like centaurs due to his experience in the raid. He may have a hard time choosing between personal decisions such as what to eat, and is also pretty quiet because people usually talk to him about his missing arm.
+
+
+
+[[Abilities]]
+Sindri speaks Fjallandic as his only language. He can also use a sword with 13 years of experience, however he is only average in combat. Somehow, he's also managed to get by riding horses with one arm, and can also play the board game Plattrægnall.
+
+
+
+[[SORCERY]]
+	Unexplained effects:
+		Fake imagery
+		Fake sounds
+
+	Strike with fire and lightning:
+		Fire

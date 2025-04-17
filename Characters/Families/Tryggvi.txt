@@ -8,7 +8,7 @@ Land:
 
 
 
-                    +-Súndi [M, 944]
+                    +-Sindri [M, 944]
 Tryggvi [M, 920]-+  |
                  |>>+-Brandingi [M, 948]
 Þorvi [F, 923]---+  |

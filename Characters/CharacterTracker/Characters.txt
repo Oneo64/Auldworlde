@@ -1,7 +1,7 @@
 Humans:
 	Áleifr Alfþorinssen
 	Alfrandr
-	King Alfþorin II (King Alfthorin II)
+	King Alfþórr II (King Alfthorin II)
 	Algord
 	Baulnir
 	Brandingi the Earless
@@ -10,9 +10,9 @@ Humans:
 	Ennu
 	Gódir
 	Hammin the Angelic
-	Hjalfr the Uncoverer
+	Hjalvir the Uncoverer
 	Jeiruld Aldorim
-	Kenund
+	Kolr
 	Ljorn
 	Loroðil the Galdrarcrafter (Lorothil)
 	Lucanus
@@ -23,7 +23,7 @@ Humans:
 	Oddius
 	Randúlfr
 	Seyja
-	Súndi One-Arm
+	Sindri One-Arm
 	Thuumikishu
 	Tjorn
 	Ulfrir
