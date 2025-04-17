@@ -19,6 +19,7 @@ Settlements/empires/kingdoms:
 		Tarib (Old Taribian - Taribian)							(450 BCE - Present day)								(Old Taribian: 450 BCE to AD 670, Taribian: AD 670 to Present)
 		Centruma (Old Cantrium - Centrumic)						(AD 410 - Present day)								(Old Cantrium: AD 410 to AD 720, Centrumic: AD 720 to Present)
 		Fjalland (Galabric - Primal Fjallandic - Fjallandic)	(AD 780 - Present day)	(Galabric: AD 640 to AD 710, Primal Fjallandic: AD 710 to AD 810, Fjallandic: AD 810 to Present)
+		Aodesvu (Old Cantrium - Aodesvic)						(AD 170 - Present day)								(Old Cantrium: AD 170 to AD 780, Aodesvic: AD 780 to Present)
 
 	Elf:
 		Floraindelen (Ancient Elvish)							(Some time around Baln's rise, only a few decades)	(Ancient Elvish)
@@ -32,7 +33,6 @@ Settlements/empires/kingdoms:
 		Yûmlathnar (Rànûdan)									(??? - Present day)
 
 		Esrelu (Old Rànûdan - Old Esrel - Esrel)				(AD 20 - Present day)								(Old Rànûdan: AD 20 to AD 50, Old Esrel: AD 50 to AD 600, Esrel: AD 600 to Present)
-		Aodesvu (Old Rànûdan - Aodesvic)						(AD 170 - Present day)								(Old Rànûdan: AD 170 to AD 780, Aodesvic: AD 780 to Present)
 
 	Dwarf:
 		Baln (Primordial)										(Before 2000 BCE - 1770 BCE, became Banir)		(Primordial)
@@ -171,7 +171,9 @@ Heirfgria is created. A group of centaurs traveled north.
 The group of travelers settled in what is now Vatakond.
 
 [AD 170]
-Rànûladàen was renamed to Rànûdel. Some moon elves did not like the change, so they went and created a kingdom called Aodesvu.
+Rànûladàen was renamed to Rànûdel.
+
+Centruma expanded to the east, but due to unfortunate luck (or fortunate?), the eastern settlement became independent. The eastern settlement of Centruma is now known as Aodesvu.
 
 [AD 220]
 The centaur settlement transforms into Vatakond.
