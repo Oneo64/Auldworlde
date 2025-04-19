@@ -3,6 +3,8 @@ Common:
 		Centrumic (English)
 		Fjallandic (Any English accents should be equivalent to an Icelandic one)
 		Taribian (Any English accents should be equivalent to a Persian one)
+		Aodesvic
+		Rotherlandic (Orrm's Early Middle English)
 
 	Elves:
 		Esrel (Cold Elvish)
@@ -11,9 +13,6 @@ Common:
 	Dwarves:
 		Banodic
 		Mornesvian
-
-	Mix:
-		Aodesvic
 
 Uncommon:
 	Daevas/Orcs:

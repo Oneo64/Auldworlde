@@ -1,4 +1,4 @@
-Heir:   Eifnod
+Heir:   Hákon
 Wealth: Wealthy
 
 Land:
@@ -12,6 +12,6 @@ Legend:
   ~   = Alive around in this range of years
 
 Koðrik [M, 914]---+
-                  |>>+-Eifnod [M, 2 April 940]---+
+                  |>>+-Hákon [M, 2 April 940]----+
 Fyraniss [F, 919]-+                              |>>+-Geifnir [M, 28 February 969]
                        Myrfriss [F, 12 July 947]-+

@@ -18,8 +18,9 @@ Settlements/empires/kingdoms:
 
 		Tarib (Old Taribian - Taribian)							(450 BCE - Present day)								(Old Taribian: 450 BCE to AD 670, Taribian: AD 670 to Present)
 		Centruma (Old Cantrium - Centrumic)						(AD 410 - Present day)								(Old Cantrium: AD 410 to AD 720, Centrumic: AD 720 to Present)
-		Fjalland (Galabric - Primal Fjallandic - Fjallandic)	(AD 780 - Present day)	(Galabric: AD 640 to AD 710, Primal Fjallandic: AD 710 to AD 810, Fjallandic: AD 810 to Present)
+		Fjalland (Galabric - Primal Fjallandic - Fjallandic)	(AD 780 - Present day)								(Galabric: AD 640 to AD 710, Primal Fjallandic: AD 710 to AD 810, Fjallandic: AD 810 to Present)
 		Aodesvu (Old Cantrium - Aodesvic)						(AD 170 - Present day)								(Old Cantrium: AD 170 to AD 780, Aodesvic: AD 780 to Present)
+		Rotherland (Cld Cantrium - Rotherlandic)				(AD 560 - Present day)								(Old Cantrium: AD 560 to AD 750, Rotherlandic: AD 750 to Present)
 
 	Elf:
 		Floraindelen (Ancient Elvish)							(Some time around Baln's rise, only a few decades)	(Ancient Elvish)
@@ -203,6 +204,8 @@ A week later, the remaining group established a new settlement: Thaldranga.
 [AD 560]
 The King of Yûmlathnar gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
 
+A group of explorers from Centruma went northwest, and settled a village which they named Middellhallde. Middellhallde eventually became a fortress, and the center of what would become the Kingdom of Rotherland.
+
 [AD 600]
 Thaldranga became Þalmundrynga.
 
@@ -262,7 +265,7 @@ Fjalland launches another military campaign to wipe bandit camps. This time, onl
 Yûmlathnar surprise attacks Bantusea. The attack was partially successful, half the town destroyed. Centruma sent an army to Vatakond, but was intercepted by Vatakond's forces, and were flanked by Yûmlathnar's army mid-battle. Centruma's army retreated.
 
 [AD 966]
-Okrif of Kjartkjofn dies. Eifnod is made the new jarl of Kjartkjofn.
+Okrif of Kjartkjofn dies. Hákon is made the new jarl of Kjartkjofn.
 
 [AD 968]
 Fjalland and Esrelu sends an army to attack Ilimathil, Yûmlathnar, and pillaged it.

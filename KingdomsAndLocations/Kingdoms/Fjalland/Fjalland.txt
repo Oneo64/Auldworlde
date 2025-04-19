@@ -6,7 +6,7 @@ Culture type: Northern Men
 Population: 50,000 in settlements, 200 in fortresses, 2000 in Þuryngard, ~51,700 people in total
 
 Main languages: Fjallandic
-Other languages: Esrel
+Other languages: Esrel, Rotherlandic
 
 Ruler: King Alfþorin II
 

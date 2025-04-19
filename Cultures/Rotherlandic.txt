@@ -1,6 +1,6 @@
-Northern Men
+Rotherlandic Culture
 
-Aesthetic/base: Norse
+Aesthetic/base: Anglo-saxon, Norse
 
 
 
@@ -11,7 +11,6 @@ Aesthetic/base: Norse
 
 [[PREFERENCES]]
 	Preferred weapons:
-		Atgeir
 		Axe
 		Longaxe
 		Longbow (self bow, no recurving)
@@ -19,6 +18,7 @@ Aesthetic/base: Norse
 		Viking/Frankish swords
 
 	Preferred metals:
+		Brass
 		Crucible steel
 		Flint (fletching)
 		Gold
@@ -26,7 +26,9 @@ Aesthetic/base: Norse
 		Silver
 
 	Specifically Prevalent armors:
-		Gjermundbu Helmet
+		Coppergate Helmet
+		Spangenhelm
+		Sutton Hoo Helmet
 
 
 
