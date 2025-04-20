@@ -17,25 +17,25 @@ Deities:
 		Domain:      God of Nature, Storms, and Luck
 		Symbol:      Fjallandic 'T' rune, upside down
 		Other names: Talûsa (Aodesvu), Terevanus (Centruma), Tànûssiel (Rànûdel), Tadhuundar (Banod, Glomdur), Tsakasten (Mornesvid)
-		Commonly worshipped by: Northern Men, Northern Elves
+		Commonly worshipped by: Northern Men, Northern Elves, Rotherlanders
 
-	Lúnanyr:
+	Ljúnandr:
 		Domain:      God of Life, Death, and Nature
 		Symbol:      4 pointed star
 		Other names: Lûnania (Aodesvu), Lunara (Centruma), Lomathelis (Rànûdel), Luunakir (Banod, Glomdur), Lorazin (Mornesvid)
 		Commonly worshipped by: Aodesvic Men
 
-	Jallfaran:
+	Jallfaran, sometimes refered to Auðandr:
 		Domain:      God of Creation and Destruction
 		Symbol:      An eye
 		Other names: Yulvis (Aodesvu), Agarius (Centruma), Yiisessil (Rànûdel), Yorvar (Banod, Glomdur), Edorfil (Mornesvid)
 		Commonly worshipped by: Central Men, Southern Men
 
-	Parhrúgi:
-		Domain:      God of Magic
-		Symbol:      A circle surrounded by 8 smaller circles (each small circle symbolizes a school of magic)
+	Rynneirr:
+		Domain:      God of Magic and the Wondrous
+		Symbol:      A circle surrounded by 8 smaller circles
 		Other names: Pöldànis (Aodesvu), Parletha (Centruma), Pönanis (Rànûdel), Padhuuki (Banod, Glomdur), Plakisael (Mornesvid)
-		Commonly worshipped by: Yûmlathnaric Elves, Centaurs, Rànûdan Elves (less commonly)
+		Commonly worshipped by: Yûmlathnaric Elves, Centaurs, (less commonly) Rànûdan Elves
 
 	Hærrulfyr:
 		Domain:      God of Emotions
