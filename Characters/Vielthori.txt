@@ -4,12 +4,12 @@ Female
 Age: 19 (born 954, march 5)
 Alignment: Lawful Good
 Ethnicity: Aodesvic
-Race:      Human Seeress (innate)
+Race:      Human
 
 
 
 [[DESCRIPTION]]
-Vielthöri is a celestial human who magically leans towards Lünanyr (called Lûnania in Aodesvu regions), and was born in Pendlas Mus. She has green eyes, pale skin, and long light blonde hair. She wears a purple surcoat bearing Lünanyr's symbol (which is a four pointed star), a grey tunic, brown pants, a buckled belt, and a pair of boots. She is 165 (5'5) centimeters tall.
+Vielthöri has green eyes, pale skin, and long light blonde hair. She wears a purple surcoat bearing Ljúnandr's symbol (which is a four pointed star), a grey tunic, brown pants, a buckled belt, and a pair of boots. She is 165 (5'5) centimeters tall.
 
 She wears a metal helmet with a brass rim in combat. She carries a spatha in a blue scabbard, and a blue Norman kite shield slung across her back.
 
@@ -23,7 +23,7 @@ Vielthori is friendly, and generous, also described as meddlesome as she likes t
 
 
 [[ABILITIES]]
-Vielthöri speaks Aodesvic as her mother tongue, and learned Centrumic (English). She has only little experience with her sword and shield, gained from defending her town from a small group of vamerks with the help of the town's guards. Because Vielthöri is a seeress, she can also use Seidr, and has some experience with it.
+Vielthöri speaks Aodesvic as her mother tongue, and learned Centrumic (English). She has only little experience with her sword and shield, gained from defending her town from a small group of vamerks with the help of the town's guards. Because Vielthöri is a seeress, she would also practice Seidr.
 
 
 
