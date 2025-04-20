@@ -6,7 +6,7 @@ Creature Habitats (if an animal isn't present here, then they will follow their 
 	Mountains:							Fire Elemental, Frost Dragon
 	Snowy Mountains:					Frost Dragon, Ice Elemental
 
-	All Forests:						Centaur (they are more prominent in some forests), Gvarth (rare), Satyr
+	All Forests:						Centaur (they are more prominent in some forests), Gvarth (rare)
 	Elûniel:							Frost Dragon, Ice Elemental
 	Jungles:							Daeva, Manticore
 	Centrumic Forests:					Great Leafbug
@@ -18,7 +18,7 @@ Creature Habitats (if an animal isn't present here, then they will follow their 
 
 	Urban:								Ghost, Golem
 
-	Furnalfa:							Centaur, Dryad, Faerie Hare, Gvarth, Satyr
+	Veldalfheimr:						Centaur, Dryad, Faerie Hare, Gvarth
 	Plane of Earth and Stone:			Earth Elemental, Stone Elemental
 
 
@@ -67,7 +67,7 @@ Manticore (large beast):
 ====================================================================================================
 DEMONS
 ----------------------------------------------------------------------------------------------------
-Demons are never created on the material plane, and they are either souls who escaped Hel to the material plane, or manifestations of pure evil.
+Demons are never created in Miðjorðr, and they are either souls who escaped Hel to Miðjorðr, or manifestations of pure evil.
 ====================================================================================================
 
 Daeva (large fiend):
@@ -136,7 +136,7 @@ Elementals are natural manifestations of Talmundur, or spawn inside of elemental
 ====================================================================================================
 
 Earth Elemental:
-	Earth elementals are natural manifestations inside of Sotjorðr.
+	Earth elementals are natural manifestations inside of Sottjorðr.
 
 	Description:
 		Earth elementals looks like a hulking humanoid completely made of chunks of earth. Earth elementals don't have a face, but they can see normally. Earth elementals may have grass growing on the top side of their bodies. Some may even adorn themselves with flowers and vines.
@@ -148,7 +148,7 @@ Earth Elemental:
 
 		Earth elementals are able to speak Primordial, despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other elementals. Some earth elementals may even form groups, and have a name for themselves.
 
-		Because of the fragility of earth, some earth elementals who find themselves on the material plane may wrap themselves in cloth, in attempt to secure and hold their body together.
+		Because of the fragility of earth, some earth elementals who find themselves in Miðjorðr may wrap themselves in cloth, in attempt to secure and hold their body together.
 
 
 
@@ -198,13 +198,13 @@ Stone Elemental:
 
 
 ====================================================================================================
-FEY
+FEY | FAERIES
 ----------------------------------------------------------------------------------------------------
-Fey are natural inhabitants of Furnalfa, realm of pure nature.
+Fey are natural inhabitants of Veldalfheimr, realm of pure nature.
 ======================================================================================================================================================
 
 Centaur (medium fey):
-	A centaur is a half man half horse found in Furnalfa and Talygva (material plane). They live in groups, small kingdoms, or the such.
+	A centaur is a half man half horse found in Veldalfheimr and Miðjorðr. They live in groups, small kingdoms, or the such.
 
 	Description:
 		A centaur is a hybrid, with the upper body of a human and the lower body of a horse. The horse's fur usually extends all the way up to the centaur's neck, and to their wrists.
@@ -212,12 +212,12 @@ Centaur (medium fey):
 		Centaurs matures by 20, and lives up to 150 years old.
 
 	Abilities:
-		Centaurs that live in or came from Furnalfa speak Druidic and Sylvan. If they came from Talygva, they might speak Druidic, Sylvan, Sylvendric, any elvish variant, or a combination of the four.
+		Centaurs that live in or came from Veldalfheimr speak Druidic and Sylvan. If they came from Miðjorðr, they might speak Druidic, Sylvan, Sylvendric, any elvish variant, or a combination of the four.
 
 
 
 Dryad (medium fey):
-	Dryads are native to Furnalfa. They are bound to their own tree. Then that tree is killed, the dryad becomes chaotic neutral, and will attempt to kill the person who harmed their tree.
+	Dryads are native to Veldalfheimr. They are bound to their own tree. Then that tree is killed, the dryad becomes chaotic neutral, and will attempt to kill the person who harmed their tree.
 
 	Description:
 		A dryad appears to be a beautiful woman that is completely green. She seems to be naked, however there is thick green mist to cover her private appendages. She radiates green mist from every part of her body.
@@ -225,19 +225,19 @@ Dryad (medium fey):
 		Dryads mature by 20, and live up to 300 years old.
 
 	Abilities:
-		A dryad is able to unlimitedly carve all types of magical staves and perform all druidry. She is also able to control dreams, possess creatures, and willingly travel from Furnalfa to the material realm and vice versa. She will always know the location of her tree, unless it is destroyed.
+		A dryad is able to unlimitedly carve all types of magical staves and perform all druidry. She is also able to control dreams, possess creatures, and willingly travel from Veldalfheimr to Miðjorðr and vice versa. She will always know the location of her tree, unless it is destroyed.
 
 		Dryads are able to speak Druidic and Sylvan.
 
 
 
 Faerie Hare (small fey):
-	A faerie hare is a hare that lives in Furnalfa.
+	A faerie hare is a hare that lives in Veldalfheimr.
 
 	Description:
 		A faerie hare looks like a normal hare. It's fur color is normally a mix of brown and tan. When it moves, it's paws emit a faint green mist. It's eye colors are always green, and slightly glows in the dark.
 
-		Usually if there is any fey activity in the material realm, it attracts faerie hares to go and take a look.
+		Usually if there is any fey activity in Miðjorðr, it attracts faerie hares to go and take a look.
 
 		Faerie hares are active at night, and can only be seen by other fey. When a faerie hare runs over someone's farmland, they can see the hare in their dream.
 
@@ -259,17 +259,6 @@ Gvarth (huge fey):
 
 
 
-Satyr (medium fiend):
-	A satyr is a goatman who roams forests and mountains.
-
-	Description:
-		A satyr is a goatman. They have the body of a man, the legs of a goat, a flimsy tail like a horse, and small goat horns that protrude from their foreheads. Their genitals are always either erect or at least extremely large. They are usually always trying to get drunk, cause mischief or chaos, and mostly engage in sexual behavior. They are also always trying to seduce women, not caring for their race and species unless they're not humanoid.
-
-	Abilities:
-		Satyrs can live twice as long as a human, similar to a moon elf. They can speak Sylvan.
-
-
-
 ====================================================================================================
 UNDEAD
 ----------------------------------------------------------------------------------------------------
@@ -277,21 +266,21 @@ Undead are either reanimated corpses by magic, or resurrected corpses due to nat
 ====================================================================================================
 
 Draugr (medium undead):
-	Some draugar are because their former self were cursed. One way to prevent their rise is to make sure they're laying down, and their hands and feet are bound together.
+	A draugr is a revenant who comes alive. Many draugar come to be because they were cursed, but some may rise because they weren't buried properly. One way to prevent their rise is to ensure they are laying down, and their hands and feet are bound together.
 
 	Description:
-		Draugar looks like a zombie, however they have almost the same mental capacity and combat prowess as they had when they died.
+		Some draugar might look like they're covered in ash, with grey skin, completely white eyes, and sparse grey hair. Some might be bloated at their stomach and completely black as if they were burnt. But whatever appearance they may have, they will always seem like a walking corpse.
 
-		Some draugar might look like they're covered in ash, with grey skin, completely white eyes, and sparse grey hair. Some might be bloated at their stomach and completely black as if they were burnt.
+		When a draugr is in their burial place, they will remain "dead" undisturbed. But if one disturbs their tomb, whether it is to touch any of their belongings or the draugr itself, the draugr will rise and protect its belongings. If a draugr comes to be, but it wasn't buried in a tomb, it will simply rise and haunt the living.
 
-		Usually when a draugr in their burial place rises, then they will dwell at their death place and protect their objects. Occasionally during the night, they leave their death place to pillage houses or kill animals, and will return once the sun starts rising. Other than killing animals, a draugar rarely attacks anyone unless they invaded their tomb.
+		Even though draugar can speak, they don't use it to talk to others. Instead, they mostly use their voice to chant incantations.
 
 	Abilities:
 		Despite being undead, draugar can move as if they were alive, albeit with a little stagger. They are twice as strong compared to men, can see in the dark, and can't be poisoned or exorcised. To kill a draugr, their head must be decapitated or removed.
 
 		Some draugar, like Joki's description of them, had the ability to vanish into the air and appear elsewhere. Others could turn their heads a full circle around, or enter the dreams of other people. Some were said to practice Seidr and curse anyone who tried to enter their domain.
 
-		Draugar can still speak, but their voice sounds raspy and deep.
+		Draugar can still speak, but their voice sounds raspy and deep. Since most draugr are more than a hundred years old, they might speak an ancient language no one understands.
 
 
 
@@ -310,37 +299,37 @@ Rotten Gvarth (huge undead):
 
 
 
-Skeleton (medium undead):
-	A skeleton raised by magic.
+Boneman (medium undead):
+	Bonemen are corpses reanimated by black magic.
 
 	Description:
-		A skeleton of a humanoid that's been reanimated by magic.
+		A boneman is often the skeleton of a humanoid, usually those of a human or elf, reanimated by black magic.
 
 	Abilities:
-		These things are dim-witted, and know just enough to use a weapon. They only understand the languages of it's creator, but cannot speak.
+		Bonemen are dim-witted, yet know just enough to use a weapon. They only understand the languages of it's creator, but cannot speak.
 
 
 
 Wraith (medium undead):
-	A wraith is a maleviolent spirit that will roam the world and kill living creatures. When someone is cursed to become a wraith and they die, they'll come out of their body as a wraith.
+	Wraiths are maleviolent spirits that roam the world, killing living creatures. One becomes wraith if they were cursed to become one, then killed.
 
 	Description:
 		A wraith appears to be a dark brown dirt-resembling ghost missing it's lower half. It's body is zombie-like and rotten, and it is wearing any armor or clothing it died with.
 
 	Abilities:
-		Wraiths move by flying in the air. Wraiths are corporeal, and can pick items up to use them, but they prefer to use whatever weapon they died with. The wraith's body (not the armor or weapons) is extremely fragile, and will die instantly if they're sliced through. They're also slippery and can fit into small spaces like a cat.
+		Wraiths move by flying in the air. Wraiths are corporeal and can use things around them, but they prefer to use the equipment they had before their previous death. The wraith's body (not the armor or weapons) is extremely fragile, and will die instantly if they're sliced through.
 
-		Wraiths cannot be burnt nor frozen, but they are weak to sunlight and will slowly disintegrate upon touching it. But if their body returns to any shade, the disintegrated parts will manifest back. When a wraith dies, it falls down and disintegrates into a pile of wraith dust.
+		Wraiths cannot be burnt nor frozen, but they are weak to sunlight and will slowly disintegrate upon touching it. But if their body returns to any shade, they will regain their limbs that were lost in the sunlight. When a wraith dies in shade, it turns to ash and falls down.
 
 		Wraiths can see in pitch black. They can't speak or use any magic.
 
 
 
 Zombie (medium undead):
-	Zombies are corpses reanimated by magic.
+	Zombies are corpses reanimated by black magic.
 
 	Description:
-		Zombies are corpses reanimated by magic. Their appearance can range from seemingly alive to rotting, depending on how long they've been dead. A seemingly alive one means they were recently killed. A rotting one means they were killed within a few week. A bloated one means they were killed within a couple of months. If a zombie is really old, it's flesh rots off and it's a skeleton instead.
+		Zombies are corpses of humanoids, often those of men or elves, reanimated by black magic. Their appearance can range from seemingly alive to rotting, depending on how long they've been dead. A seemingly alive one means they were recently killed. A rotting one means they were killed within a few week. A bloated one means they were killed within a couple of months. If a zombie is really old, it's flesh rots off and it's a skeleton instead.
 
 	Abilities:
-		These things are dim-witted, and know just enough to use a weapon. They only understand the languages of it's creator, but cannot speak.
+		Zombies are dim-witted, yet know just enough to use a weapon. They only understand the languages of it's creator, but cannot speak.

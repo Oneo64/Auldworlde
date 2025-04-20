@@ -1,16 +1,16 @@
 All names below, unless specified, are the Fjallandic name for it.
 
 Planes/Realms:
-	Varygjorðr  = Material realm
+	Miðjorðr      = Material realm
 
-	Gjornhleitr = Good afterlife (LG, paradise realm to good people)
-	Hel         = Bad afterlife (CG, punishment realm to evil people)
+	Gjóðheimr     = Good afterlife (LG, paradise realm to good people)
+	Hel           = Bad afterlife (CG, punishment realm to evil people)
 
-	Furnalfa    = Realm of Fey and Pure Nature (N, infinite dark lush green forest)
-	Sotjorðr    = Realm of Earth and Stone
+	Veldalfheimr  = Realm of Fey and Pure Nature (N, infinite dark lush green forest)
+	Sottjorðr     = Realm of Earth and Stone
 
 Other dimensions:
-	Maresil     = Astral plane
+	Andheimr  = Astral plane
 
 Deities:
 	Talmundúr:

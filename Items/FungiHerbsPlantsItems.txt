@@ -6,8 +6,7 @@ Habitats:
 	Forests of Rànûdel:							Amethyst Gorbry, Jadeblossom, Moonshroom
 	Heirfgrian Forest:							Jadeblossom, Moonshroom
 
-	Furnalfa:									Jadeblossom
-
+	Veldalfheimr:								Jadeblossom
 	Plane of Earth and Stone:					Dark Lichen
 
 
