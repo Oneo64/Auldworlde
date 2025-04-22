@@ -1,7 +1,7 @@
 Dagnir
 
 Male
-Age: 48 (born 925)
+Age: 38 (born 935)
 Alignment: Neutral
 Ethnicity: Fjallander
 Race:      Human
@@ -9,14 +9,18 @@ Race:      Human
 
 
 [[DESCRIPTION]]
-Dagnir has long black wavy hair, a full messy beard, and dark eyes. He has slight wrinkles due to old age. He lives in the western area of Argánlaf.
+Dagnir has long black wavy hair, a full messy beard, and dark eyes. His nose is pointed and crooked. He lives in the western area of Argánlaf.
 
-He wears a dark brown cloak, a dark yellow tunic, dark pants, a belt, and a pair of boots. He carries a sheathed seax on his belt.
+He wears a dark brown cloak, a dark yellow tunic, dark pants, a belt, and a pair of boots. He carries a woodcutting axe and a sheathed seax on his belt. Despite being from the lower working class, Dagnir's breath almost never has the smell of alchohol as strong as others, since he drinks straight from the freshwater river.
+
+At his house, he has a carrot farm.
 
 
 
 [[PERSONALITY]]
-Dagnir is devious and sometimes reckless, yet shows cowardice to things he doesn't understand (like magic) or people with political power. Despite his cowardice, he doesn't fear small insects like centipedes or roaches, and would pick them up and throw them away if needed. For some reason, he talks faster than others.
+Dagnir is devious and sometimes reckless, yet shows cowardice to things he doesn't understand (like magic) or people with political power. Despite his cowardice, he doesn't fear small insects like centipedes or roaches, and would pick them up and throw them away if needed. Since he goes around the village daily, he knows almost every rumor that has been going around the village. He is also the sort of person to engage in gossip. And lastly, he doesn't flirt, but he doesn't discourage it.
+
+There is currently a running gag where Dagnir is Hersir Randúlfr's spy. Even Dagnir has embraced the gag and would play along just to mess with people, or to make himself seem significant.
 
 
 
