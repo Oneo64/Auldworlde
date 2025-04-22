@@ -9,7 +9,7 @@ Race:      Human
 
 
 [[DESCRIPTION]]
-Yngvild is a human from Argánlaf. Her hair is dark blond and wavy, which reaches to her armpits. Her are dark pale blue, and has fair skin. She wears a long yellow tunic down to her ankles, a ring belt, and a pair of shoes. She has a small seax sheathed on her belt. She wears an iron Talmundúr amulet. She is 163 (5'4) centimeters tall.
+Yngvild has dark blond and wavy hair, which reaches to her armpits. Her are dark pale blue, and has fair skin. She wears a long yellow tunic down to her ankles, a ring belt, and a pair of shoes. She has a small seax sheathed on her belt. She wears an iron Talmundúr amulet. She is 163 (5'4) centimeters tall.
 
 Yngvild and Meyrúna are friends from childhood.
 
@@ -21,4 +21,4 @@ Yngvild is generally optimistic, and can be playful at times. She also has a sli
 
 
 [[ABILITIES]]
-The only language Yngvild can speak and understand is Fjallandic, her native language.
+The only language Yngvild can speak and understand is Fjallandic, her native language. Yngvild can also play the talharpa well.
