@@ -7,6 +7,7 @@ Population: 50,000 in settlements, 200 in fortresses, 2000 in Þuryngard, ~51,70
 
 Main languages: Fjallandic
 Other languages: Esrel, Rotherlandic
+Main Writing System: Fjallandic Runes (or Elder Futhark, if it must be in computer text)
 
 Ruler: King Alfþorin II
 

@@ -7,6 +7,7 @@ Population: 20,000 people in villages, 950 people in towns, ~20,950 people
 
 Main language: Esrel
 Other languages: Fjallandic
+Main Writing System: Elven Runes
 
 Ruler: Ildiyre (gal)
 

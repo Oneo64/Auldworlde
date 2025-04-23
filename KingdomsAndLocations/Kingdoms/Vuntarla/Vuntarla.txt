@@ -6,6 +6,7 @@ Culture type: Northern Men
 Population: ~1000 people
 
 Main language: Esrel, Fjallandic
+Main Writing System: Elven Runes
 
 Ruler: King Sûvisgarn
 

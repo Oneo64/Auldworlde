@@ -6,6 +6,7 @@ Culture type: Central Men
 Population: 25,000 people in towns, 30,000 people in cities, 55,000 people in total
 
 Main languages: Centrumic (English)
+Main Writing System: Latin Alphabet
 
 Ruler: Taevus
 

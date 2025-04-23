@@ -6,6 +6,7 @@ Culture type: Moon Elvish
 Population: 30,000 people in settlements, 3000 people in Emeröreslu, ~33,000 people in total
 
 Main languages: Rànûdan
+Main Writing System: Elven Runes
 
 Ruler: King Vasolas
 
