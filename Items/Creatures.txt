@@ -132,7 +132,7 @@ Fire Dragon:
 ====================================================================================================
 ELEMENTALS
 ----------------------------------------------------------------------------------------------------
-Elementals are natural manifestations of Talmundur, or spawn inside of elemental planes.
+Elementals are natural manifestations of Talmundur, or spawn inside of elemental planes. All elementals have a core, which is called an elemental core. This core is the thing that gathered the materials together to form the elemental. To destroy an elemental, either it's head must be destroyed, or it's core must be removed.
 ====================================================================================================
 
 Earth Elemental:
