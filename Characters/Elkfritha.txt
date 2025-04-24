@@ -1,0 +1,33 @@
+Elkfriða
+
+Female
+Age: 21 (born 952, January 27)
+Alignment: Neutral Good
+Ethnicity: Fjallander
+Race:      Human
+
+
+
+[[DESCRIPTION]]
+Elkfriða is a druid from Lismerlaf. She has grey eyes, and pale skin, which her face is covered with freckles. Her hair is light brown, done into a half-up half-down crown braid. She is 160 (5'3) centimeters tall, and has a petite figure.
+
+She wears a brown cloak, long muted green tunic with brown accents, baggy grey pants, a belt, and a pair of shoes. She wears a necklace made of raw malachite and jade beads, and also an iron Talmundúr amulet.
+
+She carries around a plain 'staff', which is only a long straight branch.
+
+
+
+[[PERSONALITY]]
+Elkfriða is pleasant yet energetic, and has an optimistic view of the future. She likes to talk to people about things such as nature and sometimes about the common gossip. However she is easily distracted by anything to do with nature, and is willing to take unneccessary risks.
+
+
+
+[[ABILITIES]]
+Many years ago, Elkfriða gained some experience from raiding a castle ruins with his brother and another two warriors from Argánlaf. But despite their group faced two draugar, she didn't really engage in combat. She speaks Fjallandic as her native language, and she also speaks Druidic.
+
+
+
+[[DRUIDRY]]
+	Bloom flowers or make them wither
+	Talk to animals
+	Heal wounds
