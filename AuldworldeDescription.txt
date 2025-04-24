@@ -60,6 +60,16 @@ MEN:
 		Culture is Aodesvic
 		Political structure is elected autocracy
 
+	Þafnorðarleit:
+		Main language is Fjallandic
+		Culture is Northern Men
+		Political structure is feudal absolute monarchy
+
+	Rotherland:
+		Main language is Rotherlandic
+		Culture is Rotherlandic
+		Political structure is feudal absolute monarchy
+
 ELVES:
 	Esrelu:
 		Main language is Esrel
