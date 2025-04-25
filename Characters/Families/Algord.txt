@@ -20,25 +20,28 @@ Current people in the longhouse with the three farms (3): Gorðr, Vorða, Svan
 Legend:
   >>  = 1 generation
   >>> = More than 1 generations
-  ~   = Alive around in this range of years
 
-                                                                                                                                                               Vorða [F, 4 October 945]---+
-                                                                                                                                                                                          |
-                                                                                                                                                             +-Lalfrel [F, 28 July 941]   +>>+-Svan [M, 18 June 968]
-Haldigr I [810 ~ 860]-+>>>>+-Haldigr II [830 ~ 880]>>+-Júlfr [M, 863 - 883]-----------+                                    +-Anru [F, Early 50s]>>           |                            |
-                                                                                      |                                    |                                 +-Gorðr [M, 26 May 942]------+
-                                                       Ljora [F, 866 - 936]-----------+  +-Iðunn [F, 893 - 883]            +-Fraldr [M, 4 March 917]------+>>|
-                                                                                      |  |                                 |                              |  +-Ærínd [F, 13 August 943]
-                                                                                      +>>+-Haldigr III [M, 894 - 970]---+  | Ynúdis [917 - 963]-----------+
-                                                                                                                        |  |
-                                                                                                                        |  |                                 +-Ulfrir [M, 13 January 946]
-                                                                                           Amja [F, 892 - 966]----------+>>+-Algord [M, 26 August 915]----+  |
-                                                                                                                                                          |  +-Ljorn [M, 2 December 947]
-                                                                                                                                                          +>>|
-                                                                Mægnod I [M, 857 - 915]>>+-Bjoll [M, 894 - 964]---------+                                 |  +-Yngvild [F, 1 May 950]
-                                                                                                                        |>>+-Mifrún [F, 19 September 917]-+  |
-                                                                                           Elfreida [F, 5 February 893]-+  |                                 +-Alfrir [M, 17 August 952]
-                                                                                                                           +-Mægnod II [M, 7 March 914]
+---------------------------------------------------------------
+
+
+
+                                                                                                                                                                       Vorða [F, 28 years old]----+
+                                                                                                                                                                                                  |
+                                                                                                                                                                     +-Lalfrel [F, 32 years old]  +>>+-Svan [M, 5 years old]
+Haldigr I [(draugr)]-+>>>>+-Haldigr II [(deceased)]>>+-Júlfr [M, (killed in battle)]-+                                   +-Anru [F, Early 50s]>>                     |                            |
+                                                                                     |                                   |                                           +-Gorðr [M, 31 years old]----+
+                                                       Ljora [F, (deceased)]---------+  +-Iðunn [F, (killed in battle)]  +-Fraldr [M, 56 years old]---------------+>>|
+                                                                                     |  |                                |                                        |  +-Ærínd [F, 22 year old]
+                                                                                     +>>+-Haldigr III [M, (deceased)]-+  | Ynúdis [F, (deceased at 46 years old)]-+
+                                                                                                                      |  |
+                                                                                                                      |  |                             +-Ulfrir [M, 28 years old]
+                                                                                          Amja [F, (deceased)]--------+>>+-Algord [M, 57 years old]-+  |
+                                                                                                                                                    |  +-Ljorn [M, 25 years old]
+                                                                                                                                                    +>>|
+                                                              Mægnod I [M, (deceased)]>>+-Bjoll [M, (deceased at 70)]-+                             |  +-Yngvild [F, 23 years old]
+                                                                                                                      |>>+-Mifrún [F, 55 years old]-+  |
+                                                                                          Elfreida [F, 80 years old]--+  |                             +-Alfrir [M, 20 years old]
+                                                                                                                         +-Mægnod II [M, Early 50s]
 
 
 
