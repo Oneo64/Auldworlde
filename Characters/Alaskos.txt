@@ -6,6 +6,8 @@ Alignment: Neutral
 Ethnicity: Esrel
 Race:      Cold Elf
 
+Daughter: Zelessie
+
 
 
 [[DESCRIPTION]]
@@ -23,4 +25,4 @@ Alaskös acts calm, and sometimes act excessively elegant or regal.
 
 
 [[ABILITIES]]
-Alaskös has 25 years of experience fighting with a flanged mace and kite shield, making him skilled with the weaponry he has. As a cold elf he speaks Esrel as his native tongue, but that is the only language he knows. He also has skill in stealth, and is able to quietly move if he wants.
+Alaskös has 25 years of experience as a guard. He is skilled with the weaponry he has, making him one of the more valued fighters in Minbaslûind. As a cold elf he speaks Esrel as his native tongue, but that is the only language he knows. He also has skill in stealth, and is able to quietly move if he wants.

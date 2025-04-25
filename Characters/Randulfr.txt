@@ -6,14 +6,14 @@ Alignment: Neutral Good
 Ethnicity: Fjallander
 Race:      Human
 
+Wife:      Bjork
+
 
 
 [[DESCRIPTION]]
 Randúlfr is Argánlaf's current hersir. His hair is shoulder-length black and wavy, his eyes are blue, and has fair skin.
 
-He wears a red triangular fur hat, dark brown cloak, a blue tunic with slight red embroidery, red pants, a buckled belt, and a pair of boots. He wears a necklace of bear claws and one iron Talmundúr amulet, and a silver arm ring on his left arm. He has a baldric scabbard with a viking sword sheathed inside. He has coin purse and a pouch on his belt.
-
-He also has a suit of mail, a hauberk, which he wears all the time.
+Randúlfr wears a red triangular fur hat, dark brown cloak, a blue tunic with slight red embroidery, red pants, a buckled belt, and a pair of boots. And over that he wears a hauberk all the time. He wears a necklace of bear claws and one iron Talmundúr amulet, and a silver arm ring on his left arm. He has a baldric scabbard with a viking sword sheathed inside. He has coin purse and a pouch on his belt.
 
 He has a scar from a sword slash starting from his right shoulder down to his left ribs, gained during a centaur raid.
 
@@ -29,6 +29,4 @@ He has strong Fjallandic accent, and speaks Rotherlandic weirdly. When speaking 
 
 
 [[ABILITIES]]
-Randúlfr speaks Fjallandic as his native language. He also knows some Rotherlandic (Early Middle English).
-
-He has 13 years of sword experience, and us above the average warrior with the same weaponry. He also practices horseriding, and plays the board game Plattrægnall.
+Randúlfr has many years of sword experience, and is above average in skill. He has skill in horse riding, and plays the board game Plattrægnall. He speaks Fjallandic as his native language, and knows some Rotherlandic (Early Middle English).

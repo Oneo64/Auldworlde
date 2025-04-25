@@ -6,6 +6,14 @@ Alignment: Neutral Good
 Ethnicity: Fjallander
 Race:      Human
 
+Father:    Bjoll (passed away)
+Mother:    Elfreida
+Brother:   Mægnod II
+
+Husband:   Algord
+Sons:      Ulfrir, Ljorn, Alfrir
+Daughter:  Yngvild
+
 
 
 [[DESCRIPTION]]

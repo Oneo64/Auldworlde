@@ -6,6 +6,18 @@ Alignment: Chaotic Good
 Ethnicity: Centrumian
 Race:      Human
 
+Father:    Geren
+Mother:    Donnobel
+Brother:   Havus
+Sister:    Jadet
+
+Grandfather: Torzus, Barrex (died from disease)
+Grandmother: Frela (passed away), Haidet (passed away)
+
+Uncles:    Enoraz, Halevar II
+Aunts:     Morya, Yorwyn
+Cousins:   Klorvas, Ireya, Boras
+
 
 
 [[DESCRIPTION]]

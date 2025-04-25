@@ -6,6 +6,8 @@ Alignment: Neutral
 Ethnicity: Rànûdan
 Race:      Moon Elf
 
+Brother:   Sasöl
+
 
 
 [[DESCRIPTION]]
@@ -21,4 +23,6 @@ Melethör is calm and somewhat playful. Like his brother (Sasöl), he would some
 
 
 [[ABILITIES]]
-Melethör speaks Rànûdan and Centrumic (English). However, when he does speak in English, he usually uses an OSV word order. Melethör has around 25 years of experience with his halberd. He is proficient in acrobatics and stealth, evident when he can silently perch on a tree branch or hop between them without falling.
+Melethör speaks Rànûdan and Centrumic (English). However, when he does speak in English, he usually uses an OSV word order. He is proficient in acrobatics and stealth, evident when he can silently perch on a tree branch or hop between them without falling.
+
+In combat, Melethör is above average with his halberd. If he loses his halberd in a fight, he can pull his scimitar out as a backup, but he isn't as skilled with it compared to when he has his halberd.

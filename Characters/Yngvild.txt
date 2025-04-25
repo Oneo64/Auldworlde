@@ -6,6 +6,17 @@ Alignment: Neutral Good
 Ethnicity: Fjallander
 Race:      Human
 
+Father:    Algord
+Mother:    Mifrún
+Brothers:  Ulfrir, Ljorn, Alfrir
+
+Grandfather: Haldigr III (passed away), Bjoll (passed away)
+Grandmother: Elfreida, Amja (passed away)
+
+Uncles:    Fraldr, Mægnod II
+Aunt:      Anru
+Cousins:   Lalfrel, Gorðr, Ærínd
+
 
 
 [[DESCRIPTION]]

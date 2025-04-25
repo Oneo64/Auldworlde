@@ -1,0 +1,26 @@
+Sága
+
+Female
+Age: Early-20s
+Alignment: Neutral
+Ethnicity: Fjallander
+Race:      Human
+
+Father:    Hjalvir
+
+
+
+[[DESCRIPTION]]
+Sága has long black hair, pale green eyes, and has fair skin.
+
+She wears a dark cloak, a dark red tunic, dark pants, a ring belt, a pair of shoes, and an iron Talmundúr amulet. She also wears a nasal helmet in combat.
+
+
+
+[[PERSONALITY]]
+Sága, like her father, is adventurous and curious. She is also talkative, but isn't overly extroverted.
+
+
+
+[[ABILITIES]]
+Sága speaks Fjallandic as her native language. Sága sports a sword and shield, but isn't very good at it.

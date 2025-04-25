@@ -6,6 +6,18 @@ Alignment: Neutral
 Ethnicity: Fjallander
 Race:      Human
 
+Father:    Algord
+Mother:    Mifrún
+Brothers:  Ulfrir, Ljorn
+Sister:    Yngvild
+
+Grandfather: Haldigr III (passed away), Bjoll (passed away)
+Grandmother: Elfreida, Amja (passed away)
+
+Uncles:    Fraldr, Mægnod II
+Aunt:      Anru
+Cousins:   Lalfrel, Gorðr, Ærínd
+
 
 
 [[DESCRIPTION]]
@@ -29,6 +41,6 @@ Alfrir can only speak Fjallandic. Sometimes he picks up small hints from an Engl
 
 Alfrir has combat experience from raiding a castle ruins, fighting against couple of draugar. This raiding was with his brother Ljorn, and two other people (Baulnir and Elkfriða).
 
-He has six years worth of spear fighting experience and practice, and makes him above average in combat with his spear. He usually likes to fight safely by keeping a distance with his shield in front of him, waiting for an opening to strike.
+He has six years worth of spear fighting practice, and makes him above average in combat with his spear. He usually likes to fight safely by keeping a distance with his shield in front of him, waiting for an opening to strike.
 
 He also plays Plattrægnall.

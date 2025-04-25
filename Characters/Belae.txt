@@ -6,6 +6,9 @@ Alignment: Neutral Good
 Ethnicity: Esrel
 Race:      Cold Elf
 
+Father:    Töraf
+Mother:    Säelri
+
 
 
 [[DESCRIPTION]]

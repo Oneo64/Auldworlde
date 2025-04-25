@@ -6,6 +6,8 @@ Alignment: Neutral
 Ethnicity: Rànûdan
 Race:      Moon Elf
 
+Brother:   Melethör
+
 
 
 [[DESCRIPTION]]
@@ -23,6 +25,4 @@ Sasöl is calm and somewhat playful, albeit a silent type of playful. He would s
 
 
 [[ABILITIES]]
-Sasöl speaks Rànûdan and Centrumic (English). However, when he does speak in English, he usually uses an OSV word order. Initially, he had about a year of training and thirty-two years of patrol experience.
-
-He is also proficient in acrobatics and stealth, evident when he can silently perch on a tree branch or hop between them without falling.
+Sasöl speaks Rànûdan and Centrumic (English). However, when he does speak in English, he usually uses an OSV word order. Initially, he had about a year of training and thirty years of patrol experience. Additionally, he is proficient in acrobatics and stealth, as seen when he can silently perch on a tree branch or hop between them without falling.

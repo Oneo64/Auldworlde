@@ -11,9 +11,9 @@ Race:      Human
 [[DESCRIPTION]]
 Gódir has wavy light brown hair that is shoulder-length, grey hooded eyes, and fair skin.
 
-He wears a brown woolen cap, a woolen brown cloak held by a brooch, a muted blue tunic, brown pants, a belt and a pair of boots. His belt carries a leather pouch, a 12-inch seax, and a waterskin. He wears an iron Talmundúr amulet. He is 173 (5'8) centimeters tall.
+He wears a brown woolen cap, a woolen brown cloak held by a brooch, a muted blue tunic, brown pants, a belt and a pair of shoes. His belt carries a leather pouch, a 12-inch seax, and a waterskin. He wears an iron Talmundúr amulet. He is 173 (5'8) centimeters tall.
 
-He can be found at his house either checking his family's farm for weeds, inside his house brewing potions, wandering in the local markets, or wandering in the forest for whatever reason (most likely looking for potion ingredients).
+Gódir works as a potion brewer. He can be found at his house either checking his family's farm for weeds, inside his house brewing potions, wandering in the local markets, or wandering in the forest for whatever reason (most likely looking for potion ingredients).
 
 
 

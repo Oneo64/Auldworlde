@@ -1,10 +1,12 @@
 Hjalvir the Uncoverer
 
 Male
-Age: 41
+Age: Early-40s
 Alignment: Chaotic Neutral
 Ethnicity: Fjallander
 Race:      Human
+
+Daughter:  Sága
 
 
 
@@ -16,7 +18,7 @@ He wears a dark cloak, a muted red tunic, dark pants, a ring belt, and a pair of
 
 
 [[PERSONALITY]]
-Hjalvir is described as arrogant. He likes to talk to people but can be a little stubborn and argumentative, usually defending anything he believes until he is directly proven wrong. However he can be explorative, wanting to see something for himself rather than merely listening to stories of it. Because of his explorative personality, he is willing to join any adventuring or exploring party just to experience the "old stories".
+Hjalvir is arrogant, and sometimes a little rowdy. He likes to talk to people but can be a little stubborn and argumentative, usually defending anything he believes until he is directly proven wrong. However he can be explorative, wanting to see something for himself rather than merely listening to stories of it. Because of his explorative personality, he is willing to join any adventuring or exploring party just to experience the "old stories".
 
 
 

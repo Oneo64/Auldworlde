@@ -6,6 +6,16 @@ Alignment: Lawful Good
 Ethnicity: Fjallander
 Race:      Human
 
+Father:    Hraldir (passed away)
+Mother:    Alfriss (passed away)
+Brother:   Ljolfr
+
+Wife:      Þrúna
+Son:       Baulnir
+Daughter:  Elkfriða
+
+Niece:     Freðja
+
 
 
 [[DESCRIPTION]]
@@ -27,4 +37,4 @@ He has strong Fjallandic accent, and speaks Rotherlandic weirdly. When speaking 
 
 
 [[ABILITIES]]
-Þrein is a trader, who owns a karve and knows how to control that boat. Because of his occupation as a trader, he is able to speak both Fjallandic and Rotherlandic (Early Middle English). He's also proficient with a longbow, since when there is no fish to trade, he usually hunts deer for sport and food.
+Þrein is a trader, who owns a karve and knows how to control that boat. Because of his occupation as a trader, he is able to speak both Fjallandic and Rotherlandic (Early Middle English). Because he hunts deer for sport and food when there's no fish to trade, he's good with a longbow.

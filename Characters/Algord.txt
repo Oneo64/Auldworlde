@@ -6,6 +6,18 @@ Alignment: Neutral
 Ethnicity: Fjallander
 Race:      Human
 
+Father:    Haldigr III (passed away)
+Mother:    Amja (passed away)
+Brother:   Fraldr
+Sister:    Anru
+
+Wife:      Mifrún
+Sons:      Ulfrir, Ljorn, Alfrir
+Daughter:  Yngvild
+
+Nephew:    Gorðr
+Nieces:    Lalfrel, Ærínd
+
 
 
 [[DESCRIPTION]]
@@ -25,4 +37,4 @@ Algord is distrustful of other people not related to his family, with certain ex
 
 
 [[ABILITIES]]
-Even though Algord only had a few days training with an axe and shield, he has experience fighting bandits from a 1 year military campaign, and some from defending his home from the raid. He can also play Plattrægnall, but he only plays it with his family members. The only language he understands is Fjallandic.
+Even though Algord only had a few days training with an axe and shield, he has experience fighting bandits from a one-year military campaign, and some from defending his home from the raid. He can also play Plattrægnall, but he only plays it with his family members. The only language he understands is Fjallandic.

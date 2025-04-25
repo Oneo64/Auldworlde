@@ -6,6 +6,10 @@ Alignment: Lawful Good
 Ethnicity: Fjallander
 Race:      Human
 
+Father:    Tryggvi
+Mother:    Þorvi
+Brothers:  Sindri, Hammin
+
 
 
 [[DESCRIPTION]]

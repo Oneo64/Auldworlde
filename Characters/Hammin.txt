@@ -6,6 +6,10 @@ Alignment: Neutral Good
 Ethnicity: Fjallander
 Race:      Human
 
+Father:    Tryggvi
+Mother:    Þorvi
+Brothers:  Sindri, Brandingi
+
 
 
 [[DESCRIPTION]]

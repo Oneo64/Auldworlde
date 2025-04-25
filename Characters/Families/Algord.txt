@@ -14,7 +14,7 @@ Land:
 
 ---------------------------------------------------------------
 
-Current people in the longhouse with the farms and fence (9): Algord, Mifrún, Ulfrir, Ljorn, Yngvild, Alfrir, Fraldr, Lalfrel, Ærynd
+Current people in the longhouse with the farms and fence (9): Algord, Mifrún, Ulfrir, Ljorn, Yngvild, Alfrir, Fraldr, Lalfrel, Ærínd
 Current people in the longhouse with the three farms (3): Gorðr, Vorða, Svan
 
 Legend:
@@ -28,7 +28,7 @@ Legend:
 Haldigr I [810 ~ 860]-+>>>>+-Haldigr II [830 ~ 880]>>+-Júlfr [M, 863 - 883]-----------+                                    +-Anru [F, 14 November 919]>>     |                            |
                                                                                       |                                    |                                 +-Gorðr [M, 26 May 942]------+
                                                        Ljora [F, 866 - 936]-----------+  +-Iðunn [F, 893 - 883]            +-Fraldr [M, 4 March 917]------+>>|
-                                                                                      |  |                                 |                              |  +-Ærynd [F, 13 August 943]
+                                                                                      |  |                                 |                              |  +-Ærínd [F, 13 August 943]
                                                                                       +>>+-Haldigr III [M, 894 - 970]---+  | Ynúdis [917 - 963]-----------+
                                                                                                                         |  |
                                                                Svoran [M, 853 - 920]--+                                 |  |                                 +-Ulfrir [M, 13 January 946]

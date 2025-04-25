@@ -6,6 +6,8 @@ Alignment: Neutral
 Ethnicity: Fjallander
 Race: Human
 
+Father Alfþórr II
+
 
 
 [[DESCRIPTION]]

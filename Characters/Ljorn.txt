@@ -6,6 +6,18 @@ Alignment: Neutral Good
 Ethnicity: Fjallander
 Race:      Human
 
+Father:    Algord
+Mother:    Mifrún
+Brothers:  Ulfrir, Alfrir
+Sister:    Yngvild
+
+Grandfather: Haldigr III (passed away), Bjoll (passed away)
+Grandmother: Elfreida, Amja (passed away)
+
+Uncles:    Fraldr, Mægnod II
+Aunt:      Anru
+Cousins:   Lalfrel, Gorðr, Ærínd
+
 
 
 [[DESCRIPTION]]
@@ -29,7 +41,7 @@ He enjoys venison and would carry dried strips of some of it in his pouch for la
 
 
 [[ABILITIES]]
-Ljorn usually fights with a spear and shield, and his combat abilities are average. Ljorn has combat experience from raiding an old castle ruins, where he fought a couple of draugar. Because he was shot in the shoulder with an arrow during a centaur raid, his left arm was weakened.
+Ljorn usually fights with a spear and shield, and his combat abilities are slightly above average. Ljorn has combat experience from raiding an old castle ruins, where he fought a couple of draugar. Because he was shot in the shoulder with an arrow during a centaur raid, his left arm was weakened.
 
 Ljorn has access to magical staves and potion recipes because of his grimoire. He usually has the grimoire open while he draws a stave or brews a potion because he doesn't bother to memorize them. He doesn't draw staves during combat for obvious reasons.
 

@@ -6,6 +6,12 @@ Alignment: Neutral Good
 Ethnicity: Fjallander
 Race:      Human
 
+Father:    Njall
+Mother:    Þone
+
+Grandfather: Dageski
+Grandmother: Sifind (passed away)
+
 
 
 [[DESCRIPTION]]

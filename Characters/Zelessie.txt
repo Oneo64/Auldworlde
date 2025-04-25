@@ -6,6 +6,8 @@ Alignment: Neutral
 Ethnicity: Esrel
 Race:      Cold Elf
 
+Father: Alaskös
+
 
 
 [[DESCRIPTION]]
