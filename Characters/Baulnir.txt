@@ -1,7 +1,7 @@
 Baulnir
 
 Male
-Age: 23 (born 950, Feburary 22)
+Age: 23 (Born in Feburary 22, 950)
 Alignment: Neutral Good
 Ethnicity: Fjallander
 Race:      Human

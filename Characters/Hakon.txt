@@ -1,7 +1,7 @@
 Hákon
 
 Male
-Age: 33 (born 940, April 2)
+Age: 33
 Alignment: Lawful Neutral
 Ethnicity: Fjallander
 Race:      Human

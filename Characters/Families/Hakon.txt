@@ -11,7 +11,7 @@ Legend:
   >>> = More than 1 generations
   ~   = Alive around in this range of years
 
-Koðrik [M, 914]---+
-                  |>>+-Hákon [M, 2 April 940]----+
-Fyraniss [F, 919]-+                              |>>+-Geifnir [M, 28 February 969]
-                       Myrfriss [F, 12 July 947]-+
+Koðrik [M, Late 50s]--+
+                      |>>+-Hákon [M, 33 years old]----+
+Fyraniss [F, Mid 50s]-+                               |>>+-Geifnir [M, 14 years old]
+                           Myrfriss [F, 25 years old]-+

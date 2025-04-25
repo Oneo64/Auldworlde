@@ -1,7 +1,7 @@
 Oddius
 
 Male
-Age: 60 (born 913, April 1)
+Age: 60
 Alignment: Neutral
 Ethnicity: Centrumian
 Race:      Human

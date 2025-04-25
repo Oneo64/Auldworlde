@@ -9,18 +9,15 @@ Land:
 
 
 
-                               >>Anru [F, 14 November 919]-+
-                                                           |>>+-Aræna [F, 10 December 950]
-Vorund [M, 895 - 958]---+  +-Lungeif [M, 17 September 920]-+
-                        |  |
-Ifnild [F, 896 - 966]---+>>+-Palðr [M, 2 May 922]----------+  +-Varki [M, 6 May 946]
-                                                           |>>|
-Horin [M, 30 March 901]-+>>+-Ysðja [F, 12 August 924]------+  +-Byrnda [F, 27 June 949]
-                        |
-Gerd [F, 898 - 962]-----+
+                              >>Anru [F, Early 50s]----+
+                                                       |>>+-Aræna [F, 13 years old]
+                              +-Lungeif [M, Early 50s]-+
+                              |
+Vorund [M, (deceased at 60)]>>+-Palðr [M, Early 50s]---+  +-Varki [M, 27 years old]
+                                                       |>>|
+                                Ysðja [F, Late 40s]----+  +-Byrnda [F, 24 years old]
 
 
 
 Notes:
-    Horin is from Centruma.
     Anru is related to Algord's family.

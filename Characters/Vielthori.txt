@@ -1,10 +1,14 @@
 Vielthöri Aldriàndel
 
 Female
-Age: 19 (born 954, march 5)
+Age: 19
 Alignment: Lawful Good
 Ethnicity: Aodesvic
 Race:      Human
+
+Father:    Thiör
+Mother:    Marveya
+Brother:   Antörias
 
 
 

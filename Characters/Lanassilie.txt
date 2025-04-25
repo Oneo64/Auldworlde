@@ -1,7 +1,7 @@
 Lànassilie
 
 Female
-Age: 172, looks early-thirties
+Age: 172
 Alignment: Neutral Good
 Race:      Dryad
 

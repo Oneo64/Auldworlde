@@ -1,7 +1,7 @@
 Gódir
 
 Male
-Age: 25 (born 947, August 10)
+Age: 25
 Alignment: Neutral Good
 Ethnicity: Fjallander
 Race:      Human

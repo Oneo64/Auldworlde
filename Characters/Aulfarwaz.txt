@@ -1,7 +1,7 @@
 Aulfarwaz
 
 Male
-Age: 332 (born 641, December 3)
+Age: 332
 Alignment: Neutral
 Ethnicity: Fjallander
 Race:      Draugr (Human)

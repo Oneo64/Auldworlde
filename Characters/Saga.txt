@@ -1,7 +1,7 @@
 Sága
 
 Female
-Age: Early-20s
+Age: 20
 Alignment: Neutral
 Ethnicity: Fjallander
 Race:      Human

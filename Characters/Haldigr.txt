@@ -1,7 +1,7 @@
 Haldigr I
 
 Male
-Age: 185 (born 788, March 10)
+Age: 185
 Alignment: Chaotic Good
 Ethnicity: Fjallander
 Race:      Draugr (Human)

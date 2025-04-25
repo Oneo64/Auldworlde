@@ -1,7 +1,7 @@
 Seyja
 
 Female
-Age: 19 (born 954)
+Age: 19
 Alignment: Neutral Good
 Ethnicity: Fjallander
 Race:      Human

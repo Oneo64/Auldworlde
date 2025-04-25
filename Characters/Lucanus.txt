@@ -1,7 +1,7 @@
 Lucanus
 
 Male
-Age: 29 (born 944)
+Age: 29
 Alignment: Lawful Neutral
 Ethnicity: Centrumian
 Race:      Human

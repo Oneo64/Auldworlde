@@ -4,12 +4,12 @@ Wealth: Moderately wealthy
 Land:
     A longhouse. This house is in Argánlaf, Fjalland.
 
----------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-                    +-Sindri [M, 944]
-Tryggvi [M, 920]-+  |
-                 |>>+-Brandingi [M, 948]
-Þorvi [F, 923]---+  |
-                    +-Hammin [M, 953]
+                         +-Sindri [M, 29 years old]
+Tryggvi [M, Late 40s]-+  |
+                      |>>+-Brandingi [M, 25 years old]
+Þorvi [F, Late 40s]---+  |
+                         +-Hammin [M, 20 years old]
