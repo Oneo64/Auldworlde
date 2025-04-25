@@ -3,7 +3,8 @@ Lucanus
 Male
 Age: 29
 Alignment: Lawful Neutral
-Ethnicity: Centrumian
+
+Homeland:  Lantum, Centruma
 Race:      Human
 
 

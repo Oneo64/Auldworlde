@@ -3,7 +3,8 @@ Sindri One-Arm
 Male
 Age: 29
 Alignment: Lawful Neutral
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Father:    Tryggvi

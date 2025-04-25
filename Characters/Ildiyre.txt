@@ -3,7 +3,8 @@ Ildiyre
 Female
 Age: Early 50s, looks mid 40s
 Alignment: Lawful Good
-Ethnicity: Esrel
+
+Homeland:  Esrelu
 Race:      Cold Elf
 
 

@@ -3,7 +3,8 @@ Haldigr I
 Male
 Age: 185
 Alignment: Chaotic Good
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Draugr (Human)
 
 

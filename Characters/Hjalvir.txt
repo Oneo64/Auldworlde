@@ -3,7 +3,8 @@ Hjalvir the Uncoverer
 Male
 Age: Early 40s
 Alignment: Chaotic Neutral
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Daughter:  Sága

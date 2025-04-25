@@ -3,7 +3,8 @@ Baulnir
 Male
 Age: 23 (Born in Feburary 22, 950)
 Alignment: Neutral Good
-Ethnicity: Fjallander
+
+Homeland:  Lismerlaf, Fjalland
 Race:      Human
 
 Father:    Þrein

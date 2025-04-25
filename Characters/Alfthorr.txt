@@ -3,10 +3,13 @@ King Alfþórr II
 Male
 Age: 53
 Alignment: Neutral
-Ethnicity: Fjallander
+
+Homeland:  Þuryngard Ring Fortress, Fjalland
 Race:      Human
 
 Father:    Alfþórr I
+
+Wife:      Rúna
 Son:       Áleifr
 
 

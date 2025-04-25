@@ -3,7 +3,8 @@ Säelrie Vaond
 Female
 Age: Mid 40s, looks mid 30s
 Alignment: Neutral Good
-Ethnicity: Esrel
+
+Homeland:  Vesesvala, Esrelu
 Race:      Cold Elf
 
 Husband:   Töraf

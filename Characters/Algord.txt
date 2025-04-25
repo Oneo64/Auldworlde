@@ -3,7 +3,8 @@ Algord
 Male
 Age: 57 (Born in August 26, 915)
 Alignment: Neutral
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Father:    Haldigr III (passed away)

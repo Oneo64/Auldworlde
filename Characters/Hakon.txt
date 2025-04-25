@@ -3,7 +3,8 @@ Hákon
 Male
 Age: 33
 Alignment: Lawful Neutral
-Ethnicity: Fjallander
+
+Homeland:  Kjartkjofn, Fjalland
 Race:      Human
 
 Father:    Koðrik

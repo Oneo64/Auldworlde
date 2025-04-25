@@ -3,7 +3,8 @@ Mifrún
 Female
 Age: 55 (Born in July 8, 916)
 Alignment: Neutral Good
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Father:    Bjoll (passed away)

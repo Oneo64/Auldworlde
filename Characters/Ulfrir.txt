@@ -3,7 +3,8 @@ Ulfrir
 Male
 Age: 27 (Born in January 13, 946)
 Alignment: Lawful Neutral
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Father:    Algord

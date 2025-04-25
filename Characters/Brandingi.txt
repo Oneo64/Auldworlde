@@ -3,7 +3,8 @@ Brandingi the Earless
 Male
 Age: 25
 Alignment: Lawful Good
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Father:    Tryggvi

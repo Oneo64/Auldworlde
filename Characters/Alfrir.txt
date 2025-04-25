@@ -3,7 +3,8 @@ Alfrir
 Male
 Age: 20 (Born in August 17, 952)
 Alignment: Neutral
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Father:    Algord

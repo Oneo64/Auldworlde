@@ -3,6 +3,8 @@ Lànassilie
 Female
 Age: 172
 Alignment: Neutral Good
+
+Homeland:  Veldalfheimr
 Race:      Dryad
 
 

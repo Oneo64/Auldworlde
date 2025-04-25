@@ -3,7 +3,8 @@ Randúlfr
 Male
 Age: Late 20s
 Alignment: Neutral Good
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Wife:      Bjork

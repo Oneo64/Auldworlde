@@ -3,7 +3,8 @@ Beläe Vaond
 Female
 Age: 11 (Born in AD 962)
 Alignment: Neutral Good
-Ethnicity: Esrel
+
+Homeland:  Vesesvala, Esrelu
 Race:      Cold Elf
 
 Father:    Töraf

@@ -3,7 +3,8 @@ Nix Tamiar
 Male
 Age: 19 (Born in August 7, 954)
 Alignment: Chaotic Good
-Ethnicity: Centrumian
+
+Homeland:  Bantusaem, Centruma
 Race:      Human
 
 Father:    Geren
@@ -21,7 +22,7 @@ Cousins:   Klorvas, Ireya, Boras
 
 
 [[DESCRIPTION]]
-Nix is a skinny young man, born in Bantusea, Centruma. He has short, curly dark brown hair, tanned skin, and dark eyes. He wears a black tunic with two orange stripes, grey pants, a belt, and shoes. He has a sheathed dagger on his belt. He also has a coin purse. He is 170 (5'7) centimeters tall.
+Nix is a skinny young man, born in Bantusaem, Centruma. He has short, curly dark brown hair, tanned skin, and dark eyes. He wears a black tunic with two orange stripes, grey pants, a belt, and shoes. He has a sheathed dagger on his belt. He also has a coin purse. He is 170 (5'7) centimeters tall.
 
 When Nix uses magic, his eyes will start to glow like fire.
 

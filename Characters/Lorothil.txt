@@ -3,7 +3,8 @@ Loroðil the Galdrarcrafter (Lorothil)
 Male
 Age: 30
 Alignment: Lawful Neutral
-Ethnicity: Fjallander
+
+Homeland:  Básrínga, Fjalland
 Race:      Human
 
 

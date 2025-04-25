@@ -3,7 +3,8 @@ Gódir
 Male
 Age: 25
 Alignment: Neutral Good
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 

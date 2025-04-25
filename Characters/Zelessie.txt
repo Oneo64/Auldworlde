@@ -3,7 +3,8 @@ Zelessie Ereviyne
 Female
 Age: 22, looks 19
 Alignment: Neutral
-Ethnicity: Esrel
+
+Homeland:  Minbaslûind, Esrelu
 Race:      Cold Elf
 
 Father: Alaskös

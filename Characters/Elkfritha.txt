@@ -3,7 +3,8 @@ Elkfriða
 Female
 Age: 21 (Born in January 27, 952)
 Alignment: Neutral Good
-Ethnicity: Fjallander
+
+Homeland:  Lismerlaf, Fjalland
 Race:      Human
 
 Father:    Þrein

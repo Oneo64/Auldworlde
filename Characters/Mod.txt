@@ -3,7 +3,8 @@ Mod Gorzadun
 Male
 Age: Early 40s
 Alignment: Lawful Good
-Ethnicity: Banodic
+
+Homeland:  Banod
 Race:      Dwarf
 
 

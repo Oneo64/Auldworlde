@@ -3,7 +3,8 @@ Vielthöri Aldriàndel
 Female
 Age: 19
 Alignment: Lawful Good
-Ethnicity: Aodesvic
+
+Homeland:  Pendlas Mus, Aodesvu
 Race:      Human
 
 Father:    Thiör

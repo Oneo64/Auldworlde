@@ -3,6 +3,8 @@ Föressantre
 Female
 Age: Early 40s
 Alignment: Neutral Good
+
+Homeland:  Veldalfheimr
 Race:      Dryad
 
 

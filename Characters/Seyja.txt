@@ -3,7 +3,8 @@ Seyja
 Female
 Age: 19
 Alignment: Neutral Good
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 

@@ -3,7 +3,8 @@ Yngvild
 Female
 Age: 23 (Born in May 1, 950)
 Alignment: Neutral Good
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Father:    Algord

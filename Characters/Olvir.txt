@@ -3,7 +3,8 @@ Olvir
 Male
 Age: Late 30s
 Alignment: Lawful Neutral
-Ethnicity: Fjallander
+
+Homeland:  Lismerlaf, Fjalland
 Race:      Human
 
 

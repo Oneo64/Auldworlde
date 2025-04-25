@@ -3,10 +3,12 @@
 Male
 Age: 22
 Alignment: Neutral
-Ethnicity: Fjallander
-Race: Human
 
-Father Alfþórr II
+Homeland:  Þuryngard Ring Fortress, Fjalland
+Race:      Human
+
+Father:    Alfþórr II
+Mother:    Rúna
 
 
 

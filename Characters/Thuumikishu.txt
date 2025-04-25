@@ -3,7 +3,8 @@ Thuumikishu
 Male
 Age: Late 80s
 Alignment: Chaotic Good
-Ethnicity: Banodic
+
+Homeland:  Banod
 Race:      Dwarf
 
 

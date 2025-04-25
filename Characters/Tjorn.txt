@@ -3,7 +3,8 @@ Tjorn
 Male
 Age: 20
 Alignment: Neutral
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 

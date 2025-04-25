@@ -3,7 +3,8 @@
 Male
 Age: 451 (Born in AD 522)
 Alignment: Chaotic Neutral
-Ethnicity: Galabric
+
+Homeland:  An ancient Galabric town
 Race:      Draugr (Human)
 
 

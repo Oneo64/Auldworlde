@@ -3,7 +3,8 @@ Kolr
 Male
 Age: Early 30s
 Alignment: Neutral
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 

@@ -3,7 +3,8 @@ Ingólfr
 Male
 Age: Mid 20s
 Alignment: Neutral
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 

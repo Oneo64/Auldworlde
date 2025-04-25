@@ -3,7 +3,8 @@ Ljorn
 Male
 Age: 25 (Born in December 2, 947)
 Alignment: Neutral Good
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Father:    Algord

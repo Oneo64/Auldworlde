@@ -3,7 +3,8 @@ Meyrúna
 Female
 Age: 20 (Born in March 14, 953)
 Alignment: Neutral Good
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Father:    Njall

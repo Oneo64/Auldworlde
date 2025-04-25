@@ -3,7 +3,8 @@ Dagnir
 Male
 Age: Mid 30s
 Alignment: Neutral
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 

@@ -3,7 +3,8 @@ Helessin
 Male
 Age: Late 40s, looks mid 30s
 Alignment: Neutral
-Ethnicity: Esrel
+
+Homeland:  Esrelu
 Race:      Cold Wood Elf
 
 

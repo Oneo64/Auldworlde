@@ -3,7 +3,8 @@ Hammin the Angelic
 Male
 Age: 20
 Alignment: Neutral Good
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Father:    Tryggvi

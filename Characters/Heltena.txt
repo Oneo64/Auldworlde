@@ -3,7 +3,8 @@ Heltena
 Female
 Age: 28, looks mid 20s
 Alignment: Neutral Good
-Ethnicity: Esrel
+
+Homeland:  Irbalûind, Fjalland
 Race:      Cold Elf
 
 

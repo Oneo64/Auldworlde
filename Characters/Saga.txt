@@ -3,7 +3,8 @@ Sága
 Female
 Age: 20
 Alignment: Neutral
-Ethnicity: Fjallander
+
+Homeland:  Argánlaf, Fjalland
 Race:      Human
 
 Father:    Hjalvir
