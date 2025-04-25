@@ -314,12 +314,12 @@ Wraith (medium undead):
 	Wraiths are maleviolent spirits that roam the world, killing living creatures. One becomes wraith if they were cursed to become one, then killed.
 
 	Description:
-		A wraith appears to be a dark brown dirt-resembling ghost missing it's lower half. It's body is zombie-like and rotten, and it is wearing any armor or clothing it died with.
+		A wraith appears to be a legless, dark brown revenant. It's body is zombie-like and rotten, and it is clad in any armor or clothing it died with. If a wraith is armored, they will most likely be wielding a weapon.
 
 	Abilities:
 		Wraiths move by flying in the air. Wraiths are corporeal and can use things around them, but they prefer to use the equipment they had before their previous death. The wraith's body (not the armor or weapons) is extremely fragile, and will die instantly if they're sliced through.
 
-		Wraiths cannot be burnt nor frozen, but they are weak to sunlight and will slowly disintegrate upon touching it. But if their body returns to any shade, they will regain their limbs that were lost in the sunlight. When a wraith dies in shade, it turns to ash and falls down.
+		Wraiths cannot be burnt nor frozen, but they are weak to sunlight and will slowly disintegrate upon touching it. But if their body returns to any shade, they will regain their limbs that were lost in the sunlight. When a wraith dies, it turns to ash and falls down, leaving behind its weapons and armor. However if a wraith is an old one, their armor is likely to break from the impact of it's fall.
 
 		Wraiths can see in pitch black. They can't speak or use any magic.
 
