@@ -165,7 +165,7 @@ These are the staves you can make:
 	- Repel Evil:    Carved on a door, no creature of evil can willingly enter.
 	- Shielding:     All missiles lighter than a sword will be deflected by a flash of light. Five times it can block before exhaustion, in which it will be restored at dawn.
 	- Lesser Hagall: No magic can be cast near this stave, but this stave isn't affected by its own magic. If this stave is near another stave of its kind, both staves shall begin to flicker and flash violently until one explodes.
-	- Hulinhjalmur:  Must be carved on one's helmet, wearing it will turn him invisible.
+	- Hulinhjalmur:  Must be carved on one's helmet, wearing it will turn him half-invisible.
 
 
 
