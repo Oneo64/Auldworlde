@@ -10,18 +10,18 @@ Race:      Draugr (Human)
 
 
 [[DESCRIPTION]]
-Ingwaz is a draugr that dwells in the ancient castle ruins in the peninsula southwest of Esrelu. Ingwaz appears to be bloated and black, with oily skin, greyed out eyes, and sparse black hair. He stands at about 5' 11". He has a dried wound from his face down, as if someone slashed him from his forehead to his stomach with a sword.
+Ingwaz is a draugr that dwells in the ancient castle ruins in the peninsula southwest of Esrelu. Ingwaz appears to be bloated and black, with oily skin, greyed out eyes, and sparse black hair. It stands at about 5' 11". It has a dried wound from it's face down, as if someone slashed it from it's forehead to it's stomach with a sword. It's right arm also seems to be flailing when relaxed.
 
-He wears a suit of lamellar, worn pants, a belt and a pair of shoes. On his head sits a coppergate helmet with an obvious dent in it, suggesting that was the killing blow. He carries an atgeir, and a sheathed longseax on his belt.
+It wears a suit of lamellar, worn pants, a belt and a pair of shoes. On it's head sits a coppergate helmet with an obvious dent in it, suggesting that was the killing blow. It carries an atgeir, and a sheathed longseax on it's belt.
 
 
 
 [[PERSONALITY]]
-Ingwaz like many draugr, is extremely and violently protective of his valuables.
+Ingwaz like many draugr, is extremely and violently protective of it's valuables.
 
 
 
 [[ABILITIES]]
-Ingwaz is skilled with the atgeir he carries, and also with his longseax. He can only speak Galabric. Like many draugr, he sits at his burial spot with absolute stillness until one disturbs his equipment, then he will rise.
+Ingwaz is skilled with the atgeir it carries, and also with it's longseax. It can only speak Galabric. Like many draugr, it sits at it's burial spot with absolute stillness until one disturbs it's equipment, then it will rise.
 
-Also since Ingwaz is a draugr, he has a few abilities only they can have. He possesses the ability to move arms that were broken, as if they weren't broken. He is also able to turn himself into a billow of mist, or disguise himself as a deer, elk, or moose.
+Also since Ingwaz is a draugr, it has a few abilities only they can have. It possesses the ability to move arms that were broken, as if they weren't broken. It is also able to turn itself into a billow of mist, or disguise itself as a deer, elk, or moose. Because of this despite its right arm flailing around like a piece of wood hanging by thread, Ingwaz can move it as if it was supposed to be like that.
