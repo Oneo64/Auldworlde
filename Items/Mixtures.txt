@@ -103,6 +103,23 @@ Powerful:
 
 
 
+[[HERBS]]
+These lists of herbs are the flowers that the potion list below will reference to. For example, if a poton requires protection herbs, that means any herbs in the protection herbs list can be used.
+
+Memory enhancing herbs: Blessed Thistle, Dill, Mugwort, Nettle Leaf, Rosemary, White Willow Bark
+Relaxation herbs: Basil, Catnip, Chamomile, Coltsfoot, Hibiscus Flower, Lavender
+Love herbs: Peppermint, Rose, Violet
+
+Greater spiritual growth herbs: Frankincense
+Lesser spiritual growth herbs: Clove, Comfrey, Hyssop, Parsley, Raspberry Leaf
+
+Greater protection herbs: Juniper
+Lesser protection herbs: Alfalfa, Cedar, Eucalyptus, Mint, Yarrow
+
+Healing herbs: Jadeblossom
+
+
+
 ====================================================================================================
 [[POTIONS AND CONCOCTIONS]]
 ====================================================================================================
@@ -123,7 +140,7 @@ Bone-growing Salve (advanced)
 	Effect:      When the salve dries, it will heal 10% of any kind of broken bones, such as fractures and dislocations. Usually takes 10-14 applies to fully fix a bone.
 	Downside:    As the salve dries, the area might feel tingly and numb.
 	
-	Ingredients: A handful of ground comfrey (must have stems included), a small handful of ground bone or bone meal, a spoon of any milk a few drops of any vegetable oil, and a pinch of pink salt.
+	Ingredients: A handful of mashed healing herbs, a small handful of ground bone or bone meal, a spoon of any milk, and several drops of lesser healing herb oil.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
 
 ----------------------------------------------------------------------------------------------------
@@ -144,7 +161,7 @@ Calming Salve (basic)
 	Effect:      While the salve is on, it will make that part of body feel better. It will also help numbness recovery. Or, if used on the forehead or stomach, it can partially subdue any aches. The effect will fully dimish one hour after it has been fully absorbed.
 	Downside:    This salve does not work on wounds.
 	
-	Ingredients: A small handful of ground mint leaves (stems removed first), a small handful of mashed blueberry, and a several drops of mistletoe oil.
+	Ingredients: A small handful of mashed relaxation herbs, and several drops of mistletoe oil.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
 
 ----------------------------------------------------------------------------------------------------
@@ -155,7 +172,7 @@ Concealment Potion (advanced)
 	Effect:      Disguises you by your surroundings like a chameleon, your skin and everything you are wearing turns to the color of what's behind. This also works on an object if it is poured upon its surface.
 	Downside:    If you drink it, only your body turns invisible. That means your clothes and equipment aren't turned invisible. Also, your shadows are still there.
 	
-	Ingredients: Two whole oyster shells that's been grounded into powder, a few pinches of glass powder, and a pinch of quartz powder.
+	Ingredients: A small handful of mashed lesser protection herbs, a whole oyster shell that's been grounded into powder, a few pinches of glass powder, and a silkworm cocoon.
 	Brewing:     It must be boiled for two hours while exposed to sunlight or moonlight. If it's left in the shadows, it's boiling progress starts to reverse.
 
 ----------------------------------------------------------------------------------------------------
@@ -176,7 +193,7 @@ Curing Tonic (basic)
 	Effect:      It will kill diseases, viruses, fungi, sicknesses, amoebas, parasites, poisons, etc. Curing a common cold usually requires about twelve seperate doses to completely heal.
 	Downside:    Weakens you, makes you feel tired and sleepy if used a lot, also destroys undigested food. (makes you more hungry)
 	
-	Ingredients: A handful of ground mint and basil, and a ground bezoar.
+	Ingredients: A handful of mashed relaxation herbs, a pinch of mashed healing herbs, and a ground bezoar.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -187,7 +204,7 @@ Darkvision Potion (basic)
 	Effect:      Lets you see in the dark.
 	Downside:    It is possible to gain temporary blindless if you look directly into anything bright, such as a reflection of the sun, or a fiery explosion.
 	
-	Ingredients: Chopped bits of fermented moonshroom, and a small handful of moss.
+	Ingredients: A small handful of mashed lesser spiritual growth herbs, chopped bits of fermented moonshroom, and a small handful of moss.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -197,7 +214,7 @@ Dragonfire Potion (powerful)
 	Effect:      Lets you see in the dark. If you blow, fire spews out of your mouth. If you sneeze or snort, a puff of fire shoots out of your nose. Your skin starts to take on a slightly grey and rough appearance like stone, and you start to resist fire.
 	Downside:    Anything cold feels colder.
 	
-	Ingredients: Ten ground fire dragon scales, a small handful of sulfur powder, and a pinch of sand.
+	Ingredients: A pinch of mashed greater spiritual growth herbs, a pinch of mashed greater protection herbs, ten ground fire dragon scales, a small handful of sulfur powder, and a pinch of sand.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -207,18 +224,18 @@ Dragonfrost Potion (powerful)
 	Effect:      Lets you see in the dark. If you blow, frost spews out of your mouth. If you sneeze or snort, a puff of frost shoots out of your nose. Your skin starts to take on a slightly blue and shiny appearance like ice, and you start to resist cold.
 	Downside:    Fire feels hotter.
 	
-	Ingredients: Ten ground frost dragon scales, a small handful of frost dragon fur, a pinch of silver powder, and a small handful of raw wool.
+	Ingredients: A pinch of mashed greater spiritual growth herbs, a pinch of mashed greater protection herbs, ten ground frost dragon scales, a small handful of frost dragon fur, a pinch of silver powder, and a small handful of raw wool.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
-Energy Potion (minor)
-	Appearance:  The potion is a pale green slop.
+Draught of Warmth (minor)
+	Appearance:  The potion is a clear, pale red liquid.
 	Usage:       Drink.
-	Effect:      It gives you energy, same way that food gives you energy, except you instantly gain it.
-	Downside:    You don't get to experience the delightful taste of real food and the wonderful feeling of being full.
+	Effect:      It makes you feel a bit warmer.
+	Downside:    Fire feels hotter.
 	
-	Ingredients: A crushed practal gorbry, and a fermented cabbage leaf.
+	Ingredients: A small handful of mashed lesser spiritual growth herbs, a crushed practal gorbry, a pinch of sawdust, and a small handful of coniferous tree needles.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -233,23 +250,12 @@ Ekraldys Concoction (advanced)
 
 ----------------------------------------------------------------------------------------------------
 
-Fire Immunity Potion (advanced)
-	Appearance:  It is a semi-transparent liquid, with what seems like a mixture of volcanic ash, basalt powder, and the occasional sparks slowly swirling inside.
-	Usage:       Drink.
-	Effect:      Your skin takes on a grainy basalt-like appearance, and makes you immune to fire and heat.
-	Downside:    Room temperature for you drops by about 10 degrees Celsius. If you are on fire, the potion duration is sped up to 10 times shorter. Also, you are NOT immune to fires and heat caused by sulfur, lava, any form of molten rock or metal, lightning, or the spell fireball.
-	
-	Ingredients: One crushed amethyst gorbry, a pinch of sulfur powder, and a small piece of fire opal.
-	Brewing:     Boil the potion for five hours.
-
-----------------------------------------------------------------------------------------------------
-
 Fire-throwing Grenade (advanced)
 	Appearance:  The potion is a orange liquid with small black specks.
 	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:      Explodes in a burst of fire. The fire would expand to a 1 meter diameter (or 0.5 meter radius) soft blast of fire.
 	
-	Ingredients: Sparkfire Potion, several drops of any oil, and two pinchs of a sulfur-charcoal powder mixture.
+	Ingredients: Sparkfire Potion, several drops of any oil or fat, and two pinchs of a sulfur-charcoal powder mixture.
 	Brewing:     Boil the potion for two hours. Add the ingredients after the sparkfire potion starts boiling. Add a few drops of the oil, or a pinch of the mixture in at a time to make sure the potion doesn't combust instantly (due to potion usage).
 
 ----------------------------------------------------------------------------------------------------
@@ -270,7 +276,7 @@ Freebreathing Potion (basic)
 	Usage:       Drink.
 	Effect:      Creates oxygen in lungs, allowing immunity to drowning, choking, and suffocation.
 	
-	Ingredients: A small handful of rust, and a fermented chopped and crushed ekraldys toadstool.
+	Ingredients: A small handful of mashed lesser protection herbs, and a fermented chopped and crushed ekraldys toadstool.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -280,7 +286,7 @@ Gardening Growth Potion (basic)
 	Usage:       Pour on anything.
 	Effect:      If poured on a plant, the plant ages 50% faster. If poured on soil, dirt, or sand, then plants such as bushes and grass appropriate for the climite will start growing there using the normal time it takes for the to grow (unless the potion is used again), even if the dirt wasn't part of a ground with grass. This potion's duration is 10 times longer than the potion durations specified above.
 	
-	Ingredients: A small handful of dried ground moss, and a small handful of ground jadeblossom.
+	Ingredients: A small handful of mashed healing herbs, a small handful of dried ground moss, and a pinch of yeast.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -291,7 +297,7 @@ Greater Concealment Potion (powerful)
 	Effect:      Makes you (or the thing it's being poured on) almost invisible, as if your body has been turned into hot gas. Because of this, your body casts no shadows. You are basically extremely hard to see from a distance, even harder compared to the normal concealment potion.
 	Downside:    If you drink it, only your body turns invisible. That means your clothes and equipment aren't turned invisible.
 	
-	Ingredients: A whole oyster shell that's been grounded into powder, a few pinches of glass powder, a few pinches of quartz powder, a pinch of moonstone powder, and a few drops of anyone's tears.
+	Ingredients: A small handful of mashed greater and lesser protection herbs, a whole oyster shell that's been grounded into powder, a few pinches of glass powder, a silkworm cocoon, and a few drops of anyone's tears.
 	Brewing:     It must be boiled for two hours while exposed to sunlight or moonlight. If it's left in the shadows, it's boiling progress starts to reverse.
 
 ----------------------------------------------------------------------------------------------------
@@ -301,18 +307,7 @@ Greater Moonic Death (powerful)
 	Usage:       Drink.
 	Effect:      You enter a coma. You have 10 minutes to be cured before death, if you drank more than 3 ml. If you drank less than 3 ml, you only enter a coma for the normal potion durations specified above.
 	
-	Ingredients: A pinch of moon dust, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder, and a small handful of onyx shards.
-	Brewing:     Boil the potion for two hours.
-
-----------------------------------------------------------------------------------------------------
-
-Hailskin Potion (advanced)
-	Appearance:  The potion is a blue semi-transparent liquid. It seems to faintly glow in the dark.
-	Usage:       Drink.
-	Effect:      Your skin starts to take on a icy appearance, causing it to look like it's been frosted over. Your skin is hardened, and you are immune to cold.
-	Downside:    Room temperature for you increases by 10 degrees Celsius.
-	
-	Ingredients: A ground ice elemental core, a handful of ground mint leaves, and a pinch of silver powder.
+	Ingredients: A small handful of mashed love herbs, a pinch of moon dust, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder, and a small handful of onyx shards.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -327,24 +322,13 @@ Heavyliquid (advanced)
 
 ----------------------------------------------------------------------------------------------------
 
-Honeymead Creation Liquid (basic)
-	Appearance:  The potion is a semi-transparent honey-colored liquid.
-	Usage:       Pour into drinkable liquid.
-	Effect:      It causes the drink to taste sweet without altering any magical properties of the liquid.
-	Downside:    If the liquid is poured into more than 50% the original amount of the drinkable liquid, the potency of the drinkable liquid starts to go down. Also, if the drinkable liquid was originally bitter or spicy, the sweetness might make the liquid taste sickening.
-	
-	Ingredients: One crushed practal gorbry, a several drops of honey, and one fermented bee.
-	Brewing:     Boil the potion for two hours.
-
-----------------------------------------------------------------------------------------------------
-
 Impersonation Potion (powerful)
 	Appearance:  The grease is a dark, but transparent liquid, slowly swirling when left alone.
 	Usage:       Drink.
 	Effect:      Changes your body and voice to look like another person. You don't get the memories or mental state of that person.
 	
 	Ingredients: A small handful of volcanic powder, a small handful of ground crystals (the crystal must come from a geode), a pinch of algae, and an ice elemental core.
-	Brewing:     Boil the potion for two hours.
+	Brewing:     Boil the potion for eight hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -354,7 +338,7 @@ Iron Grease of Magic (advanced)
 	Effect:      When the grease is rubbed on with force (such as with hands, or when the metal is used to hit something), it releases magic energy in the form corresponding the catalyst used. The grease starts to glow faintly, corresponding to the color of the effect.
 	Downside:    This grease does not work on gold, copper, or bronze. It is also unable to induce any kind of disease or poison.
 	
-	Ingredients: A few drops of ink, a few drops of tar, a few drops of vegetable oil, and a pinch of ground volcanic rock.
+	Ingredients: A few drops of ink, a few drops of tar, a few drops of animal fat/vegetable oil, and a pinch of ground volcanic rock.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve. Once that's done, mix the salve with a the same amount of animal fat or vegetable oil.
 
 	Catalyst examples: Volcanic Ash (fire), scorched needles from a coniferous tree struck by lightning (frost), water from a milion-year old geode (sunlight), pond of water struck by lightning (lightning), any part of a glimmering moth (moonlight), daeva horns (necrotic), elemental cores (only fire or ice elementals), amethyst gorbries or glimmering moth part (magic force).
@@ -371,12 +355,22 @@ Lightning Liquid (advanced)
 
 ----------------------------------------------------------------------------------------------------
 
+Liquid of Warding (advanced)
+	Appearance:  The potion is a clear liquid that seems to be glistening.
+	Usage:       Pour out onto object.
+	Effect:      Until the liquid dries out, evil creatures will feel fear when within the proximity of it. This is mainly used to pour lines onto the ground to create a perimeter that repels evil. If poured out onto a solid surface, the potion takes 24 hours to evaporate. If poured on any soil or earth, the potion takes 6 hours to be completely absorbed by the earth.
+	
+	Ingredients: A small handful of mashed greater and lesser protection herbs, a small handful of ground willow leaves, and a pinch of sawdust from a yew tree.
+	Brewing:     The potion must be boiled in water taken from a hot spring. Once ready, boil the potion for five hours.
+
+----------------------------------------------------------------------------------------------------
+
 Moonic Death (advanced)
 	Appearance:  The potion is a clear liquid, with small black specks floating inside.
 	Usage:       Drink.
 	Effect:      You enter a coma for a duration 100 times longer than the potion durations specified above.
 	
-	Ingredients: A pinch of moon dust, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder.
+	Ingredients: A small handful of mashed love herbs, a pinch of moon dust, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -410,8 +404,19 @@ Potion of Relaxation (advanced)
 	Effect:      It will calm your body, subsiding any paralysis, siezures, cramps, or aches. Once the potion is taken, these harmful effects will slowly diminish. It requires about 100 ml to completely diminish one effect, meaning if you are somehow paralyzed, siezuring, cramping, and aching at the same time, you would need 400 ml to remove them all.
 	Downside:    Weakens you, makes you feel tired and sleepy if used a lot. This tiredness and sleepiness is actually just part of the potions main effect, not a side effect.
 	
-	Ingredients: Five mistletoe berries grounded into a mush, a handful of ground mint and basil, a ground bezoar, a pinch of wood dust (specifically birch), and a few drops of mistletoe oil.
+	Ingredients: A small handful of mashed relaxation herbs, a small handful of mashed love herbs, and several drops of mistletoe oil.
 	Brewing:     Slow boil the potion for five hours. Make sure it boils subtly, and not like you're cooking a soup.
+
+----------------------------------------------------------------------------------------------------
+
+Potion of Restlessness (minor)
+	Appearance:  The potion is a pale green slop.
+	Usage:       Drink.
+	Effect:      It gives you energy, same way that food gives you energy, except you instantly gain it.
+	Downside:    You don't get to experience the delightful taste of real food and the wonderful feeling of being full.
+	
+	Ingredients: A small handful of mashed lesser spiritual growth herbs, and a pinch of yeast.
+	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -421,7 +426,7 @@ Potion of Restoration (advanced)
 	Effect:      It will kill diseases, viruses, fungi, sicknesses, amoebas, parasites, poisons, etc. Curing a common cold usually requires about six seperate doses to completely heal.
 	Downside:    Weakens you, makes you feel tired and sleepy if used a lot, also destroys undigested food. (makes you more hungry)
 	
-	Ingredients: Five mistletoe berries grounded into a mush, a handful of ground mint and basil, a ground bezoar, and a pinch of wood dust (specifically birch).
+	Ingredients: A small handful of mashed healing herbs, a small handful of mashed relaxation herbs, five mashed mistletoe berries, a ground bezoar, and a pinch of birch sawdust.
 	Brewing:     Slow boil the potion for five hours. Make sure it boils subtly, and not like you're cooking a soup.
 
 ----------------------------------------------------------------------------------------------------
@@ -454,7 +459,7 @@ Quickliquid (basic)
 	Usage:       Drink.
 	Effect:      You become a little lighter in weight but retain your strength, which causes you to be able to do things a little faster. You don't get tired as quick, and you can also run and jump one-and-a-half times higher than normal.
 	
-	Ingredients: A five grown dragonfly wings, a fermented fly, and a pinch of glass powder.
+	Ingredients: A pinch of mashed lesser spiritual growth herbs, five grown dragonfly wings, and a fermented fly.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -464,7 +469,7 @@ Realsight Potion (advanced)
 	Usage:       Drink.
 	Effect:      Lets you see through all illusions, and the true form of any shapeshifter or polymorphed object within a 10 meter radius. If it's a shapeshifter and it doesn't have a true form, all you see is a cloud of grey dust-like particles.
 	
-	Ingredients: A pinch of glass powder, a pinch of silver, and a pinch of crushed amber.
+	Ingredients: A pinch of mashed greater spiritual growth herbs, a pinch of glass powder, a pinch of silver powder, and a pinch of crushed amber.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -475,7 +480,7 @@ Regeneration Potion (advanced)
 	Effect:      Evaporates wasted blood, and regenerates skin, flesh, and organs.
 	Downside:    If used too fast, you may loose potion. Also cannot heal broken bones or scars. If the wound was healed using this potion, you may still feel the pain from the wound. The healed would may also feel numb after usage.
 	
-	Ingredients: A small handful of ground basil and comfrey leaves (stems removed first), a small handful of ground wild celery, three jadeblossom petals, and a gecko's tail.
+	Ingredients: A small handful of mashed healing herbs, a small handful of mashed relaxation herbs, and a gecko's tail.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -486,7 +491,7 @@ Regenerative Salve (basic)
 	Effect:      When the salve dries, it will heal 25% of the skin condition or wound. After 8-10 uses, the skin condition is fully removed.
 	Downside:    This salve does not work on branded or burnt skin, or scars.
 	
-	Ingredients: A handful of ground basil and comfrey leaves (stems removed first), and a few drops of any vegetable oil.
+	Ingredients: A small handful of mashed healing herbs, a pinch of mashed relaxation herbs, and several drops of lesser healing herb oil.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
 
 ----------------------------------------------------------------------------------------------------
@@ -497,7 +502,7 @@ Reverting Salve (advanced)
 	Effect:      When the salve dries, it will not heal, but revert 30% of the skin condition or wound to it's original state. After 6-8 uses, the skin condition is fully removed.
 	Downside:    This salve does not work on scars.
 	
-	Ingredients: A small handful of ground mint, basil, and comfrey leaves (stems removed first), a small handful of ground wild celery, a ground bezoar, and a several drops of any vegetable oil.
+	Ingredients: A small handful of mashed healing herbs, a small handful of mashed relaxation herbs, a ground bezoar, and several drops of lesser healing herb oil.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 50% of the original amount of water left as salve.
 
 ----------------------------------------------------------------------------------------------------
@@ -508,8 +513,8 @@ Rotting Curse Potion (powerful)
 	Effect:      Your skin, starting from the neck, starts to appear small blotches of a mix of black, dark green, and dark yellow colors similar to the potion's appearance, giving it a withered or slightly dyed look. These blotches will spread over your body slowly. The second day, the blotches start showing over your stomach, and you start to feel weak. The third day, the magical skin condition will have spread over your body completely, and you will feel extremely weak, and cannot do more than walk. The fourth day, you will slowly die.
 	Downside:    The curse can only spread via consumption of more than a small handful of any organic matter (including saliva, seat, and other bodily fluids) from the affected person.
 	
-	Ingredients: Three fermented gecko tails, three fermented wasps or hornets, a small handful of ground obsidian powder, a small handful of onyx shards, a pinch of coal powder, and several pinches of wraith dust.
-	Brewing:     Boil the potion for two hours. When preparing the potion, start boiling before adding the waith dust. Once it starts to boil, slowly add the wraith dust pinches one after another. If all the wraith dust was added into the potion, the potion will start to erratically pop and steam, and container holding the liquid will start to corrode extremely fast until the potion pours out a hole.
+	Ingredients: Three fermented gecko tails, three fermented wasps or hornets, a small handful of ground obsidian powder, a small handful of onyx shards, a pinch of coal powder, and several pinches of wraith ash.
+	Brewing:     Boil the potion for five hours. When preparing the potion, start boiling before adding the waith ash. Once it starts to boil, slowly add the wraith ash pinches one after another. If all the wraith ash was added into the potion, the potion will start to erratically pop and steam, and container holding the liquid will start to corrode extremely fast until the potion pours out a hole.
 
 	Caution:     Do NOT breathe in the fumes of the potion, or you may start experiencing: sickness, nausea, bruising around the neck and nose. Breathing the fumes too much may actually give you the effects of this potion.
 
@@ -521,7 +526,7 @@ Silencing Potion (basic)
 	Effect:      Muffles all sounds coming from you, such as your voice, footsteps, and even impacts against you like if you fall down, slap something, or get punched.
 	Downside:    You are unable to cast spells that require an incantation, and all speech is unclear.
 	
-	Ingredients: Four fermented crickets, a small handful of goat hairs, and a pinch of wood dust.
+	Ingredients: Four fermented crickets, a small handful of goat hairs, and a pinch of sawdust.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -562,7 +567,7 @@ Transmutation Liquid of Animal (advanced)
 	Effect:      Transforms you into an animal exactly like the spell Polymorph, corresponding to the wooden figurine. If the animal has different breeds, you transform into one that fits best with your personality. You retain your mental capabilities, but the animal to transform can only be lighter than you in weight, cannot possess more strength than you, and cannot be a magical creature. If the potion does not meet these requirements, the potion does nothing and is wasted.
 	Downside:    Even though other animals are slightly reluctant to see you as a mating partner or prey, it is still possible. You may also subconsciously make sounds such as purring (if cat), barking (if dog), or anything like an owl's call.
 
-	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, a raw fermented egg of any bird (shells included), and a carved wooden figurine of the animal to become.
+	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, a raw fermented egg of any bird (shells included), a pinch of mashed relaxation herbs, and a carved wooden figurine of the animal to become.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -572,7 +577,7 @@ Traumatic Relife Potion (powerful)
 	Usage:       Drink.
 	Effect:      Forces the target to relive the most traumatic (or violent) moments of their life for only several seconds. They however cannot feel any pain from these memories, since they are only memories. The effect is not powerful enough to give anything long-lasting, but may give temporary PTSD or paranoia if strong enough.
 	
-	Ingredients: A small fermented chunk of brain (any animal), one crushed amethyst gorbry, a small piece of severely oxidized copper or bronze, and a small handful of ground snail shells.
+	Ingredients: A small handful of mashed memory enhancing herbs, one crushed amethyst gorbry, a small piece of severely oxidized copper or bronze, and a small handful of ground snail shells.
 	Brewing:     Boil the potion for eight hours.
 
 ----------------------------------------------------------------------------------------------------

@@ -36,13 +36,12 @@ Gódir's native language is Fjallandic, and can speak Rotherlandic (Early Middle
 		Calming Salve
 		Concealment Potion
 		Curing Tonic
-		Energy Potion
 		Fire-throwing Grenade
 		Forgetation Concoction
 		Greater Concealment Potion
-		Honeymead Creation Liquid
 		Lightning Liquid
 		Nontoxic Seizure Concoction
+		Potion of Restlessness
 		Sparkfire Potion
 		Silencing Potion
 		Tarfire Grenade
