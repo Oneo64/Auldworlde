@@ -10,7 +10,7 @@ Race:      Draugr (Human)
 
 
 [[DESCRIPTION]]
-Ingwaz is a draugr that dwells in the ancient castle ruins in the peninsula southwest of Esrelu. Ingwaz appears to be bloated and black, with oily skin, greyed out eyes, and sparse black hair. It stands at about 5' 11". It has a dried wound from it's face down, as if someone slashed it from it's forehead to it's stomach with a sword. It's right arm also seems to be flailing when relaxed.
+Ingwaz is a draugr that dwells in the ancient castle ruins in the peninsula southwest of Esrelu. Ingwaz appears to be bloated and black, with oily skin, greyed out eyes, and sparse black hair. It stands at about 5'11", which is taller than many people. It has a dried wound from it's face down, as if someone slashed it from it's forehead to it's stomach with a sword. It's right arm also seems to be flailing when relaxed.
 
 It wears a suit of old lamellar (with some pieces missing), worn pants, a belt and a pair of shoes. On it's head sits a coppergate helmet with an obvious dent in it, suggesting that was the killing blow. It carries an atgeir, and a sheathed longseax on it's belt.
 
