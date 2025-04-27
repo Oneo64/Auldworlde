@@ -155,6 +155,17 @@ Blindness Granting Mixture (advanced)
 
 ----------------------------------------------------------------------------------------------------
 
+Calming Draught (advanced)
+	Appearance:  The potion is a clear liquid with a slight yellowish hue.
+	Usage:       Drink.
+	Effect:      It will calm your body, subsiding any paralysis, siezures, cramps, or aches. Once the potion is taken, these harmful effects will slowly diminish. It requires about 100 ml to completely diminish one effect, meaning if you are somehow paralyzed, siezuring, cramping, and aching at the same time, you would need 400 ml to remove them all.
+	Downside:    Weakens you, makes you feel tired and sleepy if used a lot. This tiredness and sleepiness is actually just part of the potions main effect, not a side effect.
+	
+	Ingredients: A small handful of mashed relaxation herbs, a small handful of mashed love herbs, and several drops of mistletoe oil.
+	Brewing:     Slow boil the potion for five hours. Make sure it boils subtly, and not like you're cooking a soup.
+
+----------------------------------------------------------------------------------------------------
+
 Calming Salve (basic)
 	Appearance:  The salve is a pale brown salve.
 	Usage:       Spread on skin that has touched anything too hot, cold, or areas that hurts, or are numb.
@@ -395,17 +406,6 @@ Potion Acid (advanced)
 	
 	Ingredients: A butterfly cocoon, three pinches of a mixture of salt and rust.
 	Brewing:     Boil the potion for two hours.
-
-----------------------------------------------------------------------------------------------------
-
-Potion of Relaxation (advanced)
-	Appearance:  The potion is a clear liquid with a slight yellowish hue.
-	Usage:       Drink.
-	Effect:      It will calm your body, subsiding any paralysis, siezures, cramps, or aches. Once the potion is taken, these harmful effects will slowly diminish. It requires about 100 ml to completely diminish one effect, meaning if you are somehow paralyzed, siezuring, cramping, and aching at the same time, you would need 400 ml to remove them all.
-	Downside:    Weakens you, makes you feel tired and sleepy if used a lot. This tiredness and sleepiness is actually just part of the potions main effect, not a side effect.
-	
-	Ingredients: A small handful of mashed relaxation herbs, a small handful of mashed love herbs, and several drops of mistletoe oil.
-	Brewing:     Slow boil the potion for five hours. Make sure it boils subtly, and not like you're cooking a soup.
 
 ----------------------------------------------------------------------------------------------------
 

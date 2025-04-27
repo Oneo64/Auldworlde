@@ -39,11 +39,11 @@ Säelrie is immune to all poison and disease, due to druidic practices.
 
 [[GRIMOIRE]]
 	Potions:
+		Calming Draught
 		Calming Salve
 		Curing Tonic
 		Forgetation Concoction
 		Gardening Growth Potion
-		Potion of Relaxation
 		Potion of Restoration
 		Regeneration Potion
 		Regenerative Salve
