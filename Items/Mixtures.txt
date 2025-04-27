@@ -469,20 +469,20 @@ Realsight Potion (advanced)
 
 ----------------------------------------------------------------------------------------------------
 
-Regeneration Potion (basic)
+Regeneration Potion (advanced)
 	Appearance:  The potion is a clear pale honey-colored liquid.
 	Usage:       Pour small amounts onto a wound, typically a few drops at a time. It must touch exposed flesh or blood to work. It can be also drank to heal any damaged organs.
 	Effect:      Evaporates wasted blood, and regenerates skin, flesh, and organs.
 	Downside:    If used too fast, you may loose potion. Also cannot heal broken bones or scars. If the wound was healed using this potion, you may still feel the pain from the wound. The healed would may also feel numb after usage.
 	
-	Ingredients: A small handful of ground basil and comfrey leaves (stems removed first), a small handful of ground wild celery, and three jadeblossom petals.
+	Ingredients: A small handful of ground basil and comfrey leaves (stems removed first), a small handful of ground wild celery, three jadeblossom petals, and a gecko's tail.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
 
-Regenerative Salve (minor)
+Regenerative Salve (basic)
 	Appearance:  The salve is a pale yellow salve.
-	Usage:       Spread on cuts, bruises, rashes, prolonged flustering, or other common/minor skin conditions.
+	Usage:       Spread on cuts, bruises, rashes, prolonged flustering, or other common/minor skin conditions. Takes around 9 hours to fully dry.
 	Effect:      When the salve dries, it will heal 25% of the skin condition or wound. After 8-10 uses, the skin condition is fully removed.
 	Downside:    This salve does not work on branded or burnt skin, or scars.
 	
@@ -493,7 +493,7 @@ Regenerative Salve (minor)
 
 Reverting Salve (advanced)
 	Appearance:  The salve is a pale yellow salve, that slightly glows in the dark.
-	Usage:       Spread on cuts, bruises, rashes, prolonged flustering, skin cancer, or other skin conditions.
+	Usage:       Spread on cuts, bruises, rashes, prolonged flustering, skin cancer, or other skin conditions. Takes around 9 hours to fully dry.
 	Effect:      When the salve dries, it will not heal, but revert 30% of the skin condition or wound to it's original state. After 6-8 uses, the skin condition is fully removed.
 	Downside:    This salve does not work on scars.
 	
