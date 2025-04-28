@@ -136,7 +136,7 @@ Elementals are natural manifestations of Talmundur, or spawn inside of elemental
 ====================================================================================================
 
 Earth Elemental:
-	Earth elementals are natural manifestations inside of Sottjorðr.
+	Earth elementals are natural manifestations inside of Sotjorðr.
 
 	Description:
 		Earth elementals looks like a hulking humanoid completely made of chunks of earth. Earth elementals don't have a face, but they can see normally. Earth elementals may have grass growing on the top side of their bodies. Some may even adorn themselves with flowers and vines.

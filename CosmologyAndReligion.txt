@@ -7,7 +7,7 @@ Planes/Realms:
 	Hel           = Bad afterlife (CG, punishment realm to evil people)
 
 	Veldalfheimr  = Realm of Fey and Pure Nature (N, infinite dark lush green forest)
-	Sottjorðr     = Realm of Earth and Stone
+	Sotjorðr     = Realm of Earth and Stone
 
 Other dimensions:
 	Andheimr  = Astral plane
