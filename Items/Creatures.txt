@@ -16,7 +16,7 @@ Creature Habitats (if an animal isn't present here, then they will follow their 
 	Far Northern Tundra/Snowfield:		Frost Dragon, Ice Elemental
 	Forests of Rànûdel:					Glimmering Moth, Owl
 
-	Urban:								Ghost, Golem
+	Urban:								Ghost
 
 	Veldalfheimr:						Centaur, Dryad, Faerie Hare, Gvarth
 	Plane of Earth and Stone:			Earth Elemental, Stone Elemental
