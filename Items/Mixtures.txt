@@ -141,7 +141,7 @@ Bone-growing Salve (advanced)
 	Downside:    As the salve dries, the area might feel tingly and numb.
 	
 	Ingredients: A handful of mashed healing herbs, a small handful of ground bone or bone meal, a spoon of any milk, and several drops of lesser healing herb oil.
-	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
+	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 10% of the original amount of water left as salve.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -173,7 +173,7 @@ Calming Salve (basic)
 	Downside:    This salve does not work on wounds.
 	
 	Ingredients: A small handful of mashed relaxation herbs, and several drops of mistletoe oil.
-	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
+	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 10% of the original amount of water left as salve.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -350,7 +350,7 @@ Iron Grease of Magic (advanced)
 	Downside:    This grease does not work on gold, copper, or bronze. It is also unable to induce any kind of disease or poison.
 	
 	Ingredients: A few drops of ink, a few drops of tar, a few drops of animal fat/vegetable oil, and a pinch of ground volcanic rock.
-	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve. Once that's done, mix the salve with a the same amount of animal fat or vegetable oil.
+	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 10% of the original amount of water left as salve. Once that's done, mix the salve with a the same amount of animal fat or vegetable oil.
 
 	Catalyst examples: Volcanic Ash (fire), scorched needles from a coniferous tree struck by lightning (frost), water from a milion-year old geode (sunlight), pond of water struck by lightning (lightning), any part of a glimmering moth (moonlight), daeva horns (necrotic), elemental cores (only fire or ice elementals), amethyst gorbries or glimmering moth part (magic force).
 
@@ -492,7 +492,7 @@ Regenerative Salve (basic)
 	Downside:    This salve does not work on branded or burnt skin, or scars.
 	
 	Ingredients: A small handful of mashed healing herbs, a pinch of mashed relaxation herbs, and several drops of lesser healing herb oil.
-	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
+	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 10% of the original amount of water left as salve.
 
 ----------------------------------------------------------------------------------------------------
 
