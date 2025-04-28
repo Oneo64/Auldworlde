@@ -1,5 +1,5 @@
 Creature Habitats (if an animal isn't present here, then they will follow their real-life habitats):
-	Dungeon:							Draugr, Ghost, Skeleton, Vamerk, Wraith, Zombie
+	Dungeon:							Draugr, Ghost, Boneman, Wraith, Zombie
 
 	Desert:								Daeva, Fire Dragon, Fire Elemental, Manticore
 
