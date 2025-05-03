@@ -1,6 +1,6 @@
 Copyright © 2023 Oneo64
 
-**This is the main repository of the Aldpor/Auldworlde! Everything else are either spinoffs (DnDAldpora), or old versions (the other repository that's also called Aldpor).**
+**This is the main repository for the Aldraheimr Worldbuilding Project! Everything else are either spinoffs (DnDAldpora), or old versions (Aldpor).**
 
 This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of
 the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The
