@@ -14,4 +14,4 @@ Ruler: Gorflock
 
 
 [[LORE, RELIGION, STRUCTURE, ETC]]
-Please refer to AuldworldeHistory.txt, AuldworldeDescription.txt, and Cultures/Centaur.txt for more information on it's lore, religion, structure, and others.
+Please refer to AldraheimrHistory.txt, AldraheimrDescription.txt, and Cultures/Centaur.txt for more information on it's lore, religion, structure, and others.

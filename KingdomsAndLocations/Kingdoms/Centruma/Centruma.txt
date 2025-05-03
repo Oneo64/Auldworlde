@@ -69,4 +69,4 @@ Palace Guard:   A palace guard would have an steel galea helmet, yellow surcoat,
 
 
 [[LORE, RELIGION, STRUCTURE, ETC]]
-Please refer to AuldworldeHistory.txt, AuldworldeDescription.txt, Cosmology.txt, and Cultures/CentralMen.txt for more information on it's lore, religion, structure, and others.
+Please refer to AldraheimrHistory.txt, AldraheimrDescription.txt, Cosmology.txt, and Cultures/CentralMen.txt for more information on it's lore, religion, structure, and others.

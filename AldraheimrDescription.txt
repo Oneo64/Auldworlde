@@ -1,5 +1,5 @@
 [[OVERVIEW]]
-Auldworlde is a mythic historical high fantasy world, set in the early medieval ages. The project started in 2023, July.
+Aldraheimr is a mythic historical high fantasy world, set in the early medieval ages. The project started in 2023, July.
 
 The goal of this project is to take classical and stereotypical fantasy elements and put them into a semi-realistic early medieval world, where the average man can live a normal historical life, free of the grand and wondrous, and still experience fantastical elements and real-world mythology. This world takes elements from Norse, Celtic, Roman, Norman, Slavic, Persian, and Chinese cultures (including their mythologies).
 

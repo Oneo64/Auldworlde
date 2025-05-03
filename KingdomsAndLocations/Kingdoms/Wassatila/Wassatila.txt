@@ -12,4 +12,4 @@ Rulers: Equal council of dryads and centaur lords (4 dryads and 4 centaurs)
 
 
 [[LORE, RELIGION, STRUCTURE, ETC]]
-Please refer to AuldworldeHistory.txt, AuldworldeDescription.txt, Cosmology.txt, and Cultures/Fey.txt for more information on it's lore, religion, structure, and others.
+Please refer to AldraheimrHistory.txt, AldraheimrDescription.txt, Cosmology.txt, and Cultures/Fey.txt for more information on it's lore, religion, structure, and others.

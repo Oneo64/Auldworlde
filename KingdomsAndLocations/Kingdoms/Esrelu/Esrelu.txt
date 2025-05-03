@@ -48,4 +48,4 @@ Hathössali guards: An iron nasal helmet, a chainmail hauberk, a blue viking clo
 
 
 [[LORE, RELIGION, STRUCTURE, ETC]]
-Please refer to AuldworldeHistory.txt, AuldworldeDescription.txt, Cosmology.txt, and Cultures/NorthernElvish.txt for more information on it's lore, religion, structure, and others.
+Please refer to AldraheimrHistory.txt, AldraheimrDescription.txt, Cosmology.txt, and Cultures/NorthernElvish.txt for more information on it's lore, religion, structure, and others.

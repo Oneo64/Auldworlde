@@ -42,4 +42,4 @@ Wear at least a tunic and pants, have common sense, and have a weapon that you k
 
 
 [[LORE, RELIGION, STRUCTURE, ETC]]
-Please refer to AuldworldeHistory.txt, AuldworldeDescription.txt, Cosmology.txt, and Cultures/NorthernMen.txt for more information on it's lore, religion, structure, and others.
+Please refer to AldraheimrHistory.txt, AldraheimrDescription.txt, Cosmology.txt, and Cultures/NorthernMen.txt for more information on it's lore, religion, structure, and others.

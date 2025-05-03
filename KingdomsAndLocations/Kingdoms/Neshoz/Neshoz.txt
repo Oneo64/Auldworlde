@@ -12,4 +12,4 @@ Ruler: Nonakat
 
 
 [[LORE, RELIGION, STRUCTURE, ETC]]
-Please refer to AuldworldeDescription.txt for more information.
+Please refer to AldraheimrDescription.txt for more information.
