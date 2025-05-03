@@ -2,7 +2,7 @@ Heir:   Þrein
 Wealth: Moderately wealthy
 
 Land:
-    A longhouse. This house is in Lismerlav, Fjalland.
+    A longhouse. This house is in Lismerlaf, Fjalland.
     A boathouse near the coast.
 
 ---------------------------------------------------------------

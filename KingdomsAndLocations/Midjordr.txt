@@ -27,10 +27,10 @@ Heirfgrian Forest:
 Centrumic Forests (forests above Centruma, surrounding Woparias and Zenixras):
 	These forests are a bright redwood forest, with little undergrowth.
 
-Northern and Southern Fjallandic Forests (forests near Argonlav and under Esrelu, and west of Glomdur):
+Northern and Southern Fjallandic Forests (forests near Argánlaf and under Esrelu, and west of Glomdur):
 	These forests are made up of two areas. The northern area and the part west of Glomdur is a dark coniferous forest of tall pines some firs and spruces, and the southern area is a mixed coniferous forest. The southern area is a bright coniferous forest with about 50% firs with heavy undergrowth, and 50% tall pines and firs with moderate undergrowth.
 
-Sölshaef Forest (and the snowy taiga near Argonlav, and the taiga north of Mornesvid):
+Sölshaef Forest (and the snowy taiga near Argánlaf, and the taiga north of Mornesvid):
 	These forests are snowy coniferous forests. This forest also contains all three moon shrine variants, located in the west.
 
 Lantheressil Forest, peninsula southwest of Esrelu:

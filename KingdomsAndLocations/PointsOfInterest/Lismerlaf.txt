@@ -7,7 +7,7 @@ Current hersir: Felagi
 
 
 [[SETTLEMENT]]
-The houses of the village are built together, near the river mouth and close to the coast. Near the coast to the east, there are eight boathouses, five has a small karve owned by traders that sail along the river to Argonlav and fishermen who fish in the sea, and the rest of the three hold larger longboats for traders who sail to other settlements. In the middle of the settlement is built a larger house for the hersir's family.
+The houses of the village are built together, near the river mouth and close to the coast. Near the coast to the east, there are eight boathouses, five has a small karve owned by traders that sail along the river to Argánlaf and fishermen who fish in the sea, and the rest of the three hold larger longboats for traders who sail to other settlements. In the middle of the settlement is built a larger house for the hersir's family.
 
 There is also a wooden bridge that is built across the river, but it is built about fifty meters inland where the river is deeper. The bridge is built just high enough for a small trading boat to pass underneath, but anyone who is standing on the boat will need to duck down.
 
@@ -21,7 +21,7 @@ The house of the hersir's family is a large longhouse, fenced off with a plank f
 
 
 [[LANDSCAPE]]
-Lismerlaf is built just south of the mouth of the river that runs past Argonlav in the east. Surrounding them is a grassy meadows, with dandelions and small white flowers which bloom in the spring and summer scattered around in the field. The mouth of the river is pretty shallow, only reaching to the middle of shins.
+Lismerlaf is built just south of the mouth of the river that runs past Argánlaf in the east. Surrounding them is a grassy meadows, with dandelions and small white flowers which bloom in the spring and summer scattered around in the field. The mouth of the river is pretty shallow, only reaching to the middle of shins.
 
 The coast is a sandy beach. A couple of giant boulders are there at the beach a hundred meters south, where the waves barely reach halfway around the boulders.
 
@@ -33,4 +33,4 @@ Three of the eight traders in Lismerlaf have a small karve, to trade fish on the
 
 
 [[LOCAL TRADING]]
-Traders usually take a boat along the southern river inland, to trade fish for wood and berries with Argonlav, which is a long way to the west where there is more forestry and trees.
+Traders usually take a boat along the southern river inland, to trade fish for wood and berries with Argánlaf, which is a long way to the west where there is more forestry and trees.
