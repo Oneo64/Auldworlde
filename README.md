@@ -7,7 +7,7 @@ the Coast LLC and available at https://dnd.wizards.com/resources/systems-referen
 SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at
 https://creativecommons.org/licenses/by/4.0/legalcode.
 
-When viewing the secrets of the universe (AuldworldeHistory.txt, Magics.txt, Creatures.txt, etc), please click on the three dots on the top right and turn on Wrap Lines.
+When viewing the secrets of the universe (AldraheimrHistory.txt, Magics.txt, Creatures.txt, etc), please click on the three dots on the top right and turn on Wrap Lines.
 
 NOTE: This repository is meant to be read in tab sizes of 4. Any tab size other than 4 will look unformatted (especially character sheets!)
 
