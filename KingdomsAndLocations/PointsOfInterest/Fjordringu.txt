@@ -1,4 +1,4 @@
-Fjorðaríngu
+Fjorðríngu
 
 Kingdom:        Fjalland
 Population:     300 people
@@ -7,9 +7,9 @@ Current hersir: Bjarkulfr
 
 
 [[SETTLEMENT]]
-Fjorðaríngu is a village built on a fjord west of Fjalland, fifty meters above sea level. It's isolated except for a "bridge" that connects this fjord to the mainland.
+Fjorðríngu is a village built on a fjord west of Fjalland, fifty meters above sea level. It's isolated except for a "bridge" that connects this fjord to the mainland.
 
-Fjorðaríngu has a ship harbor at the sea. There is a path that leads down to the harbor. Halfway to the harbor along this path, there is a grove of towering pines and no undergrowth. The path is lined with torches on both sides that provide a source of light. Two guards patrol this path, and another two watch the harbor.
+Fjorðríngu has a ship harbor at the sea. There is a path that leads down to the harbor. Halfway to the harbor along this path, there is a grove of towering pines and no undergrowth. The path is lined with torches on both sides that provide a source of light. Two guards patrol this path, and another two watch the harbor.
 
 The natural bridge connecting the fjord to the mainland has a wooden wall, with four guards stationed on the wall. The guards have a small blowing horn.
 
