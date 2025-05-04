@@ -28,8 +28,8 @@ Important fortresses (15 fortresses total):
 
 
 
-[[JOLLANTIL]]
-Jollantil is a city built against a mountain cliff, with a stone wall about 5 meters high surrounding it. Example is found at the bottom of this section.
+[[LANTUM]]
+Lantum is a city built against a mountain cliff, with a stone wall about 5 meters high surrounding it. Example is found at the bottom of this section.
 Gavalor, Haedroval and Woparias: These fortresses are small stone fortresses about 30x30 meters in size.
 
 Houses are in the style of middle eastern houses, specifically Jerusalem during the 1st century, but the walls are built using common gray stone instead of sandstone/limestone. (Despite whatever the reference image show, don't consider that as the layout of the city, as it only needs to depict however the houses should look like.)
@@ -56,7 +56,7 @@ Centruma mainly exports timber, especially redwood. They also export iron, fish,
 
 
 [[MILITARY]]
-Centruma has 2500 men in their army, about 40 in each fortress, 1200 in Jollantil and 700 in Virot. Soldiers live in their garrisons.
+Centruma has 2500 men in their army, about 40 in each fortress, 1200 in Lantum and 700 in Vero. Soldiers live in their garrisons.
 
 
 
