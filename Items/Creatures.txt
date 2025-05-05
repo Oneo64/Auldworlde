@@ -201,7 +201,7 @@ Stone Elemental:
 FEY | FAERIES
 ----------------------------------------------------------------------------------------------------
 Fey are natural inhabitants of Veldalfheimr, realm of pure nature.
-======================================================================================================================================================
+====================================================================================================
 
 Centaur (medium fey):
 	A centaur is a half man half horse found in Veldalfheimr and Miðjorðr. They live in groups, small kingdoms, or the such.
