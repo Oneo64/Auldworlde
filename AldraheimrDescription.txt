@@ -1,7 +1,7 @@
 [[OVERVIEW]]
-Aldraheimr is a mythic historical high fantasy world, set in the early medieval ages. The project started in 2023, July.
+Aldraheimr is a mythic historical fantasy world set in the early medieval ages. The reason why it's not specifically a low or high fantasy setting is because those terms don't have a strict definition, and this world just so happens to sit exactly in the middle, leaning low fantasy. This project started in July 2023.
 
-The goal of this project is to take classical and stereotypical fantasy elements and put them into a semi-realistic early medieval world, where the average man can live a normal historical life, free of the grand and wondrous, and still experience fantastical elements and real-world mythology. This world takes elements from Norse, Celtic, Roman, Norman, Slavic, Persian, and Chinese cultures (including their mythologies).
+My goal with this project is to build a semi-realistic early medieval world, with only a few classical and stereotypical fantasy elements. Because of the lack of grandiose and wonder, the average man can live a normal (and historical) life without seeing a bit of magic unless he seeks it out or when rare fate strikes. Mythologies and cultures this world takes from are mainly Norse, but it also has some Celtic, Roman, Norman, Slavic, Persian, and Chinese.
 
 The current year is AD 973, and the time of the year is currently Early February. People war over political beliefs, religion, hatred, and conquest. Many weaponry, technology, and architectures are based on the Late Roman Period to the Late Viking Ages, or anything that was from the first ten centuries in AD. Structures like ring fortresses are built. Still, monsters like zombies, skeletons, elementals, and dragons exist, but they are not as powerful as most fantasy worlds portray them.
 
