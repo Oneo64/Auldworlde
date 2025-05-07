@@ -146,7 +146,7 @@ Earth Elemental:
 	Abilities:
 		Earth elementals do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
 
-		Earth elementals are able to speak Primordial, despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other elementals. Some earth elementals may even form groups, and have a name for themselves.
+		Earth elementals are able to speak Wòrdimunag (Primordial), despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other elementals. Some earth elementals may even form groups, and have a name for themselves.
 
 		Because of the fragility of earth, some earth elementals who find themselves in Miðjorðr may wrap themselves in cloth, in attempt to secure and hold their body together.
 
@@ -159,7 +159,7 @@ Fire Elemental:
 		Fire elementals appear as a floating humanoid torso completely made of fire. Their faces only consist of a pair of eyes, which look like darker spots.
 
 	Abilities:
-		Fire elementals are able to fly, moving up to 8 meters a second at maximum, close to the running speed of a human. They are able to speak Primordial, despite not having a mouth.
+		Fire elementals are able to fly, moving up to 8 meters a second at maximum, close to the running speed of a human. They are able to speak Wòrdimunag (Primordial), despite not having a mouth.
 
 		Because of their fiery body, fire elementals are able to squeeze into small spaces such as under the door, or go through window frames and cage bars. By touching flammable surfaces, they would ignite the surface willingly or unwillingly.
 
@@ -176,7 +176,7 @@ Ice Elemental:
 	Abilities:
 		Ice elementals do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
 
-		Ice elementals are able to speak Primordial, despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other elementals. Some ice elementals may even form groups, and have a name for themselves.
+		Ice elementals are able to speak Wòrdimunag (Primordial), despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other elementals. Some ice elementals may even form groups, and have a name for themselves.
 
 		Ice elementals usually arm themselves with spears, war hammers, and knives made of stone or obsidian.
 
@@ -193,7 +193,7 @@ Stone Elemental:
 		A stone elemental typically stands at a height of almost four meters.
 
 	Abilities:
-		Stone elementals do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
+		Stone elementals cannot speak, but they can understand Wòrdimunag (Primordial). They don't have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
 
 
 

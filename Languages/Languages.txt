@@ -22,7 +22,7 @@ Uncommon:
 		Sylvendric (Sylvan + Centrumic)
 
 Exotic:
-	Primordial
+	Wòrdimunag (Primordial)
 	Sylvan
 	Abyssal
 
