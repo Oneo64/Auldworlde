@@ -1,38 +1,38 @@
 [[PRONUNCATION]]
-	A: Say "AH" as in sat, bat, or mat.
-	Á: Say "AUH" as in bald, salt, or gall. The exeption is the word "á (at, to be at a place or location; infinitive marker)," which is pronounced "AW" as in awe, maul, or foul.
-	Æ: Say "AI" as in ride, side, or lie.
+	A: /a/
+	Á: /ɑ/
+	Æ: /aɪ/
 
-	E: Say "EH" as in rest, best, or test.
-	É: Say "YEH."
+	E: /ɛ/
+	É: /jɛ/
 
-	I: Say "IH" as in live.
-	Í: Say "EE."
+	I: /ɪ/
+	Í: /i/
 
-	O: Say "O" as in rot, bot, or lot.
-	Ó: Say "O" as in bow, go, open, or own.
-	Œ: Say "OI" as in groin.
+	O: /o/
+	Ó: /oʊ/
+	Œ: /oɪ/
 
-	U: Say "UH" as in up, gum, tummy, or run.
-	Ú: Say "OO" as in pool, ooze, goo, or moo.
+	U: /ə/
+	Ú: /u/
 
-	Y: Say "EEW" as in dew.
-	J: Say "Y" as in the Y in you, young, or yeast.
+	Y: /jy/
+	J: /j/
 
-	AU and ALL: Say "AW" as in awe, maul, or foul.
-	ÁI: Say "AI" like you would pronounce Æ, but the A is more like an Á.
-	EI and EY: Say "AE" or "EY" as in make, rake, or lake.
-	ÍU: Say "EEW" as in dew, like how you would pronounce Y in Fjallandic. Ys and JÚs become ÍUs when it is at the end of a word. Example: "Dy and djú" becomes "díu", "ny and njú" becomes "níu", etc etc.
-	ÚA: Say "OOAH."
-	ÚI: Say "OOEE."
+	AU, ALL: /ɑʊ/
+	ÁI: /ɑɪ/
+	EI, EY: /eɪ/
+	ÍU: /jy/
+	ÚA: /uɑ/
+	ÚI: /uɪ/
 
-	DR: Say the D and the R seperately, as if you were pronouncing "der," but without the E.
-	TR: Say the T and the R seperately, as if you were pronouncing "ter," but without the E.
+	DR: /dr/
+	TR: /tr/
 
-	KV and GV: Pronounce the V as an F.
-	GE, GI, and GÍ: Pronounce the G as a J the way you would pronounce J in English.
+	KV, GV: /kf/, /gf/
+	GE, GI, GÍ: G is pronounced /dʒ/
+
+	Þ: /θ/
+	Ð: /ð/
 
 	R: When the R is at the end of the word or the syllable, it is slightly rolled.
-
-	Þ: Say "TH" as in thing.
-	Ð: Say "TH" as in "the."
