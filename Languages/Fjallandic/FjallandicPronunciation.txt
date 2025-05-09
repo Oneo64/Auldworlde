@@ -30,7 +30,7 @@
 	TR: /tr/
 
 	KV, GV: /kf/, /gf/
-	HW: /ʍ/
+	HV: /ʍ/
 	GE, GI, GÍ: G is pronounced /dʒ/
 	ING: /ɪŋk/
 
