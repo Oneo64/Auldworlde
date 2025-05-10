@@ -94,20 +94,20 @@ By holding a small piece of amber in your hand and speaking an incantation, you 
 ====================================================================================================
 Sorcery is magic that is learned through education. This type of magic is most commonly found in southern regions such as Tarib. Sorcery usually has an effective range of fourty-four cubits.
 
-Spells: Spells that are cast by holding a piece of labradorite and speaking incantations. Most of these spells aren't powerful enough to easily break through a wooden shield.
+Spells: Spells that are cast by speaking incantations and pointing. Most of these spells aren't powerful enough to easily break through a wooden shield.
 Necromancy: Spells that are cast by holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation. These spells are considered evil by most people.
 ====================================================================================================
-Illusion (easy):
+Illusion (beginner):
 By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
 	- Illusion of Sight: A small illusory trinket appears on your hand.
 	- Illusion of Sound: A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
 	- Wispy blast:       A small, white wispy blast shoots out of your hand. This blast is only illusory, which means it's harmless.
 ----------------------------------------------------------------------------------------------------
 Strike:
-By holding a piece of labradorite and speaking an incantation, you cause a shimmering streak of white force to shoot out of your hand towards where you are aiming at, and strikes in a faint flash of light. This projectile strikes like a someone's punch but a little stronger than average.
+By speaking an incantation, you cause a shimmering streak of white force to shoot out of your hand towards where you are aiming at, and strikes in a faint flash of light. This projectile strikes like a someone's punch but a little stronger than average.
 ----------------------------------------------------------------------------------------------------
 Spells (harder to cast):
-By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
+By casting one of these spells, you can cause their effects to happen:
 	- Explode:   A point you're pointing at starts to glow with a speck of golden color. If maintained for several seconds, it explodes like a firecracker.
 	- Mind-Read: By chanting and staring at someone's forehead, you hear your own voice tell you what they are thinking.
 	- Shield:    A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist cannot be bounced off. Instead, it causes you to be sent flying backwards.
