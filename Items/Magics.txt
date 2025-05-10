@@ -34,20 +34,20 @@ Large: Around the size of your hand
 ====================================================================================================
 Druidry is most commonly associated with femininity. This magic is shamanic, found in northern and central regions.
 ====================================================================================================
-Bloom flowers or make them wither:
-By touching a plant and speaking an incantation, you can instantly make a flower blossom, a seed pod open, or a leaf bud bloom. Alternatively, you can make them wither or turn them into ash.
+Invoke small plants:
+By touching some grass or a small plant and then speaking an incantation, you can make it age, wither, bloom, grow, reverse it to a seed, and other things a small plant can do within several seconds.
 ----------------------------------------------------------------------------------------------------
 Talk to animals:
-By speaking in Druidic or Sylvan, you can talk to animals. The animals will be able to hear and understand you. However, the animal cannot speak back.
+You can make it so that animals understand what you're saying when you speak in Druidic or Sylvan. If so, the animals can understand you but can't respond.
 ----------------------------------------------------------------------------------------------------
 Heal wounds:
 By holding a beaded wooden bracelet in your other hand, and hovering your palm over an open wound on a creature, you can slowly heal that wound. If the wound would naturally result with a scar, then the wound healed would result with a scar. A small cut is healed instantly, however a wound such as a sword slash can take tens of minutes.
 ----------------------------------------------------------------------------------------------------
-Clense liquid of corruption:
-By speaking an incantation and sticking a finger into a liquid contained in a mug, tankard, drinking horn, bowl, or anything similar, you can clean that liquid of all harmful substances such as poisons and dirt.
+Clense liquid:
+By speaking an incantation and sticking your finger (a not-severed one) into a liquid contained in a mug, tankard, drinking horn, bowl, or anything similar, you can clean that liquid of all harmful substances such as poisons and dirt. Doing it to a pond probably isn't going to work.
 ----------------------------------------------------------------------------------------------------
 Shapeshift (hard):
-By holding a small piece of jade or malachite in your hand and speaking an incantation, you can shift into any forest animal from your region.
+By chanting something, you can shift into any forest animal from your region that you've seen before.
 
 
 
@@ -107,25 +107,27 @@ Strike:
 By speaking an incantation, you cause a shimmering streak of white force to shoot out of your hand towards where you are aiming at, and strikes in a faint flash of light. This projectile strikes like a someone's punch but a little stronger than average.
 ----------------------------------------------------------------------------------------------------
 Spells (harder to cast):
-By casting one of these spells, you can cause their effects to happen:
+These are the most common spells amongst magicians. By chanting their incantations, you can make their effects happen:
 	- Explode:   A point you're pointing at starts to glow with a speck of golden color. If maintained for several seconds, it explodes like a firecracker.
-	- Mind-Read: By chanting and staring at someone's forehead, you hear your own voice tell you what they are thinking.
-	- Shield:    A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist cannot be bounced off. Instead, it causes you to be sent flying backwards.
+	- Mind-Read: By chanting and staring at someone's forehead, you hear your voice tell you what they are thinking.
+	- Shield:    A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist, cannot be bounced off. Instead, it causes you to be sent flying backwards.
 	- Wall:      A faint shimmering dome appears at a spot you choose. The dome cannot be penetrated easily. If an arrow landed on this, it would probably make it halfway through before getting stuck in it. The wall can also appear in doorways, hallways, or anywhere if all four edges of the wall are completely inside something else.
 	- Wind:      A strong burst of wind comes out of your hand.
 ----------------------------------------------------------------------------------------------------
 Necromancy (harder to cast due to obscurity):
-Necromancy is a tabooed practice, and is deemed evil by most people. Because it's more obscure (attempts to hide or destroy it), it takes longer to learn a spell and harder to cast. One would cast necromantic magic by holding a piece of onyx in one hand, a piece of obsidian in another, and then speaking an incantation. Necromancy can be used to do things like raising the dead, mind controlling someone, and other similar things.
+Necromancy is a taboo practice and is deemed evil by most people. Because it's more obscure (attempts to hide or destroy it), it takes longer to learn a spell and is harder to cast. One would cast necromantic magic by holding a piece of onyx in one hand, a piece of obsidian in another, and then speaking an incantation. Necromancy can be used to do things like raising the dead, mind controlling someone, and other similar things.
 
 
 
 [[STAVES]]
 ====================================================================================================
-Staves are magical symbols drawn on a surface to do magical things. This type of magic is practiced in northern regions like Fjalland, Esrelu, and Vuntarla. When a stave is drawn to target a creature, it usually works if that creature is within forty-four cubits of it or if they can clearly see it without it looking like a blur.
+Staves are magical symbols drawn on a surface that can do magical things. This type of magic is practiced in northern regions like Fjalland, Esrelu, and Vuntarla.
 
-You can create a stave by drawing a surface with coal, and then writing whoever is affected by it around the stave. If you did it correctly, it starts to glow a bit red. The stave can't be larger than two cubits, or it will probably not work.
+You can create a stave by drawing on a surface with dark-colored materials (like coal, paint, tar, etc), and then writing whoever is affected by it around the stave. There are also other ways to make a stave, like carving it. The stave can't be larger than twice the length of a man's arm, or it won't work properly. If you've done it correctly, it starts to glow a bit red. If it's drawn wrong, it'll still glow red but not as bright, and might cause some minor unknown effect.
 
-Staves can be foiled if thick liquids are spilled onto them. (Like oil, tar, blood, or paint.) If the stave is exposed to rain, its glow and magical strength will flicker between normal and weak.
+When a stave is drawn to target a creature, its effect is enough to cover half of a longhouse. (or something like 20 cubits)
+
+Staves can be foiled if thick liquids are spilled onto them. (like the same kind of materials that these are drawn with) If the stave is exposed to rain or is underwater, its glow and magical strength will flicker between normal and weak.
 ====================================================================================================
 Staves:
 These are the staves you can make:
@@ -136,11 +138,11 @@ These are the staves you can make:
 Intricate Staves (requires effort or practice to draw):
 These are the staves you can make:
 	- Ægishjalmur:   Must be carved on the outside of one's helmet. When worn, its wearer will gain a slight boost in strength.
+	- Antiburn:      Carved on any wood, that piece can catch fire but won't burn.
 	- Brynslustafir: The blades of allies shall cut with ease upon attacking their foes.
-	- Repel Demons:  All lesser demons and undead shall recoil and flee. (lesser demons and undead example: wraiths and zombies)
+	- Repel Demons:  Weak-willed demons and undead shall recoil and flee.
 	- Repel Evil:    Carved on a door, no creature of evil can willingly enter.
-	- Shielding:     All missiles lighter than a sword will be deflected by a flash of light. Five times it can block before exhaustion, in which it will be restored at dawn.
-	- Lesser Hagall: No magic can be cast near this stave, but this stave isn't affected by its own magic. If this stave is near another stave of its kind, both staves shall begin to flicker and flash violently until one explodes.
+	- Lesser Hagall: No magic can be cast or created near this stave, but this stave doesn't affect itself. If this stave nears another Lesser Hagall, they cancel each other out.
 	- Hulinhjalmur:  Must be carved on one's helmet, wearing it will turn him half-invisible.
 
 
