@@ -104,7 +104,7 @@ By making a strange hand gesture with your other hand and speaking an incantatio
 	- Wispy blast:       A small, white wispy blast shoots out of your hand. This blast is only illusory, which means it's harmless.
 ----------------------------------------------------------------------------------------------------
 Strike:
-By holding a piece of labradorite and speaking an incantation, you cause a shimmering streak of white force to shoot out of your hand towards where you are aiming at, and strikes in a faint flash of light. This projectile strikes like a mace.
+By holding a piece of labradorite and speaking an incantation, you cause a shimmering streak of white force to shoot out of your hand towards where you are aiming at, and strikes in a faint flash of light. This projectile strikes like a someone's punch but a little stronger than average.
 ----------------------------------------------------------------------------------------------------
 Spells (harder to cast):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
