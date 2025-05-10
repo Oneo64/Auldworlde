@@ -32,7 +32,7 @@
 	KV, GV: /kf/, /gf/
 	HV: /ʍ/
 	GE, GI, GÍ: G is pronounced /dʒ/
-	ING: /ɪŋk/
+	ING: /ɪŋkʰ/
 
 	Þ: /θ/
 	Ð: /ð/
