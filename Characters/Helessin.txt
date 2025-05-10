@@ -24,15 +24,4 @@ Helessin can be described as an aloof knight, and can be easily angered by clums
 
 
 [[ABILITIES]]
-Helessin was born a sorcerer, and can cast magic on will. He can also speak fluent Fjallandic with his native language, Esrel. Sometimes, he practices fighting with his flanged mace.
-
-
-
-[[SORCERY]]
-	Unexplained effects:
-		Fake imagery
-		Fake sounds
-
-	Strike with fire and lightning:
-		Fire
-		Lightning
+Helessin can speak fluent Fjallandic with his native language, Esrel. Sometimes, he practices fighting with his flanged mace.
