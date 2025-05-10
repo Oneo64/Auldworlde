@@ -66,12 +66,12 @@ Ljorn's native language is Fjallandic, but he can also speak Rotherlandic (Early
 		Silencing Potion
 		Sparkfire Potion
 
-	Magical Staves:
+	Staves:
 		Gapaldur
 		Vegvisir
 		Toustefna
 
-	Intricate Magical Staves:
+	Intricate Staves:
 		Ægishjalmur
 		Repel Demons
 		Lesser Hagall

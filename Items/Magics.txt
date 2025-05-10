@@ -119,19 +119,21 @@ Necromancy is a tabooed practice, and is deemed evil by most people. Because it'
 
 
 
-[[STAVE MAGIC]]
+[[STAVES]]
 ====================================================================================================
-Stave magic is magic that is activated by a symbol drawn on a surface. This type of magic is most commonly found in the northmost areas, such as Fjalland, Esrelu, and Vuntarla. Stave magic usually has an effective range of fourty-four cubits. You can create a stave by drawing a symbol on a surface with coal, and describe whoever is affected by writing it around the stave. The runic staves are about half a meter in radius and will glow slightly red.
+Staves are magical symbols drawn on a surface to do magical things. This type of magic is practiced in northern regions like Fjalland, Esrelu, and Vuntarla. When a stave is drawn to target a creature, it usually works if that creature is within forty-four cubits of it or if they can clearly see it without it looking like a blur.
 
-Staves can be instantly foiled if thick liquids are spilled onto it like oil, tar, blood, or paint. If the stave is exposed to rain, it's glow and magical strength will also flicker between normal and weak.
+You can create a stave by drawing a surface with coal, and then writing whoever is affected by it around the stave. If you did it correctly, it starts to glow a bit red. The stave can't be larger than two cubits, or it will probably not work.
+
+Staves can be foiled if thick liquids are spilled onto them. (Like oil, tar, blood, or paint.) If the stave is exposed to rain, its glow and magical strength will flicker between normal and weak.
 ====================================================================================================
-Magical Staves:
+Staves:
 These are the staves you can make:
 	- Gapaldur:  Allies shall be stronger when they wield no weapon.
 	- Vegvisir:  Allies shall never be deterred by the cold, wind and rain, and shall not be soaked or lightning-struck as easily as without its empowerment.
 	- Toustefna: Drawn on oak, all foxes shall be frightened and flee.
 ----------------------------------------------------------------------------------------------------
-Intricate Magical Staves (requires effort or practice to draw):
+Intricate Staves (requires effort or practice to draw):
 These are the staves you can make:
 	- Ægishjalmur:   Must be carved on the outside of one's helmet. When worn, its wearer will gain a slight boost in strength.
 	- Brynslustafir: The blades of allies shall cut with ease upon attacking their foes.

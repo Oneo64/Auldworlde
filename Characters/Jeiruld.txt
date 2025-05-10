@@ -48,10 +48,10 @@ He could brew potions, knowing how to brew almost all potions known in Fjalland.
 		Wall
 		Wind
 
-	Magical Staves:
+	Staves:
 		Vegvisir
 
-	Intricate Magical Staves:
+	Intricate Staves:
 		Repel Demons
 		Repel Evil
 

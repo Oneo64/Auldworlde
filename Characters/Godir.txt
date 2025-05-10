@@ -46,7 +46,7 @@ Gódir's native language is Fjallandic, and can speak Rotherlandic (Early Middle
 		Silencing Potion
 		Tarfire Grenade
 
-	Magical Staves:
+	Staves:
 		Gapaldur
 		Vegvisir
 		Toustefna

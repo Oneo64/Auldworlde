@@ -45,12 +45,12 @@ Loroðil's silver circlet is enchanted. When Loroðil is attacked with a weapon 
 [[GRIMOIRE]]
 	Potions: All advanced tier potions.
 
-	Magical Staves:
+	Staves:
 		Gapaldur
 		Vegvisir
 		Toustefna
 
-	Intricate Magical Staves:
+	Intricate Staves:
 		Ægishjalmur
 		Brynslustafir
 		Repel Demons
