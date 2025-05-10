@@ -37,4 +37,6 @@
 	Þ: /θ/
 	Ð: /ð/
 
-	R: When the R is at the end of the word or the syllable, it is slightly rolled.
+	T: /tʰ/
+
+	R: When the R is at the end of the word or the syllable, it is slightly rolled. /r/
