@@ -1,9 +1,8 @@
 [[OVERVIEW]]
 Magics:
-	- Druidry incantations are spoken in Druidic, and are all nature-based.
-	- Seidr is a practice of foresight and altering luck.
-	- Sorcery is when you can make simple magic happen by whim. You must be born with these abilities to use this.
-	- Scholarly Magic is a practice where magic is made by doing gestures, speaking an incantation, and holding materials. Wizards usually study at a school to learn this magic.
+	- Druidry incantations are spoken in Druidic, and are all nature-based. Druidry cannot be used to harm.
+	- Seiðr is a practice of foresight and altering luck.
+	- Sorcery is a practice where magic is made by doing gestures, speaking an incantation, and holding materials. Magicians (and some scholars) study at an academy to learn this magic.
 	- Stave Magic is a practice where a magical symbol is drawn on a surface. If someone is rich enough, they can buy a book or scroll that contain stave-making instructions.
 	- Gu is evil magic practiced by demi-humans, and is prevalent in southern regions.
 
@@ -35,7 +34,7 @@ Large: Around the size of your hand
 ====================================================================================================
 Druidry is most commonly associated with femininity. This magic is shamanic, found in northern and central regions.
 ====================================================================================================
-Bloom flowers or make them wither (easy):
+Bloom flowers or make them wither:
 By touching a plant and speaking an incantation, you can instantly make a flower blossom, a seed pod open, or a leaf bud bloom. Alternatively, you can make them wither or turn them into ash.
 ----------------------------------------------------------------------------------------------------
 Talk to animals:
@@ -52,11 +51,11 @@ By holding a small piece of jade or malachite in your hand and speaking an incan
 
 
 
-[[SEIDR]]
+[[SEIÐR]]
 ====================================================================================================
 Another feminine magic. This magic is also shamanic, found in northern and central regions.
 ====================================================================================================
-Scour for the unseen omens (easy):
+Scour for the unseen omens:
 By holding beaded amber bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Hallucinary omens could include:
 	- Crows and ravens surrounding someone or a location for bad luck
 	- One or two crows or ravens surrounding someone for good luck
@@ -80,6 +79,12 @@ By chanting an incantation and staring at a living target, you can either make t
 Bewitch them sickness (hard):
 By chanting an incantation and staring at a living target, you can bewitch them to catch a cold.
 ----------------------------------------------------------------------------------------------------
+Forsee (hard):
+By closing your eyes, holding beaded amber and jade bracelet in your hand and speaking a chant, you start to hallucinate a vision. Visions can be:
+	- What that person is thinking.
+	- What the person is doing and where they are, if not blocked by a Lesser Hagall stave.
+	- What happened to that person in the past.
+----------------------------------------------------------------------------------------------------
 Shapeshift (hard):
 By holding a small piece of amber in your hand and speaking an incantation, you can shift into any forest animal from your region.
 
@@ -87,35 +92,7 @@ By holding a small piece of amber in your hand and speaking an incantation, you 
 
 [[SORCERY]]
 ====================================================================================================
-Sorcery is innate magic that someone can produce innately, without needing learning or education. A sorcerer slowly gains in power the older they get, mainly because they have witnessed more things that happened. Sorcery typically has an effective range of fourty-four cubits.
-====================================================================================================
-Unexplained effects (young):
-By thinking and concentrating an effect to happen at your hands, you can cause one of these effects to happen:
-	- Fake imagery: A small illusory trinket appears on your hand.
-	- Fake sounds:  A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
-	- Gargle:       An illusion of a disproportionate monstrosity or thing warps and distorts at your hand if you're not concentrating.
-----------------------------------------------------------------------------------------------------
-Strike with fire and lightning (adult):
-By thinking and concentrating an effect to happen, you can cause one of these effects to happen:
-	- Fire:      A small speck of fire shoots out of your hand and bursts on contact. This fire mote will ignite anything flammable, but will disappear before it can reach twenty meters.
-	- Lightning: A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc usually has a short range.
-----------------------------------------------------------------------------------------------------
-Power of the wise (elderly):
-The sorcery you cause now has a new power: they can happen not just from your hands, but anywhere within a 5 meter radius that you can see and concentrate on.
-----------------------------------------------------------------------------------------------------
-Create Artefact (requires intermediate scholarly research):
-By thinking on one of these effects, you infuse part of your power into something that can be worn. Once this is done, anyone can wear this thing and use it's power. You can only create one per day, as you won't have enough power to create another.
-	- Nightvision: Wearers will gain subtle nightvision.
-	- Resistance:  Wearers will become more resilient to cold weather, wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
-	- Strength:    Wearers will become physically stronger and more durable.
-	- Will:        Wearers will become resistant to possession or supernatural influences on the mind.
-	- Unexplainatory properties: If you aren't focusing on one of the four above, the thing might gain a random unknown effect.
-
-
-
-[[SCHOLARLY MAGIC]]
-====================================================================================================
-Scholarly magic is magic that is learned through education. This type of magic is most commonly found in southern regions such as Tarib. Scholarly magic typically has an effective range of fourty-four cubits.
+Sorcery is magic that is learned through education. This type of magic is most commonly found in southern regions such as Tarib. Sorcery usually has an effective range of fourty-four cubits.
 
 Spells: Spells that are cast by holding a piece of labradorite and speaking incantations. Most of these spells aren't powerful enough to easily break through a wooden shield.
 Necromancy: Spells that are cast by holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation. These spells are considered evil by most people.
@@ -147,17 +124,17 @@ Necromancy is considered an evil practice by most people. Because it's more obsc
 
 [[STAVE MAGIC]]
 ====================================================================================================
-Stave magic is magic that is activated by a symbol drawn on a surface. This type of magic is most commonly found in the northmost areas, such as Fjalland, Esrelu, and Vuntarla. Stave magic typically has an effective range of fourty-four cubits.
+Stave magic is magic that is activated by a symbol drawn on a surface. This type of magic is most commonly found in the northmost areas, such as Fjalland, Esrelu, and Vuntarla. Stave magic usually has an effective range of fourty-four cubits. You can create a stave by drawing a symbol on a surface with coal, and describe whoever is affected by writing it around the stave. The runic staves are about half a meter in radius and will glow slightly red.
+
+Staves can be instantly foiled if thick liquids are spilled onto it like oil, tar, blood, or paint. If the stave is exposed to rain, it's glow and magical strength will also flicker between normal and weak.
 ====================================================================================================
 Magical Staves:
-You can create a stave by drawing a symbol on a surface with coal, and describe whoever is affected by writing it around the stave. The runic staves are about half a meter in radius and will glow slightly red. The drawing can't be washed off by clear mundane water, but examples that can wash it off are: vinegar/brine, saltwater, magical water, oil, tar, and blood.
 These are the staves you can make:
 	- Gapaldur:  Allies shall be stronger when they wield no weapon.
 	- Vegvisir:  Allies shall never be deterred by the cold, wind and rain, and shall not be soaked or lightning-struck as easily as without its empowerment.
 	- Toustefna: Drawn on oak, all foxes shall be frightened and flee.
 ----------------------------------------------------------------------------------------------------
 Intricate Magical Staves (requires effort or practice to draw):
-You can create a stave by drawing a symbol on a surface with coal, and describe whoever is affected by writing it around the stave. The runic staves are about half a meter in radius and will glow slightly red. The drawing can't be washed off by clear mundane water, but examples that can wash it off are: vinegar/brine, saltwater, magical water, oil, tar, and blood.
 These are the staves you can make:
 	- Ægishjalmur:   Must be carved on the outside of one's helmet. When worn, its wearer will gain a slight boost in strength.
 	- Brynslustafir: The blades of allies shall cut with ease upon attacking their foes.

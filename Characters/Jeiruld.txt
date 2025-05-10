@@ -10,11 +10,9 @@ Race:      Human
 
 
 [[DESCRIPTION]]
-Jeiruld is a wizard born in Forthias, Centruma. He later traveled to Tarib and opened an arcane evocation school called Academy of Aldorim, and now he is the current headmaster.
+Jeiruld is the headmaster of his arcane school, the Academy of Aldorim. He was born in Forthias, Centruma, but later traveled to Tarib and opened his school there. Jeiruld is in his seventies, and he's bald. His eyes are dark brown. He is 170 (5'7) centimeters tall.
 
-He is a human, old and bald. He has dark brown eyes. He wears a brown cap, a black silk cloak, dark red robes, a belt, and a pair of boots. He also wears a plain golden circlet, and two silver rings on his left land. The front of his robes has two large pockets on the chest and leg part, holding things like spell components, papers, or scrolls. He wears a necklace that has all sorts of fangs and claws from bears, big cats, boars and other animals.
-
-Because of old age, he walks around with a walking stick. He is 170 (5'7) centimeters tall. He can usually be found at his academy.
+He wears a brown cap, a black silk cloak, dark red robes, a belt, and a pair of boots. He also wears a plain golden circlet, and two silver rings on his left land. The front of his robes has two large pockets on the chest and leg part, holding things like spell components, papers, or scrolls. He wears a necklace that has all sorts of fangs and claws from bears, big cats, boars and other animals. Because of old age, he walks around with a walking stick. He can usually be found at his academy.
 
 
 
@@ -26,7 +24,7 @@ He harbors one secret, one that no one knows, which is the fact that he is able 
 
 
 [[ABILITIES]]
-Being a powerful wizard, Jeiruld can speak many languages alongside Centrumic (English). Rànûdan and Esrel, he learned these so he could talk to elves. Taribian, he learned this so he could communicate and guide students in his academy. And lastly he learned Abyssal so he could study demons.
+Being a scholar and a powerful sorcerer, Jeiruld can speak many languages alongside Centrumic (English). Rànûdan and Esrel, he learned these so he could talk to elves. Taribian, he learned this so he could communicate and guide students in his academy. And lastly he learned Abyssal so he could study demons.
 
 Jeiruld is very intelligent and wise, knowing many spells, ancient items, and history that goes back over two thousand years. He also knows about every realm in the world.
 
