@@ -1,7 +1,7 @@
 [[PRONUNCATION]]
 	A: /a/
 	Á: /ɒ/
-	Æ: /aɪ/
+	Æ: /ai/
 
 	E: /ɛ/
 	É: /jɛ/
@@ -10,21 +10,21 @@
 	Í: /i/
 
 	O: /o/
-	Ó: /oʊ/
-	Œ: /oɪ/
+	Ó: /ou/
+	Œ: /oi/
 
 	U: /ə/
 	Ú: /u/
 
-	Y: /jy/
+	Y: /ju/
 	J: /j/
 
-	AU, ALL: /ɑʊ/
-	ÁI: /ɑɪ/
-	EI, EY: /eɪ/
-	ÍU: /jy/
-	ÚA: /uɑ/
-	ÚI: /uɪ/
+	AU: /au/
+	ÁI: /ɒi/
+	EI, EY: /ei/
+	ÍU: /ju/
+	ÚA: /u:ɑ/
+	ÚI: /u:ɪ/
 
 	DR: /dr/
 	TR: /tr/
