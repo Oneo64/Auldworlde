@@ -43,23 +43,17 @@ He could brew potions, knowing how to brew almost all potions known in Fjalland.
 
 	Spells:
 		Explode
-		Mind-Raad
-		Hold
+		Mind-Read
 		Shield
 		Wall
 		Wind
 
 	Magical Staves:
-		Gapaldur
 		Vegvisir
-		Toustefna
 
 	Intricate Magical Staves:
-		Ægishjalmur
-		Brynslustafir
 		Repel Demons
 		Repel Evil
-		Shielding
 
 	Necromancy:
 		Raise Zombie

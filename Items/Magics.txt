@@ -110,7 +110,6 @@ Spells (harder to cast):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
 	- Explode:   A point you're pointing at starts to glow with a speck of golden color. If maintained for several seconds, it explodes like a firecracker.
 	- Mind-Read: By chanting and staring at someone's forehead, you hear your own voice tell you what they are thinking.
-	- Hold:      You point your palm at something that's lighter than an adult ox. That thing will then start to move slowly, and will fall slower to the ground. If that thing is hit by something fast-moving, the spell stops functioning. You can do this to yourself too, and can end it any time.
 	- Shield:    A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist cannot be bounced off. Instead, it causes you to be sent flying backwards.
 	- Wall:      A faint shimmering dome appears at a spot you choose. The dome cannot be penetrated easily. If an arrow landed on this, it would probably make it halfway through before getting stuck in it. The wall can also appear in doorways, hallways, or anywhere if all four edges of the wall are completely inside something else.
 	- Wind:      A strong burst of wind comes out of your hand.
