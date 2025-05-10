@@ -52,10 +52,10 @@ Loroðil's silver circlet is enchanted. When Loroðil is attacked with a weapon 
 
 	Intricate Staves:
 		Ægishjalmur
+		Antiburn
 		Brynslustafir
 		Repel Demons
 		Repel Evil
-		Shielding
 		Lesser Hagall
 		Hulinhjalmur
 
