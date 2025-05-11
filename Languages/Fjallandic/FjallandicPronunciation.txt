@@ -42,3 +42,6 @@
 	K: /k/
 
 	R: When the R is at the end of the word or the syllable, it is slightly rolled. /r/
+
+	Stress Marker: Defaulted to the first syllable of the word.
+	Lengthened Vowels (ː): If a one-syllable word ends with a vowel, this goes at the end.
