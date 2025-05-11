@@ -14,7 +14,7 @@
 	Ó: /ou/
 	Œ: /oi/
 
-	U: /ə/
+	U: /ʌ/
 	Ú: /u/
 
 	Y: /ju/
@@ -41,4 +41,3 @@
 	T: /tʰ/
 
 	R: When the R is at the end of the word or the syllable, it is slightly rolled. /r/
-	Consonant + R: /ər/
