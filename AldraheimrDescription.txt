@@ -11,27 +11,6 @@ Medieval Stasis: The gods want to see competition and progress in strength. Stil
 
 
 
-[[ANCESTRY]]
-Cold elves evolved from moon elves.
-
-Humans evolved from cold elves.
-
-Dwarves had human ancestors. They have a greater ambition than humans, making them desire more wealth and power. So they took on mining, as it was the safest way to gain gold, silver and crystals without danger. From long periods of time being in dark areas and mining, their skin has gone very white, and their hair has gone very blonde or red, brighter than most humans. They also have the same lifespan of humans.
-
-Dwarves have multiple kings. Each king usually handles a part of the kingdom, like a pantheon. One of the dwarven king will be the kings leader. Examples: One king handles the kingdom's army, one handles imports and exports, one handles economy etc.
-
-Elves are more likely to worship Parhrügi, Hirulfyr, Lünanyr, or any of the three moons, but moon elves will not worship An.
-
-Average lifespans:
-	Human:		50-80
-	Dwarf:		120-140 (dwarves age until 80 years old, then their aging slows down)
-	Moon Elf:	170-230
-	Cold Elf:	120-140
-	Orc:		60-80
-	Troll:		40-60
-
-
-
 [[KINGDOMS]]
 MEN:
 	Aodesvu:
@@ -89,7 +68,7 @@ MEN:
 
 		Current allies: Fjalland
 
-ELVES:
+ELVES (subjected for removal/reinnovation):
 	Yûmlathnar:
 		Main language is Rànûdan
 		Culture is Moon Elvish
@@ -98,7 +77,7 @@ ELVES:
 		Current allies: Vatakond, Evil fey
 		Current wars:   Fjalland, Herthland, Centruma
 
-DWARVES:
+DWARVES (subjected for removal/reinnovation):
 	Glomdur:
 		Main language is Banodic
 		Culture is Banodic

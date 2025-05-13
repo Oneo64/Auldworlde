@@ -18,9 +18,11 @@ Settlements/empires/kingdoms:
 	Tarib (Old Taribian - Taribian)							(450 BCE - Present day)								(Old Taribian: 450 BCE to AD 670, Taribian: AD 670 to Present)
 	Centruma (Old Cantrium - Centrumic)						(AD 410 - Present day)								(Old Cantrium: AD 410 to AD 720, Centrumic: AD 720 to Present)
 	Fjalland (Galabric - Primal Fjallandic - Fjallandic)	(AD 780 - Present day)								(Galabric: AD 640 to AD 710, Primal Fjallandic: AD 710 to AD 810, Fjallandic: AD 810 to Present)
-	Aodesvu (Old Cantrium - Aodesvic)						(AD 170 - Present day)								(Old Cantrium: AD 170 to AD 780, Aodesvic: AD 780 to Present)
 	Rotherland (Old Cantrium - Rotherlandic)				(AD 560 - Present day)								(Old Cantrium: AD 560 to AD 750, Rotherlandic: AD 750 to Present)
 	Herthland (Old Cantrium-Rotherlandic - Rotherlandic)	(AD 600 - Present day)								(Old Cantrium-Rotherlandic: AD 600 to AD 800, Rotherlandic: AD 800 to Present)
+	Vuntarla (Galabric - Fjallandic)						(AD 650 - Present day)
+	Aodesvu (Galabric - Aodesvic)							(AD 650 - Present day)
+
 
 	Dwarf:
 		Baln (Primordial)										(Before 2000 BCE - 1770 BCE, became Banir)		(Primordial)
@@ -154,9 +156,6 @@ Heirfgria is created. A group of centaurs traveled north.
 [AD 55]
 The group of travelers settled in what is now Vatakond.
 
-[AD 170]
-Centruma expanded to the east, but due to unfortunate luck (or fortunate?), the eastern settlement became independent. The eastern settlement of Centruma is now known as Aodesvu.
-
 [AD 220]
 The centaur settlement transforms into Vatakond.
 
@@ -200,7 +199,7 @@ Beliefs: Jóki was a warrior from the village Hrafandis. He traveled north to ex
 <Second Age of Peace START>
 
 [AD 650]
-As Fjalland slowly rose to power, a group of explorers decided to leave Fjalland to establish their own kingdoms. They traveled east to the coast and settled there, on a fjord that overlooked the ocean, forming the Kingdom of Vuntarla.
+As Fjalland slowly rose to power, a group of explorers decided to leave Fjalland to establish their own kingdoms. They traveled east to the coast and settled there, on a fjord that overlooked the ocean, forming the Kingdom of Vuntarla. But at their new land, some decided that the fjord wasn't enough to please their exploration, so they built a longship and set sail to the ocean. They sailed south, to the lands east of Centruma where they settled the Kingdom of Aodesvu.
 
 [AD 870]
 Centaurs were spotted scouting in the forests of Fjalland.

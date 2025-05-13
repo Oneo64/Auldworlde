@@ -1,6 +1,6 @@
-THE ALDRIÀNDEL FAMILY TREE
-
+Heir:   Théofroy
 Wealth: Wealthy
+
 Land:
     A small half-stone cottage in Pendlas Mus
 
@@ -8,11 +8,6 @@ Land:
 
 
 
-Thiör [M, Mid 40s]---+  +-Antörias  [M, 20 years old]
-                     |>>|
-Marveya [F, Mid 40s]-+  +-Vielthöri [F, 19 years old]
-
-
-
-Notable Features:
-    Thiör is the only non-human in the family tree shown above. Thiör is a moon elfman, and his father being a moon elf.
+Théofroy [M, Mid 40s]-+  +-Aclehard [M, 20 years old]
+                      |>>|
+Mérande [F, Mid 40s]--+  +-Ysole [F, 19 years old]
