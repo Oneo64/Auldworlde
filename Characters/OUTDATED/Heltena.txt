@@ -22,11 +22,11 @@ Heltena is reserved, and doesn't speak much. She's a bit introverted and pessimi
 
 
 [[ABILITIES]]
-Heltena is a seeress, meaning she practices Seidr. She also practices knife-throwing in her free time and can get her knife to stick to the wall every time, but she sucks at aiming. She can also only speak her native tongue, Esrel.
+Heltena is a seeress, meaning she practices seiðr. She also practices knife-throwing in her free time and can get her knife to stick to the wall every time, but she sucks at aiming. She can also only speak her native tongue, Esrel.
 
 
 
-[[SEIDR]]
+[[SEIÐR]]
 	Scour for the unseen omens
 	Scour for deeper omens
 	Bless them luck or curse them illness
