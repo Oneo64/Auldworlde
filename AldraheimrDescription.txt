@@ -34,6 +34,11 @@ Average lifespans:
 
 [[KINGDOMS]]
 MEN:
+	Aodesvu:
+		Main language is Aodesvic
+		Culture is Aodesvic
+		Political structure is elected autocracy
+
 	Centruma:
 		Main language is Centrumic
 		Culture is Central Men
@@ -47,8 +52,22 @@ MEN:
 		Culture is Northern Men
 		Political structure is feudal absolute monarchy
 
-		Current allies: Centruma, Esrelu, Vuntarla
+		Current allies: Centruma, Herthland, Vuntarla
 		Current wars:   Yûmlathnar, Vatakond
+
+	Herthland:
+		Main language is Rotherlandic
+		Other language is Fjallandic
+		Culture is Northern Elvish
+		Political structure is constitutional monarchy
+
+		Current allies: Fjalland, Vuntarla
+		Current wars:   Yûmlathnar, Vatakond
+
+	Rotherland:
+		Main language is Rotherlandic
+		Culture is Rotherlandic
+		Political structure is feudal absolute monarchy
 
 	Tarib:
 		Main language is Taribian
@@ -57,54 +76,27 @@ MEN:
 
 		Current wars: Neshoz
 
-	Aodesvu:
-		Main language is Aodesvic
-		Culture is Aodesvic
-		Political structure is elected autocracy
-
 	Þafnorðarleit:
 		Main language is Fjallandic
 		Culture is Northern Men
 		Political structure is feudal absolute monarchy
 
-	Rotherland:
-		Main language is Rotherlandic
-		Culture is Rotherlandic
-		Political structure is feudal absolute monarchy
+	Vuntarla:
+		Populated by men
+		Main language is Fjallandic
+		Culture is Northern Men
+		Political structure is absolute monarchy
+
+		Current allies: Fjalland
 
 ELVES:
-	Esrelu:
-		Main language is Esrel
-		Other language is Fjallandic
-		Culture is Northern Elvish
-		Political structure is noocracy
-
-		Current allies: Fjalland, Vuntarla
-		Current wars:   Yûmlathnar, Vatakond
-
-	Rànûdel:
-		Main language is Rànûdan
-		Culture is Moon Elvish
-		Political structure is geniocracy
-
-		Current wars: Evil fey
-
 	Yûmlathnar:
 		Main language is Rànûdan
 		Culture is Moon Elvish
 		Political structure is elected autocracy
 
 		Current allies: Vatakond, Evil fey
-		Current wars:   Fjalland, Esrelu, Centruma
-	
-MEN AND ELVES:
-	Vuntarla:
-		Populated by cold elves, elfmen, and mostly men
-		Main language is Fjallandic and Esrel
-		Culture is Fjallandic
-		Political structure is absolute monarchy
-
-		Current allies: Fjalland
+		Current wars:   Fjalland, Herthland, Centruma
 
 DWARVES:
 	Glomdur:
@@ -134,7 +126,7 @@ CENTAURS:
 		Political structure is noocracy
 
 		Current allies: Yûmlathnar, Evil fey
-		Current wars:   Fjalland, Esrelu, Centruma
+		Current wars:   Centruma, Fjalland, Herthland
 
 	Heirfgria:
 		Main language is Sylvendric

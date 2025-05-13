@@ -7,7 +7,6 @@ Common:
 		Rotherlandic (Orrm's Early Middle English)
 
 	Elves:
-		Esrel (Cold Elvish)
 		Rànûdan (Moon Elvish)
 
 	Dwarves:

@@ -6,8 +6,7 @@ Culture type: Centaur
 Population: ~10,000 centaurs
 
 Main language: Sylvendric
-Other languages: Rànûdan
-Main Writing System: Elven Runes
+Main Writing System: Sylvan Alphabet
 
 Ruler: Klivahon
 

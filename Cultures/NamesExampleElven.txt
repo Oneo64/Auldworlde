@@ -1,8 +1,0 @@
-Male: Alasös, Arassil, Felden, Gwond, Löndriönd, Lûvar, Rassil, Sasöl, Thiör, Tölar
-Female: Àlantre, Biörûne, Felasie, Inthrûme, Niire, Qwierelen, Ûndiire, Sanari, Shàefele, Vielthöri, Vössu, Vûseri
-
-Cold elvish names may be a little more Germanic.
-Examples:
-
-Male: Alaskös, Äntrönd, Äntolös, Helessin, Hûthviyn, Kiriyn, Lûsraf, Sasoldaf, Söriyn, Töraf
-Female: Älaske, Beläe, Ferönzie, Istöra, Jaore, Niyre, Qwiendre, Ûndiyre, Zessiele

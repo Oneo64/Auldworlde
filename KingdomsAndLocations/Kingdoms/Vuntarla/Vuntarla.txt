@@ -1,12 +1,12 @@
 Vuntarla
 
 Government: Absolute Monarchy
-Race Majority: Cold Elf, Human (uncommon)
+Race Majority: Human
 Culture type: Northern Men
 Population: ~1000 people
 
-Main language: Esrel, Fjallandic
-Main Writing System: Elven Runes
+Main language: Fjallandic
+Main Writing System: Fjallandic Runes
 
 Ruler: King Sûvisgarn
 
@@ -25,7 +25,7 @@ Guards live in their homes.
 
 
 [[TRADE]]
-Vuntarla mainly exports fish and salt. They trade mostly with Fjalland and Esrelu.
+Vuntarla mainly exports fish and salt. They trade mostly with Fjalland and Herthland.
 
 
 

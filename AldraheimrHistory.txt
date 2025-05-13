@@ -3,37 +3,24 @@ Language key:
 	2: (a - b- c) = Kingdom's main language was originally A, slowly transformed to B at the middle of it's time, became C near the end of it's collapse (or present day if it hasn't)
 
 Settlements/empires/kingdoms:
-	Human:
-		Haear (Haearic)											(1930 BCE - 1120 BCE)								(Haearic)
+	Haear (Haearic)											(1930 BCE - 1120 BCE)								(Haearic)
 
-		Borusdalis (Haearic)									(1120 BCE, less than a couple of decades)			(Haearic)
-		Veilodin (Haearic - Borian)								(1120 BCE - 680 BCE)								(Haearic: 1120 BCE to 900 BCE, Borian: 900 BCE to 680 BCE)
-		Borusdaliandur (Haearic - Borusdaliandurish)			(1120 BCE - 650 BCE)								(Haearic: 1120 BCE to 850 BCE, Borusdaliandurish: 850 BCE to 650 BCE)
+	Borusdalis (Haearic)									(1120 BCE, less than a couple of decades)			(Haearic)
+	Veilodin (Haearic - Borian)								(1120 BCE - 680 BCE)								(Haearic: 1120 BCE to 900 BCE, Borian: 900 BCE to 680 BCE)
+	Borusdaliandur (Haearic - Borusdaliandurish)			(1120 BCE - 650 BCE)								(Haearic: 1120 BCE to 850 BCE, Borusdaliandurish: 850 BCE to 650 BCE)
 
-		Zarapib (Borian - Old Taribian)							(650 BCE - 450 BCE)									(Borian: 650 BCE to 500 BCE, Old Taribian: 500 BCE to 450 BCE)
+	Zarapib (Borian - Old Taribian)							(650 BCE - 450 BCE)									(Borian: 650 BCE to 500 BCE, Old Taribian: 500 BCE to 450 BCE)
 
-		Grutorus (Old Taribian - Grutorian)						(490 BCE - AD 0, became Galabrus and Cantrium)		(Old Taribian: 490 BCE to 220 BCE, Grutorian: 220 BCE to AD 0)
-		Galabrus (Grutorian - Galabric)							(AD 0 - AD 350)										(Grutorian: AD 0 to AD 170, Galabric: AD 170 to AD 350)
-		Cantrium (Old Cantrium)									(AD 0 - AD 410, became Centruma)					(Old Cantrium)
+	Grutorus (Old Taribian - Grutorian)						(490 BCE - AD 0, became Galabrus and Cantrium)		(Old Taribian: 490 BCE to 220 BCE, Grutorian: 220 BCE to AD 0)
+	Galabrus (Grutorian - Galabric)							(AD 0 - AD 350)										(Grutorian: AD 0 to AD 170, Galabric: AD 170 to AD 350)
+	Cantrium (Old Cantrium)									(AD 0 - AD 410, became Centruma)					(Old Cantrium)
 
-		Tarib (Old Taribian - Taribian)							(450 BCE - Present day)								(Old Taribian: 450 BCE to AD 670, Taribian: AD 670 to Present)
-		Centruma (Old Cantrium - Centrumic)						(AD 410 - Present day)								(Old Cantrium: AD 410 to AD 720, Centrumic: AD 720 to Present)
-		Fjalland (Galabric - Primal Fjallandic - Fjallandic)	(AD 780 - Present day)								(Galabric: AD 640 to AD 710, Primal Fjallandic: AD 710 to AD 810, Fjallandic: AD 810 to Present)
-		Aodesvu (Old Cantrium - Aodesvic)						(AD 170 - Present day)								(Old Cantrium: AD 170 to AD 780, Aodesvic: AD 780 to Present)
-		Rotherland (Cld Cantrium - Rotherlandic)				(AD 560 - Present day)								(Old Cantrium: AD 560 to AD 750, Rotherlandic: AD 750 to Present)
-
-	Elf:
-		Floraindelen (Ancient Elvish)							(Some time around Baln's rise, only a few decades)	(Ancient Elvish)
-		Glienedràem (Ancient Elvish)							(2000 BCE - 1770 BCE)								(Ancient Elvish)
-		Thissalfiran (Ancient Elvish)							(1880 BCE - 520 BCE, became Thissalfiran II)		(Ancient Elvish)
-		Thissalfiran II (Ancient Elvish)						(520 BCE - disappeared off the face of the earth)	(Ancient Elvish)
-
-		Rànûladàen (Old Rànûdan)								(360 BCE - AD 170, renamed to Rànûdel)				(Ancient Elvish: 360 BCE to AD 10, Old Rànûdan: AD 10 to AD 400)
-		Rànûdel (Old Rànûdan - Rànûdan)							(AD 170 - Present day, or 360 BCE - Present day)	(Old Rànûdan: AD 10 to AD 400, Rànûdan: AD 400 to Present)
-
-		Yûmlathnar (Rànûdan)									(??? - Present day)
-
-		Esrelu (Old Rànûdan - Old Esrel - Esrel)				(AD 20 - Present day)								(Old Rànûdan: AD 20 to AD 50, Old Esrel: AD 50 to AD 600, Esrel: AD 600 to Present)
+	Tarib (Old Taribian - Taribian)							(450 BCE - Present day)								(Old Taribian: 450 BCE to AD 670, Taribian: AD 670 to Present)
+	Centruma (Old Cantrium - Centrumic)						(AD 410 - Present day)								(Old Cantrium: AD 410 to AD 720, Centrumic: AD 720 to Present)
+	Fjalland (Galabric - Primal Fjallandic - Fjallandic)	(AD 780 - Present day)								(Galabric: AD 640 to AD 710, Primal Fjallandic: AD 710 to AD 810, Fjallandic: AD 810 to Present)
+	Aodesvu (Old Cantrium - Aodesvic)						(AD 170 - Present day)								(Old Cantrium: AD 170 to AD 780, Aodesvic: AD 780 to Present)
+	Rotherland (Old Cantrium - Rotherlandic)				(AD 560 - Present day)								(Old Cantrium: AD 560 to AD 750, Rotherlandic: AD 750 to Present)
+	Herthland (Old Cantrium-Rotherlandic - Rotherlandic)	(AD 600 - Present day)								(Old Cantrium-Rotherlandic: AD 600 to AD 800, Rotherlandic: AD 800 to Present)
 
 	Dwarf:
 		Baln (Primordial)										(Before 2000 BCE - 1770 BCE, became Banir)		(Primordial)
@@ -46,7 +33,7 @@ Settlements/empires/kingdoms:
 	Centaur (Sylvendric: 2000 BCE - Present):
 		Linklontinda (Sylvan)									(~3500 BCE)
 		Hathklosh (Sylvendric)									(2000 BCE - 1800 BCE)
-		Inglinimpara (Sylvendric)								(1930 BCE - 900 BCE)
+		Inglimpara (Sylvendric)									(1930 BCE - 900 BCE)
 		Shaefklimper (Sylvendric)								(830 BCE - 200 BCE)
 		Heirfgria (Sylvendric)									(AD 50 - Present day)
 		Vatakond (Sylvendric)									(AD 220 - Present day)
@@ -62,27 +49,27 @@ Legend:
 
 
 [Some time around 3500 BCE]
-Linklontina, a centaur kingdom, rises in what is now called the Forests of Rànûdel.
+Linklontina, an ancient centaur kingdom, rose to power in the midst of the Mountains of Bark. They were the first inhabitants of those mountains they reigned over.
 
 [Before 2000 BCE]
 Baln existed a few hundred years before. They were the first dwarven settlement, and they spoke Primordial.
-Floraindelen existed only a few decades, which is small compared to Baln. They spoke Ancient Elvish.
 
 [2000 BCE]
-Glienedràem is formed. Hathklosh rises in the Heirfgrian Forest.
+Hathklosh rises in the Heirfgrian Forest.
 
 [1930 BCE]
-Haear is formed. Floraindelen collapsed due to an invasion of earth and stone elementals, which were coming from a different plane. A month later, a group travelled to a fortress located in a massive cavern known as Krikihbolg Stone Fortress. They entered the fortress, and destroyed the portal that lead the elementals to Miðjorðr.
-Inglinimpara is also formed where Heirfgria is now.
+Haear is formed.
+
+[1860 BCE]
+Haear was attacked by an invasion of earth and stone elementals, whom all came from a different plane. After the people of Haear was able to defend themselves, a group of mercenaries were sent by King Anzudengot to find its source and stop it. They travelled to a Krikihbolg Stone Fortress, a fortress embedded inside a massive cavern. They entered the fortress and soon found an elemental portal, the source of their foes. They destroyed the portal that lead the elementals to Miðjorðr, stopping the invasion.
+
+Inglimpara is formed where Heirfgria is now.
 
 [1800 BCE]
-Inglinimpara starts a conquest, known as the Inglinimparan Conquest. They first target Hathklosh, and won.
+Inglimpara starts a conquest, known as the Inglimparan Conquest. They seized Hathklosh, leading to their demise.
 
 [1770 BCE]
-Glienedràem collapses, from the Inglinimparan Conquest. Anzudengot, the current king of Haear at this time, took advantage of this and took over the remains of Glienedràem. Baln was running low on food. They started to take exessive food from the village to feed their soldiers, and so there was a revolution, and was transformed into Banir, under new kings. Primordal branched into a new language, called Primordial Dwarven.
-
-[1800 BCE]
-Kingdom of Thissalfiran is created, named after it's founder. The Kingdom of Thissalfiran spoke Ancient Elvish.
+Baln was running low on food. They started to take exessive food from the village to feed their soldiers, and so there was a revolution, and was transformed into Banir, under new kings. Primordal branched into a new language, called Primordial Dwarven.
 
 [1540 BCE]
 Kiliidhuuk rises, built in the mountains in between of current day Banod and Heirfgria.
@@ -91,14 +78,13 @@ Kiliidhuuk rises, built in the mountains in between of current day Banod and Hei
 Banir collapsed, due to an economy problem. The people moved west, appointing a few new kings. This became known as the Banod.
 
 [1120 BCE]
-Haear collapses. Borusdalis, and Veilodin rises from Haear. The Kingdom of Thissalfiran attacked Borusdalis, destroying it. Refugees fled to Veilodin, while some went east, forming Borusdaliandur.
-Kiliidhuuk collapsed from the Inglinimparan Conquest.
+The Kingdom of Haear eventually collapsed, splitting into two kingdoms, Borusdalis and Veilodin. But when this happened, Inglimpara attacked Borusdalis, destroying it. Refugees fled to Veilodin, while some escaped to east to form Borusdaliandur. Again did Inglimpara strike, perishing the Kingdom of Kiliidhuuk.
 
 [910 BCE]
-Borusdaliandur formed a peace treaty with Veilodin. Borusdaliandur was lead by a sorcerer named Borusdagl. Inglinimpara tried to attack Veilodin, but were intercepted by Borusdaliandur's army. Inglinimpara lost. Borusdaliandur then attacked what was originally Kiliidhuuk, destroying it.
+Borusdaliandur formed a peace treaty with Veilodin. Borusdaliandur was lead by a sorcerer named Borusdagl. Inglimpara tried to attack Veilodin, but were intercepted by Borusdaliandur's army. Inglimpara lost. Borusdaliandur then sent an army to besiege Inglimpara-occupied Kiliidhuuk, defeating the kingdom as revenge.
 
 [900 BCE]
-Borusdaliandur and Veilodin decided to invade Inglinimpara. They successfully took over Inglinimpara, and ended the conquest.
+After a long time of planning and preparation, the kingdoms Borusdaliandur and Veilodin were ready for the final Invasion of Inglimpara. They successfully took over Inglimpara and ended the conquest they ran.
 
 [830 BCE]
 Shaefklimper rises in the Heirfgrian Forest.
@@ -106,7 +92,7 @@ Shaefklimper rises in the Heirfgrian Forest.
 [740 BCE]
 A group of earth elementals attacked Borusdaliandur, at a district named Namiam. Ther was a warrior named Hondaf. He was of average height, and his hair was brown. He who lived there took a mace and axe, and defended it. He lost his axe, but was able to destroy most of the elementals before he retreated due to injury, letting the guards and soldiers deal with the rest. He was gifted a star glising, which was named Star Glising of Namiam.
 
-Beliefs: Hondaf is a tall muscular figure with long blond hair. His tomb is cursed by the spirit of himself.
+Beliefs: Hondaf is a tall muscular figure with long blond hair. His tomb is cursed by the spirit of himself. See "StoriesAndOtherLiterature/TheLegendOfHondaf.txt"
 
 <First Age of Peace START>
 
@@ -127,9 +113,6 @@ Junas was assassinated by a group of bandits. Zarapib almost collapsed, but was 
 [550 BCE]
 Emperor Haronin died.
 
-[520 BCE]
-Kingdom of Thissalfiran fell. A new empire, named Kingdom of Thissalfiran II rose, under Uluranush.
-
 [490 BCE]
 A group of explorers from Zarapib decided to travel north, to where current day Centruma is. They established a settlement called Grutorus, which would in the future become a village, then town, then kingdom.
 
@@ -137,7 +120,7 @@ A group of explorers from Zarapib decided to travel north, to where current day 
 Zarapib collapsed, and Tarib rose, taking over it's remains.
 
 [360 BCE]
-Grutorus fully became a kingdom. In the Kingdom of Thissalfiran II, a group of explorers went to where current day Ranûdel is, and put down a new Kingdom, named Rànûladàen.
+Grutorus fully became a kingdom.
 
 [200 BCE]
 Shaefklimper collapsed.
@@ -158,12 +141,12 @@ Grutorus collapsed. From the remains of Grutorus, a two new kingdoms rose. Galab
 Beliefs: The King of Grutorus killed himself because of stress.
 
 [AD 30]
-An priceless, but recently made artifact, a stone tablet containing a poem in Old Rànûdan, was stolen from a forgotten settlement in Rànûladàen. The forgotten settlement was abandoned after an attack from civil war, but only after few years did they remember this tablet, labeling it as an "ancient" magic item. When an adventurous group decided to search the ruins of this settlement, they found nothing. A group of fey, one dryad and several centaurs, had already taken the tablet. Lànassil, who was the dryad, found this tablet.
+An priceless, but recently made artifact, a stone tablet containing a poem in Ancient Grutorian, was made by a scribe of yore. This scribe lived in a forgotten Galabric settlement. But tragedy struck when it was attacked in result of a civil war, and was utterly abandoned. It was only several years after that unfortunate event did they remember this tablet. But when an adventurous group decided to search the ruins of this settlement, they found nothing. A group of fey, one dryad and several centaurs, had already taken the tablet. And that dryad was Lànassil.
 
 [AD 40]
 An ideology of retribution sprouted in the Kingdom of Wassatila, quickly taking over. Wassatila is an ancient kingom in Veldalfheimr, inhabited by dryads and centaurs. The idea of this ideology was the intelligent races in Miðjorðr were destroying nature, and even Talmundur (God of Nature, Storms, and Luck) by burning wood, killing animals, and even go as far to call wizards cultists. There were just a little more fey that followed this ideology than the ones that didn't. The ones that opposed this ideology stayed far away from Wassatila, some even fled to Miðjorðr.
 
-Lànassil was one of the few that actively opposed it, joining in the local fey military that fought against this. A few years later when they attacked the region she lived in, they killed her tree and stole her tablet. Lànassil then fled to Miðjorðr, and now resides in the forest in the peninsula southwest of Esrelu.
+Lànassil was one of the few that actively opposed it, joining in the local fey military that fought against this. A few years later when they attacked the region she lived in, they killed her tree and stole her tablet. Lànassil then fled to Miðjorðr spent the rest of her life living in Lantheressil Forest.
 
 [AD 50]
 Heirfgria is created. A group of centaurs traveled north.
@@ -172,8 +155,6 @@ Heirfgria is created. A group of centaurs traveled north.
 The group of travelers settled in what is now Vatakond.
 
 [AD 170]
-Rànûladàen was renamed to Rànûdel.
-
 Centruma expanded to the east, but due to unfortunate luck (or fortunate?), the eastern settlement became independent. The eastern settlement of Centruma is now known as Aodesvu.
 
 [AD 220]
@@ -191,7 +172,7 @@ Banodic explorers traveled from Banod again, and created Glomdur.
 Cantrium went under revolution, becoming current day Centruma.
 
 [AD 500]
-Yûmlathnar is created.
+_Yûmlathnar_ is created.
 
 [Exactly AD 548]
 A large group of explorers from a Galabric village traveled up north. It was led by Bentolus, Garaldor, Þungwaz and Muntin.
@@ -202,12 +183,14 @@ The large group of explorers unknowingly enterd the territory of a large bandit 
 A week later, the remaining group established a new settlement: Thaldranga.
 
 [AD 560]
-The King of Yûmlathnar gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
+The King of _Yûmlathnar_ gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
 
 A group of explorers from Centruma went northwest, and settled a village which they named Middellhallde. Middellhallde eventually became a fortress, and the center of what would become the Kingdom of Rotherland.
 
 [AD 600]
 Thaldranga became Þalmundrínga.
+
+Meanwhile, some explorers traveled up north from Rotherland. They established their kingdom in the taigas, and created Herthland.
 
 [AD 640]
 From the settlement Þalmundrínga, Fjalland rises.
@@ -217,7 +200,7 @@ Beliefs: Jóki was a warrior from the village Hrafandis. He traveled north to ex
 <Second Age of Peace START>
 
 [AD 650]
-A group of explorers from Rànûladàen traveled north, and established Esrelu and Vuntarla. Vuntarla is built on a fjord, perched overlooking the eastern ocean, while Esrelu was in the northwest where it was icy cold.
+As Fjalland slowly rose to power, a group of explorers decided to leave Fjalland to establish their own kingdoms. They traveled east to the coast and settled there, on a fjord that overlooked the ocean, forming the Kingdom of Vuntarla.
 
 [AD 870]
 Centaurs were spotted scouting in the forests of Fjalland.
@@ -227,10 +210,10 @@ Centaurs were spotted scouting in the forests of Fjalland.
 
 [AD 905]
 Fjalland invades Antaragen, Vatakond. Antaragen was successfully captured. They turned it into an outpost.
-Yûmlathnar launches assault upon Glomdur, bringing chaos. Glomdur barely survives due to not having much defense experience, and only because Yûmlathnar only took resources.
+_Yûmlathnar_ launches assault upon Glomdur, bringing chaos. Glomdur barely survives due to not having much defense experience, and only because _Yûmlathnar_ only took resources.
 
 [AD 911]
-Fjalland launches a raid on Bravosh, Vatakond. This was also successful. Yûmlathnar offered help to Vatakond, who did accept.
+Fjalland launches a raid on Bravosh, Vatakond. This was also successful. _Yûmlathnar_ offered help to Vatakond, who did accept.
 
 [AD 918]
 Vatakond attacks Bantusea. Borthan Tamiar, who was Nix's ancestor, died from being shot in the head with an arrow by invading centaurs. The centaurs' attack was unsuccessful, and retreated.
@@ -245,31 +228,23 @@ King Alfþórr of Fjalland dies of old age. His son, Alfþórr the Second, takes
 Jeiruld sets up an arcane school in Tarib called the Academy of Aldorim. The academy's main focus is evocation, and now serves as the common training school for Fjallandic war wizards.
 
 [AD 955]
-Fjalland launches an invasion on Yûmlathnar, which was unsuccessful. This was the start of the war between Fjalland and Yûmlathnar.
-
-[AD 956]
-Säelri learns about the Rànûladàenic tablet, from a group of travelers from Rànûdel. Säelri spent a week to prepare, then traveled to Veldalfheimr to retrieve this tablet.
-
-[AD 957]
-Evil fey tries to get King Vasolas of Rànûdel to help them in their conquest of Miðjorðr. King Vasolas denied to help them, so the evil fey launched an attack of 10 gvarths onto Rànûdel, targeting Emeröreslu and any nearby settlements. Rànûdel defended itself against this attack.
-
-Säelri returns with the Rànûladàenic tablet. She presents it to Ildiyre. Because of this, Ildiyre gave a small piece of forest just north of Vesesvala to Säelri.
+Fjalland launches an invasion on _Yûmlathnar_, which was unsuccessful. This was the start of the war between Fjalland and _Yûmlathnar_.
 
 [AD 960]
-Yûmlathnar travels up and attacks Sölenzâeth, Esrelu. Sölenzâeth was almost ruined, but recovered after many months.
+_Yûmlathnar_ travels up and attacks Solstunn, Herthland. Sölenzâeth was almost ruined, but recovered after many months.
 
 [AD 961]
 Fjalland launches another military campaign to wipe bandit camps. This time, only 5 camps were destroyed.
 
 [AD 962]
-Yûmlathnar surprise attacks Bantusea. The attack was partially successful, half the town destroyed. Centruma sent an army to Vatakond, but was intercepted by Vatakond's forces, and were flanked by Yûmlathnar's army mid-battle. Centruma's army retreated.
+_Yûmlathnar_ surprise attacks Bantusea. The attack was partially successful, half the town destroyed. Centruma sent an army to Vatakond, but was intercepted by Vatakond's forces, and were flanked by _Yûmlathnar_'s army mid-battle. Centruma's army retreated.
 
 [AD 966]
 Okrif of Kjartkjofn dies. Hákon is made the new jarl of Kjartkjofn.
 
 [AD 968]
-Fjalland and Esrelu sends an army to attack Ilimathil, Yûmlathnar, and pillaged it.
+Fjalland and Herthland sends an army to attack Ilimathil, _Yûmlathnar_, and pillaged it.
 
 [AD 972]
-Yûmlathnar launches an attack on Þuryngard, but was intercepted by Fjalland's army. They retreated after losing a fraction of the army.
+_Yûmlathnar_ launches an attack on Þuryngard, but was intercepted by Fjalland's army. They retreated after losing a fraction of the army.
 Vatakond raids Argánlaf, which was kind of successful, even though they retreated without destroying half the village.

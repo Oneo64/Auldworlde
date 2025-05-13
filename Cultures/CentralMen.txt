@@ -8,7 +8,6 @@ Aesthetic/base: Roman, Byzantine
 	Fjallanders: 	A lot of them don't like Fjallanders, seeing them as barbaric or uncivilized. They also see them as purely warriors, without magic or access to magic.
 	Northern Elves: Same as Fjallanders, but not with as much dislike.
 	Trolls:         A common belief is that trolls find enjoyment in watching sexual intercourse of other races (this is false of course). This leads them to loathe trolls.
-	Elves:          Another common belief is that moon elves have cold blood and are nocturnal.
 
 
 

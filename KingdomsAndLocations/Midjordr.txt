@@ -14,8 +14,8 @@ Aodesvic Forests (forests surrounding Aodesvu):
 Dwarven Forests (forests south of Banod, between Glomdur and Banod, and the one surrounding Mornesvid):
 	These forests are mixed forests.
 
-Forests of Rànûdel:
-	The Forests of Rànûdel is a very hilly forest in the west, but very mountainous in the east, which gets so jagged it starts to form karsts. The entire forest consists of tall pines and large oaks. Cool blue mists eternally surround this area, which seems to be bright, giving the sky a glowy look.
+Mountains of Bark:
+	The Mountains of Bark is a very hilly forest in the west, but very mountainous in the east, which gets so jagged it starts to form karsts. The entire forest consists of tall pines and large oaks. Cool blue mists eternally surround this area, which seems to be bright, giving the sky a glowy look.
 	This forest contains two moon shrines, a shrine of Lûn and a shrine of Vel.
 
 Forests on the western island:
@@ -27,13 +27,13 @@ Heirfgrian Forest:
 Centrumic Forests (forests above Centruma, surrounding Woparias and Zenixras):
 	These forests are a bright redwood forest, with little undergrowth.
 
-Northern and Southern Fjallandic Forests (forests near Argánlaf and under Esrelu, and west of Glomdur):
+Northern and Southern Fjallandic Forests (forests near Argánlaf and under Herthland, and west of Glomdur):
 	These forests are made up of two areas. The northern area and the part west of Glomdur is a dark coniferous forest of tall pines some firs and spruces, and the southern area is a mixed coniferous forest. The southern area is a bright coniferous forest with about 50% firs with heavy undergrowth, and 50% tall pines and firs with moderate undergrowth.
 
-Sölshaef Forest (and the snowy taiga near Argánlaf, and the taiga north of Mornesvid):
-	These forests are snowy coniferous forests. This forest also contains all three moon shrine variants, located in the west.
+Herthlandic Forests:
+	These forests are snowy coniferous forests, which is the piece of forest that Herthland is in.
 
-Lantheressil Forest, peninsula southwest of Esrelu:
+Lantheressil Forest, or the peninsula southwest of Herthland:
 	This forest mostly covered with a tall pine forest, with large, one-and-a-half meter ferns covering the ground. There has been rumors of frost dragons living here.
 
 

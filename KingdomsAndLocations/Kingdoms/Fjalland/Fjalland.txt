@@ -6,7 +6,7 @@ Culture type: Northern Men
 Population: 50,000 in settlements, 200 in fortresses, 2000 in Þuryngard, ~51,700 people in total
 
 Main languages: Fjallandic
-Other languages: Esrel, Rotherlandic
+Other languages: Rotherlandic
 Main Writing System: Fjallandic Runes (or Elder Futhark, if it must be in computer text)
 
 Ruler: King Alfþorin II
@@ -70,7 +70,7 @@ Hierarchies and social classes are mostly family based, but if a family is unabl
 [[TRADE]]
 There is a trade route between Argánlaf and Lismerlaf, where Lismerlaf supplies Argánlaf with fish and Argánlaf supplies Lismerlaf with wood.
  
-Fjalland mainly exports iron, wool, and rye. They mostly trade with Esrelu, Centruma, and Vuntarla. They also export herbs common in the Northern and Southern Fjallandic Forests such as ekraldys toadstools, and spices grown in winter.
+Fjalland mainly exports iron, wool, and rye. They mostly trade with Herthland, Centruma, and Vuntarla. They also export herbs common in the Northern and Southern Fjallandic Forests such as ekraldys toadstools, and spices grown in winter.
 
 
 

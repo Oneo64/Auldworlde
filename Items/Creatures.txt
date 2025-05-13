@@ -79,7 +79,7 @@ Daeva (large fiend):
 		Daevas usually wear just a skirt and nothing else. Daevas are mostly active during the night.
 
 	Abilities:
-		Daevas are stronger and more durable than normal men. They can consume the corpse of a human or elf, healing itself in the process. Some of them can use magic and give a sleeping enemy they can see a nightmare, in addition to having sorcerous magic. If these sorcerous daevas are in a group, they are usually the leader.
+		Daevas are stronger and more durable than normal men. They can consume the corpse of a human, healing itself in the process. Some of them can use magic and give a sleeping enemy they can see a nightmare, in addition to having sorcerous magic. If these sorcerous daevas are in a group, they are usually the leader.
 
 		Daevas are weak in daylight and cannot see or hear as good. Their strength is at peak only at night, especially when there is a full moon. They are also able to see in the dark.
 
@@ -265,17 +265,6 @@ Gvarth (huge fey):
 
 
 ====================================================================================================
-HUMANOIDS
-----------------------------------------------------------------------------------------------------
-Humanoids are humanoid creatures. You know, like you. Or something that has a head, body, two arms, two legs, and is bipedal.
-====================================================================================================
-
-Dvergr/Dwarf (medium humanoid):
-	???
-
-
-
-====================================================================================================
 UNDEAD
 ----------------------------------------------------------------------------------------------------
 Undead are either reanimated corpses by magic, or resurrected corpses due to natural phenomenon. Almost all undead are immune to any poisons or venom, and mind control and mind reading doesn't work on them.
@@ -319,7 +308,7 @@ Boneman (medium undead):
 	Bonemen are corpses reanimated by black magic.
 
 	Description:
-		A boneman is often the skeleton of a humanoid, usually those of a human or elf, reanimated by black magic.
+		A boneman is often the skeleton of a humanoid, usually those of a human, reanimated by black magic.
 
 	Abilities:
 		Bonemen are dim-witted, yet know just enough to use a weapon. They only understand the languages of it's creator, but cannot speak.
