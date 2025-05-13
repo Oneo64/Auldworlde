@@ -85,7 +85,7 @@ General body features and personality traits:
 
 	Most are calm and reserved.
 	Slightly worse at diplomacy.
-	
+
 Cold Elf:
 	Abilities:
 		Has natural darkvision up to 10 meters.
