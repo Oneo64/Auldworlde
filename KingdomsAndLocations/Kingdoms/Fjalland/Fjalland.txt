@@ -13,8 +13,8 @@ Ruler: King Alfþorin II
 
 Important villages, (200 settlements, average 250 people each village):
 	Argánlaf (300 people, under Kjartkjofn)
-	Bararíngu (200 people)
-	Elkvein (50 people, under Ynfrünar)
+	Bæsríngu (200 people)
+	Elkvin (50 people, under Ynfrünar)
 	Lismerlaf (300 people, under Dúagrynga)
 	Skjorknauz
 
@@ -28,9 +28,9 @@ Towns in Þuryngard:
 
 Important castles/Fortresses (about 10 in total, 10 guards and 15 servants in each fortress other than Þuryngard):
 	Þuryngard (Capital), also known as Þuryngard Ring Fortress
-	Ynfrúnar
+	Ynguningr
 	Kjartkjofn
-	Dreiknaríngu
+	Dreiknasríngu
 
 
 

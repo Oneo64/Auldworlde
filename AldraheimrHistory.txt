@@ -21,7 +21,7 @@ Settlements/empires/kingdoms:
 	Rotherland (Old Cantrium - Rotherlandic)				(AD 560 - Present day)								(Old Cantrium: AD 560 to AD 750, Rotherlandic: AD 750 to Present)
 	Herthland (Old Cantrium-Rotherlandic - Rotherlandic)	(AD 600 - Present day)								(Old Cantrium-Rotherlandic: AD 600 to AD 800, Rotherlandic: AD 800 to Present)
 	Vuntarla (Galabric - Fjallandic)						(AD 650 - Present day)
-	Aodesvu (Galabric - Aodesvic)							(AD 650 - Present day)
+	Aodesvu (Old Cantrium - Aodesvic)					(AD 220 - Present day)
 
 
 	Dwarf:
@@ -159,6 +159,8 @@ The group of travelers settled in what is now Vatakond.
 [AD 220]
 The centaur settlement transforms into Vatakond.
 
+Cantrium expanded to the east, but due to unfortunate luck (or fortunate?), the eastern settlement became independent. The eastern settlement is now known as Aodesvu.
+
 [AD 350]
 Galabrus was destroyed. Banodic explorers traveled, and created Mornesvid.
 
@@ -199,7 +201,7 @@ Beliefs: Jóki was a warrior from the village Hrafandis. He traveled north to ex
 <Second Age of Peace START>
 
 [AD 650]
-As Fjalland slowly rose to power, a group of explorers decided to leave Fjalland to establish their own kingdoms. They traveled east to the coast and settled there, on a fjord that overlooked the ocean, forming the Kingdom of Vuntarla. But at their new land, some decided that the fjord wasn't enough to please their exploration, so they built a longship and set sail to the ocean. They sailed south, to the lands east of Centruma where they settled the Kingdom of Aodesvu.
+As Fjalland slowly rose to power, a group of explorers decided to leave Fjalland to establish their own kingdoms. They traveled east to the coast and settled there, on a fjord that overlooked the ocean, forming the Kingdom of Vuntarla.
 
 [AD 870]
 Centaurs were spotted scouting in the forests of Fjalland.
