@@ -173,8 +173,6 @@ Banodic explorers traveled from Banod again, and created Glomdur.
 [AD 410]
 Cantrium went under revolution, becoming current day Centruma.
 
-[AD 500]
-Wulfscithia is created.
 
 [Exactly AD 548]
 A large group of explorers from a Galabric village traveled up north. It was led by Bentolus, Garaldor, Þungwaz and Muntin.
@@ -184,15 +182,22 @@ The large group of explorers unknowingly enterd the territory of a large bandit 
 
 A week later, the remaining group established a new settlement: Thaldranga.
 
-[AD 560]
-The King of Wulfscithia gets corrupted by evil fey, who he then used propaganda to make his people believe other foreigners were possessed by demons.
 
+[AD 560]
 A group of explorers from Centruma went northwest, and settled a village which they named Middellhallde. Middellhallde eventually became a fortress, and the center of what would become the Kingdom of Rotherland.
 
-[AD 600]
-Thaldranga became Þalmundrínga.
 
-Meanwhile, some explorers traveled up north from Rotherland. They established their kingdom in the taigas, and created Herthland.
+[AD 590]
+Some explorers from Rotherland wanted to go west to explore the land there. After many days, they established a kingdom in a meadows near the sea.
+
+
+[AD 600]
+Thaldranga became Þalmundrínga. Meanwhile in Rotherland, some explorers traveled up north from Rotherland. They established their kingdom in the taigas, and created Herthland.
+
+
+[AD 620]
+After the King of Wulfscithia passed away, his son inherited the throne. But during the next few years, evil fey corrupted the new king and manipulated him. Then unknowingly, the fey spread propaganda throughout the kingdom to make his people believe other foreigners were possessed by demons.
+
 
 [AD 640]
 From the settlement Þalmundrínga, Fjalland rises.
@@ -211,17 +216,12 @@ Centaurs were spotted scouting in the forests of Fjalland.
 <RECENT (All below are in exact years)>
 
 [AD 905]
-Fjalland invades Antaragen, Vatakond. Antaragen was successfully captured. They turned it into an outpost.
-Wulfscithia launches assault upon Glomdur, bringing chaos. Glomdur barely survives due to not having much defense experience, and only because Wulfscithia only took resources.
+From their seeresses, the Kingdom of Fjalland knew what the fey were trying to do. They struck first, invading the village of Antaragen in Vatakond. They successfully seized it and turned it into an outpost of their own. The kingdom launched another raid, this time on Bravosh.
 
-[AD 911]
-Fjalland launches a raid on Bravosh, Vatakond. This was also successful. Wulfscithia offered help to Vatakond, who did accept.
+The kingdom Wulfscithia offered help to Vatakond, who accepted.
 
 [AD 918]
-Vatakond attacks Bantusea. Borthan Tamiar, who was Nix's ancestor, died from being shot in the head with an arrow by invading centaurs. The centaurs' attack was unsuccessful, and retreated.
-
-[AD 919]
-Gardorus, the king of Centruma at the time, knew of this and he launched an attack on Ainattor, Vatakond. Ainattor was destroyed.
+Vatakond attacked Bantusaem of Centruma, a kingdom in the south. But they couldn't get past their defenses and retreated. King Gardorus, the current ruler of Centruma at the time, knew of this, and for revenge, he ordered an attack on Ainattor and destroyed it.
 
 [AD 932]
 King Alfþórr of Fjalland dies of old age. His son, Alfþórr the Second, takes his father's place as king. The first thing he did was to launch a military campaign to wipe as many bandit camps as they could in a year. They destroyed around 20 camps, which were about half of all the camps.
@@ -230,23 +230,19 @@ King Alfþórr of Fjalland dies of old age. His son, Alfþórr the Second, takes
 Jeiruld sets up an arcane school in Tarib called the Academy of Aldorim. The academy's main focus is evocation, and now serves as the common training school for Fjallandic war wizards.
 
 [AD 955]
-Fjalland launches an invasion on Wulfscithia, which was unsuccessful. This was the start of the war between Fjalland and Wulfscithia.
+Many years have passed, but now Fjalland is prepared. They began the first invasion on Wulfscithia, but lost the battle. This was the start of the war between Fjalland and Wulfscithia.
 
 [AD 960]
-Wulfscithia travels up and attacks Solstunn, Herthland. Sölenzâeth was almost ruined, but recovered after many months.
+Wulfscithia sent their army up north and attacked the village of Solstunn, Herthland. Solstun was almost ruined, but they were able to recover after many months.
 
 [AD 961]
 Fjalland launches another military campaign to wipe bandit camps. This time, only 5 camps were destroyed.
 
-[AD 962]
-Wulfscithia surprise attacks Bantusea. The attack was partially successful, half the town destroyed. Centruma sent an army to Vatakond, but was intercepted by Vatakond's forces, and were flanked by Wulfscithia's army mid-battle. Centruma's army retreated.
-
 [AD 966]
-Okrif of Kjartkjofn dies. Hákon is made the new jarl of Kjartskjofn.
+Okrif of Kjartskjofn dies. Hákon is made the new jarl of Kjartskjofn.
 
 [AD 968]
-Fjalland and Herthland sends an army to attack Ilimathil, Wulfscithia, and pillaged it.
+Fjalland and Herthland sent an army to attack Ealdmandring in Wulfscithia, one of their settlements, and pillaged it.
 
 [AD 972]
-Wulfscithia launches an attack on Þuryngard, but was intercepted by Fjalland's army. They retreated after losing a fraction of the army.
-Vatakond raids Argánlaf, which was kind of successful, even though they retreated without destroying half the village.
+Wulfscithia decided to begin their attack on Þuryngard, the capital of Fjalland. But before they could reach the fortress, their army was intercepted by Fjalland's army and quickly fled. At the same time, Vatakond raided Argánlaf, which was half-successful since they pillaged it, not destroyed it.
