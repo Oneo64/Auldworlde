@@ -21,17 +21,17 @@ Settlements/empires/kingdoms:
 	Rotherland (Old Cantrium - Rotherlandic)				(AD 560 - Present day)								(Old Cantrium: AD 560 to AD 750, Rotherlandic: AD 750 to Present)
 	Herthland (Old Cantrium-Rotherlandic - Rotherlandic)	(AD 600 - Present day)								(Old Cantrium-Rotherlandic: AD 600 to AD 800, Rotherlandic: AD 800 to Present)
 	Vuntarla (Galabric - Fjallandic)						(AD 650 - Present day)
-	Aodesvu (Old Cantrium - Aodesvic)					(AD 220 - Present day)
+	Aodesvu (Old Cantrium - Aodesvic)						(AD 220 - Present day)
 
-	Wulfscithia (??? - Rotherlandic)					(AD 500 - Present day)
+	Wulfscithia (??? - Rotherlandic)						(AD 500 - Present day)
 
 	Centaur (Sylvendric: 2000 BCE - Present):
-		Linklontinda (Sylvan)									(~3500 BCE)
-		Hathklosh (Sylvendric)									(2000 BCE - 1800 BCE)
-		Inglimpara (Sylvendric)									(1930 BCE - 900 BCE)
-		Shaefklimper (Sylvendric)								(830 BCE - 200 BCE)
-		Heirfgria (Sylvendric)									(AD 50 - Present day)
-		Vatakond (Sylvendric)									(AD 220 - Present day)
+		Linklontinda (Sylvan)								(~3500 BCE)
+		Hathklosh (Sylvendric)								(2000 BCE - 1800 BCE)
+		Inglimpara (Sylvendric)								(1930 BCE - 900 BCE)
+		Shaefklimper (Sylvendric)							(830 BCE - 200 BCE)
+		Heirfgria (Sylvendric)								(AD 50 - Present day)
+		Vatakond (Sylvendric)								(AD 220 - Present day)
 
 
 

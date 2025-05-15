@@ -1,15 +1,1 @@
-!WARNING! Mornesvid requires work. Right now, it is basically a Scottish castle, which is made of stone. This is an early medieval setting, which means all architecture MUST be 11th century or earlier, including ancient times. So unless this message is not here, do expect Mornesvid to be redesigned (and the Scottish castle removed).
-
-Government: Magocracy
-Race Majority: Dwarf (mostly jewelry variants)
-Culture type: Scottish
-
-Main languages: Mornesvian
-
-Rulers (guys):
-	Balgar (Major King)
-	Baldun (Rules architecture and agriculture)
-	Mindoz (Rules imports and exports)
-	Dazun (Rules military)
-
-The city of Mornesvid might look like a large bland Scottish castle from above with strange curtain walls, but that isn't all. The city is actually underneath the castle. From the north side, this castle has a staircase leading down to a grand stone city underneath the castle which matches the shape of the underground city. The castle and it's curtain walls are actually for defense, residing mostly archers and watchers.
+???
