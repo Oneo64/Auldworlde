@@ -23,6 +23,7 @@ Settlements/empires/kingdoms:
 	Vuntarla (Galabric - Fjallandic)						(AD 650 - Present day)
 	Aodesvu (Old Cantrium - Aodesvic)					(AD 220 - Present day)
 
+	Wulfscithia (??? - Rotherlandic)					(AD 500 - Present day)
 
 	Dwarf:
 		Baln (Primordial)										(Before 2000 BCE - 1770 BCE, became Banir)		(Primordial)
@@ -173,7 +174,7 @@ Banodic explorers traveled from Banod again, and created Glomdur.
 Cantrium went under revolution, becoming current day Centruma.
 
 [AD 500]
-_Yûmlathnar_ is created.
+Wulfscithia is created.
 
 [Exactly AD 548]
 A large group of explorers from a Galabric village traveled up north. It was led by Bentolus, Garaldor, Þungwaz and Muntin.
@@ -184,7 +185,7 @@ The large group of explorers unknowingly enterd the territory of a large bandit 
 A week later, the remaining group established a new settlement: Thaldranga.
 
 [AD 560]
-The King of _Yûmlathnar_ gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
+The King of Wulfscithia gets corrupted by evil fey, who he then used propaganda to make his people believe other foreigners were possessed by demons.
 
 A group of explorers from Centruma went northwest, and settled a village which they named Middellhallde. Middellhallde eventually became a fortress, and the center of what would become the Kingdom of Rotherland.
 
@@ -211,10 +212,10 @@ Centaurs were spotted scouting in the forests of Fjalland.
 
 [AD 905]
 Fjalland invades Antaragen, Vatakond. Antaragen was successfully captured. They turned it into an outpost.
-_Yûmlathnar_ launches assault upon Glomdur, bringing chaos. Glomdur barely survives due to not having much defense experience, and only because _Yûmlathnar_ only took resources.
+Wulfscithia launches assault upon Glomdur, bringing chaos. Glomdur barely survives due to not having much defense experience, and only because Wulfscithia only took resources.
 
 [AD 911]
-Fjalland launches a raid on Bravosh, Vatakond. This was also successful. _Yûmlathnar_ offered help to Vatakond, who did accept.
+Fjalland launches a raid on Bravosh, Vatakond. This was also successful. Wulfscithia offered help to Vatakond, who did accept.
 
 [AD 918]
 Vatakond attacks Bantusea. Borthan Tamiar, who was Nix's ancestor, died from being shot in the head with an arrow by invading centaurs. The centaurs' attack was unsuccessful, and retreated.
@@ -229,23 +230,23 @@ King Alfþórr of Fjalland dies of old age. His son, Alfþórr the Second, takes
 Jeiruld sets up an arcane school in Tarib called the Academy of Aldorim. The academy's main focus is evocation, and now serves as the common training school for Fjallandic war wizards.
 
 [AD 955]
-Fjalland launches an invasion on _Yûmlathnar_, which was unsuccessful. This was the start of the war between Fjalland and _Yûmlathnar_.
+Fjalland launches an invasion on Wulfscithia, which was unsuccessful. This was the start of the war between Fjalland and Wulfscithia.
 
 [AD 960]
-_Yûmlathnar_ travels up and attacks Solstunn, Herthland. Sölenzâeth was almost ruined, but recovered after many months.
+Wulfscithia travels up and attacks Solstunn, Herthland. Sölenzâeth was almost ruined, but recovered after many months.
 
 [AD 961]
 Fjalland launches another military campaign to wipe bandit camps. This time, only 5 camps were destroyed.
 
 [AD 962]
-_Yûmlathnar_ surprise attacks Bantusea. The attack was partially successful, half the town destroyed. Centruma sent an army to Vatakond, but was intercepted by Vatakond's forces, and were flanked by _Yûmlathnar_'s army mid-battle. Centruma's army retreated.
+Wulfscithia surprise attacks Bantusea. The attack was partially successful, half the town destroyed. Centruma sent an army to Vatakond, but was intercepted by Vatakond's forces, and were flanked by Wulfscithia's army mid-battle. Centruma's army retreated.
 
 [AD 966]
-Okrif of Kjartkjofn dies. Hákon is made the new jarl of Kjartkjofn.
+Okrif of Kjartkjofn dies. Hákon is made the new jarl of Kjartskjofn.
 
 [AD 968]
-Fjalland and Herthland sends an army to attack Ilimathil, _Yûmlathnar_, and pillaged it.
+Fjalland and Herthland sends an army to attack Ilimathil, Wulfscithia, and pillaged it.
 
 [AD 972]
-_Yûmlathnar_ launches an attack on Þuryngard, but was intercepted by Fjalland's army. They retreated after losing a fraction of the army.
+Wulfscithia launches an attack on Þuryngard, but was intercepted by Fjalland's army. They retreated after losing a fraction of the army.
 Vatakond raids Argánlaf, which was kind of successful, even though they retreated without destroying half the village.

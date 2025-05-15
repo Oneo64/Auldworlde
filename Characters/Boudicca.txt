@@ -1,0 +1,23 @@
+Boudicca
+
+Female
+Age: Mid 40s
+Alignment: Lawful Good
+
+Homeland:  Herthland
+Race:      Human
+
+
+
+[[DESCRIPTION]]
+Boudicca is the queen of Herthland. She has black hair, green eyes, and pale skin. Her eyebrows are thin. She wears a hide cloak that goes down to her knees, a vibrant green dress with tan embroidery, a buckled belt, and a pair of shoes. She also wears a plain silver circlet, and a necklace of birch beads with an antimony Talmundúr amulet. 
+
+
+
+[[PERSONALITY]]
+Boudicca is an organized and calm woman, however she may act somewhat serious without a sense of humor. She also acts flamboyant, and sometimes speak slower than usual.
+
+
+
+[[ABILITIES]]
+Rotherlandic is Boudicca's main language. She also learned how to speak fluent Fjallandic and Sylvendric, to communicate with neighboring kingdoms.

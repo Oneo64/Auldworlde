@@ -28,42 +28,47 @@ MEN:
 
 	Fjalland:
 		Main language is Fjallandic
-		Culture is Northern Men
+		Culture is Fjallandic
 		Political structure is feudal absolute monarchy
 
 		Current allies: Centruma, Herthland, Vuntarla
 		Current wars:   Yûmlathnar, Vatakond
 
+	Rotherland:
+		Main language is Rotherlandic
+		Culture is Rotherlandic
+		Political structure is constitutional monarchy
+
 	Herthland:
 		Main language is Rotherlandic
 		Other language is Fjallandic
-		Culture is Northern Elvish
+		Culture is Herthlandic
 		Political structure is constitutional monarchy
 
 		Current allies: Fjalland, Vuntarla
 		Current wars:   Yûmlathnar, Vatakond
 
-	Rotherland:
+	Saxia:
 		Main language is Rotherlandic
-		Culture is Rotherlandic
-		Political structure is feudal absolute monarchy
+		Culture is Herthlandic
+		Political structure is constitutional monarchy
 
-	Tarib:
+	Taribia:
 		Main language is Taribian
 		Culture is Taribian (Persian)
 		Political structure is aristocracy
 
-		Current wars: Neshoz
+		Current wars: Neshozia
 
-	Þafnorðarleit:
+	Þafnorðarleitr:
 		Main language is Fjallandic
-		Culture is Northern Men
+		Culture is Fjallandic
 		Political structure is feudal absolute monarchy
 
 	Vuntarla:
 		Populated by men
 		Main language is Fjallandic
-		Culture is Northern Men
+		Culture is Fjallandic
 		Political structure is absolute monarchy
 
 		Current allies: Fjalland
@@ -118,7 +123,7 @@ ORCS:
 		Culture is Neshozic
 		Political structure is noocracy
 
-		Current wars: Tarib
+		Current wars: Taribia
 
 
 

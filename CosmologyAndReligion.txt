@@ -16,29 +16,29 @@ Deities:
 	Talmundúr:
 		Domain:      God of Nature, Storms, and Luck
 		Symbol:      Fjallandic 'T' rune, upside down
-		Other names: Talûsa (Aodesvu), Terevanus (Centruma), Tànûssiel (Rànûdel), Tadhuundar (Banod, Glomdur), Tsakasten (Mornesvid)
-		Commonly worshipped by: Northern Men, Northern Elves, Rotherlanders
+		Other names: Talûsa (Aodesvu), Terevanus (Centruma), Tsakasten (Mornesvid)
+		Commonly worshipped by: Fjallanders, Herthlanders, Rotherlanders, Saxians
 
 	Ljúnandr:
 		Domain:      God of Life, Death, and Nature
 		Symbol:      4 pointed star
-		Other names: Lûnania (Aodesvu), Lunara (Centruma), Lomathelis (Rànûdel), Luunakir (Banod, Glomdur), Lorazin (Mornesvid)
-		Commonly worshipped by: Aodesvic Men
+		Other names: Lûnania (Aodesvu), Lunara (Centruma), Lorazin (Mornesvid)
+		Commonly worshipped by: Central Men
 
 	Jallfaran, sometimes refered to Auðandr:
 		Domain:      God of Creation and Destruction
 		Symbol:      An eye
-		Other names: Yulvis (Aodesvu), Agarius (Centruma), Yiisessil (Rànûdel), Yorvar (Banod, Glomdur), Edorfil (Mornesvid)
-		Commonly worshipped by: Central Men, Southern Men
+		Other names: Yulvis (Aodesvu), Agarius (Centruma), Edorfil (Mornesvid)
+		Commonly worshipped by: Taribians
 
 	Rynneirr:
 		Domain:      God of Magic and the Wondrous
 		Symbol:      A circle surrounded by 8 smaller circles
-		Other names: Pöldànis (Aodesvu), Parletha (Centruma), Pönanis (Rànûdel), Padhuuki (Banod, Glomdur), Plakisael (Mornesvid)
-		Commonly worshipped by: Yûmlathnaric Elves, Centaurs, (less commonly) Rànûdan Elves
+		Other names: Pöldànis (Aodesvu), Parletha (Centruma), Plakisael (Mornesvid)
+		Commonly worshipped by: Centaurs
 
 	Hærrulfyr:
 		Domain:      God of Emotions
 		Symbol:      A drop of water
-		Other names: Himarir (Aodesvu), Hiranestia (Centruma), Ainassare (Rànûdel), Hiiruldir (Banod, Glomdur), Hegetsen (Mornesvid)
-		Commonly worshipped by: Rànûdan Elves
+		Other names: Himarir (Aodesvu), Hiranestia (Centruma), Hegetsen (Mornesvid)
+		Commonly worshipped by: Centaurs

@@ -1,0 +1,45 @@
+Þafnorðarleitr
+
+Government: Feudal Absolute Monarchy
+Race Majority: Human
+Culture type: Fjallandic
+Population: ~2000 people
+
+Main languages: Fjallandic
+Main Writing System: Fjallandic Runes
+
+Ruler: Queen Rán
+
+
+
+[[ÞAFNORÐARLEIT]]
+The Kingdom of Þafnorðarleitr, or "Far Northern Land" in Fjallandic, is a small wooden ring fortress built on the island Elûniel with a diameter of about 150 meters. It was originally established by explorers who left Fjalland to search for new islands. They settled here after seeing that the ground was rich in silver, and the waters bore fish unknown to the world. Þafnorðarleitr is a very recent kingdom, one that was alive for only three decades.
+
+The surrounding land of Þafnorðarleitr is sparse and almost desolate; A grim landscape of dirt and little grass, sometimes covered in snow. Trees grow only near the fortress, and one who will cut down those trees must be supervised by one of the fortress guards.
+
+They face a constant threat of ice elementals who manifest from the northmost side of the island. These ice elementals come down to the south where Þafnorðarleitr is lay siege upon them. An attack happens once every week or two, but the kingdom manages to defend itself.
+
+
+
+[[HIERARCHY]]
+The hierarchy of Þafnorðarleitr largely follows the same hierarchy of Fjalland.
+
+
+
+[[TRADE]]
+There is only one trade route going from Þafnorðarleitr down south to the main continent. Once the shore has been reached, traders would sail their boats along the coast and stop by any villages they see to trade. They only trade with ice elemental cores since it's the only expendable thing they've got.
+
+
+
+[[MILITARY]]
+Compared to Fjalland, Þafnorðarleitr has a relatively small army of 100 men.
+
+
+
+[[UNIFORMS]]
+Wear at least a tunic and pants, have common sense, and have a weapon that you know how to use.
+
+
+
+[[LORE, RELIGION, STRUCTURE, ETC]]
+Please refer to AldraheimrHistory.txt, AldraheimrDescription.txt, Cosmology.txt, and Cultures/Northern/Fjallandic.txt for more information on it's lore, religion, structure, and others.

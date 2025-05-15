@@ -1,6 +1,6 @@
-Northern Men
+Herthlandic
 
-Base Culture: Celtic
+Base Culture: Anglo-saxon, Norse
 
 
 
@@ -26,7 +26,10 @@ Base Culture: Celtic
 		Silver
 
 	Specifically Prevalent armors:
+		Coppergate Helmet
+		Gjermundbu Helmet
 		Spangenhelm
+		Sutton Hoo Helmet
 
 
 

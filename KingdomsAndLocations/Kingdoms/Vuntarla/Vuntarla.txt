@@ -2,7 +2,7 @@ Vuntarla
 
 Government: Absolute Monarchy
 Race Majority: Human
-Culture type: Northern Men
+Culture type: Fjallandic
 Population: ~1000 people
 
 Main language: Fjallandic
@@ -35,4 +35,4 @@ Don't be naked, don't be stupid, and have a weapon and you're in.
 
 
 [[LORE, RELIGION, STRUCTURE, ETC]]
-Please refer to AldraheimrHistory.txt, AldraheimrDescription.txt, Cosmology.txt, and Cultures/NorthernMen.txt for more information on it's lore, religion, structure, and others.
+Please refer to AldraheimrHistory.txt, AldraheimrDescription.txt, Cosmology.txt, and Cultures/Northern/Fjallandic.txt for more information on it's lore, religion, structure, and others.

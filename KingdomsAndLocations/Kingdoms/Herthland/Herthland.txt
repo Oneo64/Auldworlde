@@ -3,12 +3,12 @@ Herthland
 Government: Constitutional Monarchy
 Race Majority: Human
 Culture type: Herthlandic
-Population: 20,000 people in villages, 950 people in towns, ~20,950 people
+Population: ~20,000 people
 
 Main language: Rotherlandic
-Main Writing System: Fjallandic Runes
+Main Writing System: Futhorc (Anglo-Saxon runes)
 
-Ruler: Queen e
+Ruler: Queen Boudicca
 
 Important villages, 100 settlements with about 200 people in each:
 	???
@@ -43,4 +43,4 @@ Royal Guards of Lonnstedde : An iron nasal helmet, a chainmail hauberk, a blue v
 
 
 [[LORE, RELIGION, STRUCTURE, ETC]]
-Please refer to AldraheimrHistory.txt, AldraheimrDescription.txt, Cosmology.txt, and Cultures/Herthlandic.txt for more information on it's lore, religion, structure, and others.
+Please refer to AldraheimrHistory.txt, AldraheimrDescription.txt, Cosmology.txt, and Cultures/Northern/Herthlandic.txt for more information on it's lore, religion, structure, and others.
