@@ -1,0 +1,49 @@
+Herthland
+
+Government: Constitutional Monarchy
+Race Majority: Human
+Culture type: Herthlandic
+Population: ~20,000 people
+
+Main language: Rotherlandic
+Main Writing System: Futhorc (Anglo-Saxon runes)
+
+Ruler: Queen Boudicca
+
+Important villages, 100 settlements with about 200 people in each:
+	???
+
+Castles:
+	Lonnstedde
+
+Towns (average 400 people):
+	???
+
+
+
+[[LONNSTEDDE]]
+This castle is a large ring fortress made of stone, built on top of a small circular hill about 5 meters above the ground. This hill is surrounded by wooden spikes that protrude outwards. The diameter is approximately 80 meters, and the buildings inside are made of stone instead of wood. Inside the ring fortress, there are four longhouses with turf roofs built in a square in the center of the ring fortress. One for the queen and her family, two for servants and guards, and one for storage.
+
+
+
+[[TRADE]]
+Herthland mainly exports timber, and silver. They trade mostly with Fjalland and Vuntarla.
+
+
+
+[[MILITARY]]
+Herthland has around 600 people in their army, but most live in their homes.
+
+
+
+[[UNIFORMS]]
+Soldiers, guards: Don't be naked, don't be stupid, and have a weapon and you're in, although you must wear a simple wood bead necklace.
+Royal Guards of Lonnstedde : An iron nasal helmet, a chainmail hauberk, a blue viking cloak, a wood bead necklace like the one for the soldiers (must be wearing on top of cloak), and will provide a spear, longbow (self bow), and flint-headed arrows.
+
+
+
+[[SEE ALSO]]
+Please refer to these files for more information:
+	- HISTORY: History/FullHistory.txt
+	- RELIGION: CosmologyAndReligion/CosmologyAndReligion.txt
+	- CULTURE: CivilizationsAndPOI/Cultures/Northern/Herthlandic.txt

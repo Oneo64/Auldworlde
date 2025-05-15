@@ -1,0 +1,19 @@
+Heirfgria
+
+Government: Noocracy
+Race Majority: Centaur
+Culture type: Centaur
+Population: ~6,000 centaurs
+
+Main language: Sylvendric
+Main Writing System: Sylvan Alphabet
+
+Ruler: Gorflock
+
+
+
+[[SEE ALSO]]
+Please refer to these files for more information:
+	- HISTORY: History/FullHistory.txt
+	- RELIGION: CosmologyAndReligion/CosmologyAndReligion.txt
+	- CULTURE: CivilizationsAndPOI/Cultures/Centaur.txt

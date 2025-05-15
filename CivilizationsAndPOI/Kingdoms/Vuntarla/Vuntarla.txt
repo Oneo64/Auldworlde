@@ -1,0 +1,41 @@
+Vuntarla
+
+Government: Absolute Monarchy
+Race Majority: Human
+Culture type: Fjallandic
+Population: ~1000 people
+
+Main language: Fjallandic
+Main Writing System: Fjallandic Runes
+
+Ruler: King Sûvisgarn
+
+Cities:
+	Vuntarla (1000 people, 20 are guards)
+
+
+
+[[VUNTARLA]]
+Vuntarla is a tiny castle that holds a town, perched on an elevated fjord overlooking the eastern ocean. It has an area of about 3 hectares, and it's walls are 5 meters high and 4 meters thick, and are filled with earth, with no covering above, so the floor of the walls is grass. To get up to the walls from the inside, there is a dirt slope that lead up to the walls, similar to a ring fortress. The walls are also slightly on an angle so the stones used to build the walls don't collapse. The houses inside are made of wood, and the main "keep" is just a viking longhouse, surrounded by an inner curtain wall, made of wood.
+
+Houses follow the same style as Fjalland.
+
+Guards live in their homes.
+
+
+
+[[TRADE]]
+Vuntarla mainly exports fish and salt. They trade mostly with Fjalland and Herthland.
+
+
+
+[[UNIFORMS]]
+Don't be naked, don't be stupid, and have a weapon and you're in.
+
+
+
+[[SEE ALSO]]
+Please refer to these files for more information:
+	- HISTORY: History/FullHistory.txt
+	- RELIGION: CosmologyAndReligion/CosmologyAndReligion.txt
+	- CULTURE: CivilizationsAndPOI/Cultures/Northern/Fjallandic.txt

@@ -1,0 +1,92 @@
+Fjalland
+
+Government: Feudal Absolute Monarchy
+Race Majority: Human
+Culture type: Fjallandic
+Population: 50,000 in settlements, 200 in fortresses, 2000 in Þuryngard, ~51,700 people in total
+
+Main languages: Fjallandic
+Other languages: Rotherlandic
+Main Writing System: Fjallandic Runes (or Elder Futhark, if it must be in computer text)
+
+Ruler: King Alfþorin II
+
+Important villages, (200 settlements, average 250 people each village):
+	Argánlaf (300 people, under Kjartkjofn)
+	Bæsríngu (200 people)
+	Elkvin (50 people, under Ynfrünar)
+	Lismerlaf (300 people, under Dúagrynga)
+	Skjorknauz
+
+Cities:
+	Þuryngard (2000 people, including 20 guards patrolling the walls, 20 patrolling the town, 10 lookouts, and 10 king's guards)
+
+Towns in Þuryngard:
+	Þalmundríngu (800 people)
+	Kasgjenðil (700 people)
+	Vilsnagr (500 people)
+
+Important castles/Fortresses (about 10 in total, 10 guards and 15 servants in each fortress other than Þuryngard):
+	Þuryngard (Capital), also known as Þuryngard Ring Fortress
+	Ynguningr
+	Kjartkjofn
+	Dreiknasríngu
+
+
+
+[[ÞURYNGARD RING FORTRESS]]
+This castle is a large ring fortress made of stone, built on the top of a hill and surrounded by a boreal forest. The castle contains a city made of three towns: Þalmundríngu, Kasgjenðil, and Vilsnagr. The outer wall has a diameter of about 500 meters (~20 hectares). The inner wall is built on higher terrain, which is elevated up about 6 meters.
+The inner wall is approximately 100 meters. There are three buildings inside, where the king's house is built to the back, it's side facing the main gate while two smaller ones are built on the side. They are made of stone instead of wood.
+
+The outer wall wall is much farther from the ring fortress, which fits three towns (or districts). The houses in these districts are made taller and larger, unlike the village houses. These houses did not require additional support beams that were on an angle. The outer walls are about 6 meters high.
+
+In the inner ring, there is a large longhouse built with mostly stone, except for the roof and the top triangle wall part of the roof. The ring of the castle is generally reserved for only the king, his family, guards, and nobles).
+
+Þalmundríngu is the town of trade. Everyday, there are markets and stalls set up on the streets where merchants sell things like common food and items. Kasgjenðil and Vilsnagr are mostly for living, but Vilsnagr is a little poorer than Kasgjenðil. The houses in Vilsnagr are somewhat smaller than the ones in Kasgjenðil, and their tarf roofs are thinner.
+
+There are 10 guards patrolling the outer ring, 10 guards patrolling the towns, and 10 king's guards. The king's guards mainly patrol the inner ring. Two guards are also stationed just outside the inner ring's gate, and another two are stationed just inside at the outer ring's gate.
+
+There are also 8 watchtowers with thatched roofs spaced evenly along the outer ring. To get up there is a ladder at the back of the watchtower, and each tower is stationed one archer with a war horn each.
+
+
+
+[[HIERARCHY]]
+The hierarchy of Fjalland is, from the highest to lowest, king, jarl, hersir, knight, free men, then slave.
+
+A jarl would live in each ring fortress, and will oversee the ring fortress and their settlements, such as trade or wellbeing, and has power over them to make sure all goes well. A hersir/chieftain would live in each settlement.
+
+Jarls are able to rally troops, enforce laws, build in settlements, or even carry out an execution. Hersirs are also able to do such things, but are limited to the settlement they have power over.
+
+Jarls are able to assign new hersirs in the settlements they have control over, but both powers including hersirs cannot step down themselves and instead must arrange this with a higher authority.
+
+Knights are usually warriors or mages who accompany kings, jarls, and hersirs. Each has two knights with them, but the king will always have four. Usually one of his knights are assigned as vice. When someone with authority dies and he has no son or cousin, one of his knights will become the new heir until a higher authority can find a suitable heir.
+
+Most slaves are either prisoners of war or convicted criminals serving public service for the king, a jarl, or a hersir. Servants are more of a job, which can take the place of a slave. The advantages servants have over slaves is that they are treated less harshly, they earn money, and their labor isn't forced, meaning they can leave anytime. However if a slave is found to take the place of a servant, the servant will be dismissed.
+
+Hierarchies and social classes are mostly family based, but if a family is unable to continue it's legacy (no other male heirs) or the family's heir abuses their power, the family can can lose power in favor for another family.
+
+
+
+[[TRADE]]
+There is a trade route between Argánlaf and Lismerlaf, where Lismerlaf supplies Argánlaf with fish and Argánlaf supplies Lismerlaf with wood.
+ 
+Fjalland mainly exports iron, wool, and rye. They mostly trade with Herthland, Centruma, and Vuntarla. They also export herbs common in the Northern and Southern Fjallandic Forests such as ekraldys toadstools, and spices grown in winter.
+
+
+
+[[MILITARY]]
+Fjalland has around 2000 men in their army, but most live in their homes.
+
+
+
+[[UNIFORMS]]
+Wear at least a tunic and pants, have common sense, and have a weapon that you know how to use. However, royal guards are provided with a coppergate helmet and a maille hauberk, along with a spear.
+
+
+
+[[SEE ALSO]]
+Please refer to these files for more information:
+	- HISTORY: History/FullHistory.txt
+	- RELIGION: CosmologyAndReligion/CosmologyAndReligion.txt
+	- CULTURE: CivilizationsAndPOI/Cultures/Northern/Fjallandic.txt
+	- WAR: History/Wars/CampaignOfWulfscithia.txt

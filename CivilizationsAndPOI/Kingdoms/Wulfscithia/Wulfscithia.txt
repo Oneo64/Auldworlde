@@ -1,0 +1,26 @@
+Wulfscithia
+
+Government: Constitutional Monarchy
+Race Majority: Men
+Culture type: Rotherlandic
+Population: ~30,000 people
+
+Main language: Rotherlandic
+Other language: Sylvendric
+Main Writing System: Latin Alphabet
+
+Ruler: King Wærmund
+
+
+
+[[LORE]]
+The Kingdom of Wulfscithia was established in AD 590 as a small kingdom, from explorers who came from Rotherland. Thirty years later in 620, the first king passed away. His son inherited the throne from him. But over the next few years, evil fey corrupted the new king and manipulated him, using him as a leverage to their crusade against men. Using him, he spread propaganda throughout the kingdom to make his people believe other foreigners were possessed by demons.
+
+
+
+[[SEE ALSO]]
+Please refer to these files for more information:
+	- HISTORY: History/FullHistory.txt
+	- RELIGION: CosmologyAndReligion/CosmologyAndReligion.txt
+	- CULTURE: CivilizationsAndPOI/Cultures/Northern/Rotherlandic.txt
+	- WAR: History/Wars/CampaignOfWulfscithia.txt

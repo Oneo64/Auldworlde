@@ -1,0 +1,18 @@
+Wassatila, Veldalfheimr
+
+Government: Noocracy
+Race Majority: Fey
+Culture type: Fey
+
+Main language: Sylvan
+Other languages: Druidic
+
+Rulers: Equal council of dryads and centaur lords (4 dryads and 4 centaurs)
+
+
+
+[[SEE ALSO]]
+Please refer to these files for more information:
+	- HISTORY: History/FullHistory.txt
+	- RELIGION: CosmologyAndReligion/CosmologyAndReligion.txt
+	- CULTURE: CivilizationsAndPOI/Cultures/Northern/Fey.txt

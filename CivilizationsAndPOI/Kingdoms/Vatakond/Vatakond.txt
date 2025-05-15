@@ -1,0 +1,25 @@
+Vatakond
+
+Government: Noocracy
+Race Majority: Centaurs
+Culture type: Centaur
+Population: ~10,000 centaurs
+
+Main language: Sylvendric
+Main Writing System: Sylvan Alphabet
+
+Ruler: Klivahon
+
+Known Settlements:
+	Ainattor (ruined)
+	Antaragen (fjalland captured, now a fjallandic outpost)
+	Bravosh (150 centaurs, 20 are guards)
+	Kornatias (100 centaurs, 10 are guards)
+
+
+
+[[SEE ALSO]]
+Please refer to these files for more information:
+	- HISTORY: History/FullHistory.txt
+	- RELIGION: CosmologyAndReligion/CosmologyAndReligion.txt
+	- CULTURE: CivilizationsAndPOI/Cultures/Centaur.txt

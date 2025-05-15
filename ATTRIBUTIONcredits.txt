@@ -5,7 +5,7 @@ LICENSES
 
 
 
-Locations\References\Structures\Banodic House (Overground).png
+CivilizationsAndPOI\References\Structures\Banodic House (Overground).png
 	License: CC BY-SA 3.0
 	Username: Mercy
 	Link to user: https://commons.wikimedia.org/wiki/User:Mercy
@@ -13,7 +13,7 @@ Locations\References\Structures\Banodic House (Overground).png
 
 
 
-Locations\References\Structures\Centruma.png
+CivilizationsAndPOI\References\Structures\Centruma.png
 	License: CC BY-SA 3.0
 	Username: Olevy
 	Link to user: https://fr.wikipedia.org/wiki/Utilisateur:Olevy
@@ -21,7 +21,7 @@ Locations\References\Structures\Centruma.png
 
 
 
-Locations\References\Structures\House in Pendlas Mus.jpg
+CivilizationsAndPOI\References\Structures\House in Pendlas Mus.jpg
 	License: CC BY-SA 2.0
 	Username: Flickr upload bot (file doesn't exist on flickr anymore)
 	Link to user: https://commons.wikimedia.org/wiki/User:Flickr_upload_bot (made by Bryan, user link: https://commons.wikimedia.org/wiki/User:Bryan)
@@ -29,7 +29,7 @@ Locations\References\Structures\House in Pendlas Mus.jpg
 
 
 
-Locations\References\Aodesvic Forests.jpg
+CivilizationsAndPOI\References\Aodesvic Forests.jpg
 	License: CC BY-SA 2.0
 	Name: Nicholas_T
 	Link to user: https://www.flickr.com/people/nicholas_t/
@@ -37,13 +37,13 @@ Locations\References\Aodesvic Forests.jpg
 
 
 
-Locations\References\Dwarven Forests.jpg
+CivilizationsAndPOI\References\The Golden Forest.jpg
 	Name: Nicholas A. Tonelli.
 	Link to file: https://partnersinflight.org/what-we-do/habitat-delivery/tools/eastern-deciduous-forest-in-autumn-credit-nicholas-a-tonelli/
 
 
 
-Locations\References\Veldalfheimr (IRELAND).jpg
+CivilizationsAndPOI\References\Veldalfheimr (IRELAND).jpg
 	License: CC BY-SA 2.0
 	Name: Nicolas Raymond
 	Link to user: https://www.flickr.com/people/82955120@N05/
@@ -51,7 +51,7 @@ Locations\References\Veldalfheimr (IRELAND).jpg
 
 
 
-Locations\References\Centrumic Forests (ROTORUA).jpg
+CivilizationsAndPOI\References\Centrumic Forests (ROTORUA).jpg
 	License: CC BY-SA 1.0
 	Owner: https://www.mtbproject.com/user/7001191/brian-smith
 	Link to file: https://www.mtbproject.com/photo/7004258, https://www.flickr.com/photos/94539250@N00/297888720

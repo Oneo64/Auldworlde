@@ -1,0 +1,29 @@
+Saxia
+
+Government: Feudal Absolute Monarchy
+Race Majority: Men
+Culture type: Herthlandic
+Population: ~2,000 people
+
+Main language: Rotherlandic
+Main Writing System: Futhorc (Anglo-Saxon runes)
+
+Ruler: King Ealdræd
+
+
+
+[[SAXIA]]
+This castle is a motte-and-bailey castle built atop a small hill, surrounded by a village. The village is then surrounded with another wooden wall for defense, with watchtowers evenly placed along the outer wall.
+
+
+
+[[MILITARY]]
+Saxia has a very small army, with about 50 men.
+
+
+
+[[SEE ALSO]]
+Please refer to these files for more information:
+	- HISTORY: History/FullHistory.txt
+	- RELIGION: CosmologyAndReligion/CosmologyAndReligion.txt
+	- CULTURE: CivilizationsAndPOI/Cultures/Northern/Herthlandic.txt
