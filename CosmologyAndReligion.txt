@@ -1,7 +1,7 @@
 All names below, unless specified, are the Fjallandic name for it.
 
 Planes/Realms:
-	Miðjorðr      = Material realm
+	Myrkjorðr      = Material realm
 
 	Gjóðheimr     = Good afterlife (LG, paradise realm to good people)
 	Hel           = Bad afterlife (CG, punishment realm to evil people)
