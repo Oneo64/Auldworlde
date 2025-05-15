@@ -25,14 +25,6 @@ Settlements/empires/kingdoms:
 
 	Wulfscithia (??? - Rotherlandic)					(AD 500 - Present day)
 
-	Dwarf:
-		Baln (Primordial)										(Before 2000 BCE - 1770 BCE, became Banir)		(Primordial)
-		Kiliidhuuk (Primordial)									(1540 BCE - 1120 BCE)							(Primordial)
-		Banir (Primordial - Primordial Dwarven)					(1770 BCE - 1140 BCE)							(Primordial: 1770 BCE to 1440 BCE, Primordial Dwarven: 1440 to 1140 BCE)
-		Banod (Primordial Dwarven - Old Banodic - Banodic)		(1140 BCE - Present day)	(Primordial Dwarven: 1140 to 830 BCE, Old Banodic: 830 BCE to 0 AD, Banodic: 0 AD - Present)
-		Glomdur (Old Banodic - Banodic)							(AD 335 - Present day)		(Old Banodic: 335 BCE to AD 0, Banodic: AD 0 - Present)
-		Mornesvid (Old Banodic - Mornesvian)					(AD 350 - Present day)		(Old Banodic: 350 BCE to AD 30, Mornesvian: AD 30 - Present)
-
 	Centaur (Sylvendric: 2000 BCE - Present):
 		Linklontinda (Sylvan)									(~3500 BCE)
 		Hathklosh (Sylvendric)									(2000 BCE - 1800 BCE)
@@ -54,81 +46,90 @@ Legend:
 [Some time around 3500 BCE]
 Linklontina, an ancient centaur kingdom, rose to power in the midst of the Mountains of Bark. They were the first inhabitants of those mountains they reigned over.
 
-[Before 2000 BCE]
-Baln existed a few hundred years before. They were the first dwarven settlement, and they spoke Primordial.
 
 [2000 BCE]
 Hathklosh rises in the Heirfgrian Forest.
 
+
 [1930 BCE]
 Haear is formed.
+
 
 [1860 BCE]
 Haear was attacked by an invasion of earth and stone elementals, whom all came from a different plane. After the people of Haear was able to defend themselves, a group of mercenaries were sent by King Anzudengot to find its source and stop it. They travelled to a Krikihbolg Stone Fortress, a fortress embedded inside a massive cavern. They entered the fortress and soon found an elemental portal, the source of their foes. They destroyed the portal that lead the elementals to Miðjorðr, stopping the invasion.
 
 Inglimpara is formed where Heirfgria is now.
 
+
 [1800 BCE]
 Inglimpara starts a conquest, known as the Inglimparan Conquest. They seized Hathklosh, leading to their demise.
 
-[1770 BCE]
-Baln was running low on food. They started to take exessive food from the village to feed their soldiers, and so there was a revolution, and was transformed into Banir, under new kings. Primordal branched into a new language, called Primordial Dwarven.
-
-[1540 BCE]
-Kiliidhuuk rises, built in the mountains in between of current day Banod and Heirfgria.
-
-[1140 BCE]
-Banir collapsed, due to an economy problem. The people moved west, appointing a few new kings. This became known as the Banod.
 
 [1120 BCE]
 The Kingdom of Haear eventually collapsed, splitting into two kingdoms, Borusdalis and Veilodin. But when this happened, Inglimpara attacked Borusdalis, destroying it. Refugees fled to Veilodin, while some escaped to east to form Borusdaliandur. Again did Inglimpara strike, perishing the Kingdom of Kiliidhuuk.
 
+
 [910 BCE]
 Borusdaliandur formed a peace treaty with Veilodin. Borusdaliandur was lead by a sorcerer named Borusdagl. Inglimpara tried to attack Veilodin, but were intercepted by Borusdaliandur's army. Inglimpara lost. Borusdaliandur then sent an army to besiege Inglimpara-occupied Kiliidhuuk, defeating the kingdom as revenge.
+
 
 [900 BCE]
 After a long time of planning and preparation, the kingdoms Borusdaliandur and Veilodin were ready for the final Invasion of Inglimpara. They successfully took over Inglimpara and ended the conquest they ran.
 
+
 [830 BCE]
 Shaefklimper rises in the Heirfgrian Forest.
+
 
 [740 BCE]
 A group of earth elementals attacked Borusdaliandur, at a district named Namiam. Ther was a warrior named Hondaf. He was of average height, and his hair was brown. He who lived there took a mace and axe, and defended it. He lost his axe, but was able to destroy most of the elementals before he retreated due to injury, letting the guards and soldiers deal with the rest. He was gifted a star glising, which was named Star Glising of Namiam.
 
 Beliefs: Hondaf is a tall muscular figure with long blond hair. His tomb is cursed by the spirit of himself. See "StoriesAndOtherLiterature/TheLegendOfHondaf.txt"
 
+
 <First Age of Peace START>
+
 
 [760 BCE]
 Hondaf died a natural death. His body was buried in a memorial along with his Star Glising of Namiam, which was then moved to a tomb. The tomb is now protected by spells (Symbol and Intricate Runic Staves).
 
+
 <First Age of Peace END>
+
 
 [680 BCE]
 Veilodin collapsed, when a massive disease broke out. It was an incurable disease at it's time. A few hundred people traveled to Borusdaliandur. However, to stop mass migration and potential disease outbreak, Borusdaliandur had artillery to try and kill any immigrants that tried to enter. Almost half of them died to either disease, or the massacre, known as the Veilodin Migration Massacre.
 
+
 [650 BCE]
 Borusdaliandur fell. The people of Veilodin traveled south, to the Taribian desert. They formed an empire, named Zarapib. Zarapib was also led by a sorcerer, named Junas.
+
 
 [610 BCE]
 Junas was assassinated by a group of bandits. Zarapib almost collapsed, but was saved by Haronin using a spear to fend off the bandits. He became a hero right after the bandits fled, and was given the title of emperor.
 
+
 [550 BCE]
 Emperor Haronin died.
+
 
 [490 BCE]
 A group of explorers from Zarapib decided to travel north, to where current day Centruma is. They established a settlement called Grutorus, which would in the future become a village, then town, then kingdom.
 
+
 [450 BCE]
 Zarapib collapsed, and Tarib rose, taking over it's remains.
 
+
 [360 BCE]
 Grutorus fully became a kingdom.
+
 
 [200 BCE]
 Shaefklimper collapsed.
 
 Beliefs: Shaefklimper's collapse (and most of it's reign) is a mystery.
+
 
  ^
  |
@@ -138,37 +139,42 @@ AD
  |
  v
 
+
 [Exactly AD 0]
 Grutorus collapsed. From the remains of Grutorus, a two new kingdoms rose. Galabrus, and Cantrium. Cantrium was now where current day Cantruma is, and Galabrus was many kilometers northwest of Cantrium.
 
 Beliefs: The King of Grutorus killed himself because of stress.
 
+
 [AD 30]
 An priceless, but recently made artifact, a stone tablet containing a poem in Ancient Grutorian, was made by a scribe of yore. This scribe lived in a forgotten Galabric settlement. But tragedy struck when it was attacked in result of a civil war, and was utterly abandoned. It was only several years after that unfortunate event did they remember this tablet. But when an adventurous group decided to search the ruins of this settlement, they found nothing. A group of fey, one dryad and several centaurs, had already taken the tablet. And that dryad was Lànassil.
+
 
 [AD 40]
 An ideology of retribution sprouted in the Kingdom of Wassatila, quickly taking over. Wassatila is an ancient kingom in Veldalfheimr, inhabited by dryads and centaurs. The idea of this ideology was the intelligent races in Miðjorðr were destroying nature, and even Talmundur (God of Nature, Storms, and Luck) by burning wood, killing animals, and even go as far to call wizards cultists. There were just a little more fey that followed this ideology than the ones that didn't. The ones that opposed this ideology stayed far away from Wassatila, some even fled to Miðjorðr.
 
 Lànassil was one of the few that actively opposed it, joining in the local fey military that fought against this. A few years later when they attacked the region she lived in, they killed her tree and stole her tablet. Lànassil then fled to Miðjorðr spent the rest of her life living in Lantheressil Forest.
 
+
 [AD 50]
 Heirfgria is created. A group of centaurs traveled north.
 
+
 [AD 55]
 The group of travelers settled in what is now Vatakond.
+
 
 [AD 220]
 The centaur settlement transforms into Vatakond.
 
 Cantrium expanded to the east, but due to unfortunate luck (or fortunate?), the eastern settlement became independent. The eastern settlement is now known as Aodesvu.
 
+
 [AD 350]
-Galabrus was destroyed. Banodic explorers traveled, and created Mornesvid.
+Galabrus was destroyed.
 
 Beliefs: The gods destroyed Galabrus who "greatly and mightily" defied them. (really there's no explaination)
 
-[AD 355]
-Banodic explorers traveled from Banod again, and created Glomdur.
 
 [AD 410]
 Cantrium went under revolution, becoming current day Centruma.
@@ -176,6 +182,7 @@ Cantrium went under revolution, becoming current day Centruma.
 
 [Exactly AD 548]
 A large group of explorers from a Galabric village traveled up north. It was led by Bentolus, Garaldor, Þungwaz and Muntin.
+
 
 [Exactly AD 550]
 The large group of explorers unknowingly enterd the territory of a large bandit group, who named themselves the Kynnigwaz. During the fighting, Bentolus and Þungwaz was slain. Their bodies were buried in a tomb.
@@ -204,45 +211,61 @@ From the settlement Þalmundrínga, Fjalland rises.
 
 Beliefs: Jóki was a warrior from the village Hrafandis. He traveled north to explore a tomb, but was met by the draugr Tiwaz. Jóki described Tiwaz as "He looked like a rotting corpse. Big as a bull, boated and black like boiling tar. He had the strength of many men, and appeared and vanished as he pleased." Luckily, Jóki was able to defend himself by throwing rocks at the draugr before making his escape.
 
+
 <Second Age of Peace START>
+
 
 [AD 650]
 As Fjalland slowly rose to power, a group of explorers decided to leave Fjalland to establish their own kingdoms. They traveled east to the coast and settled there, on a fjord that overlooked the ocean, forming the Kingdom of Vuntarla.
 
+
 [AD 870]
 Centaurs were spotted scouting in the forests of Fjalland.
 
-<Second Age of Peace END>
+
+<Second Age of Peace END> 
+
+
 <RECENT (All below are in exact years)>
+
 
 [AD 905]
 From their seeresses, the Kingdom of Fjalland knew what the fey were trying to do. They struck first, invading the village of Antaragen in Vatakond. They successfully seized it and turned it into an outpost of their own. The kingdom launched another raid, this time on Bravosh.
 
 The kingdom Wulfscithia offered help to Vatakond, who accepted.
 
+
 [AD 918]
 Vatakond attacked Bantusaem of Centruma, a kingdom in the south. But they couldn't get past their defenses and retreated. King Gardorus, the current ruler of Centruma at the time, knew of this, and for revenge, he ordered an attack on Ainattor and destroyed it.
+
 
 [AD 932]
 King Alfþórr of Fjalland dies of old age. His son, Alfþórr the Second, takes his father's place as king. The first thing he did was to launch a military campaign to wipe as many bandit camps as they could in a year. They destroyed around 20 camps, which were about half of all the camps.
 
+
 [AD 934]
 Jeiruld sets up an arcane school in Tarib called the Academy of Aldorim. The academy's main focus is evocation, and now serves as the common training school for Fjallandic war wizards.
+
 
 [AD 955]
 Many years have passed, but now Fjalland is prepared. They began the first invasion on Wulfscithia, but lost the battle. This was the start of the war between Fjalland and Wulfscithia.
 
+
 [AD 960]
 Wulfscithia sent their army up north and attacked the village of Solstunn, Herthland. Solstun was almost ruined, but they were able to recover after many months.
+
 
 [AD 961]
 Fjalland launches another military campaign to wipe bandit camps. This time, only 5 camps were destroyed.
 
+
 [AD 966]
 Okrif of Kjartskjofn dies. Hákon is made the new jarl of Kjartskjofn.
 
+
 [AD 968]
 Fjalland and Herthland sent an army to attack Ealdmandring in Wulfscithia, one of their settlements, and pillaged it.
+
 
 [AD 972]
 Wulfscithia decided to begin their attack on Þuryngard, the capital of Fjalland. But before they could reach the fortress, their army was intercepted by Fjalland's army and quickly fled. At the same time, Vatakond raided Argánlaf, which was half-successful since they pillaged it, not destroyed it.
