@@ -4,13 +4,13 @@ Male
 Age: 77 (Born in April 10, 896)
 Alignment: Lawful Neutral
 
-Homeland:  Forthias, Centruma
+Homeland:  Forta, Centruma
 Race:      Human
 
 
 
 [[DESCRIPTION]]
-Jeiruld is the headmaster of his arcane school, the Academy of Aldorim. He was born in Forthias, Centruma, but later traveled to Tarib and opened his school there. Jeiruld is in his seventies, and he's bald. His eyes are dark brown. He is 170 (5'7) centimeters tall.
+Jeiruld is the headmaster of his arcane school, the Academy of Aldorim. He was born in Forta, Centruma, but later traveled to Taribia and opened his school there. Jeiruld is in his seventies, and he's bald. His eyes are dark brown. He is 170 (5'7) centimeters tall.
 
 He wears a brown cap, a black silk cloak, dark red robes, a belt, and a pair of boots. He also wears a plain golden circlet, and two silver rings on his left land. The front of his robes has two large pockets on the chest and leg part, holding things like spell components, papers, or scrolls. He wears a necklace that has all sorts of fangs and claws from bears, big cats, boars and other animals. Because of old age, he walks around with a walking stick. He can usually be found at his academy.
 
@@ -64,10 +64,10 @@ He could brew potions, knowing how to brew almost all potions known in Fjalland.
 
 [[LORE]]
 [AD 910]
-Jeiruld traveled to Tarib. Using his wealth, he enrolled in an arcane school.
+Jeiruld traveled to Taribia. Using his wealth, he enrolled in an arcane school.
 
 [AD 915]
-Jeiruld joined a group of mercenaries, hired by local lords to take out three earth elementals that were sighted in the mountains north of Tarib. They were able to kill the earth elementals.
+Jeiruld joined a group of mercenaries, hired by local lords to take out three earth elementals that were sighted in the mountains north of Taribia. They were able to kill the earth elementals.
 
 [AD 933]
 Two years later, he paid several men to start the construction of the Academy of Aldorim.
