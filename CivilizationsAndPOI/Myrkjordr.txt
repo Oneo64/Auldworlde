@@ -3,35 +3,3 @@
 Moon Shrines:
 	These shrines are made of large, light limestone bricks, taking up about a 8 meter square of space and being about 20 meters tall, with a large bell placed at the top of each shrine made of their corresponding moon.
 	The shrines of Lûn uses silver, the shrines of Vel uses antimony, and the shrines of An uses brass.
-
-
-
-[[FORESTS]]
-
-Aodesvic Forests (forests surrounding Aodesvu):
-	This forest is a beech and oak forest, with moderate to little undergrowth, other than green grass that cover the ground.
-
-The Golden Forest:
-	These forests are mixed forests.
-
-Mountains of Bark:
-	The Mountains of Bark is a very hilly forest in the west, but very mountainous in the east, which gets so jagged it starts to form karsts. The entire forest consists of tall pines and large oaks. Cool blue mists eternally surround this area, which seems to be bright, giving the sky a glowy look.
-	This forest contains two moon shrines, a shrine of Lûn and a shrine of Vel.
-
-Forests on the western island:
-	In the north is a coniferous forest, at the sides are mixed forests, and at the bottom is an oak and beech forest.
-
-Heirfgrian Forest:
-	This forest is a dark redwood forest. The main inhabitants are Heirgrian centaurs. This forest contains a shrine of An.
-
-Centrumic Forests (forests above Centruma, surrounding Woparias and Zenixras):
-	These forests are a bright redwood forest, with little undergrowth.
-
-Northern and Southern Fjallandic Forests (forests near Argánlaf and under Herthland, and west of Glomdur):
-	These forests are made up of two areas. The northern area and the part west of Glomdur is a dark coniferous forest of tall pines some firs and spruces, and the southern area is a mixed coniferous forest. The southern area is a bright coniferous forest with about 50% firs with heavy undergrowth, and 50% tall pines and firs with moderate undergrowth.
-
-Herthlandic Forests:
-	These forests are snowy coniferous forests, which is the piece of forest that Herthland is in.
-
-Lantheressil Forest, or the peninsula southwest of Herthland:
-	This forest mostly covered with a tall pine forest, with large, one-and-a-half meter ferns covering the ground. There has been rumors of frost dragons living here.
