@@ -11,7 +11,7 @@ Moon Shrines:
 Aodesvic Forests (forests surrounding Aodesvu):
 	This forest is a beech and oak forest, with moderate to little undergrowth, other than green grass that cover the ground.
 
-Dwarven Forests (forests south of Banod, between Glomdur and Banod, and the one surrounding Mornesvid):
+The Golden Forest:
 	These forests are mixed forests.
 
 Mountains of Bark:
@@ -35,13 +35,3 @@ Herthlandic Forests:
 
 Lantheressil Forest, or the peninsula southwest of Herthland:
 	This forest mostly covered with a tall pine forest, with large, one-and-a-half meter ferns covering the ground. There has been rumors of frost dragons living here.
-
-
-
-[[GEOGRAPHICAL LOCATIONS]]
-
-Banodic Mountain Ranges:
-	These mountain ranges are high mountains that snow at the peaks. The dwarven forests also grow on this mountain range.
-
-Mountains in the very north:
-	These mountains are tall mountains covered in snow.
