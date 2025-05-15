@@ -20,7 +20,6 @@ Settlements/empires/kingdoms:
 	Fjalland (Galabric - Primal Fjallandic - Fjallandic)	(AD 780 - Present day)								(Galabric: AD 640 to AD 710, Primal Fjallandic: AD 710 to AD 810, Fjallandic: AD 810 to Present)
 	Rotherland (Old Cantrium - Rotherlandic)				(AD 560 - Present day)								(Old Cantrium: AD 560 to AD 750, Rotherlandic: AD 750 to Present)
 	Herthland (Old Cantrium-Rotherlandic - Rotherlandic)	(AD 600 - Present day)								(Old Cantrium-Rotherlandic: AD 600 to AD 800, Rotherlandic: AD 800 to Present)
-	Vuntarla (Galabric - Fjallandic)						(AD 650 - Present day)
 	Aodesvu (Old Cantrium - Aodesvic)						(AD 220 - Present day)
 
 	Wulfscithia (??? - Rotherlandic)						(AD 500 - Present day)
@@ -213,10 +212,6 @@ Beliefs: Jóki was a warrior from the village Hrafandis. He traveled north to ex
 
 
 <Second Age of Peace START>
-
-
-[AD 650]
-As Fjalland slowly rose to power, a group of explorers decided to leave Fjalland to establish their own kingdoms. They traveled east to the coast and settled there, on a fjord that overlooked the ocean, forming the Kingdom of Vuntarla.
 
 
 [AD 870]

@@ -24,15 +24,15 @@ MEN:
 		Political structure is elected autocracy
 
 		Current allies: Fjalland, Aodesvu
-		Current wars:   Yûmlathnar, Vatakond
+		Current wars:   Wulfscithia, Vatakond
 
 	Fjalland:
 		Main language is Fjallandic
 		Culture is Fjallandic
 		Political structure is feudal absolute monarchy
 
-		Current allies: Centruma, Herthland, Vuntarla
-		Current wars:   Yûmlathnar, Vatakond
+		Current allies: Centruma, Herthland
+		Current wars:   Wulfscithia, Vatakond
 
 	Rotherland:
 		Main language is Rotherlandic
@@ -45,8 +45,8 @@ MEN:
 		Culture is Herthlandic
 		Political structure is constitutional monarchy
 
-		Current allies: Fjalland, Vuntarla
-		Current wars:   Yûmlathnar, Vatakond
+		Current allies: Fjalland
+		Current wars:   Wulfscithia, Vatakond
 
 	Saxia:
 		Main language is Rotherlandic
@@ -65,19 +65,10 @@ MEN:
 		Culture is Fjallandic
 		Political structure is feudal absolute monarchy
 
-	Vuntarla:
-		Populated by men
-		Main language is Fjallandic
-		Culture is Fjallandic
-		Political structure is absolute monarchy
-
-		Current allies: Fjalland
-
-ELVES (subjected for removal/reinnovation):
-	Yûmlathnar:
-		Main language is Rànûdan
-		Culture is Moon Elvish
-		Political structure is elected autocracy
+	Wulfscithia:
+		Main language is Rotherlandic
+		Culture is Rotherlandic
+		Political structure is constitutional monarchy
 
 		Current allies: Vatakond, Evil fey
 		Current wars:   Fjalland, Herthland, Centruma
