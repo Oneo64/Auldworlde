@@ -1,19 +1,36 @@
-Preferred weapons:
-	Longaxe
-	Longbow (self bow, no recurving)
-	Light Crossbow
-	Obsidian-tipped arrows
-	Scimitar
+Centaur
 
-Preferred metals:
-	Flint (fletching)
-	Iron
-	Silver
+Aesthetic/base: Native American
 
-Gems, gemstones and crystals:
-	Crystal/White opal - Associated with Lûn, and believed to be associated with Lünanyr and life
-	Emerald            - Associated with nature
-	Jade/Malachite     - Believed to be associated with druidry
-	Labradorite        - Associated with Vel, and believed to be associated with Parhrügi and magic
-	Obsidian           - Believed to be associated with death or the void
-	Onyx               - Associated with death
+
+
+[[BELIEFS/MISCONCEPTIONS]]
+	???
+
+
+
+[[PREFERENCES]]
+	Preferred weapons:
+		Atgeir
+		Longaxe
+		Longbow (self bow, no recurving)
+		Light Crossbow
+		Obsidian-tipped arrows
+		Scimitar
+		Spear
+
+	Preferred metals:
+		Flint (fletching)
+		Iron
+		Silver
+
+
+
+[[SUPERSTITIONS]]
+	Gems, gemstones and crystals:
+		Crystal/White opal - Associated with Lûn, and believed to be associated with Lünanyr and life
+		Emerald            - Associated with nature
+		Jade/Malachite     - Believed to be associated with druidry
+		Labradorite        - Associated with Vel, and believed to be associated with Parhrügi and magic
+		Obsidian           - Believed to be associated with death or the void
+		Onyx               - Associated with death

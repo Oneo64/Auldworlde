@@ -1,38 +1,42 @@
-Creature Habitats (if an animal isn't present here, then they will follow their real-life habitats):
-	Dungeon:							Draugr, Boneman, Wraith, Zombie
+NOTE: If the creature doesn't specify where they dwell, it is safe to assume they can be found in all parts of the world.
 
-	Desert:								Daeva, Fire Dragon, Fire Elemental, Manticore
+Origins:
+	Germanic Mythologies (Nordic, Celtic): Alfr, Draugr, Troll
+	New Zealand/Maori: Ponaturi
+	Native American Mythologies: Raven Mocker (Cherokee)
+	Persian and Zorostrian Mythology: Daeva, Manticore
+	Southeastern Asian Mythologies (Thai, Cambondian, etc): Krasue
 
-	Mountains:							Fire Elemental, Frost Dragon
-	Snowy Mountains:					Frost Dragon, Ice Elemental
 
-	All Forests:						Centaur (they are more prominent in some forests), Gvarth (rare)
-	Centrumic Forests:					Great Leafbug
-	Far Northern Tundra/Snowfield:		Frost Dragon, Ice Elemental
-	Northern Fjallandic Forests:		Crow, Owl, Raven, Troll
-	Southern Fjallandic Forests:		Crow, Owl, Raven, Troll (less frequent)
-	Golden Forests:						Great Leafbug
-	Jungles:							Daeva, Krasue, Manticore
-	Lantheressil Peninsula:				Glimmering Moth, Owl
-	Þafnorðarleitr:						Frost Dragon, Ice Elemental
 
-	Urban:								Ghost
+====================================================================================================
+OTHER HUMAN-LIKE SPECIES
+----------------------------------------------------------------------------------------------------
+Basically the same way fantasy races work.
+====================================================================================================
 
-	Ocean/Beach:						Ponaturi
+Troll:
+	A troll usually lives in small tribes, and they don't like metal.
 
-	Veldalfheimr:						Centaur, Dryad, Faerie Hare, Gvarth
-	Plane of Earth and Stone:			Earth Elemental, Stone Elemental
+	Appearance:
+		A troll is a creature that is slightly shorter than a man, but much heavier. They have dark hair, black beady eyes that glow in the dark like a cat, grey stone-like skin, large flat noses, and wears mostly browns and greys.
+
+	Behaviour:
+		Trolls act eccentric and whimsical like a garden gnome or an old wizard. They don't like the company of too many men, or even too many trolls. They live in small tribes, where their leaders are always the wisest ones in their community.
+
+	Abilities:
+		A troll is much stronger than a man but not as strong as draugr. They are a lot dumber than humans, but very rarely one is born with equal intelligence. Upon stepping into sunlight, they will slowly turn into stone, which is why they dwell in dark forests. They can see in the dark.
 
 
 
 ====================================================================================================
 BEASTS
 ----------------------------------------------------------------------------------------------------
-Beasts are just animals.
+Beasts are just animals, but maybe some are magical.
 ====================================================================================================
 
 Glimmering Moth:
-	Glimmering moths live in the Forests of Rànûdel.
+	Glimmering moths live in the Mountains of Bark.
 
 	Appearance:
 		A glimmering moth is a moth approximately 5 times larger than a brown house moth. It has a brown color, with small blue streaks.
@@ -43,7 +47,7 @@ Glimmering Moth:
 
 
 Great Leafbug:
-	Great leafbugs can be found in the dwarven and Centrumic forests.
+	Great leafbugs can be found in the Golden Forest and the Centrumic forests.
 
 	Appearance:
 		A greatleaf bug looks like a green stickbug, instead it has 6 legs on each side. It is about 1.5 meters long, and live up to 10 years.
@@ -56,7 +60,7 @@ Great Leafbug:
 
 
 Manticore (large beast):
-	A manticore lives in jungles or lives with a daeva tribe.
+	A manticore lives in jungles or lives with a daeva tribe. These can usually be found in the south, especially near Taribia and Neshozia.
 
 	Appearance:
 		A manticore appears to have the head of a man, the body of a lion, and the tail of a scorpion. It's tail has a stinger similar to a porcupine quill. It's eyes are vibrant blue, it's hair is the color of blood, and they have three rows of sharp teeth. Their main diet is human meat.
@@ -67,13 +71,13 @@ Manticore (large beast):
 
 
 ====================================================================================================
-DEMONS
+DEMONS | EVIL SPIRITS
 ----------------------------------------------------------------------------------------------------
-Demons are never created in Myrkjorðr, and they are either souls who escaped Hel to Myrkjorðr, or manifestations of pure evil.
+There can only be two explainations of the origins of these monsters: either they are souls who escaped Hel to Myrkjorðr, or unknown.
 ====================================================================================================
 
 Daeva (large fiend):
-	A daeva is a demon, found mostly in hot regions. They are said to be manifestations of pure evil.
+	A daeva is a demon, found mostly in hot regions. They are said to be manifestations of pure evil. Daevas usually live in southern regions, especially near Taribia and Neshozia.
 
 	Appearance:
 		A daeva is a towering human-like demon. They have mostly blue skin, but some have red skin. They have tusks like a boar, and have horns like a goat or a sheep. Their eyes appear to be normal, exept the whites of their eyes are yellow. They have flat faces.
@@ -86,6 +90,19 @@ Daeva (large fiend):
 		Daevas are weak in daylight and cannot see or hear as good. Their strength is at peak only at night, especially when there is a full moon. They are also able to see in the dark.
 
 		Daevas speak Abyssal, and they mostly live in small groups, which can go from a few to twenty members.
+
+
+
+Raven Mocker (medium fiend):
+	Raven mockers are at the same time evil spirits and witches.
+
+	Description:
+		Raven mockers are described as human-like figures in black clothing. Their faces are said to appear withered and aged.
+
+	Abilities:
+		A raven mocker usually preys on sick humans. They usually come out at night, and if their prey is left alone or unguarded, they will approach them and eat their heart to increase their lifespan.
+
+		Raven mockers also have black wings attached from their arms to their sides like a raven, and can use them to fly in the air. If a raven mocker dives, it lets out an uncanny screech that resembles a raven. It is said that if one hears this screech, it's an omen of death.
 
 
 
@@ -115,7 +132,7 @@ Frost Dragon:
 
 
 Fire Dragon:
-	Fire dragons are a type of dragon that mostly lives in the hotter regions of the world. They mostly eat goats or cattle, and they are quite territorial.
+	Fire dragons are a type of dragon that mostly lives in the hotter regions of the world, such as the Taribian Desert. They mostly eat goats or cattle, and they are quite territorial.
 
 	Description:
 		Fire dragons are mostly have a slim sort of body, with their proportions longer than other dragons. Their necks are about 2 meters, shorter than frost dragons.
@@ -211,7 +228,7 @@ Alfr/Elves (medium fey):
 
 
 Centaur (medium fey):
-	A centaur is a half man half horse found in Veldalfheimr and Myrkjorðr. They live in groups, small kingdoms, or the such.
+	A centaur is a half man half horse found in Veldalfheimr and Myrkjorðr. They live in groups, small kingdoms, or the such. The most well known centaur kingdoms in Myrkjorðr are Heirfgria and Vatakond.
 
 	Description:
 		A centaur is a hybrid, with the upper body of a human and the lower body of a horse. The horse's fur usually extends all the way up to the centaur's neck, and to their wrists.
@@ -297,7 +314,7 @@ Boneman (medium undead):
 
 
 Draugr (medium undead):
-	A draugr is a revenant who comes alive. Many draugar come to be because they were cursed, but some may rise because they weren't buried properly. One way to prevent their rise is to ensure they are laying down, and their hands and feet are bound together.
+	A draugr is a revenant who comes alive. Many draugar come to be because they were cursed, but some may rise because they weren't buried properly. One way to prevent their rise is to ensure they are laying down, and their hands and feet are bound together. Most draugar come to be in the northern lands of Myrkjorðr.
 
 	Description:
 		Some draugar might look like they're covered in ash, with grey skin, completely white eyes, and sparse grey hair. Some might be bloated at their stomach and completely black as if they were burnt. But whatever appearance they may have, they will always seem like a walking corpse.
@@ -331,7 +348,7 @@ Rotten Gvarth (huge undead):
 
 
 Krasue (medium undead):
-	A krasue is an undead creature that dwells in forests. One becomes a krasue if they sinned and from that were cursed to become one.
+	A krasue is an undead creature that dwells in forests and jungles, especially the southern ones. A person may become a krasue if they sinned and from that were cursed to become one.
 
 	Appearance:
 		Krasues are usually the head of a young woman, with her internal organs hanging from the bottom of her neck. Sometimes they may have a faint glow around them like a will-o-wisp.
