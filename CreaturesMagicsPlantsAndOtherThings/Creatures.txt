@@ -1,5 +1,5 @@
 Creature Habitats (if an animal isn't present here, then they will follow their real-life habitats):
-	Dungeon:							Draugr, Ghost, Boneman, Wraith, Zombie
+	Dungeon:							Draugr, Boneman, Wraith, Zombie
 
 	Desert:								Daeva, Fire Dragon, Fire Elemental, Manticore
 
@@ -7,16 +7,18 @@ Creature Habitats (if an animal isn't present here, then they will follow their 
 	Snowy Mountains:					Frost Dragon, Ice Elemental
 
 	All Forests:						Centaur (they are more prominent in some forests), Gvarth (rare)
-	Elûniel:							Frost Dragon, Ice Elemental
-	Jungles:							Daeva, Manticore
 	Centrumic Forests:					Great Leafbug
-	Dwarven Forests:					Great Leafbug
+	Far Northern Tundra/Snowfield:		Frost Dragon, Ice Elemental
 	Northern Fjallandic Forests:		Crow, Owl, Raven, Troll
 	Southern Fjallandic Forests:		Crow, Owl, Raven, Troll (less frequent)
-	Far Northern Tundra/Snowfield:		Frost Dragon, Ice Elemental
-	Forests of Rànûdel:					Glimmering Moth, Owl
+	Golden Forests:						Great Leafbug
+	Jungles:							Daeva, Krasue, Manticore
+	Lantheressil Peninsula:				Glimmering Moth, Owl
+	Þafnorðarleitr:						Frost Dragon, Ice Elemental
 
 	Urban:								Ghost
+
+	Ocean/Beach:						Ponaturi
 
 	Veldalfheimr:						Centaur, Dryad, Faerie Hare, Gvarth
 	Plane of Earth and Stone:			Earth Elemental, Stone Elemental
@@ -264,11 +266,35 @@ Gvarth (huge fey):
 
 
 
+Ponaturi (medium fey):
+	Ponaturi are small, goblin-like creatures that dwell in warm waters, especially the beaches in the south.
+
+	Description:
+		Ponaturi are small, goblin-like humanoid creatures. They usually wear scraps weathered by salt water, but the long hairs that cover their bodies make up for the torn clothing.
+
+	Abilities:
+		Ponaturi usually comes out of the ocean when the weather is foggy, rainy, stormy, or any weather where the sun isn't shining, since if they touch sunlight, they will suffer burns. They usually capture humans and enslave them. At night, they come out and sleep in huts they built on the beach.
+
+		In ponaturi tribes, some of them will practice black magic, especially Gu magic.
+
+
+
 ====================================================================================================
 UNDEAD
 ----------------------------------------------------------------------------------------------------
 Undead are either reanimated corpses by magic, or resurrected corpses due to natural phenomenon. Almost all undead are immune to any poisons or venom, and mind control and mind reading doesn't work on them.
 ====================================================================================================
+
+Boneman (medium undead):
+	Bonemen are corpses reanimated by black magic.
+
+	Description:
+		A boneman is often the skeleton of a humanoid, usually those of a human, reanimated by black magic.
+
+	Abilities:
+		Bonemen are dim-witted, yet know just enough to use a weapon. They only understand the languages of it's creator, but cannot speak.
+
+
 
 Draugr (medium undead):
 	A draugr is a revenant who comes alive. Many draugar come to be because they were cursed, but some may rise because they weren't buried properly. One way to prevent their rise is to ensure they are laying down, and their hands and feet are bound together.
@@ -304,14 +330,14 @@ Rotten Gvarth (huge undead):
 
 
 
-Boneman (medium undead):
-	Bonemen are corpses reanimated by black magic.
+Krasue (medium undead):
+	A krasue is an undead creature that dwells in forests. One becomes a krasue if they sinned and from that were cursed to become one.
 
-	Description:
-		A boneman is often the skeleton of a humanoid, usually those of a human, reanimated by black magic.
+	Appearance:
+		Krasues are usually the head of a young woman, with her internal organs hanging from the bottom of her neck. Sometimes they may have a faint glow around them like a will-o-wisp.
 
 	Abilities:
-		Bonemen are dim-witted, yet know just enough to use a weapon. They only understand the languages of it's creator, but cannot speak.
+		Krasues move by floating in the air. They feed on blood, particularly on the blood of humans. They usually come out at night, but no one knows where they hide once day comes.
 
 
 
