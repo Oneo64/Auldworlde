@@ -139,11 +139,13 @@ Intricate Staves (requires effort or practice to draw):
 These are the staves you can make:
 	- Ægishjalmur:   Must be carved on the outside of one's helmet. When worn, its wearer will gain a slight boost in strength.
 	- Antiburn:      Carved on any wood, that piece can catch fire but won't burn.
+	- Blood-oxen Earth-oxen: Carve these staves inside the lid of a chest. Carve the first at day and the second at night. After that, none can open the chest but those who carved the staves.
 	- Brynslustafir: The blades of allies shall cut with ease upon attacking their foes.
 	- Repel Demons:  Weak-willed demons and undead shall recoil and flee.
 	- Repel Evil:    Carved on a door, no creature of evil can willingly enter.
 	- Lesser Hagall: No magic can be cast or created near this stave, but this stave doesn't affect itself. If this stave nears another Lesser Hagall, they cancel each other out.
 	- Hulinhjalmur:  Must be carved on one's helmet, wearing it will turn him half-invisible.
+	- Veldismagn:    Must be drawn with blood on stone, let it lie upon your chest and you shall be protected from evil and disease.
 
 
 
