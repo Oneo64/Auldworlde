@@ -48,10 +48,13 @@ Ljorn enjoys venison. He usually has a small cloth bag of dried strips of it, ke
 
 
 [[ABILITIES]]
-Ljorn usually fights with a spear and shield, and his combat abilities are slightly above average. Ljorn has combat experience, gained from a previous adventure to an old castle ruins, where he fought a couple of draugar. But because he was shot in the shoulder with an arrow during a centaur raid, his left arm was weakened.
+[Physicality]
+Ljorn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure to an old castle ruins, where he fought a couple of draugar. But because he was shot in the shoulder with an arrow during a centaur raid, his left arm was weakened.
 
+[Grimoire]
 Ljorn has access to magical staves and potion recipes because of his grimoire. He usually has the grimoire open while he draws a stave or brews a potion because he doesn't bother to memorize them. He doesn't draw staves during combat for obvious reasons.
 
+[Language]
 Ljorn's native language is Fjallandic, but he can also speak Rotherlandic (Early Middle English). He knows how to play Plattrægnall, a local board game.
 
 
