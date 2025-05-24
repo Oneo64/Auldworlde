@@ -65,4 +65,3 @@ Trolls:
 
 Demi-Humans:
 	Parusyatis
-	Yelestina
