@@ -1,4 +1,4 @@
-Ljorn
+Ljörn
 
 Male
 Age: 25 (Born in December 2, 947)
@@ -24,43 +24,43 @@ Cousins:   Lalfrel, Gorðr, Ærínd
 
 
 [[DESCRIPTION]]
-Ljorn is a warrior who sometimes utilizes galdrastafir and potions. He stands at 5'9" and has an average build for a warrior. His long hair is dark blond with gentle but messy waves and a little longer than shoulder length. He has a light stubble and fair skin. Oftentimes, his hair is pulled back, then secured by a cloth strip that he tied around his head. His eyes are hooded, downturned, and dark pale blue, making him seem sad or tired to many people.
+Ljörn is a warrior who sometimes utilizes galdrastafir and potions. He stands at 5'9" and has an average build for a warrior. His long hair is dark blond with gentle but messy waves and a little longer than shoulder length. He has a light stubble and fair skin. Oftentimes, his hair is pulled back, then secured by a cloth strip that he tied around his head. His eyes are hooded, downturned, and dark pale blue, making him seem sad or tired to many people.
 
-When Ljorn is outside, he dons a woolen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He has a baldric carrying a scabbard with a Petersen Type L sword (5-lobed Viking sword). On his belt, he has a leather pouch and a small seax under the sword baldric. He wears a necklace of an iron Talmundúr amulet.
+When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He has a baldric carrying a scabbard with a Petersen Type L sword (5-lobed Viking sword). On his belt, he has a leather pouch and a small seax under the sword baldric. He wears a necklace of an iron Talmundúr amulet.
 
-When he travels or prepares for combat, Ljorn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield. He will also carry a thin grimoire (about thirty pages) that has stave-drawing and potion-brewing instructions and a piece of coal in the pouch.
+When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield. He will also carry a thin grimoire (about thirty pages) that has stave-drawing and potion-brewing instructions and a piece of coal in the pouch.
 
-When at work, Ljorn can be found at his house chopping firewood, checking his family's farm for weeds, or helping Alfrir and Ulfnir carry wood they felled back to their home. In his free time, he would play Plattrægnall with someone (probably with Alfrir), or go into the forest to explore and collect potion herbs.
+When at work, Ljörn can be found at his house chopping firewood, checking his family's farm for weeds, or helping Alfrir and Ulfnir carry wood they felled back to their home. In his free time, he would play Plattrægnall with someone (probably with Alfrir), or go into the forest to explore and collect potion herbs.
 
 
 
 [[PERSONALITY]]
-Ljorn is reserved and slightly introverted. He doesn't speak much and prefers quiet and solitary areas, but he doesn't mind public spaces (or even crowded places). When he talks to strangers, he might make things awkward but otherwise, he tries to be polite, especially to his elders or higher-ups. He also has a good survival instinct, which was shown during Ingwaz's attack.
+Ljörn is reserved and slightly introverted. He doesn't speak much and prefers quiet and solitary areas, but he doesn't mind public spaces (or even crowded places). When he talks to strangers, he might make things awkward but otherwise, he tries to be polite, especially to his elders or higher-ups. He also has a good survival instinct, which was shown during Ingwaz's attack.
 
-Ljorn is stubborn. Sometimes, he won't change his mind after deciding on it. He has slight paranoia, which is most prominent when he's inside deep forests. He got this paranoia after seeing a draugr lurking in the nearby forest when he was 10 years old, and it strengthened later after encountering the gvarth during his trip to the castle ruin.
+Ljörn is stubborn. Sometimes, he won't change his mind after deciding on it. He has slight paranoia, which is most prominent when he's inside deep forests. He got this paranoia after seeing a draugr lurking in the nearby forest when he was 10 years old, and it strengthened later after encountering the gvarth during his trip to the castle ruin.
 
-Sometimes, Ljorn acts uncaring and unassertive since he usually doesn't involve himself in things that don't concern him. For example, if a thief stole something from someone he doesn't know, he'll ignore the commotion.
+Sometimes, Ljörn acts uncaring and unassertive since he usually doesn't involve himself in things that don't concern him. For example, if a thief stole something from someone he doesn't know, he'll ignore the commotion.
 
-To people he's warmed up to, like his family or Rúna, he is loyal and more emotional than usual. His uncaringness also goes away, replaced with kindheartedness. But towards Rúna, Ljorn is a little soft-spoken and feels a degree of protectiveness for her from outside threats, especially situations he would perceive as similar to the centaur raid that happened just a few months prior. He expresses his love by doing things for her and spending time with her. Sometimes, he likes to hold hands. Despite this more emotional side, Ljorn is still slightly introverted.
+To people he's warmed up to, like his family or Rúna, he is loyal and more emotional than usual. His uncaringness also goes away, replaced with kindheartedness. But towards Rúna, Ljörn is a little soft-spoken and feels a degree of protectiveness for her from outside threats, especially situations he would perceive as similar to the centaur raid that happened just a few months prior. He expresses his love by doing things for her and spending time with her. Sometimes, he likes to hold hands. Despite this more emotional side, Ljörn is still slightly introverted.
 
-Ljorn speaks Rotherlandic (Early Middle English) weirdly. Not only does he have a strong Fjallandic accent, but he speaks Rotherlandic using the grammar of his native tongue. When he gets frustrated, he quietly uses strong language under his breath, but he doesn't use extreme insults or belittling.
+Ljörn speaks Rotherlandic (Early Middle English) weirdly. Not only does he have a strong Fjallandic accent, but he speaks Rotherlandic using the grammar of his native tongue. When he gets frustrated, he quietly uses strong language under his breath, but he doesn't use extreme insults or belittling.
 
-Ljorn's favorite food is venison. He keeps a small bag of dried strips in his pouch for later. For some reason, he also enjoys dried, hard bread with the crust. He says it's because it's chewy.
+Ljörn's favorite food is venison. He keeps a small bag of dried strips in his pouch for later. For some reason, he also enjoys dried, hard bread with the crust. He says it's because it's chewy.
 
 
 
 [[ABILITIES]]
 [Physicality]
-Ljorn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure to an old castle ruins, where he fought a couple of draugar. But because he was shot in the shoulder with an arrow during a centaur raid, his left arm was weakened.
+Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure to an old castle ruins, where he fought a couple of draugar. But because he was shot in the shoulder with an arrow during a centaur raid, his left arm was weakened.
 
 [Grimoire]
-Ljorn has access to magical staves and potion recipes because of his grimoire. He usually has the grimoire open while he draws a stave or brews a potion because he doesn't bother to memorize them. He doesn't draw staves during combat for obvious reasons.
+Ljörn has access to magical staves and potion recipes because of his grimoire. He usually has the grimoire open while he draws a stave or brews a potion because he doesn't bother to memorize them. He doesn't draw staves during combat for obvious reasons.
 
 [Language]
-Ljorn's native language is Fjallandic, but he can also speak Rotherlandic (Early Middle English).
+Ljörn's native language is Fjallandic, but he can also speak Rotherlandic (Early Middle English).
 
 [Games]
-Ljorn knows how to play Plattrægnall, a local board game.
+Ljörn knows how to play Plattrægnall, a local board game.
 
 
 

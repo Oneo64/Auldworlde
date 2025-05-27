@@ -9,7 +9,7 @@ Race:      Human
 
 Father:    Algord
 Mother:    Mifrún
-Brothers:  Ulfnir, Ljorn
+Brothers:  Ulfnir, Ljörn
 Sister:    Yngvild
 
 Grandfather: Haldigr III (passed away), Bjoll (passed away)
@@ -28,7 +28,7 @@ He wears a blue woolen cap with green accents, dark blue shawl, a chainmail haub
 
 He wears a chainmail-less Gjermundbu helmet in combat. He has a spear, and a white round shield with a black symbol (helm of awe) painted on it.
 
-He can be found at his house either checking his family's farm for weeds, practicing spears with Ulfnir, or playing Plattrægnall with someone (probably with Ljorn). Sometimes he's in the forest with Ulfnir felling trees, or accompanying Ljorn for local exploration.
+He can be found at his house either checking his family's farm for weeds, practicing spears with Ulfnir, or playing Plattrægnall with someone (probably with Ljörn). Sometimes he's in the forest with Ulfnir felling trees, or accompanying Ljörn for local exploration.
 
 
 
@@ -40,7 +40,7 @@ Alfrir can be described as a competitive warrior. He is also impulsive, sometime
 [[ABILITIES]]
 Alfrir can only speak Fjallandic. Sometimes he picks up small hints from an English conversation due to familiarity and similarly, but can also lead to misunderstanding.
 
-Alfrir has combat experience from raiding a castle ruins, fighting against couple of draugar. This raiding was with his brother Ljorn, and two other people (Baulnir and Elkfriða).
+Alfrir has combat experience from raiding a castle ruins, fighting against couple of draugar. This raiding was with his brother Ljörn, and two other people (Baulnir and Elkfriða).
 
 He has six years worth of spear fighting practice, and makes him above average in combat with his spear. He usually likes to fight safely by keeping a distance with his shield in front of him, waiting for an opening to strike.
 

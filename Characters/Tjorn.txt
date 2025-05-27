@@ -1,4 +1,4 @@
-Tjorn
+Tjörn
 
 Male
 Age: 20
@@ -10,7 +10,7 @@ Race:      Human
 
 
 [[DESCRIPTION]]
-Tjorn is one of the patrolling guards in Argánlaf. His hair is curly brown, his eyes are brown, and has lightly tanned skin.
+Tjörn is one of the patrolling guards in Argánlaf. His hair is curly brown, his eyes are brown, and has lightly tanned skin.
 
 He wears a brown cloak, a muted yellow tunic, grey pants, a ring belt, and a pair of shoes. He has a sheathed seax on his belt, and a wood-axe secured in belt. He wears a iron Talmundúr amulet.
 
@@ -19,13 +19,13 @@ When patrolling, he carries around a war axe and a round shield. He also wears a
 
 
 [[PERSONALITY]]
-Tjorn is described as a fearless warrior. He can also be somewhat devious, not telling the full truth in order to get what he wants/needs.
+Tjörn is described as a fearless warrior. He can also be somewhat devious, not telling the full truth in order to get what he wants/needs.
 
-Tjorn also has some pride in himself, shown when he passes by Algord's home when his son, Alfrir, is sparring with Ulfnir, he "coaches" Alfrir on his spear skills as if he's the instructor.
+Tjörn also has some pride in himself, shown when he passes by Algord's home when his son, Alfrir, is sparring with Ulfnir, he "coaches" Alfrir on his spear skills as if he's the instructor.
 
 He's also extroverted, and likes to socialize with other people more than normal.
 
 
 
 [[ABILITIES]]
-Tjorn has skill in his war axe as he practices when he isn't on patrol.
+Tjörn has skill in his war axe as he practices when he isn't on patrol.

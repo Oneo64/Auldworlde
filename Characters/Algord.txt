@@ -13,7 +13,7 @@ Brother:   Fraldr
 Sister:    Anru
 
 Wife:      Mifrún
-Sons:      Ulfnir, Ljorn, Alfrir
+Sons:      Ulfnir, Ljörn, Alfrir
 Daughter:  Yngvild
 
 Nephew:    Gorðr

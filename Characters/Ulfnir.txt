@@ -9,7 +9,7 @@ Race:      Human
 
 Father:    Algord
 Mother:    Mifrún
-Brothers:  Ljorn, Alfrir
+Brothers:  Ljörn, Alfrir
 Sister:    Yngvild
 
 Grandfather: Haldigr III (passed away), Bjoll (passed away)
