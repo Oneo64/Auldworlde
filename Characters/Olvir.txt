@@ -1,4 +1,4 @@
-Olvir
+Ölvir
 
 Male
 Age: Late 30s
@@ -10,20 +10,20 @@ Race:      Human
 
 
 [[DESCRIPTION]]
-Olvir is a human from Lismerlaf. He has long red wavy hair, trimmed beard, brown eyes, pale skin, and short light brown hair. His skin is slightly wrinkled.
+Ölvir is a human from Lismerlaf. He has long red wavy hair, trimmed beard, brown eyes, pale skin, and short light brown hair. His skin is slightly wrinkled.
 
-Olvir wears a tan triangular fur cap, a brown tunic with vibrant blue accents, dark brown pants, a belt, and a pair of boots. He has a 12-inch seax sheathed on his belt, and a coin purse. He wears an iron Talmundúr amulet.
+Ölvir wears a tan triangular fur cap, a brown tunic with vibrant blue accents, dark brown pants, a belt, and a pair of boots. He has a 12-inch seax sheathed on his belt, and a coin purse. He wears an iron Talmundúr amulet.
 
 He usually travels with a spear, using it to protect his boat.
 
-Since Olvir is a trader, he owns a longship and sails along the Saequor-Lismerlaf trade route. He sells wool and rye.
+Since Ölvir is a trader, he owns a longship and sails along the Saequor-Lismerlaf trade route. He sells wool and rye.
 
 
 
 [[PERSONALITY]]
-Olvir is a strict man, setting rules for anyone he takes with him on his boat while traveling. Usually these rules are: don't be rambunctious and don't walk while the boat is moving. He can also be described as arrogant, seeing his ship as superior compared to other traders in Lismerlaf.
+Ölvir is a strict man, setting rules for anyone he takes with him on his boat while traveling. Usually these rules are: don't be rambunctious and don't walk while the boat is moving. He can also be described as arrogant, seeing his ship as superior compared to other traders in Lismerlaf.
 
 
 
 [[ABILITIES]]
-As a trader, Olvir is able to speak both Fjallandic and Centrumic (English) with near fluency.
+As a trader, Ölvir is able to speak both Fjallandic and Centrumic (English) with near fluency.
