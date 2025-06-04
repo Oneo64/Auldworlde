@@ -17,15 +17,15 @@
 	Ú: /u/
 
 	Y: /y/
-	Ý: /juː/
+	Ý: /yi/
 	J: /j/
 
 	AU: /auː/
 	ÁI: /ɑi/
 	EI, EY: /ei/
-	ÍU: /iuː/
+	ÍU: /iːju/
 	ÚA: /uːɑ/
-	ÚI: /uːɪ/
+	ÚI: /uːi/
 
 	DR: /dr/
 	TR: /tr/
