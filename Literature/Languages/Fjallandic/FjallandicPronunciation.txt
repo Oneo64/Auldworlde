@@ -17,7 +17,7 @@
 	Ú: /u/
 
 	Y: /y/
-	Ý: /yiː/
+	Ý: /yiː/, or /yː/ if the next IPA is /j/
 	J: /j/
 
 	AU: /auː/
