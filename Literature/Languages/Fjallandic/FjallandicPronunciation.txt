@@ -4,34 +4,35 @@
 	Æ: /ai/
 
 	E: /ɛ/
-	É: /jɛ/
+	É: /jɛː/
 
 	I: /ɪ/
 	Í: /i/
 
 	O: /o/ or /ɔ/, more commonly /o/
-	Ó: /ou/
+	Ó: /ouː/
 	Ö: /œ/
 
 	U: /ʌ/
 	Ú: /u/
 
 	Y: /y/
+	Ý: /iuː/
 	J: /j/
 
-	AU: /au/
+	AU: /auː/
 	ÁI: /ɑi/
 	EI, EY: /ei/
-	ÍU: /ju/
-	ÚA: /u:ɑ/
-	ÚI: /u:ɪ/
+	ÍU: /iuː/
+	ÚA: /uːɑ/
+	ÚI: /uːɪ/
 
 	DR: /dr/
 	TR: /tr/
 
 	KV, GV: /kf/, /gf/
 	HV: /ʍ/
-	Vowel + GE, GI, GÍ, GU, GÚ: If in a VCV word structure, G is pronounced /j/. Example: ægi is pronounced /'ai:dʒɪ/, but getr is pronounced /'gɛtr/
+	Vowel + GE, GI, GÍ, GU, GÚ: If in a VCV word structure, G is pronounced /j/. Example: ægi is pronounced /'ai.jɪ/, but getr is pronounced /'gɛtr/
 	ING: /ɪŋk/
 
 	Þ: /θ/
