@@ -1,25 +1,22 @@
 [[PRONUNCATION]]
+
+[[MONOPHTHONGS]]
 	A: /a/
 	Á: /ɑ/
 	Æ: /ai/
-
 	E: /ɛ/
 	É: /jɛː/
-
 	I: /ɪ/
 	Í: /i/
-
 	O: /o/ or /ɔ/, more commonly /o/
 	Ó: /ouː/
 	Ö: /œ/
-
 	U: /ʌ/
 	Ú: /u/
-
 	Y: /y/
 	Ý: /yiː/, or /yː/ if the next IPA is /j/
-	J: /j/
 
+[[DIPHTHONGS]]
 	AU: /auː/
 	ÁI: /ɑi/
 	EI, EY: /ei/
@@ -27,25 +24,38 @@
 	ÚA: /uːɑ/
 	ÚI: /uːi/
 
-	DR: /dr/
-	TR: /tr/
-
-	KV, GV: /kf/, /gf/
+[[CONSONANTS]]
+	B: /b/
+	D: /d/
+	Ð: /ð/
+	F: /f/
+	G: /g/
+	G in VCV structures, and the second V is E, I, Í, U, or Ú: /j/
+		Example: ægi is pronounced /'ai.jɪ/, but getr is pronounced /'gɛtr/
+	H: /h/
+	J: /j/
+	K: /k/
+	L: /l/
+	-L: /ɫ/
+	-ULL, -UL: /ɫ/
+	M: /m/
+	N: /n/
+	P: /p/
+	R: /r/
+	S: /s/
+	T: /t/
+	V: /v/
 	HV: /ʍ/
-	Vowel + GE, GI, GÍ, GU, GÚ: If in a VCV word structure, G is pronounced /j/. Example: ægi is pronounced /'ai.jɪ/, but getr is pronounced /'gɛtr/
+	KV: /kf/
+	X: /ks/
+	Z: /z/
+	Þ: /θ/
+
 	-NG: /ŋk/
 
-	Þ: /θ/
-	Ð: /ð/
-
-	T: /t/
-	K: /k/
-	L: /l/, at the back of the word, /ɫ/ is used
-	-ULL, -UL: /ɫ/
-
-	R: When the R is at the end of the word or the syllable, it is slightly rolled. /r/
-
 	Stress: Defaulted to the first syllable of the word.
+
+
 
 [[RUNES UNICODE (not accurate!)]]
 	ᛚ a
