@@ -33,13 +33,15 @@
 	KV, GV: /kf/, /gf/
 	HV: /ʍ/
 	Vowel + GE, GI, GÍ, GU, GÚ: If in a VCV word structure, G is pronounced /j/. Example: ægi is pronounced /'ai.jɪ/, but getr is pronounced /'gɛtr/
-	ING: /ɪŋk/
+	-NG: /ŋk/
 
 	Þ: /θ/
 	Ð: /ð/
 
 	T: /t/
 	K: /k/
+	L: /l/, at the back of the word, /ɫ/ is used
+	-ULL, -UL: /ɫ/
 
 	R: When the R is at the end of the word or the syllable, it is slightly rolled. /r/
 
@@ -64,6 +66,7 @@
 	ᛗ m
 	ᚾ n
 	𐱅 o, ɔ (o)
+	ó
 	ᚤ œ (ö)
 	n/𐌷 p
 	ᚱ r
@@ -73,7 +76,7 @@
 	ᛦ u (ú)
 	𐰰 v
 	ᛉ y
-	ᛠ yi (ý)
+	Ⲯ yi (ý)
 𐰕  v
 	𐌂 z
 	𐌜 ð
