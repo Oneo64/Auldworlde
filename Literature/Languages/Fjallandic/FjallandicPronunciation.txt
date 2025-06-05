@@ -44,3 +44,36 @@
 	R: When the R is at the end of the word or the syllable, it is slightly rolled. /r/
 
 	Stress: Defaulted to the first syllable of the word.
+
+[[RUNES UNICODE (not accurate!)]]
+	ᛚ a
+	ᚨ ɑ (á)
+	ᛖ ai
+	ᛒ b
+	ᛞ d
+	ᚴ ɛ (e)
+	ᚠ f
+	ᚷ g
+	ᚼ ge, gi, gí, gu, gú
+	ᛈ h
+	ᛁ ɪ (i)
+	𐌋 i (í)
+	ᚢ j
+	𐰇 k
+	ᚳ l
+	ᛗ m
+	ᚾ n
+	𐱅 o, ɔ (o)
+	ᚤ œ (ö)
+	n p
+	ᚱ r
+	ᛋ s
+	ᛏ t
+	ᛣ ʌ (u)
+	ᛦ u (ú)
+	𐰰 v
+	ᛉ y
+	ᛠ yi (ý)
+	𐰕 z
+	𐌜 ð
+	ᚹ θ (þ)
