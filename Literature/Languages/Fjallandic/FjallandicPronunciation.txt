@@ -22,7 +22,7 @@
 	EI, EY: /ei/
 	ÍU: /iːju/
 	ÚA: /uːɑ/
-	ÚI: /uːi/
+	ÚI: /ui/
 
 [[CONSONANTS]]
 	B: /b/
