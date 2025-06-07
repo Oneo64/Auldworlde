@@ -20,8 +20,6 @@
 	AU: /œi/
 	ÁI: /ɑi/
 	EI, EY: /ɛi/
-	ÍU: /iːju/
-	ÚA: /uːɑ/
 	ÚI: /ui/
 
 [[CONSONANTS]]
