@@ -12,7 +12,7 @@
 	Ó: /ouː/
 	Ö: /œ/
 	U: /ʌ/
-	Ú: /u/
+	Ú: /uː/
 	Y: /y/
 	Ý: /yiː/, or /yː/ if the next IPA is /j/
 
@@ -20,7 +20,6 @@
 	AU: /œi/
 	ÁI: /ɑi/
 	EI, EY: /ɛi/
-	ÚI: /ui/
 
 [[CONSONANTS]]
 	B: /b/
