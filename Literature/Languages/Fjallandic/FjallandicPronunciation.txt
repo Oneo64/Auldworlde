@@ -14,7 +14,7 @@
 	U: /ʌ/
 	Ú: /uː/
 	Y: /y/
-	Ý: /yiː/, or /yː/ if the next IPA is /j/
+	Ý: /yɪː/, or /yː/ if the next IPA is /j/
 
 [[DIPHTHONGS]]
 	AU: /œi/
