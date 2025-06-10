@@ -27,7 +27,7 @@
 	Ð: /ð/
 	F: /f/
 	G: /g/
-	G in VCV structures, and the second V is E, I, Í, U, or Ú: /j/
+	G in VCV structures, and the second V is E, I, Í, U, or Ú: /ɣ/
 		Example: ægi is pronounced /'ai.jɪ/, but getr is pronounced /'gɛtr/
 	H: /h/
 	J: /j/
