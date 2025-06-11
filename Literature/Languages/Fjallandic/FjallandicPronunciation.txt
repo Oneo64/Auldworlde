@@ -27,7 +27,7 @@
 	Ð: /ð/
 	F: /f/
 	G: /g/
-	G that follows an Æ, E, É, I, Í, Ö, or the combination AU: /ɣ/
+	G that follows an Æ, E, É, I, Í, Ö, but doesn't precede a Ð or L, or the combination AU: /ɣ/
 		Example: ægi is pronounced /'ai.ɣɪ/, and lög is pronounced /lœɣ/, but getr is pronounced /gɛtr/
 	H: /h/
 	J: /j/
