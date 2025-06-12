@@ -46,8 +46,7 @@
 	Z: /z/
 	Þ: /θ/
 
-	-NG: /ŋk/
-	-NGR: /ŋgr/
+	-NG: /ŋg/
 
 	Stress: Defaulted to the first syllable of the word.
 
