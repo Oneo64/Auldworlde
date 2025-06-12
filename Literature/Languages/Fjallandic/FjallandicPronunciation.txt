@@ -47,6 +47,7 @@
 	Þ: /θ/
 
 	-NG: /ŋk/
+	-NGR: /ŋgr/
 
 	Stress: Defaulted to the first syllable of the word.
 
