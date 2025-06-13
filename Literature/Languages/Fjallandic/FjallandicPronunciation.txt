@@ -33,6 +33,7 @@
 	J: /j/
 	K: /k/
 	L: /l/
+	-L, -LR, -LL, -LLR: /ɭ/
 	M: /m/
 	N: /n/
 	P: /p/
