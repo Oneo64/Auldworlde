@@ -20,6 +20,7 @@
 	AU: /œi/
 	ÁI: /ɑi/
 	EI, EY: /ɛi/
+	JA: /ja/
 
 [[CONSONANTS]]
 	B: /b/
