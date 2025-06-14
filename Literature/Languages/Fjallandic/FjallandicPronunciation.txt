@@ -17,10 +17,10 @@
 	Ý: /yɪː/, or /yː/ if the next IPA is /j/
 
 [[DIPHTHONGS]]
-	AU: /œi/
-	ÁI: /ɑi/
-	EI, EY: /ɛi/
-	JA: /ja/
+	AU: /œyː/
+	ÁI: /ɑiː/
+	EI, EY: /ɛiː/
+	JA: /jaː/
 
 [[CONSONANTS]]
 	B: /b/
