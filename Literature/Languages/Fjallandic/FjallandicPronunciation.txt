@@ -33,8 +33,7 @@
 	H: /h/
 	J: /j/
 	K: /k/
-	L at the start of a syllable: /l/
-	L: /ɭ/
+	L: /l/ or /ɭ/. Examples: bolli is /bolɪ/, bolr is /bolr/, allt is /ɑɭt/, eldr is /eɭdr/
 	M: /m/
 	N: /n/
 	P: /p/
