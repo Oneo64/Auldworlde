@@ -2,24 +2,24 @@
 
 [[MONOPHTHONGS]]
 	A: /ɑ/
-	Á: /ɑuː/
-	Æ: /aiː/
 	E: /ɛ/
-	É: /jɛː/
 	I: /ɪ/
 	Í: /iː/
 	O: /o/ or /ɔ/, more commonly /o/
-	Ó: /ouː/
 	Ö: /œː/
 	U: /ʊ/
 	Ú: /uː/
 	Y: /y/
-	Ý: /yɪː/, or /yː/ if the next IPA is /j/
 
 [[DIPHTHONGS]]
+	Á: /ɑuː/
+	Æ: /aiː/
 	AU: /œyː/
 	ÁI: /ɑiː/
+	É: /jɛː/
 	EI, EY: /ɛiː/
+	Ó: /ouː/
+	Ý: /yɪː/, or /yː/ if the next IPA is /j/
 	JA: /jaː/
 
 [[CONSONANTS]]
