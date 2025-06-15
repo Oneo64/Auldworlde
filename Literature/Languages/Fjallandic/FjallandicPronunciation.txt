@@ -11,7 +11,7 @@
 	O: /o/ or /ɔ/, more commonly /o/
 	Ó: /ouː/
 	Ö: /œː/
-	U: /ʌ/
+	U: /ʊ/
 	Ú: /uː/
 	Y: /y/
 	Ý: /yɪː/, or /yː/ if the next IPA is /j/
