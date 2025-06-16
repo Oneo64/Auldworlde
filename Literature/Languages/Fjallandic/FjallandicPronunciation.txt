@@ -34,7 +34,10 @@
 	J: /j/
 	K: /k/
 	L: /l/ or /l̪/. Examples: bolli is /bolɪ/, bolr is /bolr/, allt is /ɑl̪t/, eldr is /ɛl̪dr/, mel is /mɛl̪/
+	-FL: /fl̪/
+	-GL: /kx/ Example: tagl is /tɑkx/
 	-RL: /rɫ/
+	-SL: /sɫ/
 	M: /m/
 	N: /n/
 	P: /p/
