@@ -1,7 +1,7 @@
 [[PRONUNCATION]]
 
 [[MONOPHTHONGS]]
-	A: /ɑ/, but /a/ in verb endings. Example: tala is /tɑ.la/
+	A: /ɑ/
 	E: /ɛ/
 	I: /ɪ/
 	Í: /iː/
