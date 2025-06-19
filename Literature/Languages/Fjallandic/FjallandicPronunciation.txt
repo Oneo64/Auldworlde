@@ -14,7 +14,7 @@
 [[DIPHTHONGS]]
 	Á: /ɑuː/
 	Æ: /aiː/
-	AU: /œyː/
+	AU: /œːy/
 	ÁI: /ɑiː/
 	É: /jɛː/
 	EI, EY: /ɛiː/
