@@ -32,11 +32,7 @@
 	H: /h/
 	J: /j/
 	K: /k/
-	L: /l/ or /l̪/. Examples: bolli is /bolɪ/, bolr is /bolr/, allt is /ɑl̪t/, eldr is /ɛl̪dr/, mel is /mɛl̪/
-	-FL: /fl̪/
-	-GL: /gl̪/
-	-RL: /rɫ/
-	-SL: /sɫ/
+	L: /l/ or /ɫ/
 	M: /m/
 	N: /n/
 	P: /p/
