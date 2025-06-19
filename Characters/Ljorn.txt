@@ -86,3 +86,9 @@ Ljörn knows how to play Plattrægnall, a local board game.
 		Repel Demons
 		Lesser Hagall
 		Veldismagn
+
+
+[[GOAL]]
+"I thinks of a fame or some grípir will well to fit me. Yet in now, I just want a normal aldr. I will to protect mine family and Rúna. Yet if needed, I will to slay."
+
+"Ek leim am stræka ór summ grípir mun vel at ar nýtr fyrir minn. Ænn í núna, ek ötti vil nidd aldu. Ek vil at vurða minn heimmandar ok Rúna. Ænn ef ek skolu, ek vil at slá."
