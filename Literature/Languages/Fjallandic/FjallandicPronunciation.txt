@@ -33,6 +33,8 @@
 	J: /j/
 	K: /k/
 	L: /l/ or /ɫ/
+	-LL or -LLR: /l̪/, /l̪r/
+		Example: mól is pronounced /mouːɫ/, but grúll is pronounced /gruːl̪/
 	M: /m/
 	N: /n/
 	P: /p/
