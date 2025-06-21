@@ -34,7 +34,7 @@
 	K: /k/
 	L: /l/ or /ɫ/
 	Syllables that end in -L or -LR: /l/ or /l̪/, but never /ɫ/
-		Example: mól can be pronounced as /mouːl/ or less commonly /mouːl̪/
+		Example: mól can be pronounced as /mouːl/ or less commonly as /mouːl̪/
 	M: /m/
 	N: /n/
 	P: /p/
