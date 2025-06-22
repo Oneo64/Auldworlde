@@ -12,6 +12,7 @@
 [[DIPHTHONGS]]
 	EA: /æɑː/
 	EO: /ɛoː/
+	IO: /e:o/
 
 [[CONSONANTS]]
 	B: /b/
@@ -21,6 +22,7 @@
 	F: /f/
 	G: /g/
 	H: /h/
+	H when it's not the first letter in the syllable: /χ/
 	K: /k/
 	L: /l/, or sometimes if it's at the end of the word, /l̪/
 		Example: mól can be pronounced as /mouːl/ or less commonly as /mouːl̪/
@@ -39,39 +41,3 @@
 	-NN: /ŋ/
 
 	Stress: Defaulted to the first syllable of the word.
-
-
-
-[[RUNES UNICODE (not accurate!)]]
-	ᛚ ɑ (a)
-	ᛖ ai
-	ᛒ b
-	ᛞ d
-	ᚴ ɛ (e)
-	ᚠ f
-	ᚷ g
-	ᚼ ɣ (g)
-	ᛈ h
-	ᛁ ɪ (i)
-	𐌋 i (í)
-	ᚢ j
-	𐌍 k
-	ᚳ l
-	ᛗ m
-	ᚾ n
-	ᚨ o, ɔ (o)
-	ᚨᛦ ó
-	ᚤ œ (ö)
-	ᚤ𐌋 œi (au)
-	n/𐌷 p
-	ᚱ r
-	ᛋ s
-	ᛏ t
-	ᛣ ʊ (u)
-	ᛦ u (ú)
-	𐌊 ʋ (v)
-	ᛉ y
-	Ⲯ yi (ý)
-	𐌂 z
-	𐌜 ð
-	ᚹ θ (þ)
