@@ -43,7 +43,7 @@ Sometimes, Ljörn acts uncaring and unassertive since he usually doesn't involve
 
 To people he's warmed up to, like his family or Rúna, he is loyal and more emotional than usual. His uncaringness also goes away, replaced with kindheartedness. But towards Rúna, Ljörn is a little soft-spoken and feels a degree of protectiveness for her from outside threats, especially situations he would perceive as similar to the centaur raid that happened just a few months prior. He expresses his love by doing things for her and spending time with her. Sometimes, he likes to hold hands. Despite this more emotional side, Ljörn is still slightly introverted.
 
-Ljörn speaks Rotherlandic (Early Middle English) weirdly. Not only does he have a strong Fjallandic accent, but he speaks Rotherlandic using the grammar of his native tongue. When he gets frustrated, he quietly uses strong language under his breath, but he doesn't use extreme insults or belittling.
+Ljörn speaks Centrumic (English) weirdly. Not only does he have a strong Fjallandic accent, but he speaks Centrumic using the grammar of his native tongue. When he gets frustrated, he quietly uses strong language under his breath, but he doesn't use extreme insults or belittling.
 
 Ljörn's favorite food is venison. He keeps a small bag of dried strips in his pouch for later. For some reason, his second favorite food is dried, hard bread with the crust. He says it's because it's chewy.
 
@@ -57,7 +57,7 @@ Ljörn fights with a spear and shield, and his combat abilities with weapons are
 Ljörn has access to magical staves and potion recipes because of his grimoire. He usually has the grimoire open while he draws a stave or brews a potion because he doesn't bother to memorize them. He doesn't draw staves during combat for obvious reasons.
 
 [Language]
-Ljörn's native language is Fjallandic, but he can also speak Rotherlandic (Early Middle English).
+Ljörn's native language is Fjallandic, but he can also speak Heorthlandic. He can kinda speak Centrumic (English), but he's very bad at it (see personality).
 
 [Games]
 Ljörn knows how to play Plattrægnall, a local board game.

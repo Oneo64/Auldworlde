@@ -1,17 +1,10 @@
 Common:
-	Humans:
-		Centrumic (English)
-		Fjallandic (Any English accents should be equivalent to an Icelandic one)
-		Taribian (Any English accents should be equivalent to a Persian one)
-		Aodesvic
-		Rotherlandic (Orrm's Early Middle English)
-
-	Elves:
-		Rànûdan (Moon Elvish)
-
-	Dwarves:
-		Banodic
-		Mornesvian
+	Centrumic (English, or can be Chaucerian Middle English)
+	Fjallandic (Any English accents should be equivalent to an Icelandic one)
+	Taribian (Any English accents should be equivalent to a Persian one)
+	Audeveaurian
+	Rotherlandic (Orrm's Early Middle English)
+	Heorthlandic
 
 Uncommon:
 	Daevas/Orcs:
@@ -25,9 +18,6 @@ Exotic:
 	Sylvan
 	Abyssal
 
-	Primordial Dwarven
-	Old Banodic
-
 	Haearic
 	Borian
 	Borusdaliandurish
@@ -36,7 +26,3 @@ Exotic:
 	Galabric
 	Old Cantrium
 	Primal Fjallandic
-
-	Ancient Elvish
-	Old Rànûdan
-	Old Esrel
