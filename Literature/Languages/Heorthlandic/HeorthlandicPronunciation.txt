@@ -1,36 +1,26 @@
 [[PRONUNCATION]]
 
 [[MONOPHTHONGS]]
-	A: /ɑ/
+	A: /a/
+	Æ: /æ/
 	E: /ɛ/
-	I: /ɪ/
-	Í: /iː/
-	O: /o/ or /ɔ/, more commonly /o/
-	Ö: /œː/
-	U: /ʊ/
-	Ú: /uː/
+	I: /i/
+	O: /o/
+	U: /u/
 	Y: /y/
 
 [[DIPHTHONGS]]
-	Á: /ɑuː/
-	Æ: /aiː/
-	AU: /œːy/
-	ÁI: /ɑiː/
-	É: /jɛː/
-	EI, EY: /ɛiː/
-	Ó: /ouː/
-	Ý: /yɪː/, or /yː/ if the next IPA is /j/
+	EA: /æɑː/
+	EO: /ɛoː/
 
 [[CONSONANTS]]
 	B: /b/
+	C: /k/
+	CG: /ʒ/
 	D: /d/
-	Ð: /ð/
 	F: /f/
 	G: /g/
-	G that follows an Á, Æ, É, I, Í, Ö, Ú, Y, Ý, or the combination AU: /ɣ/
-		Example: ægi is pronounced /'ai.ɣɪ/, and lög is pronounced /lœɣ/, but getr is pronounced /gɛtr/
 	H: /h/
-	J: /j/
 	K: /k/
 	L: /l/, or sometimes if it's at the end of the word, /l̪/
 		Example: mól can be pronounced as /mouːl/ or less commonly as /mouːl̪/
@@ -40,15 +30,13 @@
 	R: /r/
 	S: /s/
 	T: /t/
-	V: /ʋ/
-	HV: /ʍ/
-	KV: /kf/
 	X: /ks/
 	Z: /z/
-	Þ: /θ/
+	Ƿ: /w/
+	Þ: /θ/ at the start of words, /ð/ everywhere else
 
-	-NG: /ŋk/
-	-NGR: /ŋgr/
+	-NG: /nʒ/
+	-NN: /ŋ/
 
 	Stress: Defaulted to the first syllable of the word.
 
