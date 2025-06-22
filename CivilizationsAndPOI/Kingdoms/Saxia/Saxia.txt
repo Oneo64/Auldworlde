@@ -2,10 +2,10 @@ Saxia
 
 Government: Feudal Absolute Monarchy
 Race Majority: Men
-Culture type: Herthlandic
+Culture type: Heorthlandic
 Population: ~2,000 people
 
-Main language: Rotherlandic
+Main language: Heorthlandic (Heorþlisc)
 Main Writing System: Futhorc (Anglo-Saxon runes)
 
 Ruler: King Ealdræd

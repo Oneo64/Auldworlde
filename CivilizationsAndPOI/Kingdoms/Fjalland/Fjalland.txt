@@ -5,11 +5,11 @@ Race Majority: Human
 Culture type: Fjallandic
 Population: 50,000 in settlements, 200 in fortresses, 2000 in Þuryngard, ~51,700 people in total
 
-Main languages: Fjallandic
-Other languages: Rotherlandic
+Main languages: Fjallandic (Fjallþungr)
+Other languages: Heorthlandic (Heorþlisc)
 Main Writing System: Fjallandic Runes (or Elder Futhark, if it must be in computer text)
 
-Ruler: King Alfþorin II
+Ruler: King Alfþórr II
 
 Important villages, (200 settlements, average 250 people each village):
 	Argánlaf (300 people, under Kjartkjofn)
