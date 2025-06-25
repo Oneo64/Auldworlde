@@ -35,7 +35,9 @@ Sometimes when not doing anything or listening to someone talk, Rúna would spac
 
 When Rúna is with Ljörn, she becomes more bashful due to her inexperience, but she is still willing to stay for a prolonged period. She is kinder, of course, and even though she finds his occasional stubbornness a little difficult, she works around it. She feels a small protectiveness over Ljörn (gained after she saw Ljörn injured by an arrow), but she would never admit it aloud. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
 
-Rúna's favorite food is roasted potatoes, especially salted ones. When she's nervous, she fidgets with the hem of her clothing.
+Rúna has a secret: sometime in the past, when Dagnir was playing a jest on Rúna, he showed her a piece of paper on how to draw Veldismagn. Rúna felt uncomfortable by how it was made, but she still hadn't forgotten it. Despite feeling uncomfortable, sometimes, she would use pig blood to draw them for protection.
+
+Rúna's favorite food is roasted potatoes, especially those with salt. When she's nervous, she fidgets with the hem of her clothing.
 
 
 
@@ -48,6 +50,9 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
 
 [Language]
 Rúna is fluent in Fjallandic since that's her native language. She has a minor understanding of He and can speak it if she reads from a script or practices a sentence. She can also read and write them in Fjallandic Runes.
+
+[Drawing]
+Rúna knows how to draw Veldismagn.
 
 
 

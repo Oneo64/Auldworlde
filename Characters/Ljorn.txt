@@ -24,13 +24,13 @@ Cousins:   Lalfrel, Gorðr, Ærínd
 
 
 [[DESCRIPTION]]
-Ljörn is a warrior who sometimes utilizes galdrastafir and potions. He stands at 5'9" and has an average build for a warrior. His long hair is dark blond with gentle but messy waves and a little longer than shoulder length. He has a light stubble and fair skin. Oftentimes, his hair is pulled back, then secured by a cloth strip that he tied around his head. His eyes are hooded, downturned, and dark pale blue, making him seem sad or tired to many people.
+Ljörn is a warrior who sometimes utilizes galdrastafir. He stands at 5'9" and has an average build for a warrior. His long hair is dark blond with gentle but messy waves and a little longer than shoulder length. He has a light stubble and fair skin. Oftentimes, his hair is pulled back, then secured by a cloth strip that he tied around his head. His eyes are hooded, downturned, and dark pale blue, making him seem sad or tired to many people.
 
 When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He has a baldric carrying a scabbard with a Petersen Type L sword (5-lobed Viking sword). On his belt, he has a leather pouch and a small seax under the sword baldric. He wears a necklace of an iron Talmundúr amulet.
 
-When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield. He will also carry a thin grimoire (about thirty pages) that has stave-drawing and potion-brewing instructions and a piece of coal in the pouch.
+When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield. He will also carry a tiny grimoire (about fifteen pages) and a piece of coal in the pouch.
 
-When at work, Ljörn can be found at his house chopping firewood, checking his family's farm for weeds, or helping Alfrir and Ulfnir carry wood they felled back to their home. In his free time, he would play Plattrægnall with someone (probably with Alfrir), or go into the forest to explore and collect potion herbs.
+When at work, Ljörn can be found at his house chopping firewood, checking his family's farm for weeds, or helping Alfrir and Ulfnir carry wood they felled back to their home. In his free time, he would play Plattrægnall with someone (probably with Alfrir), or go into the forest to explore.
 
 
 
@@ -54,7 +54,7 @@ Ljörn's favorite food is venison. He keeps a small bag of dried strips in his p
 Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure to an old castle ruins, where he fought a couple of draugar. But because he was shot in the shoulder with an arrow during a centaur raid, his left arm was weakened.
 
 [Grimoire]
-Ljörn has access to magical staves and potion recipes because of his grimoire. He usually has the grimoire open while he draws a stave or brews a potion because he doesn't bother to memorize them. He doesn't draw staves during combat for obvious reasons.
+Ljörn has access to magical staves because of his grimoire. He usually has the grimoire open while he draws a stave because he doesn't bother to memorize them. He doesn't draw staves during combat for obvious reasons.
 
 [Language]
 Ljörn's native language is Fjallandic, but he can also speak Heorthlandic. He can kinda speak Centrumic (English), but he's very bad at it (see personality).
@@ -65,17 +65,6 @@ Ljörn knows how to play Plattrægnall, a local board game.
 
 
 [[GRIMOIRE]]
-	Potions:
-		Bastard's Poison
-		Calming Salve
-		Concealment Potion
-		Curing Tonic
-		Fire-throwing Grenade
-		Nontoxic Seizure Concoction
-		Regenerative Salve
-		Silencing Potion
-		Sparkfire Potion
-
 	Staves:
 		Gapaldur
 		Vegvisir
@@ -85,7 +74,7 @@ Ljörn knows how to play Plattrægnall, a local board game.
 		Ægishjalmur
 		Repel Demons
 		Lesser Hagall
-		Veldismagn
+
 
 
 [[GOAL]]
