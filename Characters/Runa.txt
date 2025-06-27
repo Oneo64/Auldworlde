@@ -4,7 +4,7 @@ Female
 Age: 22 (Born in March 14, 951)
 Alignment: Neutral Good
 
-Homeland:  Argánlaf, Fjalland
+Homeland:  Álahringr, Fjalland
 Race:      Human
 
 Lover:     Ljörn
@@ -51,7 +51,7 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
 [Language]
 Rúna is fluent in Fjallandic since that's her native language. She has a minor understanding of Heorthlandic and can speak it if she reads from a script or practices a sentence. She can also read and write them in Fjallandic Runes.
 
-[Drawing]
+[Veldismagn]
 Rúna knows how to draw Veldismagn.
 
 
