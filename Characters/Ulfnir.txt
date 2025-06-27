@@ -4,7 +4,7 @@ Male
 Age: 27 (Born in January 13, 946)
 Alignment: Lawful Neutral
 
-Homeland:  Argánlaf, Fjalland
+Homeland:  Álahringr, Fjalland
 Race:      Human
 
 Father:    Algord
@@ -22,7 +22,7 @@ Cousins:   Lalfrel, Gorðr, Ærínd
 
 
 [[DESCRIPTION]]
-Ulfnir is a human from Argánlaf. He has brown eyes, fair skin, and wavy shoulder-length brown hair, with a slight beard.
+Ulfnir is a human from Álahringr. He has brown eyes, fair skin, and wavy shoulder-length brown hair, with a slight beard.
 
 He wears a brown cap, a muted yellow tunic, gray pants, a ring belt, and a pair of shoes. He also wears an iron Talmundúr amulet, and a bronze ring on his right middle finger. He is 178 (5'10) centimeters tall. He has a spear and a longbow.
 

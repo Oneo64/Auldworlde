@@ -2,14 +2,14 @@ Heir:   Algord
 Wealth: Moderately wealthy
 
 Land:
-    A longhouse. This house is in Argánlaf, Fjalland.
+    A longhouse. This house is in Álahringr, Fjalland.
         There are two farms on the left side of the house, and two farms at the front. The house is fenced off. There is also another area at the right, which houses cattle.
 
         On both longer sides of the wall are adorned with many shields. At the back is a small den for animals during the winter and a space for storage.
         Beds and chests line each side of the wall.
         In the front middle, there is a large hearth, and an iron pot above it. There is a smaller hearth at the back of the longhouse, and a long table.
 
-    Another longhouse, which is also in Argánlaf.
+    Another longhouse, which is also in Álahringr.
         This longhouse has three farms. One at the back, and two to the right. It has a shed to the left side, which houses some chickens.
 
 ---------------------------------------------------------------

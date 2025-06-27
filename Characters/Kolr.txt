@@ -4,13 +4,13 @@ Male
 Age: Early 30s
 Alignment: Neutral
 
-Homeland:  Argánlaf, Fjalland
+Homeland:  Álahringr, Fjalland
 Race:      Human
 
 
 
 [[DESCRIPTION]]
-Kolr is a blacksmith who works in Argánlaf. He is described as having brown hair, and a full beard.
+Kolr is a blacksmith who works in Álahringr. He is described as having brown hair, and a full beard.
 
 He wears a grey tunic, grey pants, shoes, and a ring belt.
 

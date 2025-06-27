@@ -4,7 +4,7 @@ Male
 Age: 20 (Born in August 17, 952)
 Alignment: Neutral
 
-Homeland:  Argánlaf, Fjalland
+Homeland:  Álahringr, Fjalland
 Race:      Human
 
 Father:    Algord
@@ -22,7 +22,7 @@ Cousins:   Lalfrel, Gorðr, Ærínd
 
 
 [[DESCRIPTION]]
-Alfrir is a human born in Argánlaf. He has fair skin which is slightly tanned, dark blue eyes, brown hair that goes all the way down to his armpits, and a stubble.
+Alfrir is a human born in Álahringr. He has fair skin which is slightly tanned, dark blue eyes, brown hair that goes all the way down to his armpits, and a stubble.
 
 He wears a blue woolen cap with green accents, dark blue shawl, a chainmail hauberk, a dark green tunic, and a pair of brown pants. He has a pouch and a bearded axe on his belt, a 12 inch long seax, and he wears boots on his feet. He wears an iron Talmundúr amulet. He is 173 (5'8) centimeters tall.
 
@@ -38,7 +38,7 @@ Alfrir can be described as a competitive warrior. He is also impulsive, sometime
 
 
 [[ABILITIES]]
-Alfrir can only speak Fjallandic. Sometimes he picks up small hints from an English conversation due to familiarity and similarly, but can also lead to misunderstanding.
+Alfrir can only speak Fjallandic. Sometimes he can pick up small hints from a Centrumic conversation due to familiarity and similarly, but can also lead to misunderstanding.
 
 Alfrir has combat experience from raiding a castle ruins, fighting against couple of draugar. This raiding was with his brother Ljörn, and two other people (Baulnir and Elkfriða).
 

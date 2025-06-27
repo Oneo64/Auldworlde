@@ -4,7 +4,7 @@ Male
 Age: 23 (Born in Feburary 22, 950)
 Alignment: Neutral Good
 
-Homeland:  Lismerlaf, Fjalland
+Homeland:  Óssvík, Fjalland
 Race:      Human
 
 Father:    Þrein
@@ -21,7 +21,7 @@ Cousin:    Freðja
 
 
 [[DESCRIPTION]]
-Baulnir is a human from Lismerlaf. He has fair skin which is slightly tanned, brown eyes, and light brown hair.
+Baulnir is a human from Óssvík. He has fair skin which is slightly tanned, brown eyes, and light brown hair.
 
 He wears a grey woolen cap, dark brown cloak, a muted aqua (blueish green) tunic, a pair of brown pants, and he wears shoes on his feet. He carries a Petersen Type U sword in it's scabbard, held by a baldric. He wears an iron Talmundúr amulet.
 
@@ -39,6 +39,6 @@ Baulnir is protective of his family, and may feel protectiveness to people he se
 [[ABILITIES]]
 Baulnir can speak Fjallandic, and because of trading he picked up some Centrumic (English). Still, he isn't fluent in Centrumic.
 
-Many years ago, he gained some experience from raiding a castle ruins with his sister and another two warriors from Argánlaf. Later, he gained some more from defending his home village from a bandit raid.
+Many years ago, he gained some experience from raiding a castle ruins with his sister and another two warriors from Álahringr. Later, he gained some more from defending his home village from a bandit raid.
 
 He sports a sword and shield, since he practiced it over the past four years.

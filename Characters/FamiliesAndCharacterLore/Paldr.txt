@@ -2,7 +2,7 @@ Heir:   Palðr
 Wealth: Middle class
 
 Land:
-    A longhouse. This house is in Argánlaf, Fjalland.
+    A longhouse. This house is in Álahringr, Fjalland.
     A piece of farmland around their house.
 
 ---------------------------------------------------------------

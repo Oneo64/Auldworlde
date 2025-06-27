@@ -4,13 +4,13 @@ Male
 Age: 185
 Alignment: Chaotic Good
 
-Homeland:  Argánlaf, Fjalland
+Homeland:  Álahringr, Fjalland
 Race:      Draugr (Human)
 
 
 
 [[DESCRIPTION]]
-Haldigr I was a human, born in AD 788 in Argánlaf. At 30 years old, he traveled down to Taribia with a handful of explorers. Halfway there, he encountered a daeva tribe, and was slain by them. He did not receive a proper burial. Many years later, he became a draugr who roams freely in the world. Haldigr I has old, blueish grey skin, completely white eyes, and his hair is shoulder-length and grey. He is 178 (5'10) centimeters tall.
+Haldigr I was a human, born in AD 788 in Álahringr. At 30 years old, he traveled down to Taribia with a handful of explorers. Halfway there, he encountered a daeva tribe, and was slain by them. He did not receive a proper burial. Many years later, he became a draugr who roams freely in the world. Haldigr I has old, blueish grey skin, completely white eyes, and his hair is shoulder-length and grey. He is 178 (5'10) centimeters tall.
 
 He wears a worn deer hide cloak, a rusted nasal helmet, a worn faded red tunic, faded brown pants, a belt and a pair of shoes. He carries a dane axe, and uses it to walk as a walking stick.
 
@@ -19,7 +19,7 @@ Like all draugr, his voice is raspy and deep.
 
 
 [[PERSONALITY]]
-Haldigr is usually protective of Argánlaf, and dwells in the Southern Fjallandic Forest near Argánlaf. However he can come off as unfriendly and emotionally cold, avoiding being seen by most people.
+Haldigr is usually protective of Álahringr, and dwells in the Southern Fjallandic Forest near Álahringr. However he can come off as unfriendly and emotionally cold, avoiding being seen by most people.
 
 
 

@@ -4,7 +4,7 @@ Male
 Age: 25
 Alignment: Lawful Good
 
-Homeland:  Argánlaf, Fjalland
+Homeland:  Álahringr, Fjalland
 Race:      Human
 
 Father:    Tryggvi
@@ -14,7 +14,7 @@ Brothers:  Sindri, Hammin
 
 
 [[DESCRIPTION]]
-Brandingi is one of the patrolling guards in Argánlaf. His hair is dark blond and wavy, his eyes are dark brown, and has lightly tanned skin. He has a sharp jawline, and he has his right ear cut off and a scar on his right shoulder caused by a sword.
+Brandingi is one of the patrolling guards in Álahringr. His hair is dark blond and wavy, his eyes are dark brown, and has lightly tanned skin. He has a sharp jawline, and he has his right ear cut off and a scar on his right shoulder caused by a sword.
 
 He wears a dark blue cloak, a muted green tunic, grey pants, a ring belt, and a pair of shoes. He has a sheathed seax on his belt. He wears a iron Talmundúr amulet.
 

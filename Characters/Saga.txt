@@ -4,7 +4,7 @@ Female
 Age: 20
 Alignment: Neutral
 
-Homeland:  Argánlaf, Fjalland
+Homeland:  Álahringr, Fjalland
 Race:      Human
 
 Father:    Hjalvir

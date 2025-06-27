@@ -4,7 +4,7 @@ Male
 Age: 25 (Born in December 2, 947)
 Alignment: Neutral Good
 
-Homeland:  Argánlaf, Fjalland
+Homeland:  Álahringr, Fjalland
 Race:      Human
 
 Lover:     Rúna

@@ -4,7 +4,7 @@ Female
 Age: 55 (Born in July 8, 916)
 Alignment: Neutral Good
 
-Homeland:  Argánlaf, Fjalland
+Homeland:  Álahringr, Fjalland
 Race:      Human
 
 Father:    Bjoll (passed away)
@@ -18,7 +18,7 @@ Daughter:  Yngvild
 
 
 [[DESCRIPTION]]
-Mifrún is a human from Argánlaf. She has dark blue eyes, fair skin, and brown hair braided into one. She mostly wears a green dress with a brown collar, held by a brown sash at her waist, and leather shoes. On her belt there is a small seax in it's sheath. She wears a necklace with an iron Talmundúr amulet. She is 165 (5'5) centimeters tall.
+Mifrún is a human from Álahringr. She has dark blue eyes, fair skin, and brown hair braided into one. She mostly wears a green dress with a brown collar, held by a brown sash at her waist, and leather shoes. On her belt there is a small seax in it's sheath. She wears a necklace with an iron Talmundúr amulet. She is 165 (5'5) centimeters tall.
 
 She can usually be found doing domestic work, and is currently married to Algord. She is the mother to Ulfnir, Ljörn, Yngvild, and Alfrir.
 

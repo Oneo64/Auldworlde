@@ -4,7 +4,7 @@ Male
 Age: Mid 40s
 Alignment: Lawful Good
 
-Homeland:  Lismerlaf, Fjalland
+Homeland:  Óssvík, Fjalland
 Race:      Human
 
 Father:    Hraldir (passed away)
@@ -20,11 +20,11 @@ Niece:     Freðja
 
 
 [[DESCRIPTION]]
-Þrein is a human from Lismerlaf. He has grey eyes, pale skin, and short light brown hair. His face has a minimal amount of freckles, and his skin is slightly wrinkled.
+Þrein is a human from Óssvík. He has grey eyes, pale skin, and short light brown hair. His face has a minimal amount of freckles, and his skin is slightly wrinkled.
 
 Þrein wears a brown triangular fur cap, a muted aqua (blueish green) tunic with brown accents, baggy brown pants, a belt, and a pair of boots. He has a 12-inch seax sheathed on his belt, and a coin purse. He wears an iron Talmundúr amulet.
 
-Þrein is the father of Ennu and Baulnir. Þrein also works as a fish trader, and owns a karve. He trades along the Argánlaf-Lismerlaf route, and Baulnir usually goes with him.
+Þrein is the father of Ennu and Baulnir. Þrein also works as a fish trader, and owns a karve. He trades along the Álahringr-Óssvík route, and Baulnir usually goes with him.
 
 He is currently married to Þrunna.
 

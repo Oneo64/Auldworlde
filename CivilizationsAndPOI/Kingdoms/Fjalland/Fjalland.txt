@@ -12,10 +12,10 @@ Main Writing System: Fjallandic Runes (or Elder Futhark, if it must be in comput
 Ruler: King Alfþórr II
 
 Important villages, (200 settlements, average 250 people each village):
-	Argánlaf (300 people, under Kjartkjofn)
+	Álahringr (300 people, under Kjartkjofn)
 	Bæsríngu (200 people)
 	Elkvin (50 people, under Ynfrünar)
-	Lismerlaf (300 people, under Dúagrynga)
+	Óssvík (300 people, under Dúagrynga)
 	Skjorknauz
 
 Cities:
@@ -68,9 +68,9 @@ Hierarchies and social classes are mostly family based, but if a family is unabl
 
 
 [[TRADE]]
-There is a trade route between Argánlaf and Lismerlaf, where Lismerlaf supplies Argánlaf with fish and Argánlaf supplies Lismerlaf with wood.
+There is a trade route between Álahringr and Óssvík, where Óssvík supplies Álahringr with fish and Álahringr supplies Óssvík with wood.
  
-Fjalland mainly exports iron, wool, and rye. They mostly trade with Herthland and Centruma. They also export herbs common in the Northern and Southern Fjallandic Forests such as ekraldys toadstools, and spices grown in winter.
+Fjalland mainly exports iron, wool, and rye. They mostly trade with Heorthland and Centruma. They also export herbs common in the Northern and Southern Fjallandic Forests such as ekraldys toadstools, and spices grown in winter.
 
 
 

@@ -4,13 +4,13 @@ Male
 Age: 20
 Alignment: Neutral
 
-Homeland:  Argánlaf, Fjalland
+Homeland:  Álahringr, Fjalland
 Race:      Human
 
 
 
 [[DESCRIPTION]]
-Tjörn is one of the patrolling guards in Argánlaf. His hair is curly brown, his eyes are brown, and has lightly tanned skin.
+Tjörn is one of the patrolling guards in Álahringr. His hair is curly brown, his eyes are brown, and has lightly tanned skin.
 
 He wears a brown cloak, a muted yellow tunic, grey pants, a ring belt, and a pair of shoes. He has a sheathed seax on his belt, and a wood-axe secured in belt. He wears a iron Talmundúr amulet.
 

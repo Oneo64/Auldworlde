@@ -4,13 +4,13 @@ Female
 Age: 19
 Alignment: Neutral Good
 
-Homeland:  Argánlaf, Fjalland
+Homeland:  Álahringr, Fjalland
 Race:      Human
 
 
 
 [[DESCRIPTION]]
-Seyja is a warrior from Argánlaf. She has wavy red hair that flows to her armpits, thin eyebrows, and her eyes are green and upturned. She is 5'5" (165 centimeters) tall.
+Seyja is a warrior from Álahringr. She has wavy red hair that flows to her armpits, thin eyebrows, and her eyes are green and upturned. She is 5'5" (165 centimeters) tall.
 
 She normally wears a dark cloak, a red dress, ring belt, and leather shoes. She also wears an iron Talmundúr amulet.
 
