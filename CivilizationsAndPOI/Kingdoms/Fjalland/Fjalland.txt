@@ -1,5 +1,6 @@
 Fjalland
 
+Founding Date: AD 740
 Government: Feudal Absolute Monarchy
 Race Majority: Human
 Culture type: Fjallandic
@@ -31,6 +32,10 @@ Important castles/Fortresses (about 10 in total, 10 guards and 15 servants in ea
 	Ynguningr
 	Kjartkjofn
 	Dreiknasríngu
+
+
+
+The Kingdom of Fjalland is a major kingdom in Myrkjörðr. The kingdom is one of the largest kingdoms in the north. Risen from a small village, they have slowly taken control of the north and northeast areas of the continent.
 
 
 
