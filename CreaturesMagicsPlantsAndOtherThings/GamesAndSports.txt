@@ -1,18 +1,18 @@
 [[BOARD GAMES]]
 
-Plattrægnall:
+Rægatafl:
 	Origin:   Fjalland
-	Factions: Factions are usually Trœkkar (Trolls) colored with brown, and Elzir (Elves) colored with green.
+	Factions: Factions are usually Trœkkar (Trolls) colored with brown, and Alfar (Elves) colored with green.
 
 	Workings:
-		Plattrægnall is basically Xiangqi, but the pieces are replaced with:
-			- 砲, 炮 is replaced with Fjallandic rune G  (gláteks)
-			- 兵, 卒 is replaced with Fjallandic rune R  (rúkmað)
-			- 車, 俥 is replaced with Fjallandic rune F  (fekkig)
-			- 馬, 傌 is replaced with Fjallandic rune P  (pjúntr)
-			- 士, 仕 is replaced with Fjallandic rune K  (kondmaðr)
-			- 象, 相 is replaced with Fjallandic rune B  (byrg)
-			- 將, 帥 is replaced with Fjallandic rune KV (karfinnir)
+		Rægatafl is basically Xiangqi, but the pieces are replaced with:
+			- 砲, 炮 is replaced with Fjallandic rune G  (gláttokr)
+			- 兵, 卒 is replaced with Fjallandic rune S  (svérkr)
+			- 車, 俥 is replaced with Fjallandic rune F  (fekíg)
+			- 馬, 傌 is replaced with Fjallandic rune H  (hreispr)
+			- 士, 仕 is replaced with Fjallandic rune L  (lókmandr)
+			- 象, 相 is replaced with Fjallandic rune B  (byr)
+			- 將, 帥 is replaced with Fjallandic rune K (konungr)
 
 
 
