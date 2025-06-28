@@ -42,4 +42,11 @@ Algord is distrustful of other people not related to his family, with certain ex
 
 
 [[ABILITIES]]
-Even though Algord only had a few days training with an axe and shield, he has experience fighting bandits from a one-year military campaign, and some from defending his home from the raid. He can also play Rægatafl, but he only plays it with his family members. The only language he understands is Fjallandic.
+[Physicality]
+As a soldier, Algord only had a few days of training with an axe and shield. Later, he gained real experience fighting bandits from a one-year military campaign, and some from defending his home from the raid. 
+
+[Language]
+Algord speaks Fjallandic.
+
+[Rægatafl]
+Algord can play Rægatafl, but he only plays it with his family members.

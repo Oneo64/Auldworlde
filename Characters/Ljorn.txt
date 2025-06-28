@@ -55,13 +55,13 @@ Ljörn's favorite food is venison. He keeps a small bag of dried strips in his p
 [Physicality]
 Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure to an old castle ruins, where he fought a couple of draugar. But because he was shot in the shoulder with an arrow during a centaur raid, his left arm was weakened.
 
-[Grimoire]
+[Galdrastafir]
 Ljörn has access to magical staves because of his grimoire. He usually has the grimoire open while he draws a stave because he doesn't bother to memorize them. He doesn't draw staves during combat for obvious reasons.
 
 [Language]
 Ljörn's native language is Fjallandic, but he can also speak Heorthlandic. He can kinda speak Centrumic (English), but he's very bad at it (see personality).
 
-[Games]
+[Rægatafl]
 Ljörn knows how to play Rægatafl, a local board game.
 
 
