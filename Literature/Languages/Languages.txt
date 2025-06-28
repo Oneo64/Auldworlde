@@ -18,6 +18,7 @@ Exotic:
 	Sylvan
 	Abyssal
 
+Ancient Languages:
 	Haearic
 	Borian
 	Borusdaliandurish
@@ -25,4 +26,4 @@ Exotic:
 	Grutorian
 	Galabric
 	Old Cantrium
-	Primal Fjallandic
+	Old Fjallandic
