@@ -8,7 +8,10 @@ Homeland:  The ancient castle ruins in the peninsula southwest of Herthland
 Race:      Draugr (Human)
 
 
-Ingwaz the Fiend is a draugr that dwells in the ancient castle ruins in the peninsula southwest of Heorthland. He was a warlord, who ruled over the castle before its demise.
+
+Ingwaz the Fiend is a draugr that dwells in the ancient castle ruins in the peninsula southwest of Heorthland. It was a warlord, who ruled over the castle before its capture and eventual destruction.
+
+Recently, it was briefly woken up by an adventurer who was accompanied by three other warriors. They fled before it could kill any of them.
 
 
 
