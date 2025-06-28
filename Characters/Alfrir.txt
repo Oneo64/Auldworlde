@@ -21,19 +21,23 @@ Cousins:   Lalfrel, Gorðr, Ærínd
 
 
 
-[[DESCRIPTION]]
-Alfrir is a human born in Álahringr. He has fair skin which is slightly tanned, dark blue eyes, brown hair that goes all the way down to his armpits, and a stubble.
+Alfrir is a human born in Álahringr.
 
-He wears a blue woolen cap with green accents, dark blue shawl, a chainmail hauberk, a dark green tunic, and a pair of brown pants. He has a pouch and a bearded axe on his belt, a 12 inch long seax, and he wears boots on his feet. He wears an iron Talmundúr amulet. He is 173 (5'8) centimeters tall.
+He can be found at his house either checking his family's farm for weeds, practicing spears with Ulfnir, or playing Rægatafl with someone (probably with Ljörn). Sometimes he's in the forest with Ulfnir felling trees, or accompanying Ljörn for local exploration. 
 
-He wears a chainmail-less Gjermundbu helmet in combat. He has a spear, and a white round shield with a black symbol (helm of awe) painted on it.
 
-He can be found at his house either checking his family's farm for weeds, practicing spears with Ulfnir, or playing Plattrægnall with someone (probably with Ljörn). Sometimes he's in the forest with Ulfnir felling trees, or accompanying Ljörn for local exploration.
+
+[[APPEARANCE]]
+Alfrir has fair skin which is slightly tanned, dark blue eyes, brown hair that goes all the way down to his armpits, and a stubble.
+
+He wears a blue woolen cap with green accents, dark blue shawl, a maille hauberk, a dark green tunic, and a pair of brown pants. He has a pouch and a bearded axe on his belt, a 12 inch long seax, and he wears boots on his feet. He wears an iron Talmundúr amulet. He is 173 (5'8) centimeters tall.
+
+He wears a maille-less Gjermundbu helmet in combat. He has a spear, and a white round shield with a black symbol (Helm of Awe) painted on it.
 
 
 
 [[PERSONALITY]]
-Alfrir can be described as a competitive warrior. He is also impulsive, sometimes not thinking before acting out. He is also mindful of his surroundings, and is careful not to knock anything over or do anything clumsy. However, he can show cowardice to the unknown, to people with much more fighting power such as Jeiruld Aldorim, or people with political power like Randúlfr or the king of Fjalland.
+Alfrir can be described as a competitive warrior. He is also impulsive, sometimes not thinking before acting out. He is also mindful of his surroundings, and is careful not to knock anything over or do anything clumsy. However, he can show cowardice to the unknown, to people with much more fighting power, or people with greater political power.
 
 
 
