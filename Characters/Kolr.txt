@@ -9,10 +9,12 @@ Race:      Human
 
 
 
-[[DESCRIPTION]]
-Kolr is a blacksmith who works in Álahringr. He is described as having brown hair, and a full beard.
+Kolr is a blacksmith who works in Álahringr. 
 
-He wears a grey tunic, grey pants, shoes, and a ring belt.
+
+
+[[APPEARANCE]]
+Kolr has brown hair and a full beard. He wears a grey tunic, grey pants, shoes, and a ring belt.
 
 
 
@@ -22,4 +24,4 @@ Kolr is described as a welcoming person. He usually asks a lot of questions befo
 
 
 [[ABILITIES]]
-Kolr is able to make axes, swords, spears, helmets, and other things. He doesn't know how to make chainmail.
+Kolr is able to make axes, swords, spears, helmets, and other things. He doesn't know how to make maille.

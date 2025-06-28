@@ -8,9 +8,12 @@ Homeland:  Álahringr, Fjalland
 Race:      Human
 
 
+Sæla is a völva in Álahringr.
 
-[[DESCRIPTION]]
-Sæla is a seeress. She has long bright blonde hair, done into a single braid. She has hazel eyes and fair skin. She wears a dark blue dress with a plain tan apron, a simple sash, and a pair of shoes. She wears an iron Talmundúr amulet.
+
+
+[[APPEARANCE]]
+Sæla has long bright blonde hair, done into a single braid. She has hazel eyes and fair skin. She wears a dark blue dress with a plain tan apron, a simple sash, and a pair of shoes. She wears an iron Talmundúr amulet.
 
 
 

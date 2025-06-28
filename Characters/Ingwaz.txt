@@ -8,20 +8,23 @@ Homeland:  The ancient castle ruins in the peninsula southwest of Herthland
 Race:      Draugr (Human)
 
 
+Ingwaz the Fiend is a draugr that dwells in the ancient castle ruins in the peninsula southwest of Heorthland. He was a warlord, who ruled over the castle before its demise.
 
-[[DESCRIPTION]]
-Ingwaz is a draugr that dwells in the ancient castle ruins in the peninsula southwest of Heorthland. Ingwaz appears to be bloated and black, with oily skin, greyed out eyes, and sparse black hair. It stands at about 5'11", which is taller than many people. It has a dried wound from it's face down, as if someone slashed it from it's forehead to it's stomach with a sword. It's right arm also seems to be flailing when relaxed.
 
-It wears a suit of old maille, worn pants, a belt and a pair of shoes. On it's head sits a coppergate helmet with an obvious dent in it, suggesting that was the killing blow. It carries an atgeir, and a sheathed longseax on it's belt.
+
+[[APPEARANCE]]
+Ingwaz appears to be bloated and black, with oily skin, greyed out eyes, and sparse black hair. It stands at about 5'11", which is taller than many people. It has a dried wound from it's face down, as if someone slashed it from it's forehead to it's stomach with a sword. It's right arm also seems to be flailing when relaxed.
+
+It wears a suit of old maille, worn pants, a belt and a pair of shoes. On it's head sits a coppergate helmet with an obvious dent in it, suggesting that was the killing blow. It carries an atgeir, and a sheathed longseax on it's belt. 
 
 
 
 [[PERSONALITY]]
-Ingwaz like many draugr, is extremely and violently protective of it's valuables.
+Not much is known about Ingwaz's personality, but like many draugr, it is extremely and violently protective of it's valuables. 
 
 
 
 [[ABILITIES]]
-Ingwaz is skilled with the atgeir it carries, and also with it's longseax. It can only speak Galabric. Like many draugr, it sits at it's burial spot with absolute stillness until one disturbs it's equipment, then it will rise.
+Ingwaz is skilled with the atgeir it carries, and also with it's longseax. It can only speak Galabric, an ancient languages. Like many draugr, it sits at it's burial spot with absolute stillness until one disturbs it's equipment, then it will rise.
 
 Also since Ingwaz is a draugr, it has a few abilities only they can have. It possesses the ability to move arms that were broken, as if they weren't broken. It is also able to turn itself into a billow of mist, or disguise itself as a deer, elk, or moose. Because of this despite its right arm flailing around like a piece of wood hanging by thread, Ingwaz can move it as if it was supposed to be like that.

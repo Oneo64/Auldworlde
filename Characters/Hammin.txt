@@ -13,8 +13,12 @@ Brothers:  Sindri, Brandingi
 
 
 
-[[DESCRIPTION]]
-Hammin is one of Randúlfr's knights. His hair is short light-blond and curly, his eyes are pale green, and has fair skin. He also has a light stubble for a beard.
+Hammin is one of Randúlfr's knights. He earned the title "the Angelic" because his appearance, light-blond and pale skin, makes him look very pale like an angel.
+
+
+
+[[APPEARANCE]]
+Hammin's hair is short light-blond and curly, his eyes are pale green, and has fair skin. He also has a light stubble for a beard.
 
 He wears a tan cloak, a yellow tunic, dark grey pants, a ring belt, and a pair of shoes. He wears a iron Talmundúr amulet, and an iron arm ring. He also sports a spear, and a round shield slung on his back. His round shield is painted white and blue.
 
@@ -26,4 +30,4 @@ As a knight, Hammin is loyal to Randúlfr as in honor. He is also an extrovert, 
 
 
 [[ABILITIES]]
-Hammin can speak Fjallandic as his native language. He can also speak some Heorthlandic even though it isn't fluent. He practices combat with a sword and shield, and knows how to ride horses. He can also play the board game Plattrægnall.
+Hammin speaks Fjallandic as his native language. He can also speak some Heorthlandic even though it isn't fluent. He practices combat with a sword and shield, and knows how to ride horses. He can also play the board game Plattrægnall.
