@@ -11,11 +11,11 @@ Magics:
 [["SUPPOSED" LORE]]
 It is believed that thousands of years prior, all onyxes are shattered pieces of Jallfaran's burnt finger when it fell and crashed onto the world, after being severed when he tried to move the sun into place. Amber is also a mix of Jallfaran's sweat and tear drops hardened after they fell into a pool of tar.
 
-All labradorites in the world were created when the god Parhrúgi sneezed upon the world. His mucus hardened into many small rocks as it minglinged with soil and sand, and were all absorbed into the ground.
+All labradorites in the world were created when the god Rynneirr sneezed upon the world. His mucus hardened into many small rocks as it minglinged with soil and sand, and were all absorbed into the ground.
 
-Some of Parhrúgi's mucus fell into Veldalfheimr instead, which became malachite and jade. Centaurs carried these believing they possess the spirits of dead animals that would "guide" them through life.
+Some of Rynneirr's mucus fell into Veldalfheimr instead, which became malachite and jade. Centaurs carried these believing they possess the spirits of dead animals that would "guide" them through life.
 
-After the events of these, it's believed that the world was first inhabited by fey. Then, there was a war and all the centaurs that carried malachite and jade were killed by moon elves (over whether Hærrulfyr (or Ainassare as the elves called him) was better than Lúnanyr (or Lomathelis as the centaurs called him)), and their gemstones sunk into the ground. After the gemstones sunk into the ground, they say that the centaur's gemstones begun to grow and multiply really slow as if they were animals.
+After the events of these, it's believed that the world was first inhabited by fey. Then, there was a war and all the centaurs that carried malachite and jade were killed by the alfar over whether Hærrulfyr was better than Ljúnandr, and their gemstones sunk into the ground. After the gemstones sunk into the ground, they say that the centaur's gemstones begun to grow and multiply really slow as if they were animals.
 
 
 
@@ -32,7 +32,7 @@ Large: Around the size of your hand
 
 [[DRUIDRY]]
 ====================================================================================================
-Druidry is most commonly associated with femininity. This magic is shamanic, found in northern and central regions.
+Druidry is a shamanic magic, traditionally a feminine magic. This magic is normally found in the northern and central regions of Myrkjörðr. Unless shapeshifting to a dangerous animal, Druidry can't be used to directly harm anyone, even if the druid intended it.
 ====================================================================================================
 Invoke small plants:
 By touching some grass or a small plant and then speaking an incantation, you can make it age, wither, bloom, grow, reverse it to a seed, and other things a small plant can do within several seconds.
@@ -43,7 +43,7 @@ You can make it so that animals understand what you're saying when you speak in 
 Heal wounds:
 By holding a beaded wooden bracelet in your other hand, and hovering your palm over an open wound on a creature, you can slowly heal that wound. If the wound would naturally result with a scar, then the wound healed would result with a scar. A small cut is healed instantly, however a wound such as a sword slash can take tens of minutes.
 ----------------------------------------------------------------------------------------------------
-Clense liquid:
+Cleanse liquid:
 By speaking an incantation and sticking your finger (a not-severed one) into a liquid contained in a mug, tankard, drinking horn, bowl, or anything similar, you can clean that liquid of all harmful substances such as poisons and dirt. Doing it to a pond probably isn't going to work.
 ----------------------------------------------------------------------------------------------------
 Shapeshift (hard):
@@ -53,10 +53,10 @@ By chanting something, you can shift into any forest animal from your region tha
 
 [[SEIÐR]]
 ====================================================================================================
-Another feminine magic. This magic is also shamanic, found in northern and central regions.
+Seiðr is a shamanic magic, traditionally a feminine magic. This magic is normally found in northern and central regions of Myrkjörðr. Seiðr is commonly used to foresee events through omens, bewitching illnesses, and shapeshifting.
 ====================================================================================================
 Scour for the unseen omens:
-By holding beaded amber bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Some examples of hallucinary omens you could experience:
+By holding beaded amber bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Some examples of hallucinatory omens you could experience:
 	- Crows and ravens surrounding someone or a location for bad luck
 	- One or two crows or ravens surrounding someone for good luck
 	- One owl near someone for intelligence or wisdom
@@ -67,7 +67,7 @@ By holding beaded amber bracelet in your hand and speaking a chant, you start to
 	- Faint black aura around someone for ill intentions
 ----------------------------------------------------------------------------------------------------
 Scour for deeper omens:
-By holding beaded amber and jade bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Some example of hallucinary omens you could experience:
+By holding beaded amber and jade bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Some example of hallucinatory omens you could experience:
 	- Feel a chill for a blizzard or snow storm
 	- Smell of the sea for rain
 	- Feeling warm for a drought
@@ -92,10 +92,9 @@ By holding a small piece of amber in your hand and speaking an incantation, you 
 
 [[SORCERY]]
 ====================================================================================================
-Sorcery is magic that is learned through education. This type of magic is most commonly found in southern regions like Tarib. Sorcery usually has an effective range of fourty-four cubits.
+Sorcery is magic that is learned through education. This type of magic is most commonly found in southern regions like Taribia and is the only magic that has established schools for it. Sorcery usually has an effective range of forty-four cubits.
 
-Spells: Spells that are cast by speaking incantations and pointing. Most of these spells aren't powerful enough to easily break through a wooden shield.
-Necromancy: Spells that are cast by holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation. These spells are considered evil by most people.
+Spells: Spells are cast by speaking incantations and pointing. Most spells aren't powerful enough to easily break through a wooden shield.
 ====================================================================================================
 Illusion (beginner):
 By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
@@ -119,45 +118,52 @@ Necromancy is a taboo practice and is deemed evil by most people. Because it's m
 
 
 
-[[STAVES]]
+[[GALDRASTAFIR]]
 ====================================================================================================
-Staves are magical symbols drawn on a surface that can do magical things. This type of magic is practiced in northern regions like Fjalland and Herthland.
+Galdrastafir are magical symbols drawn on a surface that can do magical things. This magic is practiced in northern regions like Fjalland and Heorthland and is the most common type found there.
 
 You can create a stave by drawing on a surface with dark-colored materials (like coal, paint, tar, etc), and then writing whoever is affected by it around the stave. There are also other ways to make a stave, like carving it. The stave can't be larger than twice the length of a man's arm, or it won't work properly. If you've done it correctly, it starts to glow a bit red. If it's drawn wrong, it'll still glow red but not as bright, and might cause some minor unknown effect.
 
-When a stave is drawn to target a creature, its effect is enough to cover half of a longhouse. (or something like 20 cubits)
+When a stave is drawn to target a creature, its effect is enough to cover half of a longhouse, or about a twenty-cubit radius.
 
-Staves can be foiled if thick liquids are spilled onto them. (like the same kind of materials that these are drawn with) If the stave is exposed to rain or is underwater, its glow and magical strength will flicker between normal and weak.
+Galdrastafir can be foiled if thick liquids are spilled onto them. (like the same kind of materials that these are drawn with) If the stave is exposed to rain or is underwater, its glow and magical strength will flicker between normal and weak.
 ====================================================================================================
 Staves:
 These are the staves you can make:
 	- Gapaldur:  Allies shall be stronger when they wield no weapon.
-	- Vegvisir:  Allies shall never be deterred by the cold, wind and rain, and shall not be soaked or lightning-struck as easily as without its empowerment.
-	- Toustefna: Drawn on oak, all foxes shall be frightened and flee.
+	- Vegvísir:  Allies shall never be deterred by the cold, wind and rain, and shall not be soaked or lightning-struck as easily as without its empowerment.
+	- Tóustefna: Drawn on oak, all foxes shall be frightened and flee.
 ----------------------------------------------------------------------------------------------------
 Intricate Staves (requires effort or practice to draw):
 These are the staves you can make:
-	- Ægishjalmur:   Must be carved on the outside of one's helmet. When worn, its wearer will gain a slight boost in strength.
+	- Ægishjálmur:   Must be carved on the outside of one's helmet. When worn, its wearer will gain a slight boost in strength.
 	- Antiburn:      Carved on any wood, that piece can catch fire but won't burn.
 	- Blood-oxen Earth-oxen: Carve these staves inside the lid of a chest. Carve the first at day and the second at night. After that, none can open the chest but those who carved the staves.
-	- Brynslustafir: The blades of allies shall cut with ease upon attacking their foes.
+	- Brýnslustafir: The blades of allies shall cut with ease upon attacking their foes.
 	- Repel Demons:  Weak-willed demons and undead shall recoil and flee.
 	- Repel Evil:    Carved on a door, no creature of evil can willingly enter.
 	- Lesser Hagall: No magic can be cast or created near this stave, but this stave doesn't affect itself. If this stave nears another Lesser Hagall, they cancel each other out.
-	- Hulinhjalmur:  Must be carved on one's helmet, wearing it will turn him half-invisible.
+	- Hulinhjálmur:  Must be carved on one's helmet, wearing it will turn him half-invisible.
 	- Veldismagn:    Must be drawn with blood on stone, let it lie upon your chest and you shall be protected from evil and disease.
 
 
 
 [[GU MAGIC]]
 ====================================================================================================
-Gu magic is another shamanic practice that's mainly used by demi-humans, and is prevalent in southern regions. It's basically poisons that's given magical properties. Usually the magic ends as soon as the affected person falls asleep or loses consciousness. Basically: it's evil.
+Gu magic is an evil poison-based shamanic practice that's used by demi-humans and is prevalent in southern regions.
+
+Mostly, Gu magic is giving poisons magical properties. Usually, the magic ends as soon as the affected person falls asleep or loses consciousness.
 ====================================================================================================
 Bewitch their family to sickness:
-When someone who consumes this poison, their whole family (not including external family) is bewitched to catch a cold.
+When someone consumes this poison, their whole family (not including the external family) is bewitched to catch a cold. This includes parents, siblings, and children.
 ----------------------------------------------------------------------------------------------------
 Charm and seduce:
-When someone who consumes this poison, they go into an unnoticeable trance-like state where they will follow your orders because you're "beautiful".
+When someone consumes this poison, they go into an unnoticeable trance-like state where they will follow your orders because you are gorgeous to them.
 ----------------------------------------------------------------------------------------------------
 Charm and seduce into terrible illness:
-When someone who consumes this poison, they will enter a trance-like state where they are sexually aroused. They will also begin to think about you almost non-stop, and imagine you in their mind.
+When someone consumes this poison, they will enter a trance-like state where they are sexually aroused. They will also begin to think about you almost non-stop and imagine you in their mind. This effect can also be described as being magically in love, but in an extreme sense.
+
+
+
+[[SUPERNATURAL MAGIC]]
+Supernatural magic is a type of magic that only certain creatures and phenomena possess. When a wraith flies, that is supernatural magic. When a draugr enters one's dreams, that is also supernatural magic. Fey magic is another example of supernatural magic, as it normally can't be harnessed by anything that isn't fey.
