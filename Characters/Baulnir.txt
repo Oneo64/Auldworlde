@@ -20,14 +20,16 @@ Cousin:    Freðja
 
 
 
-[[DESCRIPTION]]
-Baulnir is a human from Óssvík. He has fair skin which is slightly tanned, brown eyes, and light brown hair.
+Baulnir is a human from Óssvík. When his father takes his boat to trade, Baulnir usually goes with him to guard the boat.
+
+
+
+[[APPEARANCE]]
+Baulnir has fair skin which is slightly tanned, brown eyes, and light brown hair.
 
 He wears a grey woolen cap, dark brown cloak, a muted aqua (blueish green) tunic, a pair of brown pants, and he wears shoes on his feet. He carries a Petersen Type U sword in it's scabbard, held by a baldric. He wears an iron Talmundúr amulet.
 
 In combat he wears a magical leather nasal helmet, which grants him a slight darkvision when worn. While traveling or going into combat, he has a round shield that's painted brown with a white cross.
-
-When his father takes his boat to trade, Baulnir usually goes with him to guard the boat.
 
 
 
