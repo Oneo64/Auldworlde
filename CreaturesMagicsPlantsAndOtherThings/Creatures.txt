@@ -73,7 +73,7 @@ Manticore (large beast):
 ====================================================================================================
 DEMONS | EVIL SPIRITS
 ----------------------------------------------------------------------------------------------------
-There can only be two explainations of the origins of these monsters: either they are souls who escaped Hel to Myrkjorðr, or unknown.
+There can only be two explainations of the origins of these monsters: either they are souls who escaped Hel to Myrkjörðr, or unknown.
 ====================================================================================================
 
 Daeva (large fiend):
@@ -167,7 +167,7 @@ Earth Elemental:
 
 		Earth elementals are able to speak Wòrdimunag (Primordial), despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other elementals. Some earth elementals may even form groups, and have a name for themselves.
 
-		Because of the fragility of earth, some earth elementals who find themselves in Myrkjorðr may wrap themselves in cloth, in attempt to secure and hold their body together.
+		Because of the fragility of earth, some earth elementals who find themselves in Myrkjörðr may wrap themselves in cloth, in attempt to secure and hold their body together.
 
 
 
@@ -228,7 +228,7 @@ Alfr/Elves (medium fey):
 
 
 Centaur (medium fey):
-	A centaur is a half man half horse found in Veldalfheimr and Myrkjorðr. They live in groups, small kingdoms, or the such. The most well known centaur kingdoms in Myrkjorðr are Heirfgria and Vatakond.
+	A centaur is a half man half horse found in Veldalfheimr and Myrkjörðr. They live in groups, small kingdoms, or the such. The most well known centaur kingdoms in Myrkjörðr are Heirfgria and Vatakond.
 
 	Description:
 		A centaur is a hybrid, with the upper body of a human and the lower body of a horse. The horse's fur usually extends all the way up to the centaur's neck, and to their wrists.
@@ -236,7 +236,7 @@ Centaur (medium fey):
 		Centaurs matures by 20, and lives up to 150 years old.
 
 	Abilities:
-		Centaurs that live in or came from Veldalfheimr speak Druidic and Sylvan. If they came from Myrkjorðr, they might speak Druidic, Sylvan, Sylvendric, any elvish variant, or a combination of the four.
+		Centaurs that live in or came from Veldalfheimr speak Druidic and Sylvan. If they came from Myrkjörðr, they might speak Druidic, Sylvan, Sylvendric, any elvish variant, or a combination of the four.
 
 
 
@@ -249,7 +249,7 @@ Dryad (medium fey):
 		Dryads mature by 20, and live up to 300 years old.
 
 	Abilities:
-		A dryad is able to unlimitedly carve all types of magical staves and perform all druidry. She is also able to control dreams, possess creatures, and willingly travel from Veldalfheimr to Myrkjorðr and vice versa. She will always know the location of her tree, unless it is destroyed.
+		A dryad is able to unlimitedly carve all types of magical staves and perform all druidry. She is also able to control dreams, possess creatures, and willingly travel from Veldalfheimr to Myrkjörðr and vice versa. She will always know the location of her tree, unless it is destroyed.
 
 		Dryads are able to speak Druidic and Sylvan.
 
@@ -261,7 +261,7 @@ Faerie Hare (small fey):
 	Description:
 		A faerie hare looks like a normal hare. It's fur color is normally a mix of brown and tan. When it moves, it's paws emit a faint green mist. It's eye colors are always green, and slightly glows in the dark.
 
-		Usually if there is any fey activity in Myrkjorðr, it attracts faerie hares to go and take a look.
+		Usually if there is any fey activity in Myrkjörðr, it attracts faerie hares to go and take a look.
 
 		Faerie hares are active at night, and can only be seen by other fey. When a faerie hare runs over someone's farmland, they can see the hare in their dream.
 
@@ -314,7 +314,7 @@ Boneman (medium undead):
 
 
 Draugr (medium undead):
-	A draugr is a revenant who comes alive. Many draugar come to be because they were cursed, but some may rise because they weren't buried properly. One way to prevent their rise is to ensure they are laying down, and their hands and feet are bound together. Most draugar come to be in the northern lands of Myrkjorðr.
+	A draugr is a revenant who comes alive. Many draugar come to be because they were cursed, but some may rise because they weren't buried properly. One way to prevent their rise is to ensure they are laying down, and their hands and feet are bound together. Most draugar come to be in the northern lands of Myrkjörðr.
 
 	Description:
 		Some draugar might look like they're covered in ash, with grey skin, completely white eyes, and sparse grey hair. Some might be bloated at their stomach and completely black as if they were burnt. But whatever appearance they may have, they will always seem like a walking corpse.
