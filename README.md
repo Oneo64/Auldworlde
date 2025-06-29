@@ -9,4 +9,4 @@ The current year is AD 973, and the time of the year is currently Early February
 
 Magic in this world is soft, and there are five types of it. There are four folk magics, which are all shamanic or ritualistic. These magics allow casters to see omens, get visions, curse people, shapeshift, and perform other similar powers. Except for galdrastafir, these magics aren't very flashy. Sometimes, unless you are aware of these magics, you won't even notice they're being cast. There is also sorcery, the only war magic that exists, but it doesn't have any elemental spells. Sorcery is learned, but sorcery is only taught in southern regions. These magics are intentionally designed not to overpower warriors and fortifications.
 
-This world and its contents are licensed under CC BY-NC-SA 4.0. License link can be found here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+This world and its contents are licensed under CC BY-NC-SA 4.0. License link can be found here: https://creativecommons.org/licenses/by-nc-sa/4.0/
