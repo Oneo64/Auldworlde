@@ -4,30 +4,35 @@ Male
 Age: 451 (Born in AD 522)
 Alignment: Chaotic Neutral
 
-Homeland:  An ancient Galabric town
+Homeland:  An ancient Galabric village
 Race:      Draugr (Human)
 
 
 
 Þungwaz was the draugr that killed Yngvarr, as written in Jóki's journal. Unfortunately, Jóki didn't document how they woke the draugr.
 
-Þungwaz is one of the revenants with more draugric power than the rest. 20 years after the collapse of Galabrus, Þungwaz was born in a Galabric town. At about 30 years old, he and 3 other nobles traveled north with a group of men but were killed in battle by bandits. During the struggle, Þungwaz was shot by an arrow. And in his weakened state, a foe approached him and tried to behead him, but couldn't fully decapitate him. Ingwaz died anyway. Later, he returned as a draugr and now resides inside his tomb.
+Þungwaz is one of the revenants with more draugric power than the rest. 20 years after the collapse of Galabrus, Þungwaz was born in a Galabric village. At about 30 years old, he and 3 other nobles traveled north with a group of men but were killed in battle by bandits. During the struggle, Þungwaz was shot by an arrow. And in his weakened state, a foe approached him and tried to behead him, but couldn't fully decapitate him. Ingwaz died anyway. Later, he returned as a draugr and now resides inside its tomb.
 
 
 
 [[DESCRIPTION]]
-Þungwaz is a large undead warrior. He has an impressive height of 6'3", towering over most people. He has blueish-grey skin, and completely white eyes, and his hair is sparse and gray. He has a deep, open cut across the right side of his neck, which is a sign of a failed beheading.
+Þungwaz is a large undead warrior. It has an impressive height of 6'3", towering over most people. It has blueish-grey skin, and completely white eyes, and its hair is sparse and gray. It has a deep, open cut across the right side of its neck, which is a sign of a failed beheading.
 
-He wears a migration period helmet, lined with brass and lead. He wears a cloak, hauberk, tunic, pants, a belt, and a pair of shoes, which are all worn and frayed. His chainmail hauberk is battered and torn, and the torn areas have visible skin that is wounded with cuts and slashes from spears, arrows, swords, axes, etc. He also has a scabbard containing a spatha, and a round shield. The colors of his clothing have faded, so it all looks just dull and grey. But his jewelry, a three-piece amber necklace, still shines golden.
+It wears a migration period helmet, lined with brass and lead. It wears a cloak, hauberk, tunic, pants, a belt, and a pair of shoes, which are all worn and frayed. Its hauberk is battered and torn, and the torn areas have visible skin that is wounded with cuts and slashes from spears, arrows, swords, axes, etc. It also has a scabbard containing a spatha, and a round shield. The colors of its clothing have faded, so it all looks just dull and grey. But its jewelry, a three-piece amber necklace, still shines golden.
 
 
 
 [[PERSONALITY]]
-Þungwaz is careful, always handling objects as if they were fragile. However he is cold and unfriendly and will always do anything to protect his land, usually resorting to killing.
+Þungwaz is careful, always handling objects as if they were fragile. However it is cold and unfriendly and will always do anything to protect its land, usually resorting to killing.
 
 
 
 [[ABILITIES]]
-Þungwaz is very skilled with a sword and shield, but before death, he wasn't as experienced as he is now. For language abilities, he can't speak any modern languages. He can only speak Galabric, a language from a bygone era.
+[Physicality]
+Þungwaz is very skilled with a sword and shield, but before death, it wasn't as experienced as it is now. It is twice as strong as a normal man.
 
-Þungwaz has the supernatural ability to reattach his limbs after them being severed. He is to live even after his head has been decapitated, but not destroyed. He can also teleport if he can see where he wants to teleport and is near it.
+[Language]
+It cannot speak any modern languages. It can only speak Galabric, a language from a bygone era.
+
+[Draugric Powers]
+Þungwaz has the supernatural ability to reattach its limbs after them being severed. It is to live even after its head has been decapitated, but not destroyed. It can also teleport if it can see where it wants to teleport and is near it.
