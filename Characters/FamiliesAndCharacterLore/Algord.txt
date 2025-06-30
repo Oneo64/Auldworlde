@@ -2,7 +2,7 @@ Heir:   Algord
 Wealth: Moderately wealthy
 
 Land:
-    A longhouse. This house is in Álahringr, Fjalland.
+    A longhouse. This house is in Álahringr, Oddarsveldi.
         There are two farms on the left side of the house, and two farms at the front. The house is fenced off. There is also another area at the right, which houses cattle.
 
         On both longer sides of the wall are adorned with many shields. At the back is a small den for animals during the winter and a space for storage.

@@ -1,6 +1,6 @@
 Common:
 	Centrumic (English, or can be Chaucerian Middle English)
-	Fjallandic (Any English accents should be equivalent to an Icelandic one)
+	Northmannish (Any English accents should be equivalent to an Icelandic one)
 	Taribian (Any English accents should be equivalent to a Persian one)
 	Audeveaurian
 	Rotherlandic (Orrm's Early Middle English)
@@ -26,4 +26,4 @@ Ancient Languages:
 	Grutorian
 	Galabric
 	Old Cantrium
-	Old Fjallandic
+	Old Northmannish

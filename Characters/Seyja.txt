@@ -4,7 +4,7 @@ Female
 Age: 19
 Alignment: Neutral Good
 
-Homeland:  Álahringr, Fjalland
+Homeland:  Álahringr, Oddarsveldi
 Race:      Human
 
 
@@ -26,4 +26,4 @@ Seyja's favorite food is salted potatoes, roasted until the skin is semi-crispy.
 
 
 [[ABILITIES]]
-Seyja can speak Fjallandic and Heorthlandic. She has trained with her sword and shield, and her combat abilities are above average.
+Seyja can speak Northmannish and Heorthlandic. She has trained with her sword and shield, and her combat abilities are above average.

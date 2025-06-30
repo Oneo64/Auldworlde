@@ -1,4 +1,4 @@
-Kingdom of Fjalland
+Oddarsveldi
 
 Founding Date: AD 740
 Government: Feudal Absolute Monarchy
@@ -6,9 +6,9 @@ Race Majority: Human
 Culture type: Northmannish
 Population: 50,000 in settlements, 200 in fortresses, 2000 in Þuryngard, ~51,700 people in total
 
-Main languages: Fjallandic (Fjallþungr)
+Main languages: Northmannish (Oddringþungr)
 Other languages: Heorthlandic (Heorþlisc)
-Main Writing System: Fjallandic Runes (or Elder Futhark, if it must be in computer text)
+Main Writing System: Northmannish Runes (or Elder Futhark, if it must be in computer text)
 
 Ruler: King Alfþórr II
 
@@ -35,7 +35,7 @@ Important castles/Fortresses (about 10 in total, 10 guards and 15 servants in ea
 
 
 
-The Kingdom of Fjalland is a major kingdom in Myrkjörðr. The kingdom is one of the largest kingdoms in the north. Risen from a small village, they have slowly taken control of the north and northeast areas of the western lands.
+Oddarsveldi is a major kingdom in Myrkjörðr. The kingdom is one of the largest kingdoms in the north. Risen from a small village, they have slowly taken control of the north and northeast areas of the western lands.
 
 
 
@@ -56,7 +56,7 @@ There are also 8 watchtowers with thatched roofs spaced evenly along the outer r
 
 
 [[HIERARCHY]]
-The hierarchy of Fjalland is, from the highest to lowest, king, jarl, hersir, knight, free men, then slave.
+The hierarchy of Oddarsveldi is, from the highest to lowest, king, jarl, hersir, knight, free men, then slave.
 
 A jarl would live in each ring fortress, and will oversee the ring fortress and their settlements, such as trade or wellbeing, and has power over them to make sure all goes well. A hersir/chieftain would live in each settlement.
 
@@ -75,12 +75,12 @@ Hierarchies and social classes are mostly family based, but if a family is unabl
 [[TRADE]]
 There is a trade route between Álahringr and Óssvík, where Óssvík supplies Álahringr with fish and Álahringr supplies Óssvík with wood.
  
-Fjalland mainly exports iron, wool, and rye. They mostly trade with Heorthland and Centruma. They also export herbs common in the Northern and Southern Fjallandic Forests such as ekraldys toadstools, and spices grown in winter.
+Oddarsveldi mainly exports iron, wool, and rye. They mostly trade with Heorthland and Centruma. They also export herbs common in the Northern and Southern Northmannish Forests such as ekraldys toadstools, and spices grown in winter.
 
 
 
 [[MILITARY]]
-Fjalland has around 2000 men in their army, but most live in their homes.
+Oddarsveldi has around 2000 men in their army, but most live in their homes.
 
 
 
@@ -93,5 +93,4 @@ Wear at least a tunic and pants, have common sense, and have a weapon that you k
 Please refer to these files for more information:
 	- HISTORY: History/FullHistory.txt
 	- RELIGION: CosmologyAndReligion/CosmologyAndReligion.txt
-	- CULTURE: CivilizationsAndPOI/Cultures/Northern/Fjallandic.txt
-	- WAR: History/Wars/CampaignOfWulfscithia.txt
+	- CULTURE: CivilizationsAndPOI/Cultures/Northern/Northmannish.txt

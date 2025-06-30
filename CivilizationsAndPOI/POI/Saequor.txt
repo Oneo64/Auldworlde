@@ -6,7 +6,7 @@ Current mayor: Berdithan
 
 
 
-Saequor is a seaside town in Centruma. it is a major trading spot with the Kingdom of Fjalland.
+Saequor is a seaside town in Centruma. it is a major trading spot with Oddarsveldi.
 
 
 
@@ -29,4 +29,4 @@ The forest is part of the Centrumic Forests, which is a redwood forest with almo
 
 
 [[TRADING]]
-There is a trade route, which is the Saequor-Óssvík trade route. This trade route is along the coast, where traders trade exports here for Fjallandic imports like iron, fish, wool, and other things.
+There is a trade route, which is the Saequor-Óssvík trade route. This trade route is along the coast, where traders trade exports here for Oddring imports like iron, fish, wool, and other things.

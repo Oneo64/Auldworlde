@@ -2,7 +2,7 @@ Heir:   Þrein
 Wealth: Moderately wealthy
 
 Land:
-    A longhouse. This house is in Óssvík, Fjalland.
+    A longhouse. This house is in Óssvík, Oddarsveldi.
     A boathouse near the coast.
 
 ---------------------------------------------------------------

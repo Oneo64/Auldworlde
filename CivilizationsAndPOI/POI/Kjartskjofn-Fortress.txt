@@ -1,6 +1,6 @@
 Kjartskjofn
 
-Kingdom:      Fjalland
+Kingdom:      Oddarsveldi
 Current jarl: Hákon
 
 
@@ -15,4 +15,4 @@ Distress signals inside the fortress, which are two "bonfire huts", which is a h
 
 
 [[LANDSCAPE]]
-Kjartskjofn is built inside the Southern Fjallandic Forest.
+Kjartskjofn is built inside the Southern Northmannish Forest.

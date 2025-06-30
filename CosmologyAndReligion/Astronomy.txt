@@ -1,14 +1,14 @@
 Moons:
 	An,  yellow moon (looks like Io) (English name is Aan)
 		An represents fire, sulfur, and heat.
-		In Fjalland, An is called "Auna."
+		In Oddarsveldi, An is called "Ána."
 
 	Lûn, white moon
 		Lûn represents snow, the cold, and silver.
-		In Fjalland, Lûn is called "Ljúna."
+		In Oddarsveldi, Lûn is called "Ljúna."
 
 	Vel, blue moon
 		Vel represents water, the ocean, and magic.
-		In Fjalland, Lûn is called "Vél."
+		In Oddarsveldi, Lûn is called "Vél."
 
 	Once every few decades, An rubs past on Lûn's surface, causing a bright flash and some small meteors.

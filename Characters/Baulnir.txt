@@ -4,7 +4,7 @@ Male
 Age: 23 (Born in Feburary 22, 950)
 Alignment: Neutral Good
 
-Homeland:  Óssvík, Fjalland
+Homeland:  Óssvík, Oddarsveldi
 Race:      Human
 
 Father:    Þrein
@@ -39,7 +39,7 @@ Baulnir is protective of his family, and may feel protectiveness to people he se
 
 
 [[ABILITIES]]
-Baulnir can speak Fjallandic, and because of trading he picked up some Centrumic (English). Still, he isn't fluent in Centrumic.
+Baulnir can speak Northmannish, and because of trading he picked up some Centrumic (English). Still, he isn't fluent in Centrumic.
 
 Many years ago, he gained some experience from raiding a castle ruins with his sister and another two warriors from Álahringr. Later, he gained some more from defending his home village from a bandit raid.
 

@@ -4,7 +4,7 @@ Female
 Age: 23 (Born in May 1, 950)
 Alignment: Neutral Good
 
-Homeland:  Álahringr, Fjalland
+Homeland:  Álahringr, Oddarsveldi
 Race:      Human
 
 Father:    Algord
@@ -35,4 +35,4 @@ Yngvild is generally optimistic, and can be playful at times. She also has a sli
 
 
 [[ABILITIES]]
-The only language Yngvild can speak and understand is Fjallandic, her native language. Yngvild can also play the talharpa well.
+The only language Yngvild can speak and understand is Northmannish, her native language. Yngvild can also play the talharpa well.

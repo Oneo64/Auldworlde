@@ -1,12 +1,12 @@
 Álahringr
 
-Kingdom:        Fjalland
+Kingdom:        Oddarsveldi
 Population:     300 people
 Current hersir: Randúlfr
 
 
 
-Álahringr is one of the most southern villages in Fjalland. It borders the Southern Fjallandic Forests, and because it is also one of the closest villages to Rotherland and Centruma, travelers occasionally pass through the road.
+Álahringr is one of the most southern villages in Oddarsveldi. It borders the Southern Northmannish Forests, and because it is also one of the closest villages to Rotherland and Centruma, travelers occasionally pass through the road.
 
 Álahringr was the battlefield of the last invasion attempt by Vatakond, as part of the Campaign of Wulfscithia.
 
@@ -31,9 +31,9 @@ The longhouse ruins, was once supposed to be the first building on the settlemen
 
 
 [[LANDSCAPE]]
-Álahringr built on a slightly jagged grassland, south of Fjalland. There are almost no flowers present on the grasslands, the only ones being white flowers that are faintly scattered across the landscape. The forest to the west is uphill.
+Álahringr built on a slightly jagged grassland, south of Oddarsveldi. There are almost no flowers present on the grasslands, the only ones being white flowers that are faintly scattered across the landscape. The forest to the west is uphill.
 
-The edge of the Southern Fjallandic Forest is west of the village, where bushes are more prevalent the closer you are to the edge, with a dirt path that leads into the forest to the abandoned longhouse. The forest is a mix of fir and pines with a bit of undergrowth.
+The edge of the Southern Northmannish Forest is west of the village, where bushes are more prevalent the closer you are to the edge, with a dirt path that leads into the forest to the abandoned longhouse. The forest is a mix of fir and pines with a bit of undergrowth.
 
 There is a wide, meter-and-a-half deep river not far south of Álahringr, with a wooden bridge built across. There is a path that goes east towards Óssvík, but it ends tens of meters at a small lake with a dingy boat port with a single torch. The lake is surrounded by tall bushes.
 

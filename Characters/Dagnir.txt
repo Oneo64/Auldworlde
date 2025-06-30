@@ -4,7 +4,7 @@ Male
 Age: Mid 30s
 Alignment: Neutral
 
-Homeland:  Álahringr, Fjalland
+Homeland:  Álahringr, Oddarsveldi
 Race:      Human
 
 

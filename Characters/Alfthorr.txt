@@ -4,7 +4,7 @@ Male
 Age: 53
 Alignment: Neutral
 
-Homeland:  Þuryngard Ring Fortress, Fjalland
+Homeland:  Þuryngard Ring Fortress, Oddarsveldi
 Race:      Human
 
 Father:    Alfþórr I
@@ -14,7 +14,7 @@ Son:       Áleifr
 
 
 
-King Alfþórr II is the current king of Fjalland, born in the inner fortress of Þuryngard Ring Fortress. He is feared by the people in Fjalland.
+King Alfþórr II is the current king of Oddarsveldi, born in the inner fortress of Þuryngard Ring Fortress. He is feared by the people in Oddarsveldi.
 
 After being crowned and the campaign against bandit camps ended, Alfþórr II was the king who ordered the first invasion of Wulfscithia in the war.
 
@@ -35,4 +35,4 @@ Alfþórr II is a thoughtful person, taking his time to think before deciding an
 
 
 [[ABILITIES]]
-Alfþórr II speaks Fjallandic as his native language. He can also speak Heorthlandic and Rotherlandic. His sword skills are better than average, and his strength is increased since his sword is coated in magical grease. He can also ride horses, and plays the board game Rægatafl in his free time.
+Alfþórr II speaks Northmannish as his native language. He can also speak Heorthlandic and Rotherlandic. His sword skills are better than average, and his strength is increased since his sword is coated in magical grease. He can also ride horses, and plays the board game Rægatafl in his free time.

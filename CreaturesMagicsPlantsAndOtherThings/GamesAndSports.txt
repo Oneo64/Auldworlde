@@ -1,18 +1,18 @@
 [[BOARD GAMES]]
 
 Rægatafl:
-	Origin:   Fjalland
+	Origin:   Oddarsveldi
 	Factions: Factions are usually Trœkkar (Trolls) colored with brown, and Alfar (Elves) colored with green.
 
 	Workings:
 		Rægatafl is basically Xiangqi, but the pieces are replaced with:
-			- 砲, 炮 is replaced with Fjallandic rune G  (gláttokr)
-			- 兵, 卒 is replaced with Fjallandic rune S  (svérkr)
-			- 車, 俥 is replaced with Fjallandic rune F  (fekíg)
-			- 馬, 傌 is replaced with Fjallandic rune H  (hreispr)
-			- 士, 仕 is replaced with Fjallandic rune L  (lókmandr)
-			- 象, 相 is replaced with Fjallandic rune B  (byr)
-			- 將, 帥 is replaced with Fjallandic rune K (konungr)
+			- 砲, 炮 is replaced with Northmannish rune G  (gláttokr)
+			- 兵, 卒 is replaced with Northmannish rune S  (svérkr)
+			- 車, 俥 is replaced with Northmannish rune F  (fekíg)
+			- 馬, 傌 is replaced with Northmannish rune H  (hreispr)
+			- 士, 仕 is replaced with Northmannish rune L  (lókmandr)
+			- 象, 相 is replaced with Northmannish rune B  (byr)
+			- 將, 帥 is replaced with Northmannish rune K (konungr)
 
 
 

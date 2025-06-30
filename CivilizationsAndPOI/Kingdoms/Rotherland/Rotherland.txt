@@ -29,7 +29,7 @@ Middellhallde is a wooden ring fortress built atop a hill, which is surrounded b
 
 
 [[HIERARCHY]]
-The hierarchy of Rotherland is extremely similar to the hierarchy of Fjalland. It is, from the highest to lowest, king, earl, thane, knight, free men, then slave.
+The hierarchy of Rotherland is extremely similar to the hierarchy of Oddarsveldi. It is, from the highest to lowest, king, earl, thane, knight, free men, then slave.
 
 A earl would live in each ring fortress, and will oversee the ring fortress and their settlements, such as trade or wellbeing, and has power over them to make sure all goes well. A thane would live in each settlement.
 
@@ -46,7 +46,7 @@ Hierarchies and social classes are mostly family based, but if a family is unabl
 
 
 [[TRADE]]
-Rotherland mainly exports ores, such as iron and silver. They mostly trade with Centruma and Fjalland.
+Rotherland mainly exports ores, such as iron and silver. They mostly trade with Centruma and Oddarsveldi.
 
 
 

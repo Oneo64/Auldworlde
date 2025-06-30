@@ -4,7 +4,7 @@ Male
 Age: 185
 Alignment: Chaotic Good
 
-Homeland:  Álahringr, Fjalland
+Homeland:  Álahringr, Oddarsveldi
 Race:      Draugr (Human)
 
 
@@ -19,9 +19,9 @@ Like all draugr, his voice is raspy and deep.
 
 
 [[PERSONALITY]]
-Haldigr is usually protective of Álahringr, and dwells in the Southern Fjallandic Forest near Álahringr. However he can come off as unfriendly and emotionally cold, avoiding being seen by most people.
+Haldigr is usually protective of Álahringr, and dwells in the Southern Northmannish Forest near Álahringr. However he can come off as unfriendly and emotionally cold, avoiding being seen by most people.
 
 
 
 [[ABILITIES]]
-Haldigr only knows Old Fjallandic as his native language. He has experience fighting a daeva tribe, but died during this. He is skilled with the dane axe.
+Haldigr only knows Old Northmannish as his native language. He has experience fighting a daeva tribe, but died during this. He is skilled with the dane axe.

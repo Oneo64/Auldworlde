@@ -4,7 +4,7 @@ Male
 Age: Early 40s
 Alignment: Chaotic Neutral
 
-Homeland:  Álahringr, Fjalland
+Homeland:  Álahringr, Oddarsveldi
 Race:      Human
 
 Daughter:  Sága
@@ -24,6 +24,6 @@ Hjalvir is arrogant, and sometimes a little rowdy. He likes to talk to people bu
 
 
 [[ABILITIES]]
-Hjalvir can speak Fjallandic as his native language. Hjalvir practices with a dane axe, and owns one in his home.
+Hjalvir can speak Northmannish as his native language. Hjalvir practices with a dane axe, and owns one in his home.
 
 When Hjalvir fights with his dane axe, he is more defensive, as he would usually wait for his opponents to strike first. And if not, he would taunt them.

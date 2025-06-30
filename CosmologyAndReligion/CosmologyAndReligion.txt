@@ -1,4 +1,4 @@
-All names below, unless specified, are the Fjallandic name for it.
+All names below, unless specified, are the Northmannish name for it.
 
 Planes/Realms:
 	Myrkjorðr      = Material realm
@@ -15,9 +15,9 @@ Other dimensions:
 Deities:
 	Talmundúr:
 		Domain:      God of Nature, Storms, and Luck
-		Symbol:      Fjallandic 'T' rune, upside down
+		Symbol:      Northmannish 'T' rune, upside down
 		Other names: Talûsa (Aodesvu), Terevanus (Centruma), Tsakasten (Mornesvid)
-		Commonly worshipped by: Fjallanders, Herthlanders, Rotherlanders, Saxians
+		Commonly worshipped by: Oddringar, Herthlanders, Rotherlanders, Saxians
 
 	Ljúnandr:
 		Domain:      God of Life, Death, and Nature

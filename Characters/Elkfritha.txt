@@ -4,7 +4,7 @@ Female
 Age: 21 (Born in January 27, 952)
 Alignment: Neutral Good
 
-Homeland:  Óssvík, Fjalland
+Homeland:  Óssvík, Oddarsveldi
 Race:      Human
 
 Father:    Þrein
@@ -45,7 +45,7 @@ Many years ago, Elkfriða gained some experience from raiding a castle ruins wit
 Elkfriða practices druidry.
 
 [Language]
-Elkfriða speaks Fjallandic as her native language, and she also speaks Druidic.
+Elkfriða speaks Northmannish as her native language, and she also speaks Druidic.
 
 
 

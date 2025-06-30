@@ -4,7 +4,7 @@ Male
 Age: 332
 Alignment: Neutral
 
-Homeland:  Þalmundríngu, Fjalland
+Homeland:  Þalmundríngu, Oddarsveldi
 Race:      Draugr (Human)
 
 

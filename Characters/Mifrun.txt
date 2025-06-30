@@ -4,7 +4,7 @@ Female
 Age: 55 (Born in July 8, 916)
 Alignment: Neutral Good
 
-Homeland:  Álahringr, Fjalland
+Homeland:  Álahringr, Oddarsveldi
 Race:      Human
 
 Father:    Bjoll (passed away)
@@ -32,7 +32,7 @@ She also sometimes act playfully annoyed when her children do something reckless
 
 
 [[ABILITIES]]
-Mifrún can only speak Fjallandic. She is able to make minor potions, and also has knowledge on how to brew curing tonics.
+Mifrún can only speak Northmannish. She is able to make minor potions, and also has knowledge on how to brew curing tonics.
 
 
 

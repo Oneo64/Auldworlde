@@ -4,7 +4,7 @@ Male
 Age: 22
 Alignment: Neutral
 
-Homeland:  Þuryngard Ring Fortress, Fjalland
+Homeland:  Þuryngard Ring Fortress, Oddarsveldi
 Race:      Human
 
 Father:    Alfþórr II
@@ -13,7 +13,7 @@ Mother:    Rúna
 
 
 [[DESCRIPTION]]
-Áleifr is the firstborn prince of Fjalland, son of King Alfþórr II. He is a strikingly handsome young man, with a lean build and taller than average as he stands at 5' 11". His long wavy brown hair reaches to his armpits, blue eyes, and fair skin.
+Áleifr is the firstborn prince of Oddarsveldi, son of King Alfþórr II. He is a strikingly handsome young man, with a lean build and taller than average as he stands at 5' 11". His long wavy brown hair reaches to his armpits, blue eyes, and fair skin.
 
 He wears a frayed brown cloak, a vibrant red tunic embroidered with a brown pattern, blue pants, a braided leather ring belt, and a pair of leather boots. He has a baldric with a Viking sword.
 
@@ -25,4 +25,4 @@ He wears a frayed brown cloak, a vibrant red tunic embroidered with a brown patt
 
 
 [[ABILITIES]]
-Áleifr can speak Fjallandic and Heorthlandic. Áleifr's skill with the sword is above the average fighter, as he has trained with some of Þuryngard's best warriors.
+Áleifr can speak Northmannish and Heorthlandic. Áleifr's skill with the sword is above the average fighter, as he has trained with some of Þuryngard's best warriors.

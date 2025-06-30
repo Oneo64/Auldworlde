@@ -4,7 +4,7 @@ Male
 Age: 27 (Born in January 13, 946)
 Alignment: Lawful Neutral
 
-Homeland:  Álahringr, Fjalland
+Homeland:  Álahringr, Oddarsveldi
 Race:      Human
 
 Father:    Algord
@@ -40,4 +40,4 @@ Because Mifrün, his mother, would care for him as if he was still young, Ulfnir
 [[ABILITIES]]
 Ulfnir has some very minor combat experience, gained from defending his family's home from a centaur a few years ago. He sports a spear, and taught himself archery. As of now he still isn't very good at hunting, since sometimes deer would notice him before he gets a chance to fire any arrows at them.
 
-Ulfnir only understands Fjallandic.
+Ulfnir only understands Northmannish.

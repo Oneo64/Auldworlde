@@ -1,6 +1,6 @@
 Óssvík
 
-Kingdom:        Fjalland
+Kingdom:        Oddarsveldi
 Population:     300 people
 Current hersir: Felagi
 

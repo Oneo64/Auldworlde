@@ -4,7 +4,7 @@ Female
 Age: 20
 Alignment: Neutral
 
-Homeland:  Álahringr, Fjalland
+Homeland:  Álahringr, Oddarsveldi
 Race:      Human
 
 Father:    Hjalvir
@@ -24,4 +24,4 @@ Sága, like her father, is adventurous and curious. She is also talkative, but i
 
 
 [[ABILITIES]]
-Sága speaks Fjallandic as her native language. Sága sports a sword and shield, but isn't very good at it.
+Sága speaks Northmannish as her native language. Sága sports a sword and shield, but isn't very good at it.
