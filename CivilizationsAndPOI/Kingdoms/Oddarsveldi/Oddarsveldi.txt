@@ -6,9 +6,9 @@ Race Majority: Human
 Culture type: Northmannish
 Population: 50,000 in settlements, 200 in fortresses, 2000 in Þuryngard, ~51,700 people in total
 
-Main languages: Northmannish (Oddringþungr)
+Main languages: Oddarish (Oddarsþungr)
 Other languages: Heorthlandic (Heorþlisc)
-Main Writing System: Northmannish Runes (or Elder Futhark, if it must be in computer text)
+Main Writing System: Oddarish Runes (or Elder Futhark, if it must be in computer text)
 
 Ruler: King Alfþórr II
 
