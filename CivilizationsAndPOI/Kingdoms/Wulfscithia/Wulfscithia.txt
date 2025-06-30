@@ -1,12 +1,12 @@
 Kingdom of Wulfscithia
 
-Founding Date: AD 870
+Founding Date: AD 790
 Government: Constitutional Monarchy
 Race Majority: Men
-Culture type: Rotherlandic
+Culture type: Heorthlandic
 Population: ~30,000 people
 
-Main language: Rotherlandic
+Main language: Heorthlandic
 Other language: Sylvendric
 Main Writing System: Latin Alphabet
 
@@ -14,7 +14,11 @@ Ruler: King Wærmund
 
 
 
-The Kingdom of Wulfscithia was established in AD 870 as a small kingdom, from explorers who came from Rotherland. Thirty years later in AD 900, the first king passed away. His son inherited the throne from him. But over the next few years, evil fey corrupted the new king and manipulated him, using him as leverage for their crusade against men. Using him, he spread propaganda throughout the kingdom to make his people believe other foreigners were possessed by demons.
+The Kingdom of Wulfscithia was established in AD 790 by King Wulfblædd as a small kingdom, from explorers who came from Rotherland.
+
+In AD 870, King Wilfriþe passed away. His son inherited the throne from him. But over the next few years, evil fey corrupted the new king and manipulated him, using him as leverage for their crusade against men. Using him, he spread propaganda throughout the kingdom to make his people believe demons possessed other foreigners.
+
+Many, many years later, King Wærmund has taken the throne. Then out of nowhere, Oddarsveldi attacked Wulfscithia. Thus, the Campaign of Wulfscithia had begun.
 
 
 
@@ -22,5 +26,5 @@ The Kingdom of Wulfscithia was established in AD 870 as a small kingdom, from ex
 Please refer to these files for more information:
 	- HISTORY: History/FullHistory.txt
 	- RELIGION: CosmologyAndReligion/CosmologyAndReligion.txt
-	- CULTURE: CivilizationsAndPOI/Cultures/Northern/Rotherlandic.txt
+	- CULTURE: CivilizationsAndPOI/Cultures/Northern/Heorthlandic.txt
 	- WAR: History/Wars/CampaignOfWulfscithia.txt
