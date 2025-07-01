@@ -1,4 +1,5 @@
 NOTE: If the creature doesn't specify where they dwell, it is safe to assume they can be found in all parts of the world.
+NOTE: This file is depricated; see the folder "Creatures" for an updated list!
 
 Origins:
 	Germanic Mythologies (Nordic, Celtic): Alfr, Draugr, Troll
