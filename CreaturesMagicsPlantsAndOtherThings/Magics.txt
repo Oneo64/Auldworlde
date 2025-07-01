@@ -30,6 +30,11 @@ Large: Around the size of your hand
 
 
 
+[[SUPERNATURAL MAGIC]]
+Supernatural magic is a type of magic that only certain creatures and phenomena possess. When a wraith flies, that is supernatural magic. When a draugr enters one's dreams, that is also supernatural magic. Fey magic is another example of supernatural magic, as it normally can't be harnessed by anything that isn't fey. 
+
+
+
 [[DRUIDRY]]
 ====================================================================================================
 Druidry is a shamanic magic, traditionally a feminine magic. This magic is normally found in the northern and central regions of Myrkjörðr. Unless shapeshifting to a dangerous animal, Druidry can't be used to directly harm anyone, even if the druid intended it.
