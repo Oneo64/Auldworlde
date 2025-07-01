@@ -49,7 +49,7 @@ Here is a list of magical catalyst examples:
 	The grass from a magic academy's training grounds.
 	The water from an ancient magical well.
 	The core of a slain elemental.
-	Water attuned to a god or moon.
+	Water attuned to a god or the moon.
 	Flesh of a prolonged zombie.
 
 	Basically anything that suffered either long-term magical activity, or short-term intense magical activity (fire bolting or using illusory script the ground a few times isn't going make it magical)
@@ -318,7 +318,7 @@ Greater Moonic Death (powerful)
 	Usage:       Drink.
 	Effect:      You enter a coma. You have 10 minutes to be cured before death, if you drank more than 3 ml. If you drank less than 3 ml, you only enter a coma for the normal potion durations specified above.
 	
-	Ingredients: A small handful of mashed love herbs, a pinch of moon dust, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder, and a small handful of onyx shards.
+	Ingredients: A small handful of mashed love herbs, a drop of moon water, along with a small handful of ground obsidian powder, and a small handful of onyx shards.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -381,7 +381,7 @@ Moonic Death (advanced)
 	Usage:       Drink.
 	Effect:      You enter a coma for a duration 100 times longer than the potion durations specified above.
 	
-	Ingredients: A small handful of mashed love herbs, a pinch of moon dust, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder.
+	Ingredients: A small handful of mashed love herbs, a drop of moon water, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder.
 	Brewing:     Boil the potion for two hours.
 
 ----------------------------------------------------------------------------------------------------
@@ -436,7 +436,7 @@ Potion of Severe Dementia (powerful)
 	Usage:       Drink.
 	Effect:      Gives the drinker Stage 6 Dementia. The potion is permanent until the drinker sleeps, or in any way go unconscious for at least an hour. When the drinker wakes up, they will wake up with all the memories they had BEFORE they drank the potion, and only faint/broken memories of what they did under it's effect.
 	
-	Ingredients: Four crushed practal gorbries, chopped bits of a pickled ekraldys toadstool, a small handful of crushed snail shells, a fermented fly, and a pinch of moon dust from Vel.
+	Ingredients: Four crushed practal gorbries, chopped bits of a pickled ekraldys toadstool, a small handful of crushed snail shells, a fermented fly, and a drop of moon water.
 	Brewing:     Boil the potion for eight hours. About once every thirty minutes, the potion will start to violently bubble. To stop this, drop a small piece of iron into the unfinished potion.
 
 	Caution:     Do NOT breathe in the fumes of the potion, or you may start experiencing short term memory loss.
