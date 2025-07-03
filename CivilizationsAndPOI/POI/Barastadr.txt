@@ -1,4 +1,4 @@
-Bæsríngu
+Barastaðr
 
 Kingdom:        Oddarsveldi
 Population:     200 people
@@ -7,7 +7,7 @@ Current hersir: Skaðfir
 
 
 [[SETTLEMENT]]
-There are about 15 houses in Bararíngu, built scattered around a low hill. On top of this low hill there is a longhouse built next to two smaller houses, which is the hersir's house and areas for his farm animals.
+There are about 15 houses in Barastaðr, built scattered around a low hill. On top of this low hill there is a longhouse built next to two smaller houses, which is the hersir's house and areas for his farm animals.
 
 There is a thin path to the southwest that leads to a well, covered with a wooden cover to prevent snow from entering and to stop water from freezing over. Around the middle, the path splits into two, where the other goes to a small patch of pine trees. To the north another thin path leads up another hill higher than this one, where a longhouse sits isolated 2 kilometers away from the village, which is Loroðil's dwelling.
 
@@ -21,7 +21,7 @@ The house of the hersir's family is a large longhouse, fenced off with a plank f
 
 
 [[LANDSCAPE]]
-Bararíngu is built ontop of a low hill, which is part of a desolate plains where little grass and trees grows. This low hill has some large rocks scattered around.
+Barastaðr is built ontop of a low hill, which is part of a desolate plains where little grass and trees grows. This low hill has some large rocks scattered around.
 
 The only tree is a small patch five kilometers away to the west, which consists of around a thousand pine trees.
 

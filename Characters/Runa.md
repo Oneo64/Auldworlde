@@ -7,7 +7,7 @@
 	<tr> <td>Occupation</td> <td>Woodcarver</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>22</td> </tr>
-	<tr> <td>Birthday</td> <td>March 14, 951</td> </tr>
+	<tr> <td>Birthday</td> <td>March 14, AD 951</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Oddarsveldi</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Njall (father)<br>Þone (mother)<br>Dageski (grandfather)</td> </tr>
 	<tr> <td>Lover</td> <td>Ljörn</td> </tr>
