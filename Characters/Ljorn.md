@@ -7,9 +7,9 @@
 	<tr> <td>Occupation</td> <td>Farmer-Warrior</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>25</td> </tr>
-	<tr> <td>Birthday</td> <td>December 2, 947</td> </tr>
+	<tr> <td>Birthday</td> <td>December 2, AD 947</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Oddarsveldi</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Algord (father)<br>Mifrún (mother)<br>Ulfnir (older brother)<br>Alfrir (younger brother)<br>Yngvild (sister)</td> </tr>
+	<tr> <td>Relative(s)</td> <td>Algord (father)<br>Mifrún (mother)<br>Ulfnir (older brother)<br>Alfrir (younger brother)<br>Yngvild (younger sister)</td> </tr>
 	<tr> <td>Lover</td> <td>Rúna</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
@@ -35,7 +35,7 @@ When he travels or prepares for combat, Ljörn puts on a nasal helmet and his by
 ## Personality
 Ljörn is reserved and slightly introverted. He doesn't speak much and prefers quiet and solitary areas, but he doesn't mind public spaces (or even crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He also has a good survival instinct, which was shown during Ingwaz's attack.
 
-Ljörn is stubborn. Sometimes, he won't change his mind after making a decision. He has slight paranoia, which is most prominent when he's inside deep forests or near corpses that look like they might wake up.[^2]
+Ljörn is stubborn. Sometimes, he won't change his mind after making a decision. He has slight paranoia, which is most prominent when he's inside deep forests or near corpses that look like they might wake up.[^2][^3]
 
 To strangers, unless he is interacting with them, Ljörn acts uncaring and unassertive since he usually doesn't involve himself in things that don't concern him. For example, if a thief stole something from someone he doesn't know, he'll ignore the commotion.
 
@@ -52,12 +52,12 @@ Ljörn has access to magical staves because of his grimoire. He usually has the 
 
 **Galdrastafir**
 
+ - Ægishjálmur
  - Gapaldur
- - Vegvisir
- - oustefna
- - Ægishjalmur
- - Repel Demons
  - Lesser Hagall
+ - Repel Demons
+ - Tóustefna
+ - Vegvísir
 
 ### Language
 Ljörn's native language is Oddarish, but he can also speak Heorthlandic. He can kinda speak Centrumic (English), but he's very bad at it (see personality).
@@ -66,10 +66,11 @@ Ljörn's native language is Oddarish, but he can also speak Heorthlandic. He can
 Ljörn knows how to play Rægatafl, a local board game.
 
 ## Goal
- - "I thinks of a fame or some grípir will well to fit me. Yet in now, I just want a normal aldr. I will to protect mine family and Rúna. Yet if needed, I will to slay."
+ - "I thinks of a fame or some wealth will well to fit me. Yet in now, I just want a normal aldr. I will to protect mine family and Rúna. Yet if needed, I will to slay."
 
- - "Ek leim am stræka ór summ grípir mun vel at ar nýtr fyrir minn. Ænn í núna, ek ötti vil nidd aldu. Ek vil at vurða minn heimmandar ok Rúna. Ænn ef ek skolu, ek vil at slá."
+ - "Ek leim am stræka ór summ grípir mun vel at ar nýtr fyrir minn. Ænn í núna, ek ött vil nidd aldu. Ek vil at vurða minn heimmandar ok Rúna. Ænn ef ek skolu, ek vil at slá."
 
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
-[^2]: Ljörn got his paranoia after seeing a draugr lurking in the nearby forest when he was 10 years old. It strengthened after his trip to the castle ruin, where he was almost killed by Ingwaz the Fiend.
+[^2]: Ljörn got his paranoia after seeing a draugr lurking in the nearby forest when he was 10 years old.
+[^3]: Before his adventure, Ljörn knew the story told in *Draugritt um minn Výss*. One of the characters, Yngvarr, was killed by a draugr when he was knocked over and slashed. And during his trip to the castle ruin, Ljörn was knocked over and was almost killed by Ingwaz the Fiend, just like how Yngvarr was in the story. This is what strengthened his paranoia of corpses.

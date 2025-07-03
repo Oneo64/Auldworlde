@@ -8,7 +8,7 @@
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>Late 20s</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Oddarsveldi</td> </tr>
-	<tr> <td>Wife</td> <td>Björk</td> </tr>
+	<tr> <td>Relative(s)</td> <td>Björk (wife)</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>

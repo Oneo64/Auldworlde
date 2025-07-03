@@ -12,6 +12,6 @@ Even though draugar can speak, they don't use it to talk to others. Instead, the
 ## Draugric powers
 Despite being undead, draugar can move as if they were alive, albeit with a little stagger. They are twice as strong compared to men, can see in the dark, and can't be poisoned or exorcised. To kill a draugr, their head must be decapitated or removed.
 
-Some draugar, like Joki's description of them, had the ability to vanish into the air and appear elsewhere. Others could turn their heads a full circle around, or enter the dreams of other people. Some were said to practice seiðr and curse anyone who tried to enter their domain.
+Most draugar possess two unique abilities. Some draugar, like Joki's description of them, had the ability to vanish into the air and appear elsewhere. Others could turn their heads a full circle around, or enter the dreams of other people. Some were said to practice seiðr and curse anyone who tried to enter their domain.
 
 Draugar can still speak, but their voice sounds raspy and deep. Since most draugr are more than a hundred years old, they might speak an ancient language no one understands.

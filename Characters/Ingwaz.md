@@ -14,9 +14,11 @@
 	<tr> <td>Eye color</td> <td>Greyed out</td> </tr>
 </tbody></table>
 
-Ingwaz the Fiend is a draugr that dwells in the ancient castle ruins in the peninsula southwest of Heorthland. It was a warlord, who ruled over the castle before its capture and eventual destruction.
+Ingwaz the Fiend is a draugr that dwells in the ancient castle ruins in the peninsula southwest of Heorthland.
 
-Recently, it was briefly woken up by an adventurer who was accompanied by three other warriors. They fled before it could kill any of them.
+Before his death, Ingwaz was a warlord who ruled over the castle. There was a battle in which he was killed, but shortly after his death, a fire broke out and the castle was brought to ruin.
+
+Recently, it was briefly woken up by Elkfriða, who was accompanied by three other warriors. During the encounter, it knocked Ljörn down and almost killed him. They fled before it could kill any of them.[^1]
 
 ## Appearance
 Ingwaz appears to be bloated and black, with oily skin, greyed out eyes, and sparse black hair. It stands at about 5'11", which is taller than many people. It has a dried wound from it's face down, as if someone slashed it from it's forehead to it's stomach with a sword. It's right arm also seems to be flailing when relaxed.
@@ -37,3 +39,6 @@ It can only speak Galabric, an ancient language.
 
 ### Draugric powers
 Because Ingwaz is a draugr, it has a few abilities only they can have. It possesses the ability to move arms that were broken as if they weren't broken. It is also able to turn itself into a billow of mist or disguise itself as a deer, elk, or moose. Because of this despite its right arm flailing around like a piece of wood hanging by thread, Ingwaz can move it as if it was supposed to be like that.
+
+## Notes
+[^1]: Elkfriða touched one of Ingwaz's vases and woke it from its slumber. During the same encounter, Ingwaz struck Ljörn's shield with such force that it caused him to fall over.
