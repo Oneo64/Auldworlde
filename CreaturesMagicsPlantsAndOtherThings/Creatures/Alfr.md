@@ -1,11 +1,9 @@
-An álfr (Oddarish plural: álfar, Icelandic: álfur) is a mysterious fey creature.
+# Álfr
 
+An álfr (Oddarish plural: *álfar*, Icelandic: *álfur*) is a mysterious fey creature.
 
-
-[[DESCRIPTION]]
+## Description
 An álfr possesses human-like traits.
 
-
-
-[[ABILITIES]]
+## Abilities
 An álfr can control dreams and possess creatures. They can also enter an object, like a tree or boulder, and live inside of it.
