@@ -8,7 +8,7 @@
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>53</td> </tr>
 	<tr> <td>Birthplace</td> <td>Inner Ring, Þuryngard Ring Fortress, Oddarsveldi</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Rúndís (wife)<br>Áleifr Alfþórrsson (son)<br>Alfþórr I (father)</td> </tr>
+	<tr> <td>Relative(s)</td> <td>Rúndís (wife)<br>Áleifr Alfþórrsson (son)<hr>Alfþórr I (deceased father)</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>

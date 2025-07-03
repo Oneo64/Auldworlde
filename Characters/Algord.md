@@ -9,7 +9,7 @@
 	<tr> <td>Age</td> <td>57</td> </tr>
 	<tr> <td>Birthday</td> <td>August 26, AD 915</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Oddarsveldi</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Haldigr III (deceased father)<br>Amja (deceased mother)<br>Fraldr (brother)<br>Anru (sister)<hr>Mifrún (wife)<br>Ulfnir, Ljörn, Alfrir (sons)<br>Yngvild (daughter)</td> </tr>
+	<tr> <td>Relative(s)</td> <td>Mifrún (wife)<br>Ulfnir, Ljörn, Alfrir (sons)<br>Yngvild (daughter)<hr>Haldigr III (deceased father)<br>Amja (deceased mother)<br>Fraldr (brother)<br>Anru (sister)</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
