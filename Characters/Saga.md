@@ -37,7 +37,13 @@ Sága sees Seyja as a role model and aspires to be as brave as her.
 
 ## Abilities
 ### Physicality
-Sága sports a sword and shield, but isn't very good at it.
+Sága sports a sword and shield, but isn't very good at it. She learned a move from her father, which is how to disarm someone with her weaponry.
+
+### Story-telling
+Sága can tell stories as she makes them up. She can also tell them without planning any characters or storyline.
 
 ### Language
 Sága's native language is Oddarish.
+
+### Hypnotism
+For some reason, Sága knows how to hypnotize a chicken.
