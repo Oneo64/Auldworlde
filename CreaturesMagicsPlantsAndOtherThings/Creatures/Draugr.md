@@ -1,5 +1,12 @@
 # Draugr
 
+<table><tbody>
+	<tr> <th colspan=2>Draugr</th> </tr>
+	<tr> <td>Type</td> <td>Revenant</td> </tr>
+	<tr> <td>Native to</td> <td>All over the world</td> </tr>
+	<tr> <td>Based on</td> <td>Draugr in Norse Mythology</td> </tr>
+</tbody></table>
+
 A draugr (Oddarish plural: *draugar*, Heorthlandic: *drog*, Icelandic: *draugur*) is a revenant who comes alive. Many draugar come to be because they were cursed, but some may rise because they weren't buried properly. One way to prevent their rise is to ensure they are laying down, and their hands and feet are bound together. Most draugar come to be in the northern lands of Myrkjörðr.
 
 ## Description

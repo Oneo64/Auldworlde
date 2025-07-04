@@ -152,68 +152,68 @@ Fire Dragon:
 ====================================================================================================
 ELEMENTALS
 ----------------------------------------------------------------------------------------------------
-Elementals are natural manifestations of Talmundur, or spawn inside of elemental planes. All elementals have a core, which is called an elemental core. This core is the thing that gathered the materials together to form the elemental. To destroy an elemental, either it's head must be destroyed, or it's core must be removed.
+Elementals are natural elemental manifestations of Talmundur, or spawn inside of elemental planes. All elementals have a heart, which is called a heart. This heart is the thing that gathered the materials together to form the giant. To destroy an elemental, either it's head must be destroyed, or it's heart must be removed.
 ====================================================================================================
 
-Earth Elemental:
-	Earth elementals are natural manifestations inside of Sotjorðr.
+Earth Giant:
+	Earth giants are natural manifestations inside of Sotjorðr.
 
 	Description:
-		Earth elementals looks like a hulking humanoid completely made of chunks of earth. Earth elementals don't have a face, but they can see normally. Earth elementals may have grass growing on the top side of their bodies. Some may even adorn themselves with flowers and vines.
+		Earth giants looks like a hulking humanoid completely made of chunks of earth. Earth giants don't have a face, but they can see normally. Earth giants may have grass growing on the top side of their bodies. Some may even adorn themselves with flowers and vines.
 
 		An earth elemental typically stands at a height of two meters.
 
 	Abilities:
-		Earth elementals do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
+		Earth giants do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
 
-		Earth elementals are able to speak Wòrdimunag (Primordial), despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other elementals. Some earth elementals may even form groups, and have a name for themselves.
+		Earth giants are able to speak Wòrdimunag (Primordial), despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other giants. Some earth giants may even form groups, and have a name for themselves.
 
-		Because of the fragility of earth, some earth elementals who find themselves in Myrkjörðr may wrap themselves in cloth, in attempt to secure and hold their body together.
-
-
-
-Fire Elemental:
-	Fire elementals are southern natural manifestations of Talmundur. Fire elementals usually don't care what happens, some even attacking ones who oppose Talmundur. These elementals are rare, usually formed by a heart of sulfur and stone being pulled together by unknown forces. If they were created by magic, then they do not know about Talmundur. Fire elementals generally try to avoid forests or any of the sort, resorting to rocky mountains and deserts.
-
-	Description:
-		Fire elementals appear as a floating humanoid torso completely made of fire. Their faces only consist of a pair of eyes, which look like darker spots.
-
-	Abilities:
-		Fire elementals are able to fly, moving up to 8 meters a second at maximum, close to the running speed of a human. They are able to speak Wòrdimunag (Primordial), despite not having a mouth.
-
-		Because of their fiery body, fire elementals are able to squeeze into small spaces such as under the door, or go through window frames and cage bars. By touching flammable surfaces, they would ignite the surface willingly or unwillingly.
-
-		By striking the heart of the fire elemental, the fire elemental is damaged much greater than simply attacking it's fiery body. Extinguishing the fire of the elemental means that the fire elemental will die.
+		Because of the fragility of earth, some earth giants who find themselves in Myrkjörðr may wrap themselves in cloth, in attempt to secure and hold their body together.
 
 
 
-Ice Elemental:
-	Ice elementals are northern natural manifestations of Talmundur. Ice elementals are mostly evil. These elementals are rare, usually formed by a heart of ice and wood being pulled together.
+Fire Spirit:
+	Fire spirits are southern natural manifestations of Talmundur. Fire spirits usually don't care what happens, some even attacking ones who oppose Talmundur. These spirits are rare, usually formed by a heart of sulfur and stone being pulled together by unknown forces. If they were created by magic, then they do not know about Talmundur. Fire spirits generally try to avoid forests or any of the sort, resorting to rocky mountains and deserts.
 
 	Description:
-		Ice elementals looks like a medium humanoid completely made of chunks of ice, each limb is a piece of ice. Ice elementals don't have a face, but they can see normally.
+		Fire spirits appear as a floating humanoid torso completely made of fire. Their faces only consist of a pair of eyes, which look like darker spots.
 
 	Abilities:
-		Ice elementals do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
+		Fire spirits are able to fly, moving up to 8 meters a second at maximum, close to the running speed of a human. They are able to speak Wòrdimunag (Primordial), despite not having a mouth.
 
-		Ice elementals are able to speak Wòrdimunag (Primordial), despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other elementals. Some ice elementals may even form groups, and have a name for themselves.
+		Because of their fiery body, fire spirits are able to squeeze into small spaces such as under the door, or go through window frames and cage bars. By touching flammable surfaces, they would ignite the surface willingly or unwillingly.
 
-		Ice elementals usually arm themselves with spears, war hammers, and knives made of stone or obsidian.
-
-		If an ice elemental loses it's head, it loses the ability to see. If an ice elemental loses both it's arms or legs, it dies.
+		By striking the heart of the fire spirit, the fire spirit is damaged much greater than simply attacking it's fiery body. Extinguishing the fire of the spirit means that the fire spirit will die.
 
 
 
-Stone Elemental:
-	Stone elementals are natural manifestations inside of Sotjorðr.
+Ice Spirit:
+	Ice spirits are northern natural manifestations of Talmundur. Ice spirits are mostly evil. These spirits are rare, usually formed by a heart of ice and wood being pulled together.
 
 	Description:
-		Stone elementals looks like a hulking humanoid completely made of chunks of stone. Stone elementals don't have a face, but they can see normally. Some stone elementals may have moss or lichen growing on their bodies.
-
-		A stone elemental typically stands at a height of almost four meters.
+		Ice spirits looks like a medium humanoid completely made of chunks of ice, each limb is a piece of ice. Ice spirits don't have a face, but they can see normally.
 
 	Abilities:
-		Stone elementals cannot speak, but they can understand Wòrdimunag (Primordial). They don't have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
+		Ice spirits do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
+
+		Ice spirits are able to speak Wòrdimunag (Primordial), despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other spirits. Some ice spirits may even form groups, and have a name for themselves.
+
+		Ice spirits usually arm themselves with spears, war hammers, and knives made of stone or obsidian.
+
+		If an ice spirit loses it's head, it loses the ability to see. If an ice spirit loses both it's arms or legs, it dies.
+
+
+
+Stone Giant:
+	Stone giants are natural manifestations inside of Sotjorðr.
+
+	Description:
+		Stone giants looks like a hulking humanoid completely made of chunks of stone. Stone giants don't have a face, but they can see normally. Some stone giants may have moss or lichen growing on their bodies.
+
+		A stone giant typically stands at a height of almost four meters.
+
+	Abilities:
+		Stone giants cannot speak, but they can understand Wòrdimunag (Primordial). They don't have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
 
 
 

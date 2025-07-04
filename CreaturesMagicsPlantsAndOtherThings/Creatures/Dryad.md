@@ -1,5 +1,11 @@
 # Dryad
 
+<table><tbody>
+	<tr> <th colspan=2>Dryad</th> </tr>
+	<tr> <td>Type</td> <td>Fey</td> </tr>
+	<tr> <td>Native to</td> <td>Veldalfheimr</td> </tr>
+</tbody></table>
+
 Dryads are native to Veldalfheimr. They are bound to their own tree. Then that tree is killed, the dryad becomes chaotic neutral, and will attempt to kill the person who harmed their tree.
 
 ## Description
