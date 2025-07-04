@@ -1,16 +1,21 @@
-Áleifr Alfþórrsson
+# Áleifr Alfþórrsson
 
-Male
-Age: 22
-Alignment: Neutral
-
-Homeland:  Þuryngard Ring Fortress, Oddarsveldi
-Race:      Human
-
-Father:    Alfþórr II
-Mother:    Rúna
-
-
+<table><tbody>
+	<tr> <th colspan=2>Áleifr Alfþórrsson</th> </tr>
+	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
+	<tr> <td>Affiliation</td> <td>Oddarsveldi</td> </tr>
+	<tr> <td>Occupation</td> <td>Prince</td> </tr>
+	<tr> <th colspan=2>Biographical information</th> </tr>
+	<tr> <td>Age</td> <td>2</td> </tr>
+	<tr> <td>Birthplace</td> <td>Inner Ring, Þuryngard Ring Fortress, Oddarsveldi</td> </tr>
+	<tr> <td>Relative(s)</td> <td>Alfþórr II (father)<td>Rúndís (wife)</td> </tr>
+	<tr> <th colspan=2>Physical description</th> </tr>
+	<tr> <td>Species</td> <td>Human</td> </tr>
+	<tr> <td>Gender</td> <td>Male</td> </tr>
+	<tr> <td>Height</td> <td>5'11"</td> </tr>
+	<tr> <td>Hair color</td> <td>Brown</td> </tr>
+	<tr> <td>Eye color</td> <td>Blue</td> </tr>
+</tbody></table>
 
 [[DESCRIPTION]]
 Áleifr is the firstborn prince of Oddarsveldi, son of King Alfþórr II. He is a strikingly handsome young man, with a lean build and taller than average as he stands at 5' 11". His long wavy brown hair reaches to his armpits, blue eyes, and fair skin.
