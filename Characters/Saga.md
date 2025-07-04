@@ -14,7 +14,7 @@
 	<tr> <td>Gender</td> <td>Female</td> </tr>
 	<tr> <td>Height</td> <td>5'4"</td> </tr>
 	<tr> <td>Hair color</td> <td>Black</td> </tr>
-	<tr> <td>Eye color</td> <td>Green</td> </tr>
+	<tr> <td>Eye color</td> <td>Slightly brownish green (right)<br>Green (left)</td> </tr>
 </tbody></table>
 
 Sága is an explorer from Álahringr.
