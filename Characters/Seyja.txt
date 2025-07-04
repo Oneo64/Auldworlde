@@ -1,7 +1,7 @@
 Seyja
 
 Female
-Age: 19
+Age: 24
 Alignment: Neutral Good
 
 Homeland:  Álahringr, Oddarsveldi
@@ -20,6 +20,8 @@ When in combat or traveling, she has a red tunic and brown pants. She will also 
 
 [[PERSONALITY]]
 Seyja is bold, fiery, and has a patriotic spirit for the kingdom. She likes to keep organized and tidy. She can also be analytical and strategize things before doing it. For fun, she secretly likes to give other people titles like a nickname, but won't actually use them.
+
+Sometimes, Seyja would playfully lie about obvious things just to mess with people.
 
 Seyja's favorite food is salted potatoes, roasted until the skin is semi-crispy. She has a soft spot for animals, especially dogs.
 
