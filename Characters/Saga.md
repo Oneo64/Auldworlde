@@ -29,13 +29,15 @@ When Sága is outside, she wears a dark brown cloak with double brooches. When S
 ## Personality
 Sága, like her father, is adventurous and curious. Normally, Sága wouldn't strike up conversation as fast and as eagerly as an extrovert would, but once she gets into a conversation, especially small talk, she becomes very talkative.
 
+Sága likes to tell stories, especially heroic sagas (hence her name) that she's read. When asked, her favorite types of sagas are those where the protagonist goes on a journey and experiences the wonders and horrors of the world outside of his home village.
+
 Sometimes, Sága tries to be independent to prove her worth, even if whatever she's going to do would be considered reckless by many.
 
-Sága sees Seyja as a role model.
+Sága sees Seyja as a role model and aspires to be as brave as her.
 
 ## Abilities
 ### Physicality
 Sága sports a sword and shield, but isn't very good at it.
 
 ### Language
-Sága speaks Oddarish as her native language.
+Sága's native language is Oddarish.
