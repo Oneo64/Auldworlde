@@ -23,7 +23,11 @@ Oddarsveldi is a major kingdom in Myrkjörðr. The kingdom is one of the largest
 ## History
 Oddarsveldi rose to power from a small village named Hrattvekr. When Oddr the First led a defensive force against aggressive trolls, he was made king. Years after they started building Hrattvekr's walls, it was complete.
 
-## Climate
+## Geography
+### Landscape
+Oddarsveldi's land is a mix of shrublands, a bit of meadows, and coniferous forests. The landscape is mostly rugged. The Northern and Southern Northmannish Forests both make up the coniferous forests.
+
+### Climate
 There are only four months of summer in Oddarsveldi's land. During summer, days can last 7 hours. But when winter comes, days lengthen to 17 hours.
 
 Snow falls during winter. Sometimes, blizzards happen.
