@@ -114,5 +114,5 @@ Ljörn knows how to play Rægatafl, a local board game.
 
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
-[^2]: Before his adventure, Ljörn knew the story told in *Draugritt um minn Výss*. Yngvarr, a character in the story, died when a draugr knock him over and slashed him. During Ljörn's trip to the castle ruin, Ingwaz knocked Ljörn over (like Yngvarr), and was almost killed. When he and his accomplices fled, Ingwaz chased them. Ljörn only thought they lost the draugr when they camped in the quiet forest. That moment is where his odd behaviors come from.
+[^2]: Before his adventure, Ljörn knew the story told in *Draugritt um minn Výss*. Yngvarr, a character in the story, died when a draugr knock him over and slashed him. During Ljörn's trip to the castle ruin, Ingwaz knocked him over (like Yngvarr) and almost killed him. When he and his accomplices fled, Ingwaz chased them. Ljörn only thought they lost the draugr when they camped in the quiet forest. That moment is where his odd behaviors come from.
 [^3]: Juniper is a type of greater protection herb.
