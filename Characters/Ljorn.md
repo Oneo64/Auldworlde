@@ -101,16 +101,20 @@ Ljörn knows how to play Rægatafl, a local board game.
 
 **A rare case when Ljörn "admits" his paranoia:**
 
- - **During a visit with Rúna, Ljörn found himself breathing heavily as he stared into the forest.**
+ - **During a visit to Rúna's home, Ljörn and Rúna are both in the yard. Ljörn's eyes catch something within the forest, and he soon finds himself breathing heavily as he stares at it.**
  - **Rúna:** "Ljörn?"
  - **Ljörn doesn't respond. He doesn't seem to hear her.**
+ - **Rúna sharpens her voice a little.**
  - **Rúna:** "Ljörn."
- - **Ljörn suddenly becomes aware of what he's doing.**
+ - **Ljörn suddenly becomes aware of what he's doing. He tears his gaze away from the forest and looks at Rúna. He speaks as if nothing happened.**
  - **Ljörn:** "Já?" *(Yes?)*
+ - **Rúna's voice is soft again.**
  - **Rúna:** "Þú var avíu sam það. Artú koðr?" *(You're doing it again. Are you okay?)*
- - **Ljörn:** "Ek... ek ött svá summ þíng í skungritt." *(I... I just saw something in the forest.)*
+ - **Ljörn:** "Ek... svá summ þíng í skungritt. Það var eigeinn." *(I... saw something in the forest. It's nothing.)*
  - **Rúna looks into the forest, expecting to see something. But she doesn't.**
  - **Ljörn:** "Ybbask eigi." *(Don't worry.)*
+ - **Rúna:** "Þóse, séga mik. Ar... þær sleikandi þik?" *(Please, tell me. Is... there something bothering you?)*
+ - **Ljörn:** "Ná." *(No.)*
 
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
