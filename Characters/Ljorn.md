@@ -48,6 +48,9 @@ Sometimes out of nowhere, Ljörn gets reminded of his experience with Ingwaz and
 
 If confronted about his behavior, Ljörn would dismiss it. Even though Alfrir only noticed his behaviour once, Ljörn told him not to worry about it.
 
+### Rúna
+Rúna is like an emotional anchor to Ljörn. She keeps him from feeling anxious. When Ljörn visits her, he finds that he can relax a little, despite his paranoia.
+
 ## Abilities
 ### Physicality
 Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure in the ruins of an old castle, where he fought a couple of draugar. He also has a good survival instinct, which was shown during Ingwaz's attack.
