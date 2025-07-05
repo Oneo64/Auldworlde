@@ -46,7 +46,7 @@ Ljörn has paranoia. He seems fine most of the time, but sometimes, it shows. He
 
 Sometimes out of nowhere, Ljörn gets reminded of his experience with Ingwaz and becomes paranoid, thinking Ingwaz might still be searching for him. He only calms down if he forgets about it. He will also calm down if he knows he's near a bundle of juniper needles[^3], but he'll still be thinking about it.
 
-If confronted about his behavior, even if it were Rúna (who knows about his paranoia), Ljörn would dismiss it. Even though Alfrir only noticed his behaviour once, Ljörn told him not to worry about it.
+If confronted about his behavior, even if it were Rúna (who knows about his paranoia), Ljörn would either try to dismiss it or not answer at all. Even though Alfrir only noticed his behaviour once, Ljörn told him not to worry about it.
 
 ### Rúna
 Ljörn visits Rúna once every day; he finds that when Rúna is there, he can relax a little despite his paranoia.
@@ -98,6 +98,19 @@ Ljörn knows how to play Rægatafl, a local board game.
 **Average reaction when seeing a rusty polearm:**
 
  - *Ljörn is wandering around Álahringr's streets when he passes by a house. There is an old Dane axe resting against the house walls. He glances at it. He stops breathing for a moment, and his heart rate goes up. He swears under his breath before quickly leaving the scene.*
+
+**A rare case when Ljörn admits his paranoia:**
+
+ - **During a visit with Rúna, Ljörn found himself breathing heavily as he stared into the forest.**
+ - **Rúna:** "Ljörn?"
+ - **Ljörn doesn't respond.**
+ - **Rúna:** "Ljörn."
+ - **Ljörn suddenly becomes aware of what he's doing.**
+ - **Ljörn:** "Já?" *Yes?*
+ - **Rúna:** "Þú var avíu sam það. Artú koðr?" *You're doing it again. Are you okay?*
+ - **Ljörn:** "Ek... ek... ek svá summ þíng í skungritt." *I... I... I saw something in the forest.*
+ - **Rúna looks into the forest, expecting to see something. But she doesn't.**
+ - **Ljörn:** "Ek vigla at ybbask... um þaðþ" *I keep worrying about... that.*
 
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
