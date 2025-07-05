@@ -33,13 +33,13 @@ When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dr
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield. He will also carry a tiny grimoire (about fifteen pages) and a piece of coal in the pouch.
 
 ## Personality
-Ljörn is reserved and slightly introverted. He doesn't speak much and prefers quiet and solitary areas, but he doesn't mind public spaces (or even crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He also has a good survival instinct, which was shown during Ingwaz's attack.
+Ljörn is reserved and slightly introverted. He doesn't speak much and prefers quiet and solitary areas, but he doesn't mind public spaces (or even crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn, he usually won't change his mind after making a decision. He also has a good survival instinct, which was shown during Ingwaz's attack.
 
-Ljörn is stubborn. Sometimes, he won't change his mind after making a decision. He has slight paranoia, which is most prominent when he's inside deep forests or near corpses that look like they might wake up.[^2][^3]
+Ljörn has paranoia. He gets anxious when he's inside dark forests. If he sees corpses that look like they might wake up, he would freak out and leave the scene. He would avoid reading the story *Draugritt um minn Výss*, or any stories with undead in it.[^2] When looking at old weapons, especially rusted/deteriorated polearms, he would start breathing heavily.
 
 To strangers, unless he is interacting with them, Ljörn acts uncaring and unassertive since he usually doesn't involve himself in things that don't concern him. For example, if a thief stole something from someone he doesn't know, he'll ignore the commotion.
 
-Ljörn speaks Centrumic (English) weirdly. Not only does he have a strong Oddarish accent, but he speaks Centrumic using the grammar of his native tongue. When he gets frustrated, he quietly uses strong language under his breath, but he doesn't use extreme insults or belittling.
+When Ljörn gets frustrated, he quietly uses strong language under his breath, but he doesn't use extreme insults or belittling.
 
 Ljörn's favorite food is venison. He keeps a small bag of dried strips in his pouch for later. For some reason, his second favorite food is dried, hard bread with the crust. He says it's because it's chewy.
 
@@ -60,17 +60,35 @@ Ljörn has access to magical staves because of his grimoire. He usually has the 
  - Vegvísir
 
 ### Language
-Ljörn's native language is Oddarish, but he can also speak Heorthlandic. He can kinda speak Centrumic (English), but he's very bad at it (see personality).
+Ljörn's native language is Oddarish, but he can also speak Heorthlandic and Centrumic (English).
+
+Ljörn is very bad at Centrumic. Somehow, he always reverts to using Oddarish grammar. When he tries to pronounce *w*, he ends up pronouncing *hw* or *v*. When Ljörn tries to pronounce *sh*, he ends up pronouncing *s* or *sk*. When he pronounces *d*, he sometimes ends up pronouncing *ð*. Sometimes, it's not just a pronunciation problem. He would say *já/ná* for *yes/no*, *ik/mik* for *I*, *mine* for *my*, *thu/theu* for *you*, *thine* for *your*, *thes* for *this*, *that* for *it*, *i'* for *in*, *skall* for *shall/must*, *skould* for *should*, etc.
 
 ### Rægatafl
 Ljörn knows how to play Rægatafl, a local board game.
 
-## Goal
- - "I thinks of a fame or some wealth will well to fit me. Yet in now, I just want a normal aldr. I will to protect mine family and Rúna. Yet if needed, I will to slay."
+## Examples of Ljörn's speech
+**Average interaction with a merchant:**
 
- - "Ek leim am stræka ór summ grípir mun vel at ar nýtr fyrir minn. Ænn í núna, ek ött vil nidd aldu. Ek vil at vurða minn heimmandar ok Rúna. Ænn ef ek skolu, ek vil at slá."
+ - **Merchant:** "Fine day, isn’t it? Haven’t seen you around. Looking for anything special?"
+ - **Ljörn:** "Já. Ik finds hwetstone."
+ - **Merchant:** "What did you say?"
+ - **Ljörn:** "Hwetstone."
+ - **Merchant:** "You mean whetstone? That will be two silvers."
+ - **Ljörn hands the merchant two silver coins.**
+ - **Ljörn:** "Here."
+ - **The merchant takes the silver, and gives him a whetstone.**
+ - **Ljörn:** "Sakka þik." *Sakka þik means "thank you" in Oddarish.*
+ - **Merchant:** "What will you be using it for?"
+ - **Ljörn:** "That are for mine sworð."
+ - **The merchant nods.**
+ - **Merchant:** "Good day to you then."
+ - **Ljörn nods in return and leaves with the whetstone.**
+
+**Average reaction when seeing a rusty polearm:**
+
+ - **Ljörn is wandering around Álahringr's streets when he passes by a house. There is an old Dane axe resting against the house walls. He glances at it. He stops breathing for a moment, and his heart rate goes up before he quickly leaves the scene.**
 
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
-[^2]: Ljörn got his paranoia after seeing a draugr lurking in the nearby forest when he was 10 years old.
-[^3]: Before his adventure, Ljörn knew the story told in *Draugritt um minn Výss*. One of the characters, Yngvarr, was killed by a draugr when he was knocked over and slashed. And during his trip to the castle ruin, Ljörn was knocked over and was almost killed by Ingwaz the Fiend, just like how Yngvarr was in the story. This is what strengthened his paranoia of corpses.
+[^2]: Before his adventure, Ljörn knew the story told in *Draugritt um minn Výss*. One of the characters, Yngvarr, was killed by a draugr when he was knocked over and slashed. And during his trip to the castle ruin, Ljörn was knocked over and was almost killed by Ingwaz the Fiend, just like how Yngvarr was in the story. That moment is where his odd behaviours come from.

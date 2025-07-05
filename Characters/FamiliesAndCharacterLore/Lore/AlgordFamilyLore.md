@@ -36,8 +36,6 @@ Alfrir is born.
 ### May
 While wandering in the forest, Fraldr, Gorðr, and Lalfrel see the draugr Haldigr I walking far away. They weren't able to see who it was, or know that it was Haldigr I. They quickly escape, saying that they saw a "cloaked man who was evil". They returned without a scratch, and told the rest of the family.
 
-Two days later, Ljörn saw the same draugr just outside the forest during nighttime. He hid back into his home when Haldigr I turned to look at the village, thinking the draugr saw him. Because of this, he has been paranoid whenever he's inside a forest, especially boreal ones.
-
 ## Year 963
 ### April
 Algord takes Alfrir and Ljörn to show them how to cut a tree down. Ljown also takes the role of a woodcutter to cut firewood.
