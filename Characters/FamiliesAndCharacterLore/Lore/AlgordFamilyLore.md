@@ -62,7 +62,7 @@ During this time, the party saw an untouched sword lying somewhere within the ca
 
 *Baulnir tried again, his sword coming from the bottom upwards. Ingwaz used the end of its atgeir to deflect Baulnir's sword and hooked his shield off his hand. But before Ingwaz could hew Baulnir, Ljörn readied himself and tried to cut it across the neck with a swing of his spear. But because he hesitated, and Ingwaz was fast enough to see it coming, it turned into a billow of mist before the spear connected with its neck. Alfrir could walk, and they all fled, leaving the mysterious sword and vase behind.*
 
-And as they fled, they were soon met by a dormant gvarth. They successfully snuck by it and left the castle ruins. This is another reason why Ljörn is paranoid of forests.
+Ingwaz chased after them as they fled. But as they were fleeing, they met by a dormant gvarth. They successfully snuck by it and left the castle ruins.
 
 When the two pass by Þuryngard Ring Fortress, Ljörn finds out the scroll is written with wisdom for seiðr. Because he doesn't know seiðr and that it's also traditionally feminine magic, he exchanged it for a stave and potion grimoire while they were wandering in the capital's marketplace.
 
