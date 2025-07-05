@@ -44,6 +44,8 @@ Ljörn's favorite food is venison. He keeps a small bag of dried strips in his p
 ### Paranoia
 Ljörn has paranoia. He seems fine most of the time, but sometimes, it shows. He gets anxious when he's inside dark forests. If he sees corpses that look like they might wake up, he would freak out and leave the scene. He would avoid reading the story *Draugritt um minn Výss*, or any stories with undead in them. When looking at old weapons, especially rusted/deteriorated polearms, he would start breathing heavily.[^2]
 
+If confronted about his behavior, Ljörn would dismiss it. Even though Alfrir only noticed his behaviour once, Ljörn told him not to worry about it.
+
 ## Abilities
 ### Physicality
 Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure in the ruins of an old castle, where he fought a couple of draugar. He also has a good survival instinct, which was shown during Ingwaz's attack.
@@ -94,4 +96,4 @@ Ljörn knows how to play Rægatafl, a local board game.
 
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
-[^2]: Before his adventure, Ljörn knew the story told in *Draugritt um minn Výss*. One of the characters, Yngvarr, was killed by a draugr when he was knocked over and slashed. And during his trip to the castle ruin, Ljörn was knocked over and was almost killed by Ingwaz the Fiend, just like how Yngvarr was in the story. That moment is where his odd behaviours come from.
+[^2]: Before his adventure, Ljörn knew the story told in *Draugritt um minn Výss*. One of the characters, Yngvarr, was killed by a draugr when he was knocked over and slashed. And during his trip to the castle ruin, Ljörn was knocked over and was almost killed by Ingwaz the Fiend, just like how Yngvarr was in the story. That moment is where his odd behaviors come from.

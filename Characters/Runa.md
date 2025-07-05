@@ -37,6 +37,8 @@ Sometimes, when not doing anything or listening to someone talk, Rúna would spa
 
 Rúna's favorite food is roasted potatoes, especially those with salt. When she's nervous, she fidgets with the hem of her clothing.
 
+Rúna doesn't know about Ljörn's paranoia.
+
 ### Secret
 Sometime in the past, when Dagnir was playing a jest on Rúna, he showed her a piece of paper on how to draw Veldismagn. Rúna felt uncomfortable by how it was made, but she still hadn't forgotten it. Despite feeling uncomfortable, sometimes, she would use pig blood to draw them for protection.
 
