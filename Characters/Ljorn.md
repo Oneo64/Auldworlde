@@ -51,6 +51,9 @@ If confronted about his behavior, Ljörn would either try to dismiss it or not a
 ### Rúna
 Ljörn visits Rúna once every day; he finds that when Rúna is there, he can relax a little despite his paranoia.
 
+### Goals
+Ljörn wants to protect his family, and especially Rúna. He also wants to gain wealth. But sometimes his paranoia takes over, compelling him to avoid the trigger.
+
 ## Abilities
 ### Physicality
 Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure in the ruins of an old castle, where he fought a couple of draugar. He also has a good survival instinct, which was shown during Ingwaz's attack.

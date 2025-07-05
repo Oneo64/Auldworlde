@@ -4,7 +4,7 @@
 	<tr> <th colspan=2>Rúna</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
 	<tr> <td>Affiliation</td> <td>Oddarsveldi</td> </tr>
-	<tr> <td>Occupation</td> <td>Woodcarver</td> </tr>
+	<tr> <td>Occupation</td> <td>Woodcarver, Merchant</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>22</td> </tr>
 	<tr> <td>Birthday</td> <td>March 14, AD 951</td> </tr>
@@ -19,7 +19,7 @@
 	<tr> <td>Eye color</td> <td>Pale green</td> </tr>
 </tbody></table>
 
-Rúna is a woodcarver who carves small things for her father to sell at the local marketplace. Rúna is friends with Yngvild, whom she has met since childhood.
+Rúna is a woodcarver and a merchant who carves small things and sells them at the local marketplace. Rúna is friends with Yngvild, whom she has met since childhood.
 
 Rúna can usually be found in her home making wood carvings, and would sometimes accompany Ljörn into the forest to explore and collect herbs.
 
@@ -40,7 +40,10 @@ Rúna's favorite food is roasted potatoes, especially those with salt. When she'
 Rúna knows about Ljörn's paranoia.
 
 ### Secret
-Sometime in the past, when Dagnir was playing a jest on Rúna, he showed her a piece of paper on how to draw Veldismagn. Rúna felt uncomfortable by how it was made, but she still hadn't forgotten it. Despite feeling uncomfortable, sometimes, she would use pig blood to draw them for protection.
+Sometime in the past, when Dagnir was playing a jest on Rúna, he showed her a piece of paper on how to draw Veldismagn. Rúna was unnerved by how to make it, but she still hadn't forgotten it.[^2] Despite feeling uncomfortable, sometimes, she would use pig blood to draw them for protection.
+
+### Goals
+Rúna wants to become a successful merchant. She wants to expand her inventory, but she only feels confident selling kitchen utensils.
 
 ## Abilities
 ### Arts and Crafts
@@ -66,6 +69,24 @@ Rúna knows how to draw Veldismagn.
 
 *Translation: "I want to be a successful merchant. Yet I... I don't know how."*
 
+## Examples of Rúna's speech and reactions
+**Average interaction with a customer:**
+
+ - **Merchant:** "Fine day, isn’t it? Haven’t seen you around. Looking for anything special?"
+ - **Ljörn:** "Já. Ik finds hwetstone."
+ - **Merchant:** "What did you say?"
+ - **Ljörn:** "Hwetstone."
+ - **Merchant:** "You mean whetstone? That will be two silvers."
+ - **Ljörn hands the merchant two silver coins.**
+ - **Ljörn:** "Here."
+ - **The merchant takes the silver, and gives him a whetstone.**
+ - **Ljörn:** "Sakka þik." *Sakka þik means "thank you" in Oddarish.*
+ - **Merchant:** "What will you be using it for?"
+ - **Ljörn:** "That are for mine sworð."
+ - **The merchant nods.**
+ - **Merchant:** "Good day to you then."
+ - **Ljörn nods in return and leaves with the whetstone.**
+
 ## Notes
 [^1]: The first time Njall decided to sell one of Rúna's carvings, the buyer returned it and complained that it wasn't worth anything because it wasn't symmetrical.
-
+[^2]: Veldismagn requires to be drawn with blood, which is why it unnerved Rúna.
