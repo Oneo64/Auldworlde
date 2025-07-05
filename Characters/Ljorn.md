@@ -24,29 +24,29 @@ Ljörn is a warrior who sometimes utilizes galdrastafir.
 When at work, Ljörn chops firewood, checks his family's farm for weeds, or helps Alfrir and Ulfnir carry wood back home. In his free time, he plays Rægatafl with someone (mostly with Alfrir), goes into the forest to explore, or visits Rúna.
 
 ## Appearance
-Ljörn has long, dark blond hair has gentle but messy waves and is a little longer than shoulder length. He has a light stubble and fair skin. Often, his hair is pulled back and then secured by a cloth strip that he ties around his head. His eyes are hooded, downturned, and dark pale blue, making him seem sad or tired to many people. He stands at 5'9" and has an average build for a warrior.
+Ljörn has long, dark blond hair with gentle but messy waves that are little longer than shoulder length. He has a light stubble and fair skin. Often, his hair is pulled back and then secured by a cloth strip that he ties around his head. His eyes are hooded, downturned, and dark pale blue, making him seem sad or tired to many people. He stands at 5'9" and has an average build for a warrior.
 
 ### Casual wear
-When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He has a baldric carrying a scabbard with a sword.[^1] On his belt, he has a leather pouch and a small seax under the sword baldric. Ljörn wears a necklace of an iron Talmundúr amulet.
+When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He wears a baldric scabbard with a sword.[^1] He has a leather pouch and a small seax on his belt. Ljörn wears a necklace of an iron Talmundúr amulet.
 
 ### Traveling
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield. He will also carry a tiny grimoire (about fifteen pages) and a piece of coal in the pouch.
 
 ## Personality
-Ljörn is reserved and slightly introverted. He doesn't speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn; he usually won't change his mind after making a decision.
+Ljörn is reserved and slightly introverted. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn; he usually sticks to his decisions.
 
-To strangers, unless he is interacting with them, Ljörn acts uncaring and unassertive since he usually doesn't involve himself in things that don't concern him. For example, if a thief stole something from someone he doesn't know, he'll ignore the commotion.
+To strangers, Ljörn acts uncaring and unassertive, ignoring things that don't concern him. For example, if a thief stole something from someone he doesn't know, he'll ignore the commotion.
 
-When Ljörn gets frustrated, he quietly uses strong language under his breath, but he doesn't use extreme insults or belittling.
+When Ljörn gets frustrated, he quietly uses strong language under his breath, but he avoids using extreme insults or belittling.
 
-Ljörn's favorite food is venison. He keeps a small bag of dried strips in his pouch for later. For some reason, his second favorite food is dried, hard bread with the crust. He says it's because it's chewy.
+Ljörn's favorite food is venison. He keeps a small bag of dried strips in his pouch for later. His second favorite food is dried, hard bread with the crust because it's chewy.
 
 ### Paranoia
-Ljörn has paranoia. He seems fine most of the time, but sometimes, it shows. He gets anxious when he's inside dark forests. If he sees corpses that look like they might wake up, he would freak out and leave the scene. He would avoid reading the story *Draugritt um minn Výss*, or any stories with undead in them. When looking at old weapons, especially rusted/deteriorated polearms, he would start breathing heavily.[^2]
+Ljörn has paranoia. He seems fine most of the time, but sometimes, it shows. He gets anxious when he's inside dark forests. If he sees corpses that look like they might wake up, he would freak out and leave the scene. He avoids reading the story *Draugritt um minn Výss*, or any stories with undead in them. When looking at old weapons, especially rusted/deteriorated polearms, he would start breathing heavily.[^2]
 
-Occasionally, Ljörn is reminded of his experience with Ingwaz and becomes paranoid, thinking Ingwaz might still be searching for him. He only calms down if he forgets about it. He will also calm down if he knows he's near a bundle of juniper needles[^3], but he'll still be thinking about it.
+Occasionally, Ljörn is reminded of his experience with Ingwaz and becomes paranoid, thinking Ingwaz might still be searching for him. He only calms down by forgetting it or knowing he's near a bundle of juniper needles[^3], though the thought still lingers.
 
-If confronted about his behavior, Ljörn would either try to dismiss it or not answer at all. Even though Alfrir only noticed his behaviour once, Ljörn told him not to worry about it.
+If confronted about his behavior, Ljörn would either try to dismiss it or not answer at all. Although Alfrir noticed his behavior only once, Ljörn told him not to worry.
 
 ### Rúna
 Ljörn visits Rúna once every day; he finds that when Rúna is there, he can relax a little despite his paranoia.
@@ -114,5 +114,5 @@ Ljörn knows how to play Rægatafl, a local board game.
 
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
-[^2]: Before his adventure, Ljörn knew the story told in *Draugritt um minn Výss*. One of the characters, Yngvarr, was killed by a draugr when he was knocked over and slashed. And during his trip to the castle ruin, Ljörn was knocked over and was almost killed by Ingwaz the Fiend, just like how Yngvarr was in the story. Then, when he and his accomplices fled, Ingwaz chased them. Ljörn only thought they lost the draugr when they camped in the forest, and it was quiet. That moment is where his odd behaviors come from.
+[^2]: Before his adventure, Ljörn knew the story told in *Draugritt um minn Výss*. Yngvarr, a character in the story, died when a draugr knock him over and slashed him. During Ljörn's trip to the castle ruin, Ingwaz knocked Ljörn over (like Yngvarr), and was almost killed. When he and his accomplices fled, Ingwaz chased them. Ljörn only thought they lost the draugr when they camped in the quiet forest. That moment is where his odd behaviors come from.
 [^3]: Juniper is a type of greater protection herb.
