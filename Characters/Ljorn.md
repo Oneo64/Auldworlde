@@ -99,7 +99,7 @@ Ljörn knows how to play Rægatafl, a local board game.
 
  - *Ljörn is wandering around Álahringr's streets when he passes by a house. There is an old Dane axe resting against the house walls. He glances at it. He stops breathing for a moment, and his heart rate goes up. He swears under his breath before quickly leaving the scene.*
 
-**A rare case when Ljörn admits his paranoia:**
+**A rare case when Ljörn "admits" his paranoia:**
 
  - **During a visit with Rúna, Ljörn found himself breathing heavily as he stared into the forest.**
  - **Rúna:** "Ljörn?"
@@ -108,9 +108,9 @@ Ljörn knows how to play Rægatafl, a local board game.
  - **Ljörn suddenly becomes aware of what he's doing.**
  - **Ljörn:** "Já?" *Yes?*
  - **Rúna:** "Þú var avíu sam það. Artú koðr?" *You're doing it again. Are you okay?*
- - **Ljörn:** "Ek... ek... ek svá summ þíng í skungritt." *I... I... I saw something in the forest.*
+ - **Ljörn:** "Ek... ek ött svá summ þíng í skungritt." *I... I just saw something in the forest.*
  - **Rúna looks into the forest, expecting to see something. But she doesn't.**
- - **Ljörn:** "Ek vigla at ybbask... um þaðþ" *I keep worrying about... that.*
+ - **Ljörn:** "Ybbask eigi." *Don't worry.*
 
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
