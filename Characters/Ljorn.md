@@ -49,7 +49,7 @@ Sometimes out of nowhere, Ljörn gets reminded of his experience with Ingwaz and
 If confronted about his behavior, Ljörn would dismiss it. Even though Alfrir only noticed his behaviour once, Ljörn told him not to worry about it.
 
 ### Rúna
-Rúna is like an emotional anchor to Ljörn. She keeps him from feeling anxious. When Ljörn visits her, he finds that he can relax a little, despite his paranoia.
+Ljörn visits Rúna once every day; he finds that when Rúna is there, he can relax a little despite his paranoia.
 
 ## Abilities
 ### Physicality
