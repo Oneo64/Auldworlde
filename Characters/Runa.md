@@ -4,7 +4,7 @@
 	<tr> <th colspan=2>Rúna</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
 	<tr> <td>Affiliation</td> <td>Oddarsveldi</td> </tr>
-	<tr> <td>Occupation</td> <td>Woodcarver, Merchant</td> </tr>
+	<tr> <td>Occupation</td> <td>Woodcarver</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>22</td> </tr>
 	<tr> <td>Birthday</td> <td>March 14, AD 951</td> </tr>
@@ -19,7 +19,7 @@
 	<tr> <td>Eye color</td> <td>Pale green</td> </tr>
 </tbody></table>
 
-Rúna is a woodcarver and a merchant who carves small things and sells them at the local marketplace. Rúna is friends with Yngvild, whom she has met since childhood.
+Rúna is a woodcarver who carves small things for her father to sell them at the local marketplace. Rúna is friends with Yngvild, whom she has met since childhood.
 
 Rúna can usually be found in her home making wood carvings, and would sometimes accompany Ljörn into the forest to explore and collect herbs.
 
@@ -64,28 +64,17 @@ Rúna is only fluent in Oddarish, as it's her native language. She has a minor u
 ### Veldismagn
 Rúna knows how to draw Veldismagn.
 
-## Goal
-"Ek vil at gera égvafus selingkónu. Ænn ek... ek vot eigi hvótasl."
-
-*Translation: "I want to be a successful merchant. Yet I... I don't know how."*
-
 ## Examples of Rúna's speech and reactions
 **Average interaction with a customer:**
 
- - **Merchant:** "Fine day, isn’t it? Haven’t seen you around. Looking for anything special?"
- - **Ljörn:** "Já. Ik finds hwetstone."
- - **Merchant:** "What did you say?"
- - **Ljörn:** "Hwetstone."
- - **Merchant:** "You mean whetstone? That will be two silvers."
- - **Ljörn hands the merchant two silver coins.**
- - **Ljörn:** "Here."
- - **The merchant takes the silver, and gives him a whetstone.**
- - **Ljörn:** "Sakka þik." *Sakka þik means "thank you" in Oddarish.*
- - **Merchant:** "What will you be using it for?"
- - **Ljörn:** "That are for mine sworð."
- - **The merchant nods.**
- - **Merchant:** "Good day to you then."
- - **Ljörn nods in return and leaves with the whetstone.**
+ - **It just finished snowing. Rúna is sitting at Njall's stand, temporarily taking over while her father is away gathering firewood for their home.**
+ - **A man in a cloak and embroidered clothing approaches Rúna.**
+ - **Customer:** "Góð dagr, fryja. Ek sve um þú haf kleindar?" *(Good day, madam. I see that you have plates?)*
+ - **Rúna looks up from the table to the customer.**
+ - **Rúna:** "Hm? Ó, ööö... j-já, þessir ar frá fírikr." *(Hm? Oh, umm... y-yes, they're made of fir wood.)*
+ - **Customer:** "Ah, vað máfarr fyrir önn?" *(Ah, how much is one?)*
+ - **Rúna:** "Þessi... þ-þessi fyrir tvúr svæðkúnnir, dan." *(It's... i-it's two silver coins, sir.)*
+ - **The customer takes two silver coins out of his coin purse. He slides them towards Rúna. They complete the transaction, and the customer walks away with the fir plate.**
 
 ## Notes
 [^1]: The first time Njall decided to sell one of Rúna's carvings, the buyer returned it and complained that it wasn't worth anything because it wasn't symmetrical.
