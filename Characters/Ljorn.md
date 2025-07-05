@@ -21,7 +21,7 @@
 
 Ljörn is a warrior who sometimes utilizes galdrastafir.
 
-When at work, Ljörn can be found at his house chopping firewood, checking his family's farm for weeds, or helping Alfrir and Ulfnir carry wood they felled back to their home. In his free time, he would play Plattrægnall with someone (mostly with Alfrir), or go into the forest to explore. 
+When at work, Ljörn chops firewood, checks his family's farm for weeds, or helps Alfrir and Ulfnir carry wood back home. In his free time, he plays Rægatafl with someone (mostly with Alfrir), goes into the forest to explore, or visits Rúna.
 
 ## Appearance
 Ljörn has long, dark blond hair has gentle but messy waves and is a little longer than shoulder length. He has a light stubble and fair skin. Often, his hair is pulled back and then secured by a cloth strip that he ties around his head. His eyes are hooded, downturned, and dark pale blue, making him seem sad or tired to many people. He stands at 5'9" and has an average build for a warrior.
@@ -33,7 +33,7 @@ When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dr
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield. He will also carry a tiny grimoire (about fifteen pages) and a piece of coal in the pouch.
 
 ## Personality
-Ljörn is reserved and slightly introverted. He doesn't speak much and prefers quiet and solitary areas, but he doesn't mind public spaces (or even crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn; he usually won't change his mind after making a decision.
+Ljörn is reserved and slightly introverted. He doesn't speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn; he usually won't change his mind after making a decision.
 
 To strangers, unless he is interacting with them, Ljörn acts uncaring and unassertive since he usually doesn't involve himself in things that don't concern him. For example, if a thief stole something from someone he doesn't know, he'll ignore the commotion.
 
