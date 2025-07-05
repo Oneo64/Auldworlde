@@ -46,7 +46,7 @@ Ljörn has paranoia. He seems fine most of the time, but sometimes, it shows. He
 
 Sometimes out of nowhere, Ljörn gets reminded of his experience with Ingwaz and becomes paranoid, thinking Ingwaz might still be searching for him. He only calms down if he forgets about it. He will also calm down if he knows he's near a bundle of juniper needles[^3], but he'll still be thinking about it.
 
-If confronted about his behavior, Ljörn would dismiss it. Even though Alfrir only noticed his behaviour once, Ljörn told him not to worry about it.
+If confronted about his behavior, even if it were Rúna (who knows about his paranoia), Ljörn would dismiss it. Even though Alfrir only noticed his behaviour once, Ljörn told him not to worry about it.
 
 ### Rúna
 Ljörn visits Rúna once every day; he finds that when Rúna is there, he can relax a little despite his paranoia.
