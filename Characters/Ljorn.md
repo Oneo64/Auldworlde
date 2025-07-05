@@ -33,9 +33,7 @@ When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dr
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield. He will also carry a tiny grimoire (about fifteen pages) and a piece of coal in the pouch.
 
 ## Personality
-Ljörn is reserved and slightly introverted. He doesn't speak much and prefers quiet and solitary areas, but he doesn't mind public spaces (or even crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn, he usually won't change his mind after making a decision. He also has a good survival instinct, which was shown during Ingwaz's attack.
-
-Ljörn has paranoia. He gets anxious when he's inside dark forests. If he sees corpses that look like they might wake up, he would freak out and leave the scene. He would avoid reading the story *Draugritt um minn Výss*, or any stories with undead in it.[^2] When looking at old weapons, especially rusted/deteriorated polearms, he would start breathing heavily.
+Ljörn is reserved and slightly introverted. He doesn't speak much and prefers quiet and solitary areas, but he doesn't mind public spaces (or even crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn; he usually won't change his mind after making a decision.
 
 To strangers, unless he is interacting with them, Ljörn acts uncaring and unassertive since he usually doesn't involve himself in things that don't concern him. For example, if a thief stole something from someone he doesn't know, he'll ignore the commotion.
 
@@ -43,9 +41,14 @@ When Ljörn gets frustrated, he quietly uses strong language under his breath, b
 
 Ljörn's favorite food is venison. He keeps a small bag of dried strips in his pouch for later. For some reason, his second favorite food is dried, hard bread with the crust. He says it's because it's chewy.
 
+### Paranoia
+Ljörn has paranoia. He seems fine most of the time, but sometimes, it shows. He gets anxious when he's inside dark forests. If he sees corpses that look like they might wake up, he would freak out and leave the scene. He would avoid reading the story *Draugritt um minn Výss*, or any stories with undead in them. When looking at old weapons, especially rusted/deteriorated polearms, he would start breathing heavily.[^2]
+
 ## Abilities
 ### Physicality
-Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure in the ruins of an old castle, where he fought a couple of draugar. But because he was shot in the shoulder with an arrow during a centaur raid, his left arm was weakened.
+Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure in the ruins of an old castle, where he fought a couple of draugar. He also has a good survival instinct, which was shown during Ingwaz's attack.
+
+Because Ljörn was shot in the shoulder with an arrow during a centaur raid, his left arm was weakened.
 
 ### Galdrastafir
 Ljörn has access to magical staves because of his grimoire. He usually has the grimoire open while he draws a stave because he doesn't bother to memorize them. He doesn't draw staves during combat for obvious reasons.
@@ -87,7 +90,7 @@ Ljörn knows how to play Rægatafl, a local board game.
 
 **Average reaction when seeing a rusty polearm:**
 
- - **Ljörn is wandering around Álahringr's streets when he passes by a house. There is an old Dane axe resting against the house walls. He glances at it. He stops breathing for a moment, and his heart rate goes up before he quickly leaves the scene.**
+ - *Ljörn is wandering around Álahringr's streets when he passes by a house. There is an old Dane axe resting against the house walls. He glances at it. He stops breathing for a moment, and his heart rate goes up. He swears under his breath before quickly leaving the scene.*
 
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
