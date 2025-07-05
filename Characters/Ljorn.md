@@ -24,7 +24,7 @@ Ljörn is a warrior who sometimes utilizes galdrastafir.
 When at work, Ljörn can be found at his house chopping firewood, checking his family's farm for weeds, or helping Alfrir and Ulfnir carry wood they felled back to their home. In his free time, he would play Plattrægnall with someone (mostly with Alfrir), or go into the forest to explore. 
 
 ## Appearance
-Ljörn is a warrior who sometimes utilizes galdrastafir. He stands at 5'9" and has an average build for a warrior. His long, dark blond hair has gentle but messy waves and is a little longer than shoulder length. He has a light stubble and fair skin. Often, his hair is pulled back and then secured by a cloth strip that he ties around his head. His eyes are hooded, downturned, and dark pale blue, making him seem sad or tired to many people.
+Ljörn has long, dark blond hair has gentle but messy waves and is a little longer than shoulder length. He has a light stubble and fair skin. Often, his hair is pulled back and then secured by a cloth strip that he ties around his head. His eyes are hooded, downturned, and dark pale blue, making him seem sad or tired to many people. He stands at 5'9" and has an average build for a warrior.
 
 ### Casual wear
 When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He has a baldric carrying a scabbard with a sword.[^1] On his belt, he has a leather pouch and a small seax under the sword baldric. Ljörn wears a necklace of an iron Talmundúr amulet.
@@ -103,14 +103,14 @@ Ljörn knows how to play Rægatafl, a local board game.
 
  - **During a visit with Rúna, Ljörn found himself breathing heavily as he stared into the forest.**
  - **Rúna:** "Ljörn?"
- - **Ljörn doesn't respond.**
+ - **Ljörn doesn't respond. He doesn't seem to hear her.**
  - **Rúna:** "Ljörn."
  - **Ljörn suddenly becomes aware of what he's doing.**
- - **Ljörn:** "Já?" *Yes?*
- - **Rúna:** "Þú var avíu sam það. Artú koðr?" *You're doing it again. Are you okay?*
- - **Ljörn:** "Ek... ek ött svá summ þíng í skungritt." *I... I just saw something in the forest.*
+ - **Ljörn:** "Já?" *(Yes?)*
+ - **Rúna:** "Þú var avíu sam það. Artú koðr?" *(You're doing it again. Are you okay?)*
+ - **Ljörn:** "Ek... ek ött svá summ þíng í skungritt." *(I... I just saw something in the forest.)*
  - **Rúna looks into the forest, expecting to see something. But she doesn't.**
- - **Ljörn:** "Ybbask eigi." *Don't worry.*
+ - **Ljörn:** "Ybbask eigi." *(Don't worry.)*
 
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
