@@ -37,10 +37,13 @@ Sometimes, when not doing anything or listening to someone talk, Rúna would spa
 
 Rúna's favorite food is roasted potatoes, especially those with salt. When she's nervous, she fidgets with the hem of her clothing.
 
-Rúna knows about Ljörn's paranoia.
-
 ### Secret
 Sometime in the past, when Dagnir was playing a jest on Rúna, he showed her a piece of paper on how to draw Veldismagn. Rúna was unnerved by how to make it, but she still hadn't forgotten it.[^2] Despite feeling uncomfortable, sometimes, she would use pig blood to draw them for protection.
+
+### Ljörn
+Rúna is noticeably kinder when in Ljörn's presence. Even though she finds his occasional stubbornness a little difficult, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
+
+Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn't answer her or dismisses her concern.
 
 ### Goals
 Rúna wants to become a successful merchant. She wants to expand her inventory, but she only feels confident selling kitchen utensils.
