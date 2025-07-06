@@ -65,16 +65,22 @@ Rúna is only fluent in Oddarish, as it's her native language. She has a minor u
 Rúna knows how to draw Veldismagn.
 
 ## Examples of Rúna's speech and reactions
-**Average interaction with a customer:**
+**Average interaction with a merchant:**
 
- - **It just finished snowing. Rúna is sitting at Njall's stand, temporarily taking over while her father is away gathering firewood for their home.**
- - **A man in a cloak and embroidered clothing approaches Rúna.**
- - **Customer:** "Góð dagr, fryja. Ek sve um þú haf kleindar?" *(Good day, madam. I see that you have plates?)*
- - **Rúna looks up from the table to the customer.**
- - **Rúna:** "Hm? Ó, ööö... j-já, þessir ar frá fírikr." *(Hm? Oh, umm... y-yes, they're made of fir wood.)*
- - **Customer:** "Ah, vað máfarr fyrir önn?" *(Ah, how much is one?)*
- - **Rúna:** "Þessi... þ-þessi fyrir tvúr svæðkúnnir, dan." *(It's... i-it's two silver coins, sir.)*
- - **The customer takes two silver coins out of his coin purse. He slides them towards Rúna. They complete the transaction, and the customer walks away with the fir plate.**
+ - **Rúna walks on the local market street, looking for ginger. She finds a stand by a short woman, with an assortment of herbs laid out on the table. She stops by the stand.**
+ - **Seller:** "Vorna summ, kæri?" *(Need something, dear?)*
+ - **Rúna:** "Ött... færr zin. Fyrir tyður." *(Just... a bit of ginger. For aches.)*
+ - **The seller nods and gestures towards a pile of ginger.**
+ - **Seller:** "Þessir ar frá útlandr, svo þessir mændu ar lítt grípligt. Átt kúnnir." *(They're imported, so it they might be a little expensive. Eight coins.)*
+ - **Rúna:** "Hvöð-" *(Wait-)*
+ - **Rúna opens her coin purse and takes out eight coins, leaving the bag empty. She gives them to the seller and receives a root of ginger.**
+ - **Seller:** "Finnligt mótullhnititt. Ar það fángva?" *(Nice cloak pin. Is it bronze?)*
+ - **Rúna flusters lightly at the unexpected comment.**
+ - **Rúna:** "J-já. Það... það ar frá minn ellrimöðriss." *(Y-yes. It's... it's from my grandmother.)*
+ - **Seller:** "Það hem nýtr fyrir þinn." *(It suits you well.)*
+ - **Rúna's voice drops to a mutter.**
+ - **Rúna:** "Sakka þik." *(Thank you.)*
+ - **Rúna turns and leaves the seller's stand.**
 
 ## Notes
 [^1]: The first time Njall decided to sell one of Rúna's carvings, the buyer returned it and complained that it wasn't worth anything because it wasn't symmetrical.
