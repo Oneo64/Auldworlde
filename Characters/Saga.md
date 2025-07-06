@@ -33,7 +33,11 @@ Sága likes to tell stories, especially heroic sagas (hence her name) that she's
 
 Sometimes, Sága tries to be independent to prove her worth, even if whatever she's going to do would be considered reckless by many.
 
+### Seyja
 Sága sees Seyja as a role model and aspires to be as brave as her.
+
+### Ljörn
+Sága thinks Ljörn is bewitched.[^1]
 
 ## Abilities
 ### Physicality
@@ -47,3 +51,6 @@ Sága's native language is Oddarish.
 
 ### Hypnotism
 For some reason, Sága knows how to hypnotize a chicken.
+
+## Notes
+[^1]: Ljörn has PTSD.

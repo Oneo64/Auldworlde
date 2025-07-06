@@ -50,7 +50,9 @@ Rúna wants to become a successful merchant. She wants to expand her inventory, 
 
 ## Abilities
 ### Arts and Crafts
-Since Rúna is a woodcarver, she can carve small things such as spoons and animal figurines.
+Since Rúna is a woodcarver, she can carve wood into spoons, forks, animal figurines, or runesticks. Her figurine work isn't very detailed, but they're shapely enough to tell what they are.
+
+Rúna has a set of woodcarving tools, which help her shape and detail wood.
 
 ### Herbalism
 Rúna is a herbalist and can identify many common herbs that grow in the north.
