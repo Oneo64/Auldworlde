@@ -45,7 +45,7 @@ Rúna is noticeably kinder to Ljörn in his presence. Even though she finds his 
 
 Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn't answer her or dismisses her concern.
 
-Rúna would sometimes accidentally call Ljörn *kæri*.
+Rúna would sometimes accidentally call Ljörn *kæri*, then get embarrased when he notices.
 
 ### Goals
 Rúna wants to become a successful merchant. She wants to expand her inventory, but she only feels confident selling kitchen utensils.
