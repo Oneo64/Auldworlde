@@ -19,9 +19,7 @@
 	<tr> <td>Eye color</td> <td>Dark pale blue</td> </tr>
 </tbody></table>
 
-Ljörn is a warrior who sometimes utilizes galdrastafir.
-
-When at work, Ljörn chops firewood, checks his family's farm for weeds, or helps Alfrir and Ulfnir carry wood back home. In his free time, he plays Rægatafl with someone (mostly with Alfrir), goes into the forest to explore, or visits Rúna.
+Ljörn was a settler who traveled to a northern island under the command of Hjalvir.
 
 ## Appearance
 Ljörn has shoulder-length, dark blond hair with gentle but messy waves. His hair is pulled back and then secured by a cloth strip tied around his head. He has a light stubble and fair skin. His eyes are hooded, downturned, and dark pale blue, making him seem sad or tired to many people. He stands at 5'9" and has an average build for a warrior.
@@ -30,7 +28,7 @@ Ljörn has shoulder-length, dark blond hair with gentle but messy waves. His hai
 When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He wears a baldric scabbard with a sword.[^1] He has a leather pouch and a small seax on his belt. Ljörn wears a necklace of an iron Talmundúr amulet.
 
 ### Traveling
-When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield. He will also carry a tiny grimoire (about fifteen pages) and a piece of coal in the pouch.
+When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield.
 
 ## Personality
 Ljörn is reserved and slightly introverted. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn; he usually sticks to his decisions.
@@ -49,28 +47,16 @@ Occasionally, Ljörn is reminded of his experience with Ingwaz and becomes paran
 If confronted about his behavior, Ljörn would either try to dismiss it or not answer at all. Although Alfrir noticed his behavior only once, Ljörn told him not to worry.
 
 ### Rúna
-Ljörn visits Rúna once every day; he finds that when Rúna is there, he can relax a little despite his paranoia.
+Ljörn finds that when Rúna is there, he can relax a little despite his paranoia.
 
 ### Goals
-Ljörn wants to protect his family, and especially Rúna. He also wants to gain wealth. But sometimes his paranoia takes over, compelling him to avoid the trigger.
+Before Ljörn went on the journey to the new island, he wanted to protect his family. After landing on the new island, he had thoughts of taking the longship back to Álahringr.
 
 ## Abilities
 ### Physicality
 Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure in the ruins of an old castle, where he fought a couple of draugar. He also has a good survival instinct, which was shown during Ingwaz's attack.
 
 Because Ljörn was shot in the shoulder with an arrow during a centaur raid, his left arm was weakened.
-
-### Galdrastafir
-Ljörn has access to magical staves because of his grimoire. He usually has the grimoire open while he draws a stave because he doesn't bother to memorize them. He doesn't draw staves during combat for obvious reasons.
-
-**Galdrastafir**
-
- - Ægishjálmur
- - Gapaldur
- - Lesser Hagall
- - Repel Demons
- - Tóustefna
- - Vegvísir
 
 ### Language
 Ljörn's native language is Oddarish, but he can also speak Heorthlandic and Centrumic (English).

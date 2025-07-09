@@ -31,7 +31,7 @@ She carries around a plain 'staff', which is only a long straight branch.
 Elkfriða is pleasant yet energetic and has an optimistic view of the future. She likes to talk to people about things such as nature and sometimes about common gossip. However, she is easily distracted by anything to do with nature and is willing to take unnecessary risks.
 
 ## Abilities
-Many years ago, Elkfriða gained some experience from raiding a castle ruins with his brother and another two warriors from Álahringr. But despite their group facing two draugar, she didn't engage in combat.
+Many years ago, Elkfriða gained some experience from raiding a castle ruins with his brother and another three warriors from Álahringr. But despite their group facing two draugar, she didn't engage in combat.
 
 ### Druidry
 Elkfriða practices druidry.

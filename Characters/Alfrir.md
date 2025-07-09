@@ -18,9 +18,7 @@
 	<tr> <td>Eye color</td> <td>Dark blue</td> </tr>
 </tbody></table>
 
-Alfrir is a human born in Álahringr.
-
-He can be found at his house either checking his family's farm for weeds, practicing spears with Ulfnir, or playing Rægatafl with someone (probably with Ljörn). Sometimes he's in the forest with Ulfnir felling trees, or accompanying Ljörn for local exploration. 
+Alfrir is an explorer from Álahringr.
 
 ## Appearance
 Alfrir has fair skin which is slightly tanned, dark blue eyes, brown hair that goes all the way down to his armpits, and a stubble.
@@ -34,7 +32,7 @@ Alfrir can be described as a competitive warrior. He is also impulsive, sometime
 
 ## Abilities
 ### Physicality
-Alfrir has combat experience from raiding a castle ruins, fighting against couple of draugar. This raiding was with his brother Ljörn, and two other people (Baulnir and Elkfriða).
+Alfrir has combat experience from raiding a castle ruins, fighting against couple of draugar. This raiding was with his brother Ljörn, and three other people (Baulnir, Elkfriða, and Sága).
 
 He has six years worth of spear fighting practice, and makes him above average in combat with his spear. He usually likes to fight safely by keeping a distance with his shield in front of him, waiting for an opening to strike.
 

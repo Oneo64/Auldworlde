@@ -31,7 +31,7 @@ Baulnir is protective of his family and may feel protective of people he sees as
 
 ## Abilities
 ### Physicality
-Many years ago, he gained some experience from raiding a castle ruin with his sister and another two warriors from Álahringr. Later, he gained some more from defending his home village from a bandit raid.
+Many years ago, he gained some experience from raiding a castle ruin with his sister and another three warriors from Álahringr. Later, he gained some more from defending his home village from a bandit raid.
 
 He sports a sword and shield, since he practiced it over the past four years.
 
