@@ -14,7 +14,7 @@ A year later, Vatakond attacked Bantusaem, Centruma. But they couldn't get past 
 ## The second strike
 Many years have passed. The year is AD 940. King Alfþórr had passed away, and his son, Alfþórr II, took the crown. But now Oddarsveldi is prepared. After the campaign to destroy bandit camps, the king ordered the first invasion of Wulfscithia, but it failed.
 
-The year is now AD 972. Wulfscithia decided to begin their attack on Þuryngard, the capital of Oddarsveldi. But before they could reach the fortress, their army was intercepted by Oddarsveldi's army and quickly fled.
+The year is now AD 968. Wulfscithia decided to begin their attack on Þuryngard, the capital of Oddarsveldi. But before they could reach the fortress, their army was intercepted by Oddarsveldi's army and quickly fled.
 
 ### Pillaging of Álahringr
 At the same time, Vatakond raided Álahringr. During the invasion, one of the centaurs, named Shafklimper, tried to set fire to the community hall. The fire caught on the roof, but it couldn't spread well because of a windy day. The fire was quickly extinguished by one of the locals. Shafklimper galloped back to the centaur ranks, avoiding five arrows that were shot at him. Álahringr was half-ransacked.

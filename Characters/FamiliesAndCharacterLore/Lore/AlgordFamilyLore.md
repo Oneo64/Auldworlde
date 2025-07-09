@@ -49,7 +49,19 @@ Yngvild decided to go alone into the forest and returned without a scratch with 
 ### August
 While in the woods cutting a tree down, Alfrir and Ulfnir were almost crushed by a tree, but it was stopped by another tree. During this incident, Ulfnir was grazed by a falling fir cone. This resulted in a light, faint scar on his left brow ridge. Because of this, they were more cautious when felling trees.
 
-## Year 967
+## Year 968
+### September
+A group of centaurs from Vatakond raided Álahringr. Ljörn was at the local markets when this happened. As soon as he heard the war horns blaring from the watchtowers and the ringing of the community hall's bell, he turned and saw the centaur warriors galloping towards the village. He ran back to his home and alerted them all of the attack. His exact words were: "Alfrir! Föðr! Þrast þinn vapanar í núna! Einn tolaðingr!"
+
+Ljörn and Alfrir left the house, while the rest (except for Ulfnir and Algord) went to the community hall for shelter. Ulfnir and Algord were determined to guard their belongings, and Algord insisted that he could still fight well when Mifrún wanted him to retreat to the shelter. As the raid went on, a centaur broke down the door. He was wielding a longaxe and a longbow.
+
+Algord was the first to charge at the centaur, using a shield to knock the longaxe out of the way. Ulfnir stepped beside Algord, but he missed the centaur by a few inches. The centaur retreated but crashed into a pole of their home. Unfortunately, as Algord stepped closer to the centaur, the centaur slashed into Algord's rib with his axe. Ulfnir, he then took the chance and jumped at the centaur, cleaving his wood axe into the centaur's head.
+
+Meanwhile, the two were heading for the community hall. As they neared it, they were approached by another raider. Alfrir then did something stupid: he threw his spear at the centaur. Luckily for him, his spear struck the centaur. Ljörn then stepped in and finished it off with a poke to the centaur's face. Alfrir pulled his spear out of the centaur's corpse. Another approached them, and they killed that raider too. The two checked on one of their neighbors, Njall, and his family, who had already evacuated to the community hall.
+
+After leaving the community hall, they were attacked by two raiders. One of them had a sword and shield, the other had a bow and was already aiming at Ljörn, who raised his shield in defense. The arrow bounced off his helmet. They fought the one with the sword and injured him, but as he staggered back and collapsed on the ground, the bow-wielder shot Ljörn in his left shoulder. He sought shelter within the community hall, leaving Alfrir to take care of the attacker, and Alfrir stopped an arrow with his shield before poking the attacker with his spear to death.
+
+## Year 972
 ### July
 Ljörn and Alfrir go on their first adventure to explore the ruins of an ancient castle that had been spread by rumor. Ljörn had a spear and Alfrir had an axe. This castle ruin is located in the southwest peninsula of Herthland. Baulnir and Elkfriða go with them. During the exploration, they find a couple of draugar that attack the party while inside. After killing those two, Ljörn discovers an old scroll and keeps it. Alfrir finds a spear and a bronze ring, which he later gifted to Algord, their father.
 
@@ -69,27 +81,4 @@ When the two pass by Þuryngard Ring Fortress, Ljörn finds out the scroll is wr
 ### August
 When they returned, Ljörn commissioned Kolr to make him a sword. Alfrir also commissioned something for himself, which was a Gjermundbu helmet. After the return, Alfrir was determined to never be hit in the leg again, so from that on, he and Ulfnir began to spar with wooden poles as spears.
 
-
-## Year 971
-### July
-After transporting two barrels of fish from Óssvík to Álahringr, Þrein (father of Baulnir and Elkfriða) offered Alfrir to protect his karve for a week and watch over it at night and will pay him three coppers for every night watched (food is provided). Alfrir agrees and goes with him to guard over the karve.
-
-During his guarding, Alfrir caught two bandits skulking around looking to steal something. Alfrir attempted to chase after the bandits, but they disappeared into the forest. Þrein heard of this and decided to give five coppers instead of three after seeing the footprints of bare feet near the coast where his boat was.
-
-After a week, Alfrir returns home with the coppers Þrein promised.
-
-### August
-Ljörn lost his skill with axes in favor of his new sword.
-
-
-## Year 972
-### September
-A group of centaurs from Vatakond raided Álahringr. Ljörn was at the local markets when this happened. As soon as he heard the war horns blaring from the watchtowers and the ringing of the community hall's bell, he turned and saw the centaur warriors galloping towards the village. He ran back to his home and alerted them all of the attack. His exact words were: "Alfrir! Föðr! Þrast þinn vapanar í núna! Einn tolaðingr!"
-
-Ljörn and Alfrir left the house, while the rest (except for Ulfnir and Algord) went to the community hall for shelter. Ulfnir and Algord were determined to guard their belongings, and Algord insisted that he could still fight well when Mifrún wanted him to retreat to the shelter. As the raid went on, a centaur broke down the door. He was wielding a longaxe and a longbow.
-
-Algord was the first to charge at the centaur, using a shield to knock the longaxe out of the way. Ulfnir stepped beside Algord, but he missed the centaur by a few inches. The centaur retreated but crashed into a pole of their home. Unfortunately, as Algord stepped closer to the centaur, the centaur slashed into Algord's rib with his axe. Ulfnir, he then took the chance and jumped at the centaur, cleaving his wood axe into the centaur's head.
-
-Meanwhile, the two were heading for the community hall. As they neared it, they were approached by another raider. Alfrir then did something stupid: he threw his spear at the centaur. Luckily for him, his spear struck the centaur. Ljörn then stepped in and finished it off with a poke to the centaur's face. Alfrir pulled his spear out of the centaur's corpse. Another approached them, and they killed that raider too. The two checked on one of their neighbors, Njall, and his family, who had already evacuated to the community hall.
-
-After leaving the community hall, they were attacked by two raiders. One of them had a sword and shield, the other had a bow and was already aiming at Ljörn, who raised his shield in defense. The arrow bounced off his helmet. They fought the one with the sword and injured him, but as he staggered back and collapsed on the ground, the bow-wielder shot Ljörn in his left shoulder. He sought shelter within the community hall, leaving Alfrir to take care of the attacker, and Alfrir stopped an arrow with his shield before poking the attacker with his spear to death.
+Later, Ljörn lost his skill with axes in favor of his new sword.
