@@ -39,6 +39,9 @@ Sága sees Seyja as a role model and aspires to be as brave as her.
 ### Ljörn
 Sága thinks Ljörn is bewitched.[^1]
 
+### Voice
+Sága speaks in a story-like manner. She tries to speak confidently like Seyja, but this act drops when she's alone or with close ones. She tends to use the word *for* as a replacement for *as* or *because*.
+
 ## Abilities
 ### Physicality
 Sága sports a sword and shield, but isn't very good at it. She learned a move from her father, which is how to disarm someone with her weaponry.

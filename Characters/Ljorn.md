@@ -35,9 +35,14 @@ Ljörn is reserved and slightly introverted. He does not speak much and prefers 
 
 To strangers, Ljörn acts uncaring and unassertive, ignoring things that don't concern him. For example, if a thief stole something from someone he doesn't know, he'll ignore the commotion.
 
+Ljörn doesn't have a good self-esteem. When he receives a compliment, he tends to downplay it or mutter a thanks.
+
 When Ljörn gets frustrated, he quietly uses strong language under his breath, but he avoids using extreme insults or belittling.
 
 Ljörn's favorite food is venison. He keeps a small bag of dried strips in his pouch for later. His second favorite food is dried, hard bread with the crust because it's chewy.
+
+### Voice
+Ljörn doesn't speak much. When speaking to strangers, he tends to give one word answers. He speaks casually, and sometimes he would grumble or mumble answers.
 
 ### Paranoia
 Ljörn has paranoia. He seems fine most of the time, but sometimes, it shows. He gets anxious when he's inside dark forests. If he sees corpses that look like they might wake up, he would freak out and leave the scene. He avoids reading the story *Draugritt um minn Výss*, or any stories with undead in them. When looking at old weapons, especially rusted/deteriorated polearms, he would start breathing heavily.[^2]

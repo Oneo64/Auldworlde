@@ -1,54 +1,56 @@
-# Chapter 1: Sea Paranoia
-Two longboats had their full sails flapping, carried north by the strong wind. It was almost dusk, for they could tell by the bit of orange peeking through the cloudy sky. A man stood on the bow of one of these ships. He was accompanied by a shorter woman with a similar face, no doubt his daughter.
+# Chapter 1: Recuitment in the Village
+In a rugged meadow that bordered a forest, there was a village. This village was a big village, but smaller than a town. Houses were long, bearing warm tarf roofs and a small chimney on top. A river ran by the village, and a bridge connected the two sides of it. As peaceful as it seemed, two watchtowers stood near the forest, another one near the bridge.
 
-"Rain," the man muttered darkly. Smelling the air for an oceany scent was out of the question, but he could tell by how dark the clouds were.
+Sága went from door to door, looking to get the attention of their residents. Before her grandfather died, her father promised to bring a company of people to the new land.
 
-A blond man sat on his seat, boredly looking out into the ocean. He lowered his head, looking down at the amulet he wore. His fingers trembled slightly as he held the cold metallic symbol, hoping it would provide him with some protection. He tucked it back into his cloak, his hands relishing the warm wool.
+After her advertisement was rejected by the local rascal, she left the small shack and moved on to a rather well-looking longhouse. It was surrounded by a dead hedge enclosure, a dirt path leading to the door. This family's farms were located to the left, and a few cattle fenced to the right.
 
-He glanced at the stern, where a plank rested against the cargo. A black circular symbol drawn on its surface, which seemed to glow red in the shade. He knew that was the symbol of a Vegvísir. He heard that such a symbol wouldn't let any tempest deter them.
+She recognised this house. It belonged to Algord, whose sons went on an adventure to an ancient castle ruins. She heard the blond son came back a different man, cursed by a wraith.
 
-"Are you still thinking about Álahringr?" a low voice said behind him. The blond man turned around to see his brother leaning towards him, his voice almost drained by the wind. He could tell his brother was amused.
+She stopped in front of their door. She held her helmet close to her side, trying to look as presentable as possible. She reached out her free hand, and knocked on the door thrice.
 
-The blond man recalled two days ago when he was persuaded by his brother to join Hjalvir on a journey to a new land. Hjalvir was the explorer who proclaimed himself as the most successful explorer in the village. He remembered when Sága, the explorer's daughter, showed up at their doorstep to advertise the expedition. He remembered walking on the streets of Álahringr, overhearing her promoting him to her father, since she thought he would be a useful mentor on the supernatural. He wasn't.
+A man opened the door and stepped out. He must be the father, as he looked at least fifty. He looked at her and asked, "Who are you?"
 
-The blond man didn't respond for a moment. "Alfrir," he sighed. "I-"
+"Good day, I'm Sága. We are arranging a journey to the new land Agmundr found. Would you be intrested in...?"
 
-"I told you this land would be prosperous," said his brother, unintentionally cutting off the words of the blond man. "And they're going to Fjörðvík, father is. The war won't touch them there. You need not worry about them."
+"Agmundr? The explorer who claimed to have found land in the north?"
 
-The blond man let out a breath. He turned away. He could still feel that annoying sensation of dampness in his socks. "How long do you suppose this traveling will last?" he complained.
+"Yes," Sága confirmed. "My father is arranging it. And he's already gathered twenty!"
 
-"The explorers took three days," his brother answered.
+"Why should I send my sons on your journey? I would rather them be successful, here in Álahringr, than live on some island." the man said. He didn't trust Sága nor her father. In fact, he didn't trust a lot of people in the village.
 
-This was the last day he had to spend on this longboat. The blond man allowed a small smile on his face.
+"Wulfscithia won't bother them there," she responded. "I'm sure they will also find success there."
 
-His brother was about to speak. But before he could say anything, he was interrupted by Hjalvir, the man who stood on the bow. "The wind has dimmed!" he loudly remarked.
+For a moment, the man considered her offer. "I will talk to them about this."
 
-Both the blond man and his brother turned to face Hjalvir.
+"Thank you," she said. The man closed the door, and Sága slightly relaxed. She left the enclosure, satisfied.
 
-Hjalvir had short black hair that seemed to merge well with his beard, and a pair of pale green eyes that held a withering gaze. He was facing everyone; the men who sat on their seats, and the women who watched over the cargo.
+The fire was low when Algord sat at the head of their long table. "Alfrir. Ljörn. Sit down, please. Let Ulfnir help your mother serve." The two sons watched as their eldest son helped Mifrún bring bowls of stew to the table. Soon, they served themselves and sat in their seats. Algord nodded and they began to eat. Their meal was simple. It was a stew, made with several eggs and potatos. They ate quietly, the only sounds that were heard were the faint chewing and the flicker of the hearth's fire.
 
-"Right, all of you! Get yourself an oar and prepare rowing," he said with a commanding voice. He glanced down at the compass he held, slightly turned to the right, and pointed there. "Northeast," he added.
+Algord finished his meal first. He glanced across the table, watching his children finish. They were all well above twenty winters, and yet, still lived in the same house. "Alfrir. Ljörn." He said. "See me after dinner. I have news for both of you."
 
-The rowers stood from their seats to gather their oars. The blond man did the same. He sat back down and lowered the head of the oar into the water.
+They silently acknoledged his request.
 
-The blond man glanced at his own visage, wavering on the water surface. He took a good look at himself again, reminding himself he was still there. He was long-haired, colored more like old wheat than golden blond. His pale blue eyes were shaped like a droopy dry leaf, as if he hadn't had a good night's sleep in days. His nose wasn't straight either; rather, it was slightly hooked.
+After dinner ended, he sent his daughter and first-born son away to tend their cattle. Once they stepped out of the door, Algord looked to his youngest two sons. He called them to the back where unused things, kitchen utensils, and farming tools were stored. Alfrir and Ljörn followed him. They stopped in front of him, suspecting something was going on.
 
-Then, he thought he saw a shadow move in the water. His heart quickened, but he couldn't look away from the water. He saw a gnarly, deathly face rise from the water, like it was dead for at least a hundred years. The water started moving—no, the boat was moving.
+"I recieved an invitation from Hjalvir's daughter for a colonising company. Apparently, her father finally decided to act upon his grandfather and settle in his land. I believe this can help you to better start your lives."
 
-"Ljörn!"
+"What do you mean?" asked Ljörn, the older of the two.
 
-The blond man jumped, his trance instantly disappearing as he heard his brother call him.
+"This gives you a better oppritunity to live a better life. Don't you remember several winters ago? You were shot by an arrow. No one wants that to happen again."
 
-"What?" the blond man asked, his voice sharp yet soft. He was confused. He just noticed the other men were already rowing. "Oh, sorry," he apologised. He waited for the other men's next stroke and rowed his oar with them.
+Ljörn hesitated by the idea of leaving home to an unknown land. But Alfrir, the younget son, brightened up at the thought of adventure. "I will go," he said.
 
-An hour later, the clouds darkened. The winds started to pick up again. "Sails down!" Hjalvir ordered.
+"Good, I hoped you would," the father said. He turned to Ljörn, the other son. "You?"
 
-As Ljörn rested his hands and shoulders, he looked in the horizon to look for the new land his brother was hyped about. It appeared as a thick, dark line across the curves of Myrkjörðr. But before he could get a better look, a fog began to gather.
+"I... don't think-" he started, but was cut off by Alfrir.
+
+"Ljörn, think about it! We could become-"
+
+"Alfrir!" Algord raised his voice, shutting the son down. "Let your brother decide."
+
+Alfrir was quiet for a moment. He nodded.
+
+"Tomorrow you may come back and talk to me again," Algord said, glancing at Ljörn as he calmed back down. "Good night."
 
 
-
-Ljörn felt the first drops of rain. "Mmmh," he grumbled.
-
-It began to pour rain. Every time a raindrop hit the boat near the Vegvísir, it seemed to dry almost instantly. Soon, the water began to flood the ship.
-
-The crew members kept the boat from sinking, scooping up water with buckets and dumping it into the ocean. The waves were bigger now, but the Vegvísir seemed to keep them from sinking the ship.
