@@ -23,7 +23,7 @@ The blond man let out a breath. He turned away. He could still feel that annoyin
 
 Hearing this was the last day he would spend at sea, the blond man allowed a small smile on his face.
 
-His brother was about to speak. But before he could say anything, he was interrupted by Hjalvir, the man who stood on the bow. "The wind has dimmed!" he loudly remarked.
+His brother was about to speak. But before he could say anything, he was interrupted by Hjalvir, the man who stood on the bow. "The wind falters!" he loudly remarked.
 
 Both the blond man and his brother turned to face Hjalvir.
 
@@ -33,26 +33,30 @@ Hjalvir had short black hair that seemed to merge well with his beard, and a pai
 
 The rowers stood from their seats to gather their oars. The blond man did the same. He sat back down and lowered the head of the oar into the water.
 
-The blond man glanced at his own visage, wavering on the water surface. He took a good look at himself again, reminding himself he was still there. He was long-haired, coloured more like old wheat than golden blond. His pale blue eyes were shaped like a droopy dry leaf, as if he hadn't had a good night's sleep in days. His nose wasn't straight either; rather, it was slightly hooked.
+The blond man glanced at his own visage, wavering on the water surface. He took a good look at himself again, reminding himself he was still there. He was long-haired, coloured more like old wheat than golden blond. His pale blue eyes were shaped like a dry, droopy leaf, as if he hadn't had a good night's sleep in days. His nose wasn't straight either; rather, it was slightly hooked.
 
-Then, he thought he saw a shadow move in the water. His heart quickened, but he couldn't look away from the water. He saw a gnarly, deathly face rise from the water, like it was dead for at least a hundred years. The water started moving—no, the boat was moving.
+Then, he thought he saw a shadow move in the water. His heart quickened, but he couldn't look away from the water. He saw a gnarly, deathly face rise from the water, like it was dead for at least a hundred years. Then he saw it lift a blade, preparing to smite him down. The water started moving—no, the boat was moving.
 
 "Ljörn!"
 
 The blond man jumped, his trance instantly disappearing as he heard his brother call him.
 
-"What?" the blond man sharply asked. He was confused. He just noticed the other men were already rowing. "Oh, sorry," he apologised. He waited for the other men's next stroke and rowed his oar with them.
+"What?" the blond man sharply asked, his breath still ragged. He was confused. He just noticed the other men were already rowing. "Oh, sorry," he apologised. He waited for the other men's next stroke and rowed his oar with them.
 
 An hour later, the clouds darkened. The winds started to pick up again. "Sails down!" Hjalvir ordered.
 
 As Ljörn rested his hands and shoulders, he looked at the horizon for the new land his brother was hyped about. It appeared as a thick, dark line across the curves of Myrkjörðr. But before he could get a better look, a haze gathered and blurred the land into the ocean.
 
-Hjalvir called one of his men over. They talked in quiet voices. His assistant left the bow to the stern and opened it: salted fish.
+Hjalvir called one of his men over and talked in quiet voices. His assistant left the bow to the stern and opened it: dried, salted fish. He distributed the fish amongst them.
 
-<!--TODO!-->
+Ljörn was handed a fish. He turned to Alfrir, both with fish in hand.
 
-Ljörn felt the first drops of rain hit his nose. "Mmmh," he grumbled.
+"Cheers," Alfrir jested, making a small raising gesture with his fish. Ljörn mirrored his gesture. They silently ate.
 
-It began to pour rain. Every time a raindrop hit the boat near the Vegvísir, it seemed to dry almost instantly. Soon, the water began to flood the ship.
+As Ljörn finished his fish, he felt the first drops of rain hit his nose. "Mmmh," he grumbled.
 
-The crew members kept the boat from sinking, scooping up water with buckets and dumping it into the ocean. The waves were bigger now, but the Vegvísir seemed to keep them from sinking the ship.
+It began to rain. Every time a raindrop hit the boat near the Vegvísir, it seemed to dry almost instantly.
+
+Soon, the rain began pouring, water flooding the ship. The crew members kept the boat from sinking, scooping up water with buckets and dumping it into the ocean. The waves were bigger now, but the Vegvísir seemed to keep them from sinking the ship.
+
+The ship was hit by a wave, sending a splash of foam and water over the sailors. Hjalvir stumbled, but he wasn't one to fall. He looked to his daughter, who had to hold the side of the longboat to steady herself. "Come to the back," he said.

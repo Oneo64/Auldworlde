@@ -30,6 +30,14 @@ He wears a maille-less Gjermundbu helmet in combat. He has a spear, and a white 
 ## Personality
 Alfrir can be described as a competitive warrior. He is also impulsive, sometimes not thinking before acting out. He is also mindful of his surroundings, and is careful not to knock anything over or do anything clumsy. However, he can show cowardice to the unknown, to people with much more fighting power, or people with greater political power.
 
+Alfrir has a subtle sense of humor, yet his sense of humor only shows during hard times.
+
+### Voice
+"Ljörn, think about it! We could become-"
+"Hey. Are you still thinking about Álahringr?"
+"I told you this land would be prosperous. And they're going to Fjörðvík, father is. The war won't touch them there. You need not worry about them."
+"The explorers took three days, I heard."
+
 ## Abilities
 ### Physicality
 Alfrir has combat experience from raiding a castle ruins, fighting against couple of draugar. This raiding was with his brother Ljörn, and three other people (Baulnir, Elkfriða, and Sága).
