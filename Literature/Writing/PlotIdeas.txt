@@ -1,12 +1,22 @@
-Ljörn, a northman suffering from PTSD, is pressured by his brother Alfrir to join him in traveling to a new land to settle. After meeting the shore of the new land, the group must try to establish a farmstead without succumbing to the various threats that dwell there.
+A northman suffering from PTSD is pressured by his brother to join him in traveling to a new land to settle. After meeting the shore of the new land, he must overcome his disorders as they attempt to establish a farmstead without succumbing to the horrors that dwell there.
 
 ---
 
-They arrive at the land. A few hours after arrival, Hjalvir arranges an exploring team to explore the nearby forest. Ljörn, Alfrir, Ingólfr, Rúna, and Sága are arranged. Ljörn and Alfrir were chosen because of their experience with supernatural creatures, Ingólfr is to lead, Rúna to identify herbs, and Sága because she's Hjalvir's daughter.
+Sea Paranoia: Ljörn sails on the longboat. He begins to show subtle signs of PTSD.
 
 ---
 
-They are visited by a tribe of trolls. Hjalvir manages to make peace with them, and they trade items. But the trolls get angry when they offer metals. They leave the settlement.
+Old Halls: They arrive at the land. They seek shelter in the unfinished community hall that Agmundr built and stay for the night.
+
+---
+
+New fruit: In the morning, Hjalvir arranges an exploring team to explore the nearby forest. Ljörn, Alfrir, Ingólfr, Rúna, and Sága are arranged. Ljörn and Alfrir were chosen because of their experience with supernatural creatures, Ingólfr is to lead, Rúna to identify herbs, and Sága because she's Hjalvir's daughter. They discover crowberries, but don't know what it is.
+
+Ljörn gets his first PTSD attack after seeing a dead troll corpse alone. He makes his escape but gets lost.
+
+---
+
+Men of Stone: They are visited by a tribe of trolls. Hjalvir manages to make peace with them, and they trade items. But the trolls get angry when they offer metals. They leave the settlement.
 
 ---
 
@@ -15,3 +25,9 @@ The trolls eventually attack the settlement. They scare them away with superior 
 ---
 
 Ljörn is called again to another exploration team. They set out for the nearest mountain, looking for a rare herb.
+
+---
+
+---
+
+Ending: Ljörn kills a draugr and becomes Hjalvir's knight.

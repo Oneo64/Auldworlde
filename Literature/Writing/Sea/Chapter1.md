@@ -11,7 +11,9 @@ He glanced at the stern, where a plank rested against the cargo. A black circula
 
 "Hey. Are you still thinking about Álahringr?" a low voice said behind him. The blond man turned around to see his brother leaning towards him, his voice almost drained by the wind. He could tell his brother was amused.
 
-The blond man recalled two days ago when he was persuaded by his brother to join Hjalvir on a journey to a new land. Hjalvir was the explorer who proclaimed himself as the most successful explorer in the village. He remembered when Sága, the explorer's daughter, showed up at their doorstep to advertise the expedition. He remembered walking on the streets of Álahringr, overhearing her promoting him to her father, since she thought he would be a useful mentor, like a guidebook for the supernatural. He wasn't.
+The blond man remembered the time he promised himself never to embark upon another journey again. But the thought of war compelled him. He remembered, two days ago, when he was persuaded by his brother. Persuaded to join Hjalvir's colonising company.
+
+He remembered when Sága, the explorer's daughter, showed up at their doorstep to advertise the expedition. He remembered walking on the streets of Álahringr, overhearing her promoting him to her father, since she thought he would be a useful mentor, like a guidebook for the supernatural. He wasn't a good teacher.
 
 The blond man didn't respond for a moment. "Alfrir," he sighed, his voice low. "I-"
 
@@ -57,6 +59,12 @@ As Ljörn finished his fish, he felt the first drops of rain hit his nose. "Mmmh
 
 It began to rain. Every time a raindrop hit the boat near the Vegvísir, it seemed to dry almost instantly.
 
-Soon, the rain began pouring, water flooding the ship. The crew members kept the boat from sinking, scooping up water with buckets and dumping it into the ocean. The waves were bigger now, but the Vegvísir seemed to keep them from sinking the ship.
+Soon, the rain began pouring, water slowly flooding the ship. The crew members kept the boat from sinking, occasionally scooping up water with buckets and dumping it into the ocean. The waves were bigger now, but the Vegvísir seemed to keep them from sinking the ship.
 
-The ship was hit by a wave, sending a splash of foam and water over the sailors. Hjalvir stumbled, but he wasn't one to fall. He looked to his daughter, who had to hold the side of the longboat to steady herself. "Come to the back," he said.
+The ship was hit by a wave, sending a splash of foam and water over the sailors. Hjalvir stumbled, but he wasn't one to fall. He looked to his daughter, who had to hold the side of the longboat to steady herself. He cast a quick glance at their cargo. Luckily, they secured them with ropes. "Come to the back," he gruffly said to his daughter.
+
+Ljörn hugged his cloak like many others, as he watched Hjalvir and his daughter make their ways to the stern. His wavy hair became straight and wet, dripping at the ends like an improperly closed tap. It was miraculous he was still warm, thanks to his woollen garbs.
+
+He glanced at the ocean. Then, he saw the shadow again. Before he could see more, the rain got into his eyes. He blinked, broke eye contact, and turned back to his brother. "I... I saw something in the ocean!" He hurriedly said, gesturing at... nothing.
+
+Alfrir looked towards the ocean. Ljörn looked back to the ocean. He let out a breath he had been holding.

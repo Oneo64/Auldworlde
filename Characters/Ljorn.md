@@ -35,7 +35,7 @@ Ljörn is reserved and slightly introverted. He does not speak much and prefers 
 
 To strangers, Ljörn acts uncaring and unassertive, ignoring things that don't concern him. For example, if a thief stole something from someone he doesn't know, he'll ignore the commotion.
 
-Ljörn doesn't have a good self-esteem. When he receives a compliment, he tends to downplay it or mutter a thanks.
+Ljörn doesn't have a good self-esteem. When he receives a compliment, he tends to downplay it or mutter a thanks. He doesn't think he's a good teacher.
 
 When Ljörn gets frustrated, he quietly uses strong language under his breath, but he avoids using extreme insults or belittling.
 
