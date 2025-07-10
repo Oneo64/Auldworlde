@@ -1,7 +1,7 @@
 # Prologue
 In a rugged meadow that bordered a forest, there was a village. This village was big, yet smaller than a town. Houses were long, bearing warm turf roofs and a small chimney on top. Faint smoke flowed softly out of the chimney holes; it was only spring, and the snow had just melted, leaving behind dull grasslands and a few batches of petite white flowers. A river ran by the village, and a wooden bridge connected the two sides of it. As peaceful as it seemed, two watchtowers stood near the forest, another one near the bridge.
 
-Sága went from door to door, looking to get the attention of the residents. Before her grandfather died, her father promised to bring a company of people to the new land.
+Sága went from door to door, seeking to get the attention of the residents. Before her grandfather died, her father promised him to bring a company of people to the new land.
 
 After the local rascal rejected her advertisement, she left the small shack and moved on to a rather well-looking longhouse. It was surrounded by a dead hedge enclosure with a dirt path leading to the front door. This family's farms were located to the left, and a few cattle fenced to the right. She recognised this house. It belonged to Algord, whose sons went on an adventure to an ancient castle ruin. She heard the blond son came back a different man, cursed by a wraith.
 
@@ -9,15 +9,15 @@ She stopped at their door. She held her helmet close, trying to be as presentabl
 
 A man answered the door. He had bronze jewelry, his circlet holding his old blond hair away from his face. He must be the father for he seemed at least fifty. He asked, "Who are you?"
 
-"Good day, I'm Sága. We are arranging a journey to the new land Agmundr found. Would you be intrested in...?"
+"Good day, I'm Sága. We are arranging a journey to the new land Agmundr discovered. Agmundaland! Would you be interested in...?"
 
 "Agmundr? The explorer who claimed to have found land in the north?"
 
 "Yes," Sága confirmed. "My father is arranging it. And he's already gathered twenty!"
 
-"Why should I send my sons on your journey? I would rather them be successful, here in Álahringr, than live on some island," the man said, a hint of his glare in the way his eyes shone. He didn't trust Sága nor her father. In fact, he didn't trust many in the village, let alone allow them to take his sons to a foreign island!
+"Why should I send my sons on your journey? I would rather see them become successful, here in Álahringr, than live on some wild land," the man said, a hint of his glare in the way his eyes shone. He didn't trust Sága nor her father. In fact, he didn't trust many in the village, let alone to take his sons to a foreign island!
 
-"Wulfscithia won't bother them there," she responded. "I'm sure they will also find success on the island."
+"Our enemies won't bother them there," she responded. "I'm sure they will also find success on the land."
 
 For a moment, the man considered her offer. "I will talk to them about this. When will they leave?"
 
@@ -37,11 +37,11 @@ After dinner ended, he sent his daughter and first-born son away to tend their c
 
 "I recieved an invitation from Hjalvir's daughter for a colonising company. Apparently, her father finally decided to act upon his grandfather and settle in his land. I believe this can help you to better start your lives."
 
-"What do you mean?" asked Ljörn, the older of the two.
+"What do you mean?" Ljörn inquired, already unsure about joining the company.
 
-"This gives you a better oppritunity to live a better life. Don't you remember several winters ago? You were shot by an arrow. No one wants that to happen again."
+"This gives you a better opportunity to live a better life. Don't you remember several winters ago? You were shot by an arrow. No one wants that to happen again."
 
-Ljörn hesitated by the idea of leaving home to an unknown land. But Alfrir, the younget son, brightened up at the thought of adventure. "I will go," he said.
+Ljörn hesitated by the idea of leaving home to an unknown land. But Alfrir, the younger son, brightened up at the thought of adventure. "I will go," he said.
 
 "Good, I hoped you would," the father said. He turned to Ljörn, the other son. "You?"
 
@@ -54,19 +54,3 @@ Ljörn didn't think it was a good idea. "I... don't think-" he started, but was 
 Alfrir was quiet for a moment. He nodded, lowering his gaze a little.
 
 "Tomorrow you may come back and talk to me again," Algord said, glancing at Ljörn as he calmed back down. "Good night."
-
-The sun rose, casting the early golden light upon the village. Ljörn already finished his breakfast. He stood in front of the chopping block, his axe high in the air. A single log stood on the stump. He let it fall, splitting the log into two. He moved the firewood aside onto a small pile. He still remembered about the invitation they received yesterday, but he tried to keep his mind of it.
-
-The door to his home opened and Alfrir came out. "Ljörn," he called. "Did you eat dagmal?"
-
-"Yes." Ljörn lowered his axe and turned to face Alfrir.
-
-"I think you should come."
-
-There was an awkward silence. Ljörn glanced up at his brother's eyes. He thought he already told him he wasn't anticipating the trip. "Again? What about father? Ulfnir can't fight well."
-
-"Don't you think we should go? The lady promised success away from this war!"
-
-"No," he denied again.
-
-
