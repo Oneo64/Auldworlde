@@ -34,7 +34,7 @@
 	<tr> <td>F</td> <td>/f/</td> <td></td> </tr>
 	<tr> <td>G, GG</td> <td>/g/</td> <td>geta /'gɛtɑ/, beigg /bɛiːg/, byggja /'bygjɑ/</td> </tr>
 	<tr> <td>GJ</td> <td>/c/</td> <td>gjóðr /couːðr/</td> </tr>
-	<tr> <td>Á, Æ, É, I, Í, Ö, Ú, Y, Ý, or AU + G</td> <td>/ɣ/</td> <td>draugr /'drœyːɣr/</td> </tr>
+	<tr> <td>Á, Æ, É, I, Í, Ö, Ú, Y, Ý, or AU + G</td> <td>/ɣ/</td> <td>draugr /'drœyːɣr/, dega /'dɛːɣɑ/</td> </tr>
 	<tr> <td>H</td> <td>/h/</td> <td></td> </tr>
 	<tr> <td>J</td> <td>/j/</td> <td></td> </tr>
 	<tr> <td>K</td> <td>/k kʰ/</td> <td>kýr /kyɪːr/, kelfa /kʰɛlfɑ/</td> </tr>
