@@ -22,7 +22,7 @@
 	<tr> <td>É</td> <td>/jɛː/</td> <td></td> </tr>
 	<tr> <td>EI, EY</td> <td>/ɛiː/</td> <td></td> </tr>
 	<tr> <td>Ó</td> <td>/ouː/</td> <td></td> </tr>
-	<tr> <td>Ý</td> <td>/yɪː/</td> <td>kýr /kyɪːr/</td> </tr>
+	<tr> <td>Ý</td> <td>/yɪː/</td> <td>kýr /kʰyɪːr/</td> </tr>
 	<tr> <td>ÝJ</td> <td>/yː/</td> <td>nýjátr /'nyːjɑuːtr/</td> </tr>
 </tbody></table>
 
@@ -37,14 +37,14 @@
 	<tr> <td>Á, Æ, É, I, Í, Ö, Ú, Y, Ý, or AU + G</td> <td>/ɣ/</td> <td>draugr /'drœyːɣr/, dega /'dɛːɣɑ/</td> </tr>
 	<tr> <td>H</td> <td>/h/</td> <td></td> </tr>
 	<tr> <td>J</td> <td>/j/</td> <td></td> </tr>
-	<tr> <td>K</td> <td>/k kʰ/</td> <td>kýr /kyɪːr/, kelfa /kʰɛlfɑ/</td> </tr>
+	<tr> <td>K</td> <td>/k kʰ/</td> <td>kelfa /kʰɛlfɑ/, fnakr /fnɑkr/</td> </tr>
 	<tr> <td>L</td> <td>/l/</td> <td></td> </tr>
 	<tr> <td>M</td> <td>/m/</td> <td></td> </tr>
 	<tr> <td>N</td> <td>/n/</td> <td></td> </tr>
 	<tr> <td>P</td> <td>/p/</td> <td></td> </tr>
 	<tr> <td>R</td> <td>/r/</td> <td></td> </tr>
 	<tr> <td>S</td> <td>/s/</td> <td></td> </tr>
-	<tr> <td>T</td> <td>/t tʰ/</td> <td>tyð /tyð/, tundra /tʰʊndrɑ/</td> </tr>
+	<tr> <td>T</td> <td>/t tʰ/</td> <td> tundra /tʰʊndrɑ/, flattr /flɑtr/</td> </tr>
 	<tr> <td>V</td> <td>/ʋ/</td> <td></td> </tr>
 	<tr> <td>HV</td> <td>/ʍ/</td> <td></td> </tr>
 	<tr> <td>KV</td> <td>/kf/</td> <td></td> </tr>
