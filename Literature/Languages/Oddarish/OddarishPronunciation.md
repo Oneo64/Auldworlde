@@ -44,7 +44,7 @@
 	<tr> <td>P</td> <td>/p/</td> <td></td> </tr>
 	<tr> <td>R</td> <td>/r/</td> <td></td> </tr>
 	<tr> <td>S</td> <td>/s/</td> <td></td> </tr>
-	<tr> <td>T</td> <td>/t/</td> <td></td> </tr>
+	<tr> <td>T</td> <td>/t tʰ/</td> <td>tyð /tyð/, tundra /tʰʊndrɑ/</td> </tr>
 	<tr> <td>V</td> <td>/ʋ/</td> <td></td> </tr>
 	<tr> <td>HV</td> <td>/ʍ/</td> <td></td> </tr>
 	<tr> <td>KV</td> <td>/kf/</td> <td></td> </tr>
