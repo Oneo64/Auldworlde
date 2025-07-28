@@ -33,10 +33,11 @@
 	<tr> <td>Ð</td> <td>/ð/</td> <td></td> </tr>
 	<tr> <td>F</td> <td>/f/</td> <td></td> </tr>
 	<tr> <td>G, GG</td> <td>/g/</td> <td>geta /'gɛtɑ/, beigg /bɛiːg/</td> </tr>
+	<tr> <td>GJ</td> <td>/c/</td> <td>gjóðr /couːðr/</td> </tr>
 	<tr> <td>Á, Æ, É, I, Í, Ö, Ú, Y, Ý, or AU + G</td> <td>/ɣ/</td> <td>draugr /'drœːyɣr/</td> </tr>
 	<tr> <td>H</td> <td>/h/</td> <td></td> </tr>
 	<tr> <td>J</td> <td>/j/</td> <td></td> </tr>
-	<tr> <td>K</td> <td>/k/</td> <td></td> </tr>
+	<tr> <td>K</td> <td>/k kʰ/</td> <td>kýr /kyɪːr/, kelfa /kʰɛlfɑ/</td> </tr>
 	<tr> <td>L</td> <td>/l/</td> <td></td> </tr>
 	<tr> <td>M</td> <td>/m/</td> <td></td> </tr>
 	<tr> <td>N</td> <td>/n/</td> <td></td> </tr>
