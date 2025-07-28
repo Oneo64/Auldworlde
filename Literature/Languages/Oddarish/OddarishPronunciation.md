@@ -17,7 +17,7 @@
 <table><tbody>
 	<tr> <td>Á</td> <td>/ɑuː/</td> <td></td> </tr>
 	<tr> <td>Æ</td> <td>/aiː/</td> <td></td> </tr>
-	<tr> <td>AU</td> <td>/œːy/</td> <td></td> </tr>
+	<tr> <td>AU</td> <td>/œyː/</td> <td></td> </tr>
 	<tr> <td>ÁI</td> <td>/ɑiː/</td> <td></td> </tr>
 	<tr> <td>É</td> <td>/jɛː/</td> <td></td> </tr>
 	<tr> <td>EI, EY</td> <td>/ɛiː/</td> <td></td> </tr>
@@ -32,9 +32,9 @@
 	<tr> <td>D</td> <td>/d/</td> <td></td> </tr>
 	<tr> <td>Ð</td> <td>/ð/</td> <td></td> </tr>
 	<tr> <td>F</td> <td>/f/</td> <td></td> </tr>
-	<tr> <td>G, GG</td> <td>/g/</td> <td>geta /'gɛtɑ/, beigg /bɛiːg/</td> </tr>
+	<tr> <td>G, GG</td> <td>/g/</td> <td>geta /'gɛtɑ/, beigg /bɛiːg/, byggja /'bygjɑ/</td> </tr>
 	<tr> <td>GJ</td> <td>/c/</td> <td>gjóðr /couːðr/</td> </tr>
-	<tr> <td>Á, Æ, É, I, Í, Ö, Ú, Y, Ý, or AU + G</td> <td>/ɣ/</td> <td>draugr /'drœːyɣr/</td> </tr>
+	<tr> <td>Á, Æ, É, I, Í, Ö, Ú, Y, Ý, or AU + G</td> <td>/ɣ/</td> <td>draugr /'drœyːɣr/</td> </tr>
 	<tr> <td>H</td> <td>/h/</td> <td></td> </tr>
 	<tr> <td>J</td> <td>/j/</td> <td></td> </tr>
 	<tr> <td>K</td> <td>/k kʰ/</td> <td>kýr /kyɪːr/, kelfa /kʰɛlfɑ/</td> </tr>
