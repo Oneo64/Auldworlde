@@ -10,7 +10,7 @@
 	<tr> <td>Ö</td> <td>/œː/</td> </tr>
 	<tr> <td>U</td> <td>/ʊ/</td> </tr>
 	<tr> <td>Ú</td> <td>/uː/</td> </tr>
-	<tr> <td>Y</td> <td>/y/</td> </tr>
+	<tr> <td>Y</td> <td>/ʏ/</td> </tr>
 </tbody></table>
 
 ## Diphthongs
@@ -22,8 +22,7 @@
 	<tr> <td>É</td> <td>/jɛː/</td> <td></td> </tr>
 	<tr> <td>EI, EY</td> <td>/ɛiː/</td> <td></td> </tr>
 	<tr> <td>Ó</td> <td>/ouː/</td> <td></td> </tr>
-	<tr> <td>Ý</td> <td>/yɪː/</td> <td>kýr /kʰyɪːr/</td> </tr>
-	<tr> <td>ÝJ</td> <td>/yː/</td> <td>nýjátr /'nyːjɑuːtr/</td> </tr>
+	<tr> <td>Ý</td> <td>/yː/</td> <td>kýr /kʰyːr/</td> </tr>
 </tbody></table>
 
 ## Consonants
