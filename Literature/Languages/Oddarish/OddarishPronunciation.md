@@ -38,15 +38,19 @@
 	<tr> <td>J</td> <td>/j/</td> <td></td> </tr>
 	<tr> <td>K</td> <td>/k kʰ/</td> <td>kelfa /kʰɛlfɑ/, fnakr /fnɑkr/</td> </tr>
 	<tr> <td>L</td> <td>/l/</td> <td></td> </tr>
+	<tr> <td>HL</td> <td>/l̥/</td> <td>hlab /l̥ɑb/</td> </tr>
 	<tr> <td>M</td> <td>/m/</td> <td></td> </tr>
 	<tr> <td>N</td> <td>/n/</td> <td></td> </tr>
+	<tr> <td>HN</td> <td>/n̥/</td> <td>hnifr /n̥ɪfr/</td> </tr>
+	<tr> <td>NJ</td> <td>/ɲ/</td> <td>njágta /ɲɑuːgtɑ/</td> </tr>
 	<tr> <td>P</td> <td>/p/</td> <td></td> </tr>
 	<tr> <td>R</td> <td>/r/</td> <td></td> </tr>
+	<tr> <td>HR</td> <td>/r̥/</td> <td>hrafn /r̥ɑfn/</td> </tr>
 	<tr> <td>S</td> <td>/s/</td> <td></td> </tr>
 	<tr> <td>T</td> <td>/t tʰ/</td> <td> tundra /tʰʊndrɑ/, flattr /flɑtr/</td> </tr>
 	<tr> <td>V</td> <td>/ʋ/</td> <td></td> </tr>
 	<tr> <td>HV</td> <td>/ʍ/</td> <td></td> </tr>
-	<tr> <td>KV</td> <td>/kf/</td> <td></td> </tr>
+	<tr> <td>KV</td> <td>/kʋ/</td> <td></td> </tr>
 	<tr> <td>X</td> <td>/ks/</td> <td></td> </tr>
 	<tr> <td>Z</td> <td>/z/</td> <td></td> </tr>
 	<tr> <td>Þ</td> <td>/θ/</td> <td></td> </tr>
